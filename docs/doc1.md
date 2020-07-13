@@ -14,6 +14,8 @@ To serve as an example page when styling markdown based Docusaurus sites.
 
 # H1 - Daniela te iubesc - part1!
 
+# H1 - Daniela te iubesc - part2!
+
 
 # H1 - Create the best documentation
 
