@@ -1,6 +1,6 @@
 module.exports = {
-    title: 'My Site',
-    tagline: 'The tagline of my site',
+    title: 'Invăţarea uşoară a fizicii',
+    tagline: 'Invăţăm prin experimente',
     url: 'https://lucidumitru.github.io',
     baseUrl: '/invatare-usoara-fizica/',
     favicon: 'img/favicon.ico',
@@ -8,69 +8,57 @@ module.exports = {
     projectName: 'invatare-usoara-fizica', // Usually your repo name.
     themeConfig: {
         navbar: {
-            title: 'Invăţare uşoară la Fizică',
+            title: 'Invăţarea uşoară a fizicii',
             logo: {
                 alt: 'My Site Logo',
                 src: 'img/logo.svg',
             },
             links: [{
-                    to: 'docs/',
+                    to: 'docs/fizica/clasa6/fizica-clasa6-capitolul1-teorie',
                     activeBasePath: 'docs',
-                    label: 'Docs',
+                    label: 'Documentaţii',
                     position: 'left',
                 },
                 { to: 'blog', label: 'Blog', position: 'left' },
-                {
-                    href: 'https://github.com/facebook/docusaurus',
-                    label: 'GitHub',
-                    position: 'right',
-                },
             ],
         },
         footer: {
             style: 'dark',
             links: [{
-                    title: 'Docs',
+                    title: 'Documentaţii',
                     items: [{
-                            label: 'Style Guide',
-                            to: 'docs/',
+                            label: 'Invăţarea uşoară a fizicii',
+                            to: 'docs/fizica/clasa6/fizica-clasa6-capitolul1-teorie',
                         },
                         {
-                            label: 'Second Doc',
-                            to: 'docs/doc2/',
+                            label: 'Ghidul de fizică versus accidentări',
+                            to: 'docs/ghidul-de-fizica-versus-accidentari',
                         },
                     ],
                 },
                 {
-                    title: 'Community',
+                    title: 'Comunitate',
                     items: [{
-                            label: 'Stack Overflow',
-                            href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                            label: 'Facebook',
+                            href: 'https://www.facebook.com/danielaelena.dumitru.7',
                         },
                         {
-                            label: 'Discord',
-                            href: 'https://discordapp.com/invite/docusaurus',
-                        },
-                        {
-                            label: 'Twitter',
-                            href: 'https://twitter.com/docusaurus',
+                            label: 'Youtube',
+                            href: 'https://www.youtube.com/channel/UCCVEIyugABtorLa_FIEPazw?view_as=subscriber',
                         },
                     ],
                 },
                 {
-                    title: 'More',
+                    title: 'Extra',
                     items: [{
                             label: 'Blog',
                             to: 'blog',
                         },
-                        {
-                            label: 'GitHub',
-                            href: 'https://github.com/facebook/docusaurus',
-                        },
+
                     ],
                 },
             ],
-            copyright: `Copyright © ${new Date().getFullYear()} Dumitru Elena-Daniela: Invatare usoară la Fizica. Built with Docusaurus.`,
+            copyright: `Copyright © ${new Date().getFullYear()} Dumitru Elena-Daniela: Invatarea usoara a fizicii. Built with Docusaurus.`,
         },
     },
     presets: [

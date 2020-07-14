@@ -8,32 +8,29 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <>Easy to Use</>,
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    title: <>Compatibilitate 100% cu programa</>,
+    //imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    imageUrl: 'img/clipboard-list-svgrepo-com_ProgramaColor.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
       </>
     ),
   },
   {
-    title: <>Focus on What Matters</>,
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    title: <>Structurare logică a lecţiilor</>,
+    //imageUrl: 'img/undraw_docusaurus_tree.svg',
+    imageUrl: 'img/atoms-medical-svgrepo-com_StructurareLogica_Color.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
       </>
     ),
   },
   {
-    title: <>Powered by React</>,
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    title: <>Noţiuni fixate prin experimente</>,
+    //imageUrl: 'img/undraw_docusaurus_react.svg',
+    imageUrl: 'img/newtons-cradle-energy-svgrepo-com_ExperimenteFizica.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
       </>
     ),
   },
@@ -71,8 +68,8 @@ function Home() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to={useBaseUrl('docs/')}>
-              Get Started
+              to={useBaseUrl('docs/fizica/clasa6/fizica-clasa6-capitolul1-teorie')}>
+              Apasă aici ca să începi să înveţi
             </Link>
           </div>
         </div>
