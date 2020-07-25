@@ -6,37 +6,6 @@ tags: fizica invatare usoara
 ---
 
 
-// Add to the top of the file below the front matter.
- import useBaseUrl from '@docusaurus/useBaseUrl';
-
-...
-
-<img alt="Docusaurus with Keytar" src={useBaseUrl('img/docusaurus_keytar.svg')} />
-
-
-
-<Img src="chimie/clasa7/capitolul1/1_1_Eprubete_test-glass-157103_1280.jpg" />
-
-
-
-
-<div class="embedtool"><iframe src="https://www.youtube.com/embed/4DPrG6j3EEs" frameborder="0" allowfullscreen></iframe></div>
-
-
-**În curând**
-
-
-<div class="embedtool"><iframe src="https://www.youtube.com/embed/kqz3cPJgETs" frameborder="0" allowfullscreen></iframe></div>
-
-
-
-
-/ asta se adauga in css /
-
-/ .embedtool {position: relative;height: 0;padding-top: 56%;overflow: hidden;max-width: 100%;} .embedtool iframe, .embedtool object, .embedtool embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } .embedtool .fluid-vids {position: initial !important} /
-
-
-
 You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
 
 ## Markdown Syntax
