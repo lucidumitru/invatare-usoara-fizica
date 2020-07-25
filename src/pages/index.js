@@ -68,7 +68,7 @@ function Home() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to={useBaseUrl('docs/fizica/clasa6/fizica-clasa6-capitolul1-teorie')}>
+              to={useBaseUrl('docs/fizica/clasa6/fizica-clasa6-capitolul1')}>
               Apasă aici ca să începi să înveţi
             </Link>
           </div>

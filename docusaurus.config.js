@@ -14,7 +14,7 @@ module.exports = {
                 src: 'img/logo.svg',
             },
             links: [{
-                    to: 'docs/fizica/clasa6/fizica-clasa6-capitolul1-teorie',
+                    to: 'docs/fizica/clasa6/fizica-clasa6-capitolul1',
                     activeBasePath: 'docs',
                     label: 'Documentaţii',
                     position: 'left',
@@ -28,10 +28,10 @@ module.exports = {
                     title: 'Documentaţii',
                     items: [{
                             label: 'Invăţarea uşoară a fizicii',
-                            to: 'docs/fizica/clasa6/fizica-clasa6-capitolul1-teorie',
+                            to: 'docs/fizica/clasa6/fizica-clasa6-capitolul1',
                         },
                         {
-                            label: 'Ghidul de fizică versus accidentări',
+                            label: 'Ghidul de fizica',
                             to: 'docs/ghidul-de-fizica-versus-accidentari',
                         },
                     ],

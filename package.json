@@ -12,8 +12,13 @@
     "@docusaurus/core": "^2.0.0-alpha.58",
     "@docusaurus/preset-classic": "^2.0.0-alpha.58",
     "clsx": "^1.1.1",
+    "exenv": "^1.2.2",
+    "lodash": "^4.17.19",
     "react": "^16.8.4",
-    "react-dom": "^16.8.4"
+    "react-dom": "^16.8.4",
+    "react-image-lightbox": "^5.1.1",
+    "react-lifecycles-compat": "^3.0.4",
+    "react-modal": "^3.11.2"
   },
   "browserslist": {
     "production": [
@@ -26,5 +31,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "webpack": "^4.44.0"
   }
 }
