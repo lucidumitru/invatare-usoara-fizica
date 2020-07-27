@@ -68,6 +68,8 @@ Sigur ai foarte multe întrebări la care aștepți cu nerăbdare răspuns !
 ## I.3. La ce te ajută fizica ?
 
 
+:::note Observaţie
+
 Fizica te ajută:
 - **să înțelegi fenomenele din jurul tău** (vizibile sau invizibile);
 - **să înveți logic** (nu mecanic, ca un papagal);
@@ -76,14 +78,19 @@ Fizica te ajută:
 - **să extragi esențialul** dintr-un anumit material informativ.
  
 Cu alte cuvinte, **Fizica te face mai deștept**!
+:::
+
 
 
 ## I.4. Rolul activităţii practice în învăţarea fizicii.
+
+:::note Observaţie
 
 **Activitatea practică** se constituie ca unul din principalele instrumente ale cunoaşterii umane şi apare firesc, ca în **învăţarea fizicii, ştiinţă prin excelenţă experimentală**, aceasta să furnizeze cele mai potrivite dovezi pentru fundamentarea teoriei. 
 
 Învăţând fizica prin activitate experimentală va fi modul cel mai provocator şi interactiv, producându-ți o incitare permanentă şi o atitudine faţă de conţinutul lecţiilor, nu doar o asimilare pasivă de cunoştinţe.
 
+:::
 
 ## I.5. Experimentul.
 
@@ -93,10 +100,16 @@ Cu alte cuvinte, **Fizica te face mai deștept**!
 
 :::
 
+
+:::note Observaţie
 **Experimentul** serveşte simultan atât ca **sursă de cunoştinţe**, cât şi ca **metodă de învăţare**. 
 
 A experimenta înseamnă a provoca intenţionat anumite fenomene, în condiţii determinate, pentru studierea lor şi a legilor care le guvernează.
 
 **Observarea** și **măsurarea** sunt activități fundamentale în fizică. Pornind de la **observarea** unor fenomene din natură **se realizează experimente în laborator**, în cadrul cărora se fac **măsurători** cu scopul de a găsi **legile fizice și formulele matematice** care guvernează fenomenul studiat.
+
+:::
+
+
 
 

@@ -4,6 +4,35 @@ title: Style Guide
 sidebar_label: Style Guide
 ---
 
+
+
+
+### II.1.1.8. Multiplii unităților de măsură.
+
+**Multiplii unităților de măsură** - sunt mai mari decât unitatea respectivă de câte ori arată valoarea lor:
+
+
+| Denumire   | Simbol | Valoare |  Exemple                |
+| ---------- | :------ | :----- |:------------------------|
+| Deca       | da      | 10     | 5dam = 5∙10 = 50m       |
+| Hecto      | h       | 100    | 4hs = 4∙100 = 400s      |
+| Kilo       | k       | 1000   | 83kg = 83∙1000 = 83000g |
+
+### II.1.1.9. Submultiplii unităților de măsură. 
+
+**Submultiplii unităților de măsură** - sunt mai mici decât unitatea respectivă de câte ori arată valoarea lor:
+
+| Denumire   | Simbol | Valoare |  Exemple               |
+| ---------- | :----- | :----- |:------------------------|
+| Deci       | d      | <Img src="fizica/clasa6/capitolul2/2_11_90_1_SubmultipliiUnitatilorMasura_Deci_equation_vme_27072020_220858.svg" />     | 5dam = 5∙10 = 50m       |
+| Centi      | c      | <Img src="fizica/clasa6/capitolul2/2_11_90_2_SubmultipliiUnitatilorMasura_Centi_equation_vme_27072020_221120.svg" />    | 4hs = 4∙100 = 400s      |
+| Mili       | m      | <Img src="fizica/clasa6/capitolul2/2_11_90_3_SubmultipliiUnitatilorMasura_Mili_equation_vme_27072020_221304.svg" />   | 83kg = 83∙1000 = 83000g |
+
+
+
+
+
+
 You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
 
 ## Markdown Syntax
@@ -11,19 +40,6 @@ You can write content using [GitHub-flavored Markdown syntax](https://github.git
 To serve as an example page when styling markdown based Docusaurus sites.
 
 ## Headers
-
-# H1 - Daniela te iubesc - part1!
-
-# H1 - Daniela te iubesc - part2!
-
-# H1 - Daniela te iubesc - part3!
-
-# H1 - Daniela te iubesc - part4!
-
-# H1 - Daniela te iubesc - part5!
-
-# H1 - Daniela te iubesc - part6!
-
 
 # H1 - Create the best documentation
 
