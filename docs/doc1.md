@@ -32,6 +32,13 @@ sidebar_label: Style Guide
 
 
 
+Astăzi, pentru a avea o unitate de lungime internaţional valabilă, se foloseşte **metrul**. 
+
+**Metrul etalon** este confecţionat dintr-o riglă de platină şi iridiu, păstrat în condiţii speciale, ferit de umezeală şi diferenţe de temperatură, la **Biroul Internaţional de Măsuri şi Greutăţi** care se află la Sèvres (lângă Paris). Fiecare ţară posedă o copie a metrului etalon.
+
+<Img src="fizica/clasa6/capitolul2/2_210_1_MetrulEtalon.jpg" />
+
+
 
 You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
 

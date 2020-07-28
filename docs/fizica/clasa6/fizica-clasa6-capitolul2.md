@@ -8,7 +8,11 @@ import Img from '@site/src/components/Img'
 import Video from '@site/src/components/Video'
 
 
-## II.1.1. Mărimi fizice.
+## II.1. Mărimi fizice. Fenomene fizice.
+
+
+
+### II.1.1. Mărimi fizice.
 
 
 Natura este formată din corpuri. Banca, tabla, cartea, caietul, pietrele, Pământul, Luna, Soarele, casele, mașinile etc. **toate sunt corpuri**.
@@ -280,12 +284,6 @@ Pe parcursul studiului fizicii vei învăța multe mărimi fizice și unitățil
 <Img src="fizica/clasa6/capitolul2/2_11_90_1_MultipliiUnitatilorMasura.jpg" />
 
 
-| Denumire   | Simbol | Valoare |  Exemple                |
-| ---------- | :------ | :----- |:------------------------|
-| Deca       | da      | 10     | 5dam = 5∙10 = 50m       |
-| Hecto      | h       | 100    | 4hs = 4∙100 = 400s      |
-| Kilo       | k       | 1000   | 83kg = 83∙1000 = 83000g |
-
 ### II.1.1.9. Submultiplii unităților de măsură. 
 
 **Submultiplii unităților de măsură** - sunt mai mici decât unitatea respectivă de câte ori arată valoarea lor:
@@ -293,13 +291,169 @@ Pe parcursul studiului fizicii vei învăța multe mărimi fizice și unitățil
 <Img src="fizica/clasa6/capitolul2/2_11_90_2_SubmultipliiUnitatilorMasura.jpg" />
 
 
+:::note Observaţie
 
-| Denumire   | Simbol | Valoare |  Exemple               |
-| ---------- | :----- | :----- |:------------------------|
-| Deci       | d      | <Img src="fizica/clasa6/capitolul2/2_11_90_1_SubmultipliiUnitatilorMasura_Deci_equation_vme_27072020_220858.svg" />     |        |
-| Centi      | c      | <Img src="fizica/clasa6/capitolul2/2_11_90_2_SubmultipliiUnitatilorMasura_Centi_equation_vme_27072020_221120.svg" />    |       |
-| Mili       | m      | <Img src="fizica/clasa6/capitolul2/2_11_90_3_SubmultipliiUnitatilorMasura_Mili_equation_vme_27072020_221304.svg" />   |  |
+Când avem de transformat dintr-un submultiplu sau multiplu în unitatea de bază, copiem valoarea dată, apoi în loc de simbolul multiplului sau submultiplului înlocuim valoarea lui (preferabil sub formă de fracție, la submultiplii) și copiem unitatea rămasă (vezi exemplele din tabel). 
+
+Nu uitați, când avem un număr înmulțit cu 10, 100, 1000, ș.a.m.d., se mută virgula numărului spre dreapta peste atâtea cifre câte zerouri avem.
+
+**Exemplu:**
+0,7∙1000, mutăm virgula spre dreapta peste 3 cifre și în locurile libere punem zero.
+
+<Img src="fizica/clasa6/capitolul2/2_11_90_3_MutareVirgulaSpreDreapta.jpg" />
+
+Nu uitați, când avem un număr înpărțit la 10, 100, 1000, ș.a.m.d., se mută virgula numărului spre stânga peste atâtea cifre câte zerouri avem.
+
+**Exemplu:**
+43/1000 mutăm virgula spre stânga peste 3 cifre și în locurile libere punem zero.
+
+
+<Img src="fizica/clasa6/capitolul2/2_11_90_4_MutareVirgulaSpreStanga.jpg" />
+
+:::
+
+
+### II.1.1.10. Caracterizarea unei mărimi fizice.
+
+#### Pentru a caracteriza o mărime fizică trebuie să-i arătăm:
+
+- **Simbolul**
+- **Formula de definiţie sau de calcul** (există mărimi care nu au formulă şi care se determină numai în mod direct prin măsurare cu ajutorul unui instrument de măsură; de exemplu: lungimea, durata, temperatura, etc.)
+- **Unităţi de măsură** (cea fundamentală sau în Sistemul Internaţional şi cele derivate);
+- **Instrumente de măsură** (există un număr mic de mărimi pentru care nu există instrumente de măsură; ele se determină numai în mod indirect, prin calcul cu ajutorul unei formule; de exemplu, aria, puterea mecanică, căldura, etc.).
+
+
+
+### II.1.2. Fenomene fizice.
+
+:::important Definiţie
+
+**Un fenomen fizic** (proces fizic) se produce atunci când cel puțin una dintre proprietățile fizice ce caracterizează un corp se modifică în timp.
+
+:::
+
+
+:::note Observaţie
+
+În urma unui fenomen fizic, corpul nu își schimbă substanța. 
+
+:::
+
+
+
+#### Exemple de fenomene fizice:
+- **fierberea** apei (apa își schimbă starea de agregare, din lichidă în gazoasă);
+
+<Img src="fizica/clasa6/capitolul2/2_100_2_1_FierbereaApei.jpg" />
+
+
+- **mișcarea** corpurilor (schimbarea poziției unui corp față de altul);
+
+<Img src="fizica/clasa6/capitolul2/2_100_2_2_OameniInMiscare.jpg" />
+
+- **topirea** gheții (apa trece din starea solidă în starea lichidă);
+
+<Img src="fizica/clasa6/capitolul2/2_100_2_3_PaharApaCuGheata_vers2.jpg" />
+
+- **îndulcirea** apei prin amestecarea cu zahăr (apa își schimbă gustul);
+
+<Img src="fizica/clasa6/capitolul2/2_100_2_4_IndulcireaApei.jpg" />
+
+- **aprinderea** becului (filamentul se încălzește);
+
+<Img src="fizica/clasa6/capitolul2/2_100_2_5_BecAprins.jpg" />
+
+- **întinderea** unui arc, etc.
+
+<Img src="fizica/clasa6/capitolul2/2_100_2_6_ResortIntins.jpg" />
+
+
+
+### II.1.3. Aplică ce ai învăţat în legătură cu Mărimile fizice şi Fenomenele fizice.
+
+:::caution Temă
+
+**1.** Măsoară cu rigla sau ruleta înălțimea unui dulap și scrie rezultatul măsurătorii tale.
+
+:::
+
+
+:::caution Temă
+
+**2.** Transformă :
+
+a)	0,07 km = ? m
+
+b)	870 mg = ? g
+
+c)	0,4 cs = ? s
+
+:::
+
+
+
+:::caution Temă
+
+**3.** Ce fenomene fizice sunt redate în următoarele imagini (completează spațiile libere) ?
+
+:::
+
+
+
+#### II.1.3.3.1.  .................. unui balon
+
+<Img src="fizica/clasa6/capitolul2/2_133_1_UmflareaUnuiBalon.jpg" />
+
+
+
+#### II.1.3.3.2.  .................. unui arc
+
+
+<Img src="fizica/clasa6/capitolul2/2_133_2_ComprimareaUnuiArc.jpg" />
+
+
+
+#### II.1.3.3.3.  .................. apei din pahar
+
+<Img src="fizica/clasa6/capitolul2/2_133_3_ColorareaApeiDinPahar.jpg" />
+
+
+#### II.1.3.3.4.  .................. dintre doi magneţi
+
+<Img src="fizica/clasa6/capitolul2/2_133_4_AtractiaDintreDoiMagneti.jpg" />
 
 
 
 
+
+
+## II.2. Determinarea valorii unei mărimi fizice.
+
+### II.2.1. Măsurarea directă a lungimii.
+
+
+
+:::important
+
+#### Caracterizarea lungimii ca mărime fizică:
+
+#### •	Simbol: l
+#### •	Nu are formulă de calcul
+#### •	Unitatea de măsură în Sistemul Internațional: [ l]SI = m (metrul)
+#### •	Instrumente de măsură: riglă, ruletă, șubler, centimetrul de croitorie, metrul de tâmplărie, etc.
+
+:::
+
+
+
+Încă din cele mai vechi timpuri, omul a măsurat diferite lungimi folosind ca unităţi de măsură pasul, cotul, palma etc.
+
+<Img src="fizica/clasa6/capitolul2/2_210_1_MetrulEtalon_vers2.jpg" />
+
+
+
+
+
+#### Instrumente folosite pentru măsurarea lungimilor:
+
+<Img src="fizica/clasa6/capitolul2/2_210_2_InstrumentePentruMasurareaLungimii.jpg" />
