@@ -448,7 +448,7 @@ c)	0,4 cs = ? s
 
 Încă din cele mai vechi timpuri, omul a măsurat diferite lungimi folosind ca unităţi de măsură pasul, cotul, palma etc.
 
-<Img src="fizica/clasa6/capitolul2/2_210_1_MetrulEtalon_vers2.jpg" />
+<Img src="fizica/clasa6/capitolul2/2_210_1_MetrulEtalon.jpg" />
 
 
 
@@ -457,3 +457,519 @@ c)	0,4 cs = ? s
 #### Instrumente folosite pentru măsurarea lungimilor:
 
 <Img src="fizica/clasa6/capitolul2/2_210_2_InstrumentePentruMasurareaLungimii.jpg" />
+
+#### Măsurarea distanţei cu rigla:
+
+<Img src="fizica/clasa6/capitolul2/2_210_3_RegulaDeMasurareAUneiLungimi.jpg" />
+
+
+**Măsurarea distanțelor pe cale indirectă** se poate face pentru obiectele la care nu putem ajunge, pentru terenurile accidentate, mlăștinoase sau cele acoperite cu apă.
+
+Unele procedee folosite pentru măsurarea indirectă a lungimilor sunt procedee optice, legate de propagarea rectilinie a luminii. Citirea distanțelor se face pe un ecran digital: telemetru (cu rază laser), GPS.
+
+
+### II.2.1.1. Dimensiunile unui corp în spaţiu.
+
+<Img src="fizica/clasa6/capitolul2/2_210_4_DimensiunileUnuiCorp.jpg" />
+
+
+### II.2.1.2. Eroarea de măsură.
+
+
+:::important
+
+**Orice măsurătoare are o precizie limitată** și prin urmare apare noțiunea de **eroare de măsură**. 
+
+:::
+
+
+**Sursele de erori** pot fi:
+- **lipsa de precizie** a instrumentului de măsură;
+- **citirea incorectă** a indicațiilor instrumentului;
+- **lipsa de atenție** sau de îndemânare a celui care face măsurătorile;
+- **condiții de mediu nefavorabile** (iluminare necorespunzătoare, prea cald sau prea frig, stare de disconfort, etc. ).
+
+Dacă efectuăm măsurători de lungime cu o riglă, precizia măsurătorii nu poate depăși cea mai mică gradație a riglei - respectiv 1mm. 
+
+
+Deci, **eroarea de măsură datorată instrumentului folosit** este egală cu **cea mai mică diviziune a instrumentului**.
+
+#### Exemplu:
+
+La micrometru eroarea de măsură scade la 1 micron, adică o milionime metri ( 1/1000000).
+
+Existența unor erori de măsură în cazul determinărilor experimentale este normală, și pentru a se obține un rezultat cât mai apropiat de **valoarea adevărată a mărimii măsurate**, se repetă măsurătorile de mai multe ori și se prelucrează datele experimentale așa cum vă voi arăta în următorul experiment.
+
+
+
+:::tip Experiment
+
+**1.** Măsurarea lungimilor cu rigla.
+
+:::
+
+**Materiale necesare:**: Riglă gradată, creion.
+
+
+
+**Descrierea experimentului:** 
+- Pentru a măsura lungimea cărții de fizică folosește rigla gradată.
+- Măsoară de mai multe ori (cel puțin 3 ori) lungimea cărții de fizică, având grijă ca, de fiecare dată, să măsori corect.
+- Completează următorul tabel de date experimentale: tu vei trece determinările tale și vei urma pașii după modelul meu. Rezultatul tău nu trebuie să fie la fel cu al meu!
+
+
+<Img src="fizica/clasa6/capitolul2/2_210_5_TabelExperiment1.jpg" />
+
+
+
+- Prelucrează datelor experimentale.
+  - l este lungimea măsurată de minim trei ori. Eu am măsurat-o de patru ori, însă ultima valoare de 20cm am exclus-o, întrucât este departe de celelalte valori, fiind o greșeală grosolană.
+  - lm este lungimea medie, adică media aritmetică a celor trei lungimi măsurate. Dacă apar unele valori mult diferite de celelalte se scriu în tabel, dar se taie, ele reprezentând erori grosolane . Ele nu se iau în calculul lungimii medie . Media aritmetică este egală cu raportul dintre suma tuturor lungimilor și numărul de determinări . 
+  - Δ l este eroarea absolută, care se calculează prin diferența lungimii măsurate și a lungimii medie (cea mare minus cea mai mică): Δ l = l1 – lm sau Δ l = lm – l1.
+  - Δlm este eroarea medie absolută, care se calculează făcând media aritmetică a  erorilor  absolute.
+- După ce ai completat tabelul de date experimentale, trebuie să scrii rezultatul determinării, folosind același număr de zecimale pentru toate numerele. Vom scrie valorile cu două zecimale, prin rotunjire.
+
+
+
+:::important
+
+Rezultatul determinării = valoarea medie ± eroarea medie absolută
+
+l = l medie ± Δl medie
+
+:::
+
+Pentru exemplul nostru: L = 25,9 cm ± 0,06 cm.
+
+
+**Concluzia experimentului:** 
+- Acest rezultat indică faptul că valoarea reală este cuprinsă într-un interval:  25,9 cm – 0,06 cm ≤ l ≤ 25,9 cm + 0,06 cm
+- Deci, lungimea reală a cărții de fizică este : 25,84 cm ≤ l ≤  25,96 cm.
+
+
+:::caution Problemă model
+
+**1.** Florin dorește să determine valoarea reală a lungimii mesei din bucătărie. 
+
+În urma măsurătorilor a găsit următoarele valori : 1,5m; 1,46m; 1,6m ; 1,2m; 1,56m.  Cum a procedat el?
+
+:::
+
+
+- A calculat lm = lungimea medie, adică media aritmetică a celor patru lungimi măsurate. Valoarea 1,2m este mult diferită,  se taie și nu se ia în calculul lungimii medie, fiind o eroare grosolană.
+
+<Img src="fizica/clasa6/capitolul2/2_210_6_ProblemaModel1.jpg" />
+ 
+
+- A calculat pentru fiecare măsurătoare Δ l = eroarea absolută, care se calculează prin diferența lungimii măsurate și lungimea medie (cea mare minus cea mai mică); Δ l = l1 – lm sau Δ l = lm – l1.
+
+Δl1 = 1,53-1,5 = 0,03m
+
+Δl2 = 1,53-1,46 = 0,07m
+
+Δl3 = 1,6-1,53 = 0,07m
+
+Δl4 = 1,56-1,53 = 0,03m
+
+
+- A calculat Δlm = eroarea medie absolută, care se calculează făcând media aritmetică a celor patru erori absolute.
+
+<Img src="fizica/clasa6/capitolul2/2_210_7_ProblemaModel1.jpg" />
+
+- Florin a scris rezultatul determinării, folosind același număr de zecimale pentru toate numerele (valorile cu două zecimale, prin rotunjire).
+
+#### Rezultatul determinării = valoarea medie ± eroarea medie absolută
+
+#### l = lmedie ± Δlmedie  = 1,53 m ± 0,05 m.
+
+
+<br></br>
+<br></br>
+
+
+### II.2.1.3. Aplică ce ai învăţat în legătură cu Măsurarea directă a lungimii.
+
+:::caution Temă
+
+**1.** Care din următoarele afirmații sunt adevărate sau false și de ce ?
+
+:::
+
+
+a) 278 mm > 27,8 cm
+
+b) 0,066 km = 66 m
+
+c) 0,45 hm ≤ 7,9 dam
+
+d) 562 dam ≥ 3495 dm
+
+
+:::caution Temă
+
+**2.** După modelul Experimentului nr. 1, determină lățimea cărții de fizică.
+
+:::
+
+
+<br></br>
+
+:::caution Temă
+
+**3.** Maria a măsurat diametrul gurii paharului ei preferat și a găsit valorile: 6,5 cm; 6,4 cm; 6,6 cm; 6,3 cm; 5,2 cm; 6,9 cm.
+
+Foloseşte aceste valori și determină mărimea reală a diametrului paharului.
+
+
+:::
+
+
+<br></br>
+<br></br>
+
+
+
+### II.2.2. Măsurarea directă a ariei.
+
+
+
+**Aria unei suprafețe** arată cât de întinsă este acea suprafață.
+
+
+
+:::important
+
+#### Caracterizarea ariei ca mărime fizică:
+
+#### •	Simbol: S sau A
+#### •	Are formulă de calcul pentru fiecare suprafață regulată.
+#### •	Unitatea de măsură în Sistemul Internațional: [ S ] <sub>SI</sub> = m<sup>2</sup> (metrul pătrat=m.p.)  
+#### •	Instrumente de măsură: hârtia milimetrică.
+
+:::
+
+
+#### Se folosesc de asemenea multiplii și submultiplii metrului pătrat.
+
+
+
+:::note Observaţie
+Iată cum se realizează aceste transformări din multiplii și submultiplii m<sup>2</sup> în m<sup>2</sup>: 
+
+- Se scrie valoarea numerică și se deschide o paranteză, în care se scrie valoarea multiplului sau submultiplului dat, se închide paranteza și se ridică totul la puterea respectivă, adică la pătrat.
+- Se copiază din nou valoarea dată și se înmulțește cu valorile din paranteză ridicate la puterea a doua.
+- Se fac calculele matematice corespunzătoare și se dă rezultatul.
+
+:::
+
+
+
+#### Exemple de transformări din multiplii și submultiplii m<sup>2</sup> în m<sup>2</sup>:
+
+
+<Img src="fizica/clasa6/capitolul2/2_220_1_ExempleTransformariArie.jpg" />
+
+
+Măsurarea directă a ariei se face folosind **hârtia milimetrică**. Pe aceasta, sunt trasate linii verticale și orizontale subțiri, care delimitează pătrate cu latura de 1 mm și cu suprafața de 1 mm<sup>2</sup> și linii mai groase, care delimitează pătrate cu latura de 1 cm și cu suprafața de 1 cm<sup>2</sup>.
+
+
+
+
+:::tip Experiment
+
+**2.** Măsurarea directă a ariei unei frunze cu hârtie milimetrică.
+
+:::
+
+**Materiale necesare:**: Hărtie milimetrică, frunză, creion.
+
+
+
+**Descrierea experimentului:** 
+- Trasează pe hârtia milimetrică (poți folosi și foaie de matematică care au latura de 0,5cm și aria de 0,25cm<sup>2</sup>, dar rezultatul nu va fi unul prea precis) conturul frunzei (poți să îți alegi orice formă dorești, nu neapărat frunză).
+- Numără pătrățelele întregi cu aria de 1cm<sup>2</sup> (cele conturate cu marker albastru), apoi pe cele cu aria de 0,25 cm<sup>2</sup> (cele conturate cu galben), iar pe cele neîntregi grupează-le și aproximează-le ca pătrățele întregi cu aria de 0,25 cm<sup>2</sup>. Dacă ai răbdare, poți să nu mai aproximezi pătrățelele neîntregi și să numeri pătrățelele mici cu aria de 1mm<sup>2</sup> și numărul lor înmulțit cu 1mm<sup>2</sup> să îl transformi în cm<sup>2</sup>, prin împărțirea rezultatului la 100.
+- Pentru calcularea ariei frunzei (S), aplică formula : S =n∙Su , unde n = nr.pătrățele și Su = aria unității alese (ori 1cm<sup>2</sup> - cele mari, ori 0,25cm<sup>2</sup> - cele mai mici).
+- Trasează conturul frunzei pe altă hârtie milimetrică și repetă operațiile de mai sus, astfel încât să ai cel puțin trei valori ale ariei frunzei alese de tine.
+
+<Img src="fizica/clasa6/capitolul2/2_220_2_PozaExperimentArie.jpg" />
+
+
+<Img src="fizica/clasa6/capitolul2/2_220_3_Tabel1_ExperimentArie.jpg" />
+
+
+- Completează tabelul de date experimentale și prelucrează datele din tabel.
+
+
+:::important
+
+Rezultatul real al ariei frunzei : S = S<sub>medie</sub> ± ΔS<sub>medie</sub> .
+
+:::
+
+
+
+
+<Img src="fizica/clasa6/capitolul2/2_220_4_Tabel2_ExperimentArie.jpg" />
+
+
+**Concluzia experimentului:**
+
+Aria reală a frunzei este : S = S<sub>medie</sub> ± ΔS<sub>medie</sub> = 14,58 cm<sup>2</sup> ±  0,11cm<sup>2</sup>.
+
+
+
+<br></br>
+<br></br>
+
+
+### II.2.3. Determinarea indirectă a ariei.
+
+
+#### Măsurarea ariei prin metode indirecte, în cazul suprafețelor cu formă geometrică regulată, se face prin măsurarea dimensiunilor liniare și utilizând formule de calcul:
+
+- Pentru un **dreptunghi** (Dreptunghiul reprezintă un caz particular de paralelogram, care are toate unghiurile drepte), se măsoară  lungimea dreptunghiului  ( L = AB = CD )  și lățimea dreptunghiului ( l = AD = BC ) și apoi aplicăm formula de calcul: S = L ∙ l.
+
+<Img src="fizica/clasa6/capitolul2/2_230_1_PozaDreptunghi.jpg" />
+
+- Pentru un **pătrat** (Pătratul reprezintă un caz particular de dreptunghi, care are toate unghiurile drepte și toate cele patru laturi egale, notate cu l = latura pătratului = AB = BC = CD = AD )  se măsoară  latura acestuia și apoi aplicăm formula de calcul: S = l<sup>2</sup>.
+
+<Img src="fizica/clasa6/capitolul2/2_230_2_PozaPatrat.jpg" />
+
+
+- Pentru un **triunghi oarecare** (Triunghiul reprezintă un poligon format din trei laturi care se întâlnesc două câte două, formând trei unghiuri interne) se măsoară o latură a acestuia (a) și înălțimea ei  (h) și apoi aplicăm formula de calcul:
+
+
+<Img src="fizica/clasa6/capitolul2/2_230_3_FormulaTriunghi.jpg" />
+
+<Img src="fizica/clasa6/capitolul2/2_230_3_PozaTriunghi.jpg" />
+
+- Pentru un paralelogram (Paralelogramul reprezintă un patrulater care are laturile opuse paralele și egale) se măsoară lungimea paralelogramului ( b = L = AB = CD )  și înălțimea paralelogramului ( h = AF ) și apoi aplicăm formula de calcul: S = b ∙ h.
+
+
+<Img src="fizica/clasa6/capitolul2/2_230_4_PozaParalelogram.jpg" />
+
+
+:::note Observaţie
+
+Unități de măsură pentru aria suprafețelor de teren în agricultură folosite des sunt **1 ar** = **a** = **100 m²** (echivalent, cu aria unui pătrat cu latura de 10 m)  și **1 hectar** = **1 ha** = **100 ar**.
+
+:::
+ 
+ 
+
+
+
+:::caution Problemă model
+
+**1.** Un teren de tenis (dreptunghiular)  are o lungime de 2,377 dam și o lățime de 8230 mm pentru jocul de simplu. Calculează aria suprafeței dreptunghiului în m<sup>2</sup>.  
+
+:::
+
+
+
+- Notăm datele problemei și facem transformările mărimilor date în SI:
+
+<Img src="fizica/clasa6/capitolul2/2_230_5_ProblemaModelArie_Poza1.jpg" />
+
+
+- Aplicăm formula de calcul a ariei unui dreptunghi și înlocuim datele problemei. Întotdeauna să adaugi la rezultatul obținut unitatea de măsură.
+
+<Img src="fizica/clasa6/capitolul2/2_230_6_ProblemaModelArie_Poza2.jpg" /> 
+
+
+:::caution Problemă model
+
+**2.** Un triunghi oarecare are o latură de 0,008km și înălțimea corespunzătoare a acestei laturi este de 670cm. Află aria suprafeței acestui triunghi.  
+
+:::
+
+- Notăm datele problemei și facem transformările mărimilor date în SI:
+
+<Img src="fizica/clasa6/capitolul2/2_230_7_ProblemaModel2Arie_Poza1.jpg" />
+
+- Aplicăm formula de calcul a ariei unui triunghi  și înlocuim datele problemei. Întotdeauna să adaugi la rezultatul obținut unitatea de măsură m<sup>2</sup>.
+
+<Img src="fizica/clasa6/capitolul2/2_230_8_ProblemaModel2Arie_Poza2.jpg" />
+
+
+:::caution Problemă model
+
+**3.** Un triunghi oarecare are o latură de 0,008km și înălțimea corespunzătoare a acestei laturi este de 670cm. Află aria suprafeței acestui triunghi.  
+
+:::
+
+- Notăm datele problemei și facem transformările mărimilor date în SI:
+
+<Img src="fizica/clasa6/capitolul2/2_230_9_ProblemaModel3Arie_Poza1.jpg" />
+
+
+- Aplicăm formula de calcul a ariei unui dreptunghi și înlocuim datele problemei. Întotdeauna să adaugi la rezultatul obținut unitatea de măsură. 
+
+<Img src="fizica/clasa6/capitolul2/2_230_10_ProblemaModel3Arie_Poza2.jpg" />
+
+
+<br></br>
+<br></br>
+
+
+### II.2.2.3.1 Aplică ce ai învăţat în legătură cu Determinarea indirectă a ariei.
+
+:::caution Temă
+
+**1.** Determină  ariile celor trei suprafețe ale manualului de fizică prin măsurarea lungimii, lățimii și a înălțimii lui (lungimea reală ai măsurat-o la Experimentul 1, lățimea la Exercițiul 1 de la lecția: Măsurarea directă a lungimii și mai ai să măsori înălțimea lui).
+
+:::
+
+
+:::caution Temă
+
+**2.** Transformă :
+
+a) 520 cm<sup>2</sup> = ? m<sup>2</sup>
+
+b) 4,9 dam<sup>2</sup> = ? m<sup>2</sup>
+
+
+
+:::
+
+
+
+:::caution Temă
+
+**3.** Determină aria următorului contur: 
+
+:::
+
+
+<Img src="fizica/clasa6/capitolul2/2_230_11_Tema3_DeterminaAriaUrmatoruluiContur.jpg" />
+
+
+
+
+
+
+
+
+
+<br></br>
+<br></br>
+
+
+
+### II.2.4. Măsurarea directă a volumului.
+
+
+
+**Volumul unui corp** reprezintă locul ocupat de un corp în spațiu.
+
+
+
+:::important
+
+#### Caracterizarea volumului ca mărime fizică:
+
+#### •	Simbol:  V
+#### •	Are formulă de calcul pentru fiecare suprafață regulată.
+#### •	Unitatea de măsură în Sistemul Internațional: [ V ] <sub>SI</sub> = m<sup>3</sup> (metrul cub=m.c.).  
+#### •	Instrumente de măsură: cilindrul gradat (mensura).
+
+:::
+
+
+#### O  altă unitate de măsură pentru volum (capacitate) este litrul: 1 L = 1dm<sup>3</sup>.
+
+#### Se folosesc de asemenea multiplii și submultiplii metrului cub.
+
+
+
+:::note Observaţie
+Iată cum se realizează aceste tranformări din multiplii și submultiplii m<sup>3</sup> în m<sup>3</sup>: 
+
+- Se scrie valoarea numerică și se deschide o paranteză, în care se scrie valoarea multiplului sau submultiplului dat, se închide paranteza și se ridică totul la puterea respectivă, adică la cub.
+- Se copiază din nou valoarea dată și se înmulțește cu valorile din paranteză ridicate la puterea a treia.
+- Se fac calculele matematice corespunzătoare și se dă rezultatul.
+
+:::
+
+
+#### Exemple de transformări din multiplii și submultiplii m<sup>3</sup> sau ai litrului (L) în m<sup>3</sup>:
+
+
+<Img src="fizica/clasa6/capitolul2/2_240_1_ExempleTransformariVolum.jpg" />
+
+
+#### Pentru a realiza calcule cu transformări trebuie să cunoașteți valorile multiplilor și submultiplilor.
+
+#### De asemenea trebuie să știți foarte bine operațiile cu fracții:
+- Înmulțirea a două fracții se realizează înmulțind numărător (nr aflat pe linia de fracție) cu numărător și numitor cu numitor.
+- Împărțirea a două fracții se realizează înmulțind fracția de la numărător cu inversa (răsturnata) fracției de la numitor (fracția aflată sub linia de fracție) .
+
+
+
+
+
+
+
+:::tip Experiment
+
+**3.** Măsurarea volumului unui corp cu cilindrul gradat.
+
+:::
+
+**Materiale necesare:**: Cilindru gradat, apă, sfoară, un corp.
+
+
+
+**Descrierea experimentului:** 
+
+**1.** Prima etapă trebuie să determinăm volumul unei diviziuni = 1 div = volumul minim dintre două linii consecutive.  Privește cu atenție mensura și găsește  unitate de măsură a cilindrului folosit. Cum procedăm? 
+
+- Privește cu atenție gradațiile cilindrului și scade două gradații consecutive (una după alta) : 200cm<sup>3</sup> -180 cm<sup>3</sup> = 20 cm<sup>3</sup>
+- Numără câte diviziuni sunt între aceste notații : 10 diviziuni = 20 cm<sup>3</sup>
+- Cu regula de trei simplă, aflăm ce volum are o diviziune :
+
+<Img src="fizica/clasa6/capitolul2/2_240_2_Experiment3_Regula3Simpla.jpg" />
+
+
+**2.** Punem apă în cilindru și îi măsurăm volumul, notat cu V<sub>1</sub> = 200cm<sup>3</sup>. 
+
+<Img src="fizica/clasa6/capitolul2/2_240_3_Experiment3_Poza1.jpg" />
+
+ 
+**3.** Introducem corpul în apa din cilindru. Nivelul lichidului a crescut. Noul volum citit îl vom nota  V<sub>2</sub> = 210 cm<sup>3</sup>.
+ 
+**4**. Volumul corpului reprezintă diferența dintre V<sub>2</sub> (volum apă+corp) și V<sub>1</sub> (volumul  apei), adică : V<sub>corp</sub> = V<sub>2</sub> – V<sub>1</sub>.
+
+
+<Img src="fizica/clasa6/capitolul2/2_240_4_Experiment3_Poza2.jpg" />
+
+
+
+
+
+:::note Observaţie
+
+Mensura trebuie să stea pe osuprafață orizontală (pe masă).Suprafața liberă a lichidului este puțin curbată (numită menisc) – mai ridicată la contactul lichidului cu pereții mensurei. Poziționează ochii la nivelul suprafeței libere a lichidului și citește volumul de la baza acesteia.
+
+:::
+
+<br></br>
+
+
+**Concluzia experimentului:**
+
+
+**Volumul corpului** reprezintă diferența dintre V<sub>2</sub> (volum apă+corp) și V<sub>1</sub> (volumul  apei), adică : V<sub>corp</sub> = V<sub>2</sub> – V<sub>1</sub>.
+
+
+**V<sub>corp</sub>** = 210 cm<sup>3</sup>– 200 cm<sup>3</sup> = 10 cm<sup>3</sup>.
+
+
+
+
+<br></br>
+<br></br>
+
+
+

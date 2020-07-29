@@ -101,15 +101,4 @@ Cu alte cuvinte, **Fizica te face mai deștept**!
 :::
 
 
-:::note Observaţie
-**Experimentul** serveşte simultan atât ca **sursă de cunoştinţe**, cât şi ca **metodă de învăţare**. 
-
-A experimenta înseamnă a provoca intenţionat anumite fenomene, în condiţii determinate, pentru studierea lor şi a legilor care le guvernează.
-
-**Observarea** și **măsurarea** sunt activități fundamentale în fizică. Pornind de la **observarea** unor fenomene din natură **se realizează experimente în laborator**, în cadrul cărora se fac **măsurători** cu scopul de a găsi **legile fizice și formulele matematice** care guvernează fenomenul studiat.
-
-:::
-
-
-
 
