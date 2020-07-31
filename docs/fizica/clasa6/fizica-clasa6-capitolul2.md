@@ -120,8 +120,25 @@ De asemenea, **apa** dintr-o sticlă denumeşte un **corp** (forma sticlei), iar
 #### II.1.1.3.3. Corpurile se pot afla în una dintre stările de agregare:
 
 - **solidă**: formă proprie și volum propriu;
+
+<Video src="https://www.youtube.com/embed/VGMo2xNJB94" />
+
+<br></br>
+<br></br>
+
 - **lichidă**: nu are formă proprie (ia forma vasului) și volum propriu (adică 1Litru de apă dintr-o sticlă, ocupă tot 1litru într-o oală de 10L);
+
+<Video src="https://www.youtube.com/embed/lTY78tnOA14" />
+
+<br></br>
+<br></br>
+
 - **gazoasă**: nu are formă proprie (ia forma vasului) și nici volum propriu (ocupă tot volumul pus la dispoziție).
+
+<Video src="https://www.youtube.com/embed/4jCILtKkfpg" />
+
+<br></br>
+
 
 <Img src="fizica/clasa6/capitolul2/2_11_33_1_StarileDeAgregare.jpg" />
 
@@ -824,7 +841,7 @@ Unități de măsură pentru aria suprafețelor de teren în agricultură folosi
 <br></br>
 
 
-### II.2.2.3.1 Aplică ce ai învăţat în legătură cu Determinarea indirectă a ariei.
+### II.2.3.1 Aplică ce ai învăţat în legătură cu Determinarea indirectă a ariei.
 
 :::caution Temă
 
@@ -982,19 +999,267 @@ Mensura trebuie să stea pe o suprafață orizontală (pe masă). Suprafața lib
 **V<sub>corp</sub>** = 39 ml – 35 ml = 4 ml.
 
 
-
-
-
-
 <br></br>
 <br></br>
 
 
 
+### II.2.5. Măsurarea indirectă a volumului.
 
-**Pendulul gravitational**
+
+
+#### Măsurarea volumului prin metode indirecte, în cazul unor corpuri cu formă geometrică regulată, se face prin măsurarea dimensiunilor liniare și utilizarea formulelor de calcul (în clasa a VIIIa vei învăța și pentru alte corpuri geometrice formule de volum):
+
+- Pentru **paralelipiped** avem formula volumului :   V = S <sub>baza</sub> ∙ h =  L ∙ l ∙ h
+
+<Img src="fizica/clasa6/capitolul2/2_250_1_PozaParaleliped.jpg" />
+
+
+
+- Pentru **cub** avem formula  volumului :  V = ℓ <sup>3</sup>. **Cubul** este paralelipipedul dreptunghic cu toate muchiile egale. Fețele unui cub au formă de pătrat și sunt congruente.
+
+
+<Img src="fizica/clasa6/capitolul2/2_250_2_PozaCub.jpg" />
+
+
+
+:::caution Problemă model
+
+**1.** O cameră are lungimea de 0,06 hm, lățimea de 40 dm și înălțimea de 330 cm. Calculează volumul de aer din cameră exprimat în m<sup>3</sup>.
+  
+
+:::
+
+- Notăm datele problemei și facem transformările mărimilor date în SI:
+
+
+<Img src="fizica/clasa6/capitolul2/2_250_3_ProblemaModelVolum_Poza1.jpg" />
+
+
+- Aerul fiind gaz ocupă tot volumul camerei. Aplicăm formula de calcul a volumului unui paralelipiped și înlocuim datele problemei. Întotdeauna să adaugi la rezultatul obținut unitatea de măsură.
+
+<Img src="fizica/clasa6/capitolul2/2_250_4_ProblemaModelVolum_Poza2.jpg" />
+
+
+<br></br>
+
+
+:::caution Problemă model
+
+**2.** Într-o cafetieră turnăm 500cm3 de apă și preparăm cafeaua. Știind că o ceașcă de cafea are 150 mL, câte cafele ați făcut?
+  
+:::
+
+
+- Notăm datele problemei și facem transformările mărimilor date în SI:
+
+
+<Img src="fizica/clasa6/capitolul2/2_250_5_ProblemaModel2Volum_Poza1.jpg" />
+
+
+- Împărțim volumul cafetierei la volumul ceștii:
+
+
+
+
+<Img src="fizica/clasa6/capitolul2/2_250_6_ProblemaModel2Volum_Poza2.jpg" />
+
+
+
+<br></br>
+
+
+
+### II.2.5.1 Aplică ce ai învăţat în legătură cu Determinarea indirectă a volumului.
+
+:::caution Temă
+
+**1.** Determină volumul corpului din imaginea următoare, știind că în primul cilindru este pusă numai apă, iar în al doilea s-a adăugat în apă din primul cilindru, corpul al cărui volum trebuie să îl determini.
+
+:::
+
+
+<Img src="fizica/clasa6/capitolul2/2_250_7_Tema1_DeterminaVolumulCorpului.jpg" />
+
+
+
+
+:::caution Temă
+
+**2.** Un cub are latura de 5dm, iar un paralelipiped are următoarele dimensiuni 800mm; 0,04hm și 0,3 dam. Care dintre cele două corpuri are volumul mai mare ?
+
+
+:::
+
+
+
+
+
+
+
+
+
+
+
+
+### II.2.6. Măsurarea directă a intervalului de timp.
+
+
+
+**Intervalul de timp** reprezintă durata unui eveniment.
+
+
+
+:::important
+
+#### Caracterizarea timpului (durata unui eveniment) ca mărime fizică:
+
+#### •	Simbol:  t
+#### •	Nu  are formulă de calcul 
+#### •	Unitatea de măsură în Sistemul Internațional: [ t ] <sub>SI</sub> = s (secunda)
+#### •	Instrumente de măsură: ceasul, cronometrul, clepsidra, etc.
+
+:::
+
+
+
+
+
+#### Alte unități de măsură pentru timp sunt:
+- Minutul = 1 min = 60 s
+- Ora = 1 h = 60 min = 60 ∙ 60s = 3.600 s
+- Ziua = 24 h = 24 ∙ 3600 s = 86.400 s
+- Săptămâna = 7 zile = 7 ∙ 86400 s = 604.800 s
+- Luna = 30 zile = 30  ∙ 86400 s = 2.592.200 s
+- Anul = 365 zile = 365  ∙ 86400 s = 31.536.000 s
+
+
+:::note Observaţie
+
+Romanii numeau orele dinaintea amiezii **ante meridiem** (înainte de amiază), iar pe cele de după-amiază, **post meridiem**. Astăzi, acestea se prescurtează **a.m.** și **p.m.** și sunt folosite cu înțelesul de dimineață și după-amiază.
+
+Dacă folosești cronometrul electronic de la telefon, care măsoară și sutimile de secundă, atunci precizia acestuia a crescut la **0,01s**. În schimb, dacă folosești ceas cu secundar, precizia acestuia este mai mică și eroarea poate fi de **1s**.  
+
+:::
+
+:::tip Experiment
+
+**4.** Măsurarea perioadei unui pendul cu cronometru.
+
+:::
 
 
 <Video src="https://www.youtube.com/embed/3DwkOa10Gt4" />
+
+
+<br></br>
+
+**Materiale necesare:**: Bilă sau o piuliță,  fir de ață, cronometru (poți folosi telefonul).
+
+**Descrierea experimentului:** 
+
+- Ia un corp mic și greu (o bilă, o piuliță) și legă-l la capătul unui fir pentru a obține un pendul. Firul prinde-l de un suport orizontal (spre exemplu, de o masă).
+ 
+- Scoate  firul din poziția de echilibru (verticală) și ridică-l într-o parte. Apoi lasă-l liber și pendulul se va deplasa de o parte și de alta a acestei poziții, adică va începe să oscileze. Cronometrul se pornește odată cu lăsarea liberă a corpului.
+
+- Măsoară intervalul de timp (t) în care corpul revine de un număr n de ori în punctul A (n poate avea diferite valori: 3, 5, 8, 10, etc. - cât dorești).
+
+- Repetă operația de cel puțin 3 ori, dându-i lui n diferite valori.
+
+- Calculează perioada (T) = timpul în care corpul efectuează o oscilație completă, adică timpul în care pendulul a urcat în cealaltă parte și a revenit la poziția inițială (dus-întors). Dacă într-un timp t se efectuează n oscilații complete, atunci perioada (T) se calculează din relația: T = t/n 
+
+
+<Img src="fizica/clasa6/capitolul2/2_260_2_Experiment4_3Calcule.jpg" />
+
+- Completează un tabel de date experimentale de forma celui de mai jos.
+
+<Img src="fizica/clasa6/capitolul2/2_260_3_Experiment4_Tabel.jpg" />
+
+
+
+
+
+**Concluzia experimentului:**
+- Scrie rezultatul măsurătorilor: T = T<sub>mediu</sub> ± ΔT<sub>mediu</sub> = 1,73 ± 0,03(s)
+
+
+<br></br>
+<br></br>
+
+
+:::caution Problemă model
+
+**1.** Un film difuzat pe un post TV a început la ora 20:30 și s-a terminat la ora 22:20. Dacă el a fost întrerupt de patru secvențe de publicitate, fiecare de câte 8 minute, cât a durat filmul, exprimat în ore, minute  și secunde?
+  
+:::
+
+
+
+
+- Calculăm timpul de difuzare atât a filmului, cât și a publicității, scăzând ora de terminare din ora de începere a filmului : ca să scădem minutele , mă împrumut de la unitatea orelor cu o oră, adică 60 min și le adun la 20 min și zic 80 min – 30 min = 50 min. Apoi scad 21h – 20 h = 1h. Deci, 22: 20 – 20: 30 = 1h 50 min = t<sub>1</sub>.
+
+:::note Observaţie
+
+Dacă vi se pare prea complicat, puteți să plecați de la 20:30 până la 21 = 30 min, apoi până la 22:00 încă o oră (60 min) și încă 20 min până la 22:20. În total iese tot 1h și 50min.
+
+:::
+
+
+- Calculăm timpul calupurilor (secvențelor) de publicitate : t<sub>2</sub> = 4 ∙ 8 min = 32 min
+
+- Pentru a afla numai durata filmului scădem:
+
+<Img src="fizica/clasa6/capitolul2/2_260_4_ProblemaModel1_Formula1.jpg" />
+
+- Pentru a afla durata în ore transformăm 18min în h cu regula de 3 simplă:
+
+<Img src="fizica/clasa6/capitolul2/2_260_5_ProblemaModel1_Regula3Simpla.jpg" />
+
+
+
+
+
+<br></br>
+
+
+
+### II.2.6.1 Aplică ce ai învăţat în legătură cu Măsurarea directă a intervalului de timp.
+
+:::caution Temă
+
+**1.** Care dintre următoarele afirmații sunt adevărate, respectiv false și de ce?
+
+a) 650 cs = 6,5 s
+
+b) 1h 5min 40s > 80min 50s
+
+c) 5zile 3h 30min 20s < 4zile 25h 10min 10s
+
+d) 4,6hs =460s
+
+:::
+
+
+:::caution Temă
+
+**2.** Iulia a plecat de acasă la ora 7:20 și a ajuns la școală la 7:50. Știind că a avut 6 ore de curs, fiecare oră de 50 min cu pauză de 10 min și că pe drumul de întoarcere a făcut cu 15 min mai mult ca la venire, la ce oră a ajuns Iulia acasă?
+
+:::
+
+
+:::caution Temă
+
+**3.** Mihai a realizat experimentul nr 4 pentru a măsura perioada de oscilație a unui pendul. El a cronometrat durata în care pendulul a efectuat de fiecare dată câte 10 oscilații și le-a notat în următorul tabel :
+
+:::
+
+
+| Nr. det   | Durata măsurată pt 10 oscilații | 
+| --------- | :------ |
+| 1.        | 9,64    |
+| 2.        | 10,42   |
+| 3.        | 10, 27  |
+
+Calculează valoarea reală a perioadei pendulului din experimentul lui Mihai.
 
 
