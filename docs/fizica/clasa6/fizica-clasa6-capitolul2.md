@@ -508,6 +508,12 @@ Existența unor erori de măsură în cazul determinărilor experimentale este n
 
 :::
 
+
+<Video src="https://www.youtube.com/embed/vKSM056fiTU" />
+
+
+
+
 **Materiale necesare:**: Riglă gradată, creion.
 
 
@@ -680,6 +686,12 @@ Măsurarea directă a ariei se face folosind **hârtia milimetrică**. Pe aceast
 **2.** Măsurarea directă a ariei unei frunze cu hârtie milimetrică.
 
 :::
+
+
+
+<Video src="https://www.youtube.com/embed/b3smXeDNmZc" />
+
+
 
 **Materiale necesare:**: Hărtie milimetrică, frunză, creion.
 
@@ -917,6 +929,10 @@ Iată cum se realizează aceste tranformări din multiplii și submultiplii m<su
 
 :::
 
+
+<Video src="https://www.youtube.com/embed/enNZdK5iQeM" />
+
+
 **Materiale necesare:**: Cilindru gradat, apă, sfoară, un corp.
 
 
@@ -925,19 +941,19 @@ Iată cum se realizează aceste tranformări din multiplii și submultiplii m<su
 
 **1.** Prima etapă trebuie să determinăm volumul unei diviziuni = 1 div = volumul minim dintre două linii consecutive.  Privește cu atenție mensura și găsește  unitate de măsură a cilindrului folosit. Cum procedăm? 
 
-- Privește cu atenție gradațiile cilindrului și scade două gradații consecutive (una după alta) : 200cm<sup>3</sup> -180 cm<sup>3</sup> = 20 cm<sup>3</sup>
-- Numără câte diviziuni sunt între aceste notații : 10 diviziuni = 20 cm<sup>3</sup>
+- Privește cu atenție gradațiile cilindrului și scade două gradații consecutive (una după alta) : 50 ml - 40 ml = 10 ml
+- Numără câte diviziuni sunt între aceste notații : 10 diviziuni = 10 ml
 - Cu regula de trei simplă, aflăm ce volum are o diviziune :
 
 <Img src="fizica/clasa6/capitolul2/2_240_2_Experiment3_Regula3Simpla.jpg" />
 
 
-**2.** Punem apă în cilindru și îi măsurăm volumul, notat cu V<sub>1</sub> = 200cm<sup>3</sup>. 
+**2.** Punem apă în cilindru și îi măsurăm volumul, notat cu V<sub>1</sub> = 35ml. 
 
 <Img src="fizica/clasa6/capitolul2/2_240_3_Experiment3_Poza1.jpg" />
 
  
-**3.** Introducem corpul în apa din cilindru. Nivelul lichidului a crescut. Noul volum citit îl vom nota  V<sub>2</sub> = 210 cm<sup>3</sup>.
+**3.** Introducem corpul în apa din cilindru. Nivelul lichidului a crescut. Noul volum citit îl vom nota  V<sub>2</sub> = 39ml.
  
 **4**. Volumul corpului reprezintă diferența dintre V<sub>2</sub> (volum apă+corp) și V<sub>1</sub> (volumul  apei), adică : V<sub>corp</sub> = V<sub>2</sub> – V<sub>1</sub>.
 
@@ -950,7 +966,7 @@ Iată cum se realizează aceste tranformări din multiplii și submultiplii m<su
 
 :::note Observaţie
 
-Mensura trebuie să stea pe osuprafață orizontală (pe masă).Suprafața liberă a lichidului este puțin curbată (numită menisc) – mai ridicată la contactul lichidului cu pereții mensurei. Poziționează ochii la nivelul suprafeței libere a lichidului și citește volumul de la baza acesteia.
+Mensura trebuie să stea pe o suprafață orizontală (pe masă). Suprafața liberă a lichidului este puțin curbată (numită menisc) – mai ridicată la contactul lichidului cu pereții mensurei. Poziționează ochii la nivelul suprafeței libere a lichidului și citește volumul de la baza acesteia.
 
 :::
 
@@ -963,7 +979,9 @@ Mensura trebuie să stea pe osuprafață orizontală (pe masă).Suprafața liber
 **Volumul corpului** reprezintă diferența dintre V<sub>2</sub> (volum apă+corp) și V<sub>1</sub> (volumul  apei), adică : V<sub>corp</sub> = V<sub>2</sub> – V<sub>1</sub>.
 
 
-**V<sub>corp</sub>** = 210 cm<sup>3</sup>– 200 cm<sup>3</sup> = 10 cm<sup>3</sup>.
+**V<sub>corp</sub>** = 39 ml – 35 ml = 4 ml.
+
+
 
 
 
@@ -971,5 +989,12 @@ Mensura trebuie să stea pe osuprafață orizontală (pe masă).Suprafața liber
 <br></br>
 <br></br>
 
+
+
+
+**Pendulul gravitational**
+
+
+<Video src="https://www.youtube.com/embed/3DwkOa10Gt4" />
 
 
