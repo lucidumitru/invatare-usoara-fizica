@@ -13,5 +13,6 @@ module.exports = {
                ],
     'Ghidul de fizica': ['ghidul-de-fizica-versus-accidentari'],
     'Experimente distractive': ['experimente-distractive-fizica'],
+    'Blibliografie Fizică': ['bibliografie'],
   },
 };
