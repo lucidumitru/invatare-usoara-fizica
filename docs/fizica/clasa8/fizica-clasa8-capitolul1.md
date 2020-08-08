@@ -804,3 +804,365 @@ _Apa din flaconul negru are temperatura mai mare decât cea din flaconul alb._
 - Coada metalică a ibricului se încălzește prin ……………………………….
 - Apa din ibric se încălzește prin ……………………………………………..
 
+
+
+
+## I.5. Motorul termic. 
+
+Încă din veacul al doilea î.e.n., **Heron din Alexandria** cunoştea forţa de expansiune a vaporilor şi a construit chiar o turbină cu reacţie. Invenţia lui nu a avut succes datorită faptului că nu avea aplicaţii în practică.
+
+Abia în 1707, **Demis Papiui** construieşte o maşină cu vapori pe care o instalează pe o corabie. Principiul de funcţionare era următorul: apa fierbea într-un cazan închis şi vaporii treceau într-un cilindru care împingea un piston; mişcarea alternativă a pistonului era comandată manual prin deschiderea şi închiderea unor robinete.
+
+Mai târziu, în anul 1765, scoţianul **James Watt** perfecţionează motorul cu aburi, dându-i forma definitivă sub care funcţionează şi astăzi.	     
+
+Un alt  motor  termic este _motorul Diesel cu motorină_,  apărut în 1900,  în Germania şi a fost inventat de **Rudolf Diesel**.
+ 
+Invenția motorului cu ardere internă cu piston, în patru timpi, cu aprindere prin scânteie, pe scurt motorul pe benzină, este atribuita lui **Nicolaus Otto**. Pentru propulsarea autovehiculelor cu roți, se folosesc motoare cu ardere internă cu piston. Combustibilul arde în interiorul motorului și degajă căldură, care este transformată în lucru mecanic.
+
+
+
+:::important  Definiţie 
+
+**Motorul termic** este un sistem care transformă căldura primită, prin arderea unui combustibilul (benzina, motorina, gazul metan, etc.) în lucru mecanic.   
+
+:::
+
+
+Cuvântul _motor_ provine din limba latina și înseamnă “care produce miscare”.
+
+
+<Img src="fizica/clasa8/capitolul1/1_5_0_Poza1_Motorul-Termic.jpg" />
+
+
+
+:::important  Definiţie 
+
+**Randamentul motorului termic ( η )** este o mărime fizică egală cu raportul dintre lucrul mecanic efectuat de motor (L) și căldura primită (Q).   
+
+:::
+
+
+<Img src="fizica/clasa8/capitolul1/1_5_0_Poza2_FormulaRandamentuluiMotoruluiTermic.jpg" />
+
+
+:::note Observaţie
+
+Randamentul este o mărime adimensională (nu are unitate de măsură, deoarece J/J , se simplifică) și se exprimă sub formă de procente.  
+
+Motoarele cu benzina ating randamente de aproximativ 30%, in timp ce motoarele Diesel se bucura de eficienta de 40%. 
+
+:::
+
+
+
+## I.6. Coeficienți calorici.
+
+
+
+:::tip Experiment
+
+**12.** De cine depinde căldura absorbită de un corp ?
+
+
+:::
+
+
+
+
+<Video src="https://www.youtube.com/embed/a7OWO8CB2YM" />
+
+
+**Materiale necesare:**: două pahare Berzelius, apă rece de la robinet, spirtieră, sită de azbest, trepied, termometru, cronometru, ulei.
+
+
+#### A)	Care apă absorbe mai multă căldură, 50g  sau 100g?
+
+**Descrierea experimentului:** 
+- Pune într-un pahar 50g de apă și introdu în apă un termometru. Încălzește la flacăra unei spirtiere, apa prin intermediul sitei de azbest de pe trepied. 
+
+
+:::warning Atenţie
+
+Atenţie când lucrezi cu surse de foc! Fă experimentul numai în prezenţa unui părinte!
+
+:::
+
+- Cronometrează timpul în care 50g apă și-a mărit temperatura cu 10°C: t1 = 39 s.
+
+- Pune într-un pahar 100g de apă și introdu în apă un termometru. Încălzește la flacăra unei spirtiere, apa prin intermediul sitei de azbest de pe trepied. 
+- Cronometrează timpul în care 100g apa și-a mărit temperatura cu 10°C: t2 = 48,6 s.
+
+
+
+
+- Depinde căldura absorbită de masa corpului ?
+
+#### Cu cât tipul de încălzire este mai mare, cu atât și căldura absorbită este mai mare.
+
+
+
+:::note Observaţie
+
+_100g apă absoarbe mai multă căldură decât 50g apă._ 
+
+:::
+
+
+**Concluzia experimentului:**
+
+- Căldura primită/cedată de un corp în procesul de încălzire/răcire este direct proporțională cu  masa corpului  Q ~ m.
+
+
+
+
+
+#### B)	Depinde căldura absorbită de variația temperaturii?
+
+**Descrierea experimentului:** 
+
+- Cronometrează timpul în care 100g apa și-a mărit temperatura cu 20°C: t3 = 2min3s. Compară cu timpul în care tot 100g apă și-a mărit temperatura cu 10°C.
+
+- Depinde căldura absorbită de variația temperaturii corpului ?
+
+
+:::note Observaţie
+
+_100g apă absorbe mai multă căldură pentru a-și mări temperatura cu 20°C, decât 100g apă pentru a-și mări temperatura cu 10°C._ 
+
+:::
+
+
+**Concluzia experimentului:**
+
+- Căldura primită/cedată de un corp în procesul de încălzire/răcire este direct proporțională cu variația temperaturii corpului Q ~ ΔT.
+
+
+
+
+#### C)	Depinde căldura absorbită de substanța corpului ?
+
+**Descrierea experimentului:** 
+
+- Pune 100g ulei într-un pahar Berzelius și introdu în ulei termometru. 
+- Măsoară temperatura inițială a uleiului care trebuie să fie aceeași cu cea a apei (30°C).
+- Cronometrează timpul în care uleiul și-a mărit temperatura cu 20°C: t4 = 46,55 s. Compară cu timpul în care 100g apă și-a mărit temperatura cu 20°C.
+
+- Depinde căldura absorbită de substanța din care este alcătuită corpul ?
+
+
+:::note Observaţie
+
+_100g apă absorbe mai multă căldură decât 100g ulei, pentru a-și mări temperatura cu 20°C._ 
+
+:::
+
+
+**Concluzia experimentului:**
+
+- Căldura primită/cedată de un corp în procesul de încălzire/răcire  depinde de natura substanței. Deci , se poate defini o constantă de material numită căldură specifică, notată cu c.
+
+
+
+<Video src="https://www.youtube.com/embed/UxFlAVvUCAg" />
+
+
+
+#### Deci, căldura primită/cedată de un corp la încălzire/răcire depinde direct proporțional de trei factori, care apar în formula căldurii.
+
+
+
+:::important  Definiţie 
+
+**Căldura primită/ cedată de un corp(Q) în procesul de încălzire/ răcire are următoarea formulă:**
+
+**Q = m ∙ c ∙ ΔT**
+
+m = masa corpului	
+
+c = căldura specifică (constantă de material, specifică fiecărei substanțe)
+
+ΔT = variația temperaturii corpului (adică, cu cât crește/ scade temperatura lui)
+   
+
+:::
+
+
+
+
+:::important  Definiţie 
+Coeficienții calorici reprezintă mărimile fizice care caracterizează schimbul de căldură dintre sistemele termodinamice. 
+
+:::
+
+
+#### Printre cei mai importanți avem:
+- Căldura specifică (c);
+- Capacitatea calorică (C). 
+
+
+
+
+
+### I.6.1. Căldura specifică.
+
+:::important  Definiţie 
+
+**Căldura specifică(c)**  reprezintă mărimea fizică ce caracterizează căldura absorbită /cedată de 1kg de substanță pentru a-și mări /micșora temperatura cu un grad. 
+
+:::
+
+
+**Căldura specifică** este o constantă de material și o găsim în tabelul cu constante de la sfârșitul acestui capitol.
+
+<Img src="fizica/clasa8/capitolul1/1_6_1_Poza1_FormulaCalduriiSpecifice.jpg" />
+
+
+
+:::note Observaţie
+
+_Căldurile specifice pot avea valori diferite pentru aceași substanță dacă aceasta se găsește în stări de agregare diferite._
+
+c<sub>apă</sub> ≠ c<sub>gheaţă</sub>
+
+:::
+
+
+
+### I.6.2. Capacitatea calorică.
+
+:::important  Definiţie 
+
+**Capacitatea calorică (C)** – reprezintă mărimea fizică ce caracterizează cantitatea de căldură necesară sistemului termodinamic pentru a-și varia temperatura cu un grad. 
+
+:::
+
+
+**Căldura specifică** este o constantă de material și o găsim în tabelul cu constante de la sfârșitul acestui capitol.
+
+<Img src="fizica/clasa8/capitolul1/1_6_2_Poza1_FormulaCapacitatiiCalorice.jpg" />
+
+
+
+:::note Observaţie
+
+**Sistemul termodinamic** poate reprezenta un calorimetru sau un vas, în care schimbul de căldură este permis doar între corpurile introduse. Ea este înscrisă pe vasul respectiv la fabricația acestuia.
+
+:::
+
+
+<br></br>
+
+
+
+:::tip Experiment
+
+**13.** Calcularea căldurii specifice a unui corp solid.
+
+
+:::
+
+
+
+
+<Video src="https://www.youtube.com/embed/-CbMuZP8igA" />
+
+
+**Materiale necesare:** apă rece de la robinet, sită de azbest, stativ, trepied, termometru, calorimetru (vas care izolează termic corpurile din interiorul său de cele din exterior) , cilindru de cupru, pahar Berzelius, spirtieră, cârlig.
+
+
+:::warning Atenţie
+
+Atenţie când lucrezi cu surse de foc! Fă experimentul numai în prezenţa unui părinte!
+
+:::
+
+
+
+
+**Descrierea experimentului:** 
+- Măsoară cu cântarul, masa apei: m<sub>1</sub> = 100g = 0,1kg.
+- Măsoară cu termometrul, temperatura apei: t<sub>1</sub> = 30°C .
+- Măsoară cu cântarul, masa cilindrului de cupru: m<sub>2</sub> = 78 g = 0,078 kg
+- Încălzește apă într-un pahar Berzelius, cu ajutorul spirtierei, trepiedului cu sită.
+- În apa caldă, pune cilindrul de cupru și termometrul. Lasă-le câteva minute și apoi citește temperatura: t<sub>2</sub> = 90°C.
+- Pune în calorimetru apa rece cântărită.
+- Cu cârligul metalic ia corpul din pahar și pune-l rapid în apa din calorimetru.
+- Acoperă calorimetrul și agită ușor apa din el.
+- Urmărește indicațiile termometrului până când temperatura nu se mai modifică. Aceasta este temperatura de echilibru, notată cu t<sub>e</sub> = 35°C, care reprezintă temperatura finală pentru toate corpurile aflate în contact termic.
+
+
+:::note Observaţie
+
+_Apa rece va  primi căldură, iar cilindrul de cupru este corpul cald, care cedează căldură._ 
+
+:::
+
+
+- Neglijăm capacitatea calorică a calorimetrului, pentru simplificarea calculelor.
+- **Δt<sub>1</sub> =  t<sub>e</sub> – t<sub>1</sub>** = variația (creșterea) temperaturii apei (scădem temperatura finală din cea inițială).
+- **Δt<sub>2</sub> = t<sub>2</sub> – t<sub>e</sub>** = variația (scăderea) temperaturii cilindrului (scădem temperatura inițială din cea finală , astfel încât variația temperaturii să fie tot timpul pozitivă).
+- Scriem ecuația calorimetrică : **Q<sub>cedată</sub> = Q<sub>primită</sub>**
+
+
+Q<sub>primită</sub> = m<sub>1</sub> ∙ c<sub>1</sub> ∙ Δt<sub>1</sub> =  m<sub>1</sub> ∙ c<sub>1</sub> ∙ (t<sub>e</sub> – t<sub>1</sub>) 
+
+Q<sub>cedată</sub> = m<sub>2</sub> ∙ c<sub>2</sub> ∙ Δt<sub>2</sub> = m<sub>2</sub> ∙ c<sub>2</sub> ∙ (t<sub>2</sub> – t<sub>e</sub>)
+
+m<sub>1</sub> ∙ c<sub>1</sub> ∙ (t<sub>e</sub> – t<sub>1</sub>) =  m<sub>2</sub> ∙ c<sub>2</sub> ∙ (t<sub>2</sub> – t<sub>e</sub>)
+
+
+- Obţinem formula pentru determinarea căldurii specifice a cuprului: 
+
+
+<Img src="fizica/clasa8/capitolul1/1_6_2_Poza2_FormulaCalduraSpecificaCupru.jpg" />
+
+- Înlocuim în formulă valorile din experimentul nostru:
+
+<Img src="fizica/clasa8/capitolul1/1_6_2_Poza3_FormulaCalduraSpecificaCupruCuValori.jpg" />
+
+
+
+
+
+
+
+**Concluzia experimentului:**
+
+Comparăm cu căldura specifică a cuprului din tabel (385 J/kg∙K) și observîm că valoarea experimentală este destul de departe de valoarea reală. Ca surse de erori am descoperit : citiri neatente ale temperaturilor corpurilor, a durat cam mult timp până am închis capacul calorimetrului, calorimetru nu izolează perfect corpurile din interior față de cele din exterior, am realizat decât o singură determinare, nu am luat în calcul și capacitatea calorimetrului.
+
+
+:::note Observaţie
+
+În cazul sistemelor neomogene de corpuri, ca în cazul acestui experiment, este necesar să cunoaștem temperaturile inițiale ale corpurilor din sistem, masele lor și căldurile lor specifice. Asfel, vom putea ști evoluția termică a acestui sistem de corpuri. 
+
+:::
+
+
+
+
+:::caution Problemă model
+
+**1.** Într-un calorimetru a cărui capacitate calorică este 80 J/kg, se pune 200g apă la temperatura de 10°C. În apa din calorimetru se introduce un corp de aluminiu care cântărește 100g,  cu temperatura de 100°C. Care este temperatura finală a celor două corpuri ? Se dau căldurile specifice: a apei de 4185 J/kg∙K și a aluminiului 880 J/kg∙K. Capacitatea calorică a calorimetrului este C = 80 J/kg.
+  
+:::
+
+
+- Înainte de a scrie datele problemei , se stabilește corpul rece, respectiv cel cald:
+
+Corp 1: apa și calorimetrul : rece  =»  primește căldură: Qprimită
+Corp 2: aluminiul : cald  		    =»  cedează căldură: Qcedată
+
+:::note Observaţie
+
+Dacă vi se pare prea complicat, puteți să plecați de la 20:30 până la 21 = 30 min, apoi până la 22:00 încă o oră (60 min) și încă 20 min până la 22:20. În total iese tot 1h și 50min.
+
+:::
+
+
+
+
+
+
+
+
+
