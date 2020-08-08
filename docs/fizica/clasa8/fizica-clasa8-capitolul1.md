@@ -1154,7 +1154,7 @@ Corp 2: aluminiul : cald  		    =»  cedează căldură: Qcedată
 
 :::note Observaţie
 
-Dacă vi se pare prea complicat, puteți să plecați de la 20:30 până la 21 = 30 min, apoi până la 22:00 încă o oră (60 min) și încă 20 min până la 22:20. În total iese tot 1h și 50min.
+
 
 :::
 
