@@ -1147,14 +1147,436 @@ Comparăm cu căldura specifică a cuprului din tabel (385 J/kg∙K) și observ�
 :::
 
 
-- Înainte de a scrie datele problemei , se stabilește corpul rece, respectiv cel cald:
+- Înainte de a scrie datele problemei, se stabilește corpul rece, respectiv cel cald:
 
-Corp 1: apa și calorimetrul : rece  =»  primește căldură: Qprimită
-Corp 2: aluminiul : cald  		    =»  cedează căldură: Qcedată
+Corp 1: apa și calorimetrul : rece   =˃  primește căldură: Q<sub>primită</sub>
+
+Corp 2: aluminiul : cald  		        =˃  cedează căldură: Q<sub>cedată</sub>
+
+
+- Scriem datele problemei, punând indice 1 la datele despre apă și indice 2, la datele despre aluminiu. Transformăm mărimile din date în SI, cu excepția temperaturii, deoarece diferența dintre două temperaturi în grade Celsius este egală cu diferența temperaturilor în Kelvin.
+
+  - C = 80 J/kg
+
+  - m<sub>1</sub> = 200g = 0,2 kg
+
+  - T<sub>1</sub> = 10°C
+
+  - c<sub>1</sub> = 4185 J/kg∙K
+
+  - m<sub>2</sub> = 100g = 0,1 kg
+
+  - T<sub>2</sub> = 100°C
+
+  - c<sub>2</sub> = 880 J/kg∙K
+
+  - T<sub>e</sub> = ?
+
+
+- Calculăm căldura primită:
+
+  - Q<sub>primită</sub> = m<sub>1</sub> ∙ c<sub>1</sub> ∙ Δt<sub>1</sub>  + C ∙ Δt<sub>1</sub> = (m<sub>1</sub> ∙ c<sub>1</sub> + C) ∙ (t<sub>e</sub> – t<sub>1</sub>) 
+  - Δt<sub>1</sub> = t<sub>e</sub> – t<sub>1</sub>(apa are inițial 10°C, final t<sub>e</sub> care este mai mare decât t<sub>1</sub>)
+
+
+- Calculăm căldura cedată:
+
+  - Q<sub>cedată</sub> = m<sub>2</sub> ∙ c<sub>2</sub> ∙ Δt<sub>2</sub> =  m<sub>2</sub> ∙ c<sub>2</sub> ∙ (t<sub>2</sub> – t<sub>e</sub>) 
+  - Δt<sub>2</sub> =  t<sub>2</sub> – t<sub>e</sub> (aluminiul are inițial 100°C, final t<sub>e</sub> care este mai mic decât t<sub>2</sub>)
+
+
+- Scriem ecuația calorimetrică : Q<sub>primită</sub> = Q<sub>cedată</sub>
+
+  - m<sub>2</sub> ∙ c<sub>2</sub> ∙ (t<sub>2</sub> – t<sub>e</sub>) =  (m<sub>1</sub> ∙ c<sub>1</sub> + C) ∙ (t<sub>e</sub> – t<sub>1</sub>) 
+
+- Înlocuim datele problemei și facem calculele matematice :	
+  - (0,2 ∙ 4185 + 80) ∙ (t<sub>e</sub> – 10) =  0,1 ∙ 880 ∙(100 – t<sub>e</sub>)	
+  - (837 + 80) ∙ (t<sub>e</sub> – 10) =  88 ∙(100 – t<sub>e</sub>)
+  - 917 ∙ (t<sub>e</sub> – 10) =  88 ∙ (100 – t<sub>e</sub>)
+  - 917 ∙ t<sub>e</sub> – 917 ∙ 10 =  88 ∙ 100 – 88 ∙ t<sub>e</sub>
+  - 917∙ t<sub>e</sub> + 88 ∙ t<sub>e</sub>  =  88 ∙ 100 + 917∙10
+  - 1005 ∙ t<sub>e</sub> = 17970
+  - t<sub>e</sub>  = 17970/(1005) = 17,88 °C
+
+
+
+:::caution Problemă model
+
+**2.** Corpul 1 este pus în contact termic cu corpul 2.
+  
+:::
+
+
+
+<Img src="fizica/clasa8/capitolul1/1_6_2_Poza4_GraficProblemaModel2.jpg" />
+
+
+- Care sunt temperaturile inițiale ale celor două corpuri  și care este corpul rece, respectiv cald?
+
+  - #### R: T<sub>1</sub> = 90°C (corpul 1 - cald) și T2 = 25°C (corpul 2 - rece).
+
+
+
+
+
+- Care este temperatura de echilibru ale celor două corpuri ?
+
+  - #### R: T<sub>e</sub> = 60°C.
+
+
+- După cât timp ajung corpurile la echilibru termic?  
+
+  - #### R: După 5 min.
+
+
+
+<br></br>
+
+
+## I.7. Stările de agregare ale corpurilor
+
+
+
+
+:::tip Experiment
+
+**14.** Ce este un solid ?
+
+:::
+
+
+
+
+<Video src="https://www.youtube.com/embed/VGMo2xNJB94" />
+
+
+**Materiale necesare:** vase de diferite forme, corp solid.
+
+
+
+**Descrierea experimentului:** 
+- Pune corpul în vasele de forme diferite și observă ce se întâmplă cu forma și volumul acestuia.
 
 :::note Observaţie
 
+_**Corpul solid** își păstrează forma și volumul, indiferent de vasul în care l-am introdus._ 
 
+:::
+
+
+:::important Definiţie
+
+Corpurile solide au formă proprie (bine determinată) și volum propriu.  Nu curg.
+
+:::
+
+<br></br>
+
+
+
+:::tip Experiment
+
+**15.** Ce este un lichid ?
+
+:::
+
+
+
+
+<Video src="https://www.youtube.com/embed/lTY78tnOA14" />
+
+
+**Materiale necesare:** vase de diferite forme și gradate, apă colorată.
+
+
+
+**Descrierea experimentului:** 
+- Pune un anumit volum de apă într-un vas gradat și măsoară-i volumul.
+- Răstoarnă apa într-un alt vas gradat cu o formă diferită și observă ce se întâmplă cu forma și volumul apei în noul vas.
+
+
+:::note Observaţie
+
+_Apa își păstrează volumul, indiferent de vasul în care am introdus-o, dar își schimbă forma.Cum ar fi să pun într-o oală de 10L, 1L de lapte și oala să se umple cu lapte? Poate numai în lumea poveștilor!_  
+
+:::
+
+
+:::important Definiţie
+
+**Lichidele** au volum propriu (bine determinat), dar nu au formă proprie (iau forma vasului în care sunt puse). Curg (sunt fluide).
+
+:::
+
+<br></br>
+
+
+
+:::tip Experiment
+
+**16.** Ce este un gaz ?
+
+:::
+
+
+
+
+<Video src="https://www.youtube.com/embed/4jCILtKkfpg" />
+
+
+**Materiale necesare:** două pahare identice, lumânare tip candelă, chibrit, sită de azbest.
+
+
+
+**Descrierea experimentului:** 
+- Se introduce candela într-un pahar și se aprinde cu chibritul.
+
+:::warning Atenţie
+
+Atenţie când lucrezi cu surse de foc! Fă experimentul numai în prezenţa unui părinte!
+
+:::
+
+
+- Imediat se acoperă paharul cu sita de azbest pentru a menține fumul rezultat în pahar.
+- Se vine cu al doilea pahar , cu gura în jos peste sită și se trage sita, astfel încât fumul să intre și în paharul de deasupra. Observă ce se întâmplă cu forma și volumul fumului în noul vas.
+
+
+
+:::note Observaţie
+
+_Fumul (care este gaz) ocupă tot spațiul pus la dispoziție și ia forma noului vas._  
+
+:::
+
+
+:::important Definiţie
+
+**Gazele** nu au nici formă proprie (iau forma vasului în care sunt puse) și nici volum propriu (ocupă tot volumul pus la dispoziție). Curg (sunt fluide).
+
+:::
+
+
+
+<br></br>
+
+
+
+:::tip Experiment
+
+**17.** Compresibile sau incompresibile ?	
+
+:::
+
+
+
+
+<Video src="https://www.youtube.com/embed/AyTdPd7Duis" />
+
+
+**Materiale necesare:** un corp solid, apă, seringi.
+
+
+
+**Descrierea experimentului:** 
+- Introdu **corpul solid** în seringă, astupă cu un deget capătul seringii și apasă pistonul seringii pentru a micșora volumul solidului. Ai reușit ?
+
+
+
+:::note Observaţie
+
+_Nu putem mișca deloc pistonul seringii._  
+
+:::
+
+
+- Umple seringa cu **apă**, astupă cu un deget capătul seringii și apasă pistonul seringii pentru a micșora volumul apei. Ai reușit ?
+
+
+
+:::note Observaţie
+
+_Nu putem mișca deloc pistonul seringii._  
+
+:::
+
+
+
+- Trage **aer** în seringă, astupă cu un deget capătul seringii și apasă pistonul seringii pentru a micșora volumul aerului. Ai reușit ?
+
+
+
+:::note Observaţie
+
+_Putem mișca mult pistonul seringi, iar dacă îi dăm drumul, revine la poziția inițială. Aerul are și proprietăți elastice_ având drept aplicații obiectele pneumatice (saltele, colaci) și folosirea pneurilor la roți care amortizează șocurile.  
+
+:::
+
+
+**Concluzia experimentului:**
+
+Numai **gazele** sunt **compresibile** (își pot micșora volumul la o presiune exterioară) , **solidele și lichidele** sunt **incompresibile.** 
+
+
+
+
+#### Cum explicăm proprietățile diferite ale corpurilor în cele trei stări de agregare ?
+
+Aceste proprietăți sunt explicate pe baza structurii interioare a corpurilor și anume forțele intermoleculare (de atracție), respectiv distanțele intermoleculare.
+
+
+
+
+
+
+
+:::important
+
+La **solide** forțele de atracție dintre particule sunt foarte mari și distanțele dintre particule sunt foarte mici. Solidele cristaline au atomii (ionii) așezați ordonat într-o anumită formă, numită rețea cristalină. Ei execută numai mișcări de oscilație în jurul unor poziții fixe, numite nodurile rețelei. Atomii solidului sunt lipiți și de aceea nu se mișcă unii față de alții și se atrag considerabil. Iată de ce solidele au și formă și volum proprii, **sunt incompresibile** (dacă atomii sunt lipiți, nu avem cum să mai micșorăm distanța dintre ei).
+
+:::
+
+
+:::important
+
+La **lichide** forțele de atracție dintre particule sunt mai mici ca la solide și distanțele dintre particule sunt puțin mai mari ca la solide. Moleculele execută atât mișcări de oscilație , cât și de translație . Moleculele  se mișcă unele față de altele și se atrag puțin. Iată de ce lichidele nu au formă, dar au volum propriu, sunt **incompresibile**.
+
+:::
+
+
+:::important
+
+La **gaze** forțele de atracție dintre particule sunt foarte mici (neglijabile) și distanțele dintre particule sunt foarte mari . Moleculele execută atât mișcări de rotație , cât și de translație . Moleculele  se mișcă mult unele față de altele (au loc suficient) și nu se atrag. Iată de ce gazele nu au formă, nu au volum propriu și sunt **compresibile**.
+
+:::
+
+<Img src="fizica/clasa8/capitolul1/1_7_0_Poza1_Experiment17_SolideLichideGaze.jpg" />
+
+
+<br></br>
+
+
+
+## I.8. Transformări de stări de agregare.
+
+În următoarea schemă sunt definite toate cele șase fenomene care au loc cu schimbarea stării de agregare:
+
+<Img src="fizica/clasa8/capitolul1/1_8_0_Poza1_SchemaSchimbareStariDeAgregare.jpg" />
+
+
+Fenomenele care au loc cu schimbarea stării de agregare se studiază pe perechi, fiecare pereche având două fenomene opuse.
+
+
+
+### I.8.1. Topirea și solidificarea.
+
+:::important Definiţie
+
+**Topirea** este fenomenul de trecere unei substanțe din stare solidă în stare lichidă, prin încălzire . 
+
+:::
+
+
+:::important Definiţie
+
+**Solidificarea** este fenomenul invers topirii și constă în trecerea unei substanțe din stare lichidă în stare solidă, prin răcire. 
+
+:::
+
+
+
+:::tip Experiment
+
+**18.** Cum se topește gheața ?
+
+:::
+
+
+
+
+<Video src="https://www.youtube.com/embed/grAUzgaA6HI" />
+
+
+**Materiale necesare:** gheață, pahar transparent și un termometru (poate fi și de cameră).
+
+
+
+**Descrierea experimentului:** 
+- Pune în pahar gheață de la congelator.
+- Introdu termometrul în gheață .
+- Agită continuu cu termometru gheața.
+- Urmărește indicațiile termometrului în timp, de la apariția primei picături până la topirea completă a gheții.
+
+
+- Ce observi ?
+
+
+
+
+
+:::note Observaţie
+
+_Gheața începe să se topească la 0°C. Pe parcursul topirii (de la apariția primei picături până la topirea ultimului cristal), temperatura a rămas la 0°C._  
+
+:::
+
+
+#### Legile topirii / solificării:
+
+:::important Definiţie
+
+**I.** Fiecare substanță începe să se topească (să se solidifice) la o anumită temperatură, numită **temperatură de topire (notată cu T<sub>t</sub> )**,  care este o constantă de material (o luăm din tabel). 
+
+**Temperatura de topire** a unei substanțe coincide cu **temperatura de solidificare** (T<sub>s</sub>).
+   
+**T<sub>t</sub> = T<sub>s</sub> = constantă de material**
+ 
+
+:::
+
+
+#### Observații la legea I a topirii / solidificării:
+
+:::note Observaţie
+
+**1.** Temperaturile de topire ale substanțelor din tabelul cu constante de material sunt pentru _presiuni normale_. Pentru marea majoritatea substanțelor, la creșterea presiunii, crește și temperatura de topire.  
+
+:::
+
+
+La unele substanțe (apa, fonta, bismutul), _temperatura de topire scade la creșterea presiunii_. _Așa explicăm alunecarea frumoasă a patinatorilor pe gheață._
+
+Presiunea mare exercitată de lamele ascuțite ale patinelor și pe care se distribuie greutatea patinatorilor, face ca gheața să se topească. Apa de sub lame facilitează alunecarea patinelor. 
+
+
+<Img src="fizica/clasa8/capitolul1/1_8_1_Poza1_Observatia1LaLegea1ATopirii.jpg" />
+
+
+
+
+
+
+
+:::note Observaţie
+
+**2.** Există anumite substanțe numite amorfe (care nu au structură cristalină- exemple: ceara, sticla, smoala, cauciucuri, mase plastice), care nu au un punct fix de topire, ele topindu-se într-un anumit interval de temperatură. 
+
+:::
+
+
+:::note Observaţie
+
+**3.** În timpul topirii (respectiv a solidificării) volumul substanței se modifica astfel: majoritatea substanțelor își măresc volumul la topire și și-l micșorează la solidificare. Excepții avem la apa, fonta și bismutul, care își măresc volumul la solidificarere (aceasta este anomalia apei).  
+
+:::
+
+
+
+#### Legile topirii / solificării:
+
+:::important Definiţie
+
+**II.** **Pe parcursul topirii unei substanțe** (de la apariția primei picături până la topirea ultimului cristal), temperatura de topire rămâne constantă, dacă presiunea ramâne constantă. 
 
 :::
 
@@ -1162,7 +1584,491 @@ Corp 2: aluminiul : cald  		    =»  cedează căldură: Qcedată
 
 
 
+ 
+
+
+:::tip Experiment
+
+**19.** Anomalia apei.
+
+:::
 
 
 
+
+<Video src="https://www.youtube.com/embed/mZyILFmP0UI" />
+
+
+**Materiale necesare:** o sticlă , apă de la robinet, congelator.
+
+
+
+**Descrierea experimentului:** 
+- Umple o sticlă cu apă.
+- Introdu sticla la congelator, până îngheață toată apa.
+
+
+- Ce observi ?
+
+
+:::note Observaţie
+
+_Apa înghețată a dat pe dinafară._  
+
+:::
+
+
+**Concluzia experimentului:**
+
+Apa, la înghețare (solidificare), și-a mărit volumul (anomalia apei). 
+
+
+
+### I.8.2. Vaporizarea și condensarea.
+ 
+:::important Definiţie
+
+**Vaporizarea** este fenomenul de trecere a unei substanțe din stare lichidă în stare  gazoasă (vapori), prin încălzire. 
+
+:::
+
+
+:::important Definiţie
+
+**Condensarea** este fenomenul de trecere a unei substanțe din stare gazoasă în stare lichidă, prin răcire. Este fenomenul invers al vaporizării. 
+
+:::
+
+
+#### Vaporizarea poate avea loc în două moduri :
+- **Evaporarea** este vaporizarea care are loc doar la suprafața lichidului.
+- **Fierberea** este vaporizarea care are loc în toată masa lichidului și începe odată cu apariția primului clocot. 
+
+
+
+
+
+:::tip Experiment
+
+**20.** Cum putem grăbi evaporarea ?
+
+:::
+
+
+
+
+<Video src="https://www.youtube.com/embed/Am-VxpZ9BTg" />
+
+
+**Materiale necesare:** apă, alcool (spirt), acetonă, 3 sticle de ceas, pahar Berzelius, eprubetă, pipetă, trepied cu sită de azbest, spirtieră.
+
+:::warning Atenţie
+
+Atenţie când lucrezi cu surse de foc! Alcoolul și acetona sunt substanțe inflamabile și stai departe de sursele de foc, când lucrezi cu ele! Fă experimentul numai în prezenţa unui părinte!
+
+:::
+
+
+
+
+**Descrierea experimentului (Partea1):** 
+- Toarnă în fiecare sticlă de ceas, cu ajutorul pipetei, câte o picătură din cele trei lichide și urmărește ordinea în care cele trei lichide “dispar” din sticlele de ceas.
+
+- Ce observi ?
+
+
+
+
+
+:::note Observaţie (Partea1) 
+
+_Unele lichide se evaporă repede (acetona, alcoolul), altele se evaporă mai încet(apa)._  
+
+:::
+
+
+
+**Concluzia experimentului (Partea1):**
+
+Viteza de evaporare depinde de natura lichidelor.
+
+
+
+**Descrierea experimentului (Partea2):** 
+- Pune în cele două vase, care au gura diferită (eprubetă și sticlă de ceas), câte o picătură de alcool.
+- Observă ordine evaporării alcoolului din cele două vase .
+
+
+- Ce observi ?
+
+
+
+
+
+:::note Observaţie (Partea2)
+
+_Alcoolul din sticla de ceas se evaporă foarte repede, iar cel din eprubetă se evaporă mai greu._ 
+
+:::
+
+
+
+**Concluzia experimentului (Partea2):**
+
+Viteza de evaporare pentru acelaşi lichid este cu atât mai mare, cu cât suprafaţa de evaporare (gura vasului) este mai mare.
+
+
+
+
+
+**Descrierea experimentului (Partea3):** 
+- Pune în cele două sticle de ceas câte o picătură de alcool.
+- Dă deoparte o sticlă de ceas şi flutură cu un carton  deasupra celeilalte sticle de ceas. Observă ordinea evaporării alcoolului din cele două vase.
+
+
+- Ce observi ?
+
+
+
+
+
+:::note Observaţie (Partea3)
+
+_Primul care se evaporă este alcoolul zvântat, apoi alcoolul care s-a lăsat liber._ 
+
+:::
+
+
+
+**Concluzia experimentului (Partea3):**
+
+Prin zvântare sunt înlăturați vaporii de lichid de deasupra lichidului şi, astfel, crește viteza de evaporare.
+
+
+
+
+**Descrierea experimentului (Partea4):** 
+- Pune pe două sticle de ceas câte o picătură de apă .
+- Dă deoparte o sticlă de ceas şi aşează cealaltă sticlă de ceas pe sita de azbest și trepied, încălzind-o în flacăra unei spirtiere . Observă ordinea evaporării apei din cele două vase.
+
+
+- Ce observi ?
+
+
+
+
+
+:::note Observaţie (Partea4)
+
+_Cel mai repede se evaporă apa încălzită._ 
+
+:::
+
+
+
+**Concluzia experimentului (Partea4):**
+
+Cu cât temperatura unui lichid este mai mare, cu atât el se evaporă mai repede.
+
+
+
+:::important
+
+#### Factorii ce influențează viteza de evaporare  a unui lichid sunt:
+
+- **Natura substanței**: unele substanțe (acetona, eterul, benzina, alcoolul etc.), numite lichide volatile se evaporă foarte repede, altele se evaporă mai încet (apa, uleiul). 
+- **Gura vasului (suprafața de evaporare)**: cu cât este mai mare, evaporarea are loc mai repede.
+- **Zvântarea (suflarea)**  grăbește evaporarea, prin înlăturarea vaporilor de deasupra lichidului.
+- **Temperatura** cu cât este mai mare, cu atât evaporarea are loc mai repede.
+ 
+
+:::
+
+
+
+
+<br></br>
+
+
+:::tip Experiment
+
+**21.** Anestezia locală.
+
+:::
+
+
+
+
+<Video src="https://www.youtube.com/embed/TElVhr1s_x8" />
+
+
+**Materiale necesare:** un termometru, vată sau pansament, alcool.
+
+
+
+
+
+**Descrierea experimentului:** 
+- Citește temperatura aerului din cameră cu ajutorul termometrului.
+- Înfăşoară cu vată (sau pansament) rezervorul termometrului şi picură alcool pe acesta.
+- Urmărește indicaţiile termometrului până când vata cu alcool se usucă şi citește temperatura indicată de termometru.
+
+- Ce observi ?
+
+
+
+
+
+:::note Observaţie
+
+_Temperatura termometrului a scăzut._  
+
+:::
+
+
+
+**Concluzia experimentului:**
+
+Când un lichid se evaporă, el absoarbe căldură din mediul înconjurător (termometru).
+
+
+
+:::caution Aplicaţii în viaţa cotidiană
+
+Faptul că evaporarea necesită consum de căldură, adică evaporarea este însoţită de o scădere de temperatură, îşi găseşte o serie de aplicaţii practice : 
+- stropitul străzilor vara, pentru a se produce o atmosferă mai răcoroasă; 
+- anestezia locală foloseşte, de asemenea, răcirea prin evaporare – prin răcire nervii locali amorţesc, nu mai transmit senzațiile dureroase la creier şi bolnavul nu mai simte durerea.
+- în agricultură, un mijloc pentru reducerea evaporării apei din sol este aratul.
+
+  
+:::
+
+
+:::caution Aplicaţii în viaţa cotidiană
+
+**1.** De ce ne răcorește ventilatorul? Elicea ventilatorului îndepărtează vaporii de apă din jurul corpului nostru, crescând astfel viteza de evaporare a transpirației noastre, care absorbe căldură la evaporare și ne dă senzația de răcorire.
+  
+:::
+
+
+:::caution Aplicaţii în viaţa cotidiană
+
+**2.** De ce când ieșim din apă, avem senzație de frig?  Când ieșim din apă, are loc evaporarea apei care absorbe căldură de pe corpul nostru și determină scăderea temperaturii corpului.
+  
+:::
+
+
+:::caution Aplicaţii în viaţa cotidiană
+
+**3.** Principiul anesteziei locale : pe o zonă a corpului se aplică un lichid volatil (ex lidocaină) . La evaporare absoarbe căldură, zona se răcește și nervii locali nu mai transmit durerea la creier.
+  
+:::
+
+
+
+:::caution Aplicaţii în viaţa cotidiană
+
+**4.** Când suportăm mai bine canicula verii, când aerul este uscat sau umed?  Omul suportă mai ușor canicula când aerul este uscat (nu este saturat cu vapori de apă) întrucât transpirația de pe noi se poate evapora mai ușor, absoarbe căldură la evaporare și ne răcorește.
+  
+:::
+
+
+<br></br>
+
+
+:::tip Experiment
+
+**22.** Cum fierbe apa ?
+
+:::
+
+
+
+
+<Video src="https://www.youtube.com/embed/TkkeEBrJzmM" />
+
+
+**Materiale necesare:** pahar Erlenmeyer cu apă distilată, spirtieră, trepied, sită de azbest, dop cu termometru, cronometru.
+
+:::warning Atenţie
+
+Atenţie când lucrezi cu surse de foc!  Fă experimentul numai în prezenţa unui părinte!
+
+:::
+
+
+
+
+**Descrierea experimentului:** 
+- Pune paharul cu apă pe sită și trepied.
+- Măsoară temperatura inițială a apei.
+- Aprinde spirtiera și pornește cronometrul la începerea încălzirii apei.
+- Măsoară timpul la fiecare creștere a temperaturii apei cu 10°C și trece datele în următorul tabel: 
+
+
+
+<Img src="fizica/clasa8/capitolul1/1_8_2_Poza1_Experimentul22_Tabel.jpg" />
+
+
+- Ce observi ?
+
+:::note Observaţie 
+
+_Apa începe să fiarbă la 100°C. Pe parcursul fierberii, temperatura apei rămâne la 100°C, chiar dacă continuăm încălzirea._  
+
+:::
+
+- Reprezintă graficul dependenței temperaturii în funcție de timp.
+
+
+<Img src="fizica/clasa8/capitolul1/1_8_2_Poza2_Experimentul22_Grafic.jpg" />
+
+- Fenomenele corespunzătoare fiecărui segment sunt :
+
+  - AB, BC, CD  reprezintă evaporarea apei 
+  - DE reprezintă fierberea apei
+
+
+#### Legile fierberii:
+
+:::important Definiţie
+
+**I.** Fiecare lichid începe să fiarbă la o anumită temperatură numită temperatură de fierbere, T<sub>f</sub>  care este o constantă de material (tabel).
+
+:::
+
+
+:::note Observaţie 
+
+Observație: Temperaturile de fierbere din tabelul cu constantele de material sunt pentru presiuni normale. La creșterea presiunii, temperatura de fierbere crește. Astfel, dacă fierbem apa în vase ermetic închise, ea nu va mai fierbe la 100°C, ci la 120-140°C. Pe această proprietate se bazează fierberea rapidă a legumelor tari în **oalele sub presiune** (oale minune) și sterilizarea instrumentelor medicale în **autoclave**.  
+
+:::
+
+**Oala sub presiune**
+
+<Img src="fizica/clasa8/capitolul1/1_8_2_Poza3_Experimentul22_OalaSubPresiune.jpg" />
+
+
+**Autoclava**
+
+<Img src="fizica/clasa8/capitolul1/1_8_2_Poza4_Experimentul22_Autoclava.jpg" />
+
+
+
+
+
+
+
+
+#### Legile fierberii:
+
+:::important Definiţie
+
+**II.** Pe parcursul fieberii unui lichid (de la primul clocot până la vaporizarea completă) **temperatura de fierbere este constantă, la aceeași presiune.**
+
+:::
+
+
+
+
+
+<br></br>
+
+
+:::tip Experiment
+
+**23.** Poate apa să fiarbă la temperaturi mai mari de 100°C ?
+
+:::
+
+
+
+
+<Video src="https://www.youtube.com/embed/gRz8ss6N3EY" />
+
+
+**Materiale necesare:** pahar Erlenmeyar cu apă distilată, spirtieră, trepied, sită de azbest , dop cu termometru și tub, dop pentru tub.
+
+
+:::warning Atenţie
+
+Atenţie când lucrezi cu surse de foc!  Atenție fierbere apei la presiuni mari este periculoasă! Fă experimentul numai în prezenţa unui părinte!
+
+:::
+
+
+**Descrierea experimentului:** 
+- Pune paharul cu apă pe sită și trepied și încălzește-l la spirtieră .
+- Pune dopul la gura tubuluilui, gâtuind ieșirea vaporilor din vas pentru a mări presiunea la suprafața apei.
+- Observă la ce temperatură fierbe apa.
+
+- Ce observi ?
+
+
+
+
+
+:::note Observaţie
+
+_Apa fierbe la o temperatură mai mare decât temperatura ei de fierbere (103°C)._  
+
+:::
+
+
+
+**Concluzia experimentului:**
+
+La creșterea presiunii, crește și temperatura de fierbere a apei.
+
+
+
+
+
+<br></br>
+
+
+:::tip Experiment
+
+**24.** Poate apa să fiarbă la 60°C ?
+
+:::
+
+
+
+
+<Video src="https://www.youtube.com/embed/qjA90lYwJGM" />
+
+
+**Materiale necesare:** apă caldă la 60°C, seringă cu tub, termometru.
+
+
+
+
+
+**Descrierea experimentului:** 
+- Trage apa caldă (la 60°C) în seringă.
+- Întoarce seringa cu tubul în sus și elimină aerul din seringă și tub.
+- Închide tubul prin îndoirea lui.
+- Trage pistonul seringii în jos pentru a micșora presiunea deasupra apei.
+- Observă ce se întâmplă cu apa din seringă.
+
+- Ce observi ?
+
+
+
+
+
+:::note Observaţie
+
+_Apa fierbe la 60°C._  
+
+:::
+
+
+
+**Concluzia experimentului:**
+
+La scăderea presiunii, scade și temperatura de fierbere a apei.
+
+Pe vârful Everest (8848 m) apa fierbe la 69 °C. În vid (presiune atmosferică zero), apa poate fierbe la 0°C.
 
