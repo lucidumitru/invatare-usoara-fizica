@@ -2072,3 +2072,472 @@ La scăderea presiunii, scade și temperatura de fierbere a apei.
 
 Pe vârful Everest (8848 m) apa fierbe la 69 °C. În vid (presiune atmosferică zero), apa poate fierbe la 0°C.
 
+
+
+
+
+<br></br>
+
+
+:::tip Experiment
+
+**25.** Apa de nicăieri.
+
+:::
+
+
+
+
+<Video src="https://www.youtube.com/embed/rMa5gtzNxXA" />
+
+
+**Materiale necesare:** pahar, congelator.
+
+
+
+
+
+**Descrierea experimentului:** 
+- Ia un pahar curat și uscat și pune-l la congelator, timp de 10-15 minute.
+- Scoate paharul din congelator. 
+
+- Ce observi pe pereții săi  după câteva minute?
+
+
+
+
+
+:::note Observaţie
+
+_Pe pereții paharului sunt picături de apă._  
+
+:::
+
+
+
+**Concluzia experimentului:**
+
+Apa apărută de nicăieri s-a format prin condensarea vaporilor de apă din cameră, care venind în contact cu pereții reci ai paharului, se răcesc și se transformă în picături mici de apă.
+
+
+
+### I.8.2. Sublimarea și desublimarea.
+
+
+:::important Definiţie
+
+**Sublimarea** este fenomenul de transformare a unei substanțe din stare solidă direct în stare gazoasă, prin încălzire.
+
+:::
+
+
+:::important Definiţie
+
+**Desublimarea** este fenomenul invers al sublimării, de transformare a unei substanțe din stare gazoasă (de vapori) direct în stare solidă, prin răcire.
+
+:::
+
+
+:::note Observaţie
+
+Substanțe ca naftalina, camforul, acidul benzoic, iodul și altele au proprietatea de a trece din stare solidă direct în stare de vapori. Și tungstenul din filamentul becului sublimează lent ducând la subțierea filamentului și în final la arderea lui.  
+
+:::
+
+
+
+
+:::tip Experiment
+
+**26.** Cum poți obţine naftalină sub formă de ace.
+
+:::
+
+
+
+
+<Video src="https://www.youtube.com/embed/8ddum7B8vhQ" />
+
+
+**Materiale necesare:** naftalină (de la magazinul de chimicale), apă fiartă, un borcan de 800g, pahar Erlenmeyer cu dop prevăzut cu un tub și termometru, vas cu apă fiartă.
+
+
+:::warning Atenţie
+
+Atenție să nu te arzi cu apa fiartă!  Atenție, naftalina este inflamabilă și trebuie încălzită pe baie de apă fiartă! Naftalina este toxică, deci nu o atinge, nu o gusta și nu inspira vaporii săi! Fă experimentul numai în prezenţa unui părinte!
+
+:::
+
+
+**Descrierea experimentului:** 
+- Pune naftalina în pahar, într-un strat de un deget și închide-o cu dopul.
+- Pune apa într-o cratiță, astfel încât nivelul ei să depășească cu puțin naftalina din pahar (strat de două degete) și fierbe apa. 
+- Introdu sticla cu naftalină în baia de apă fiartă și urmărește pereții paharului.
+
+- Ce observi ?
+
+
+
+
+
+:::note Observaţie
+
+_În scurt timp apar cristale de naftalină sub formă de ace, pe pereții sticlei._  
+
+:::
+
+
+
+**Concluzia experimentului:**
+
+Naftalina, prin încălzire, a sublimat și s-a transformat în vapori de naftalină. Vaporii de naftalină , dând de pereții mai reci ai sticlei, a desublimat și s-a transformat în stare solidă, sub formă de cristale aciculare.
+
+
+
+
+
+<br></br>
+<br></br>
+
+
+
+
+## I.9. Călduri latente.
+
+
+Trecerea substanței dintr-o stare de agregare în alta se face cu absorbție sau cedare de căldură.
+
+
+:::important Definiţie
+
+Căldura absorbită sau cedată de o substanță pe parcursul unui fenomen cu schimbarea stării de agregare, care determină numai variația energiei potențiale a moleculelor se numește **căldură latentă**.
+
+:::
+
+Ca să înțelegem noțiunea de căldură latentă, trebuie să vedem ce se întâmplă în interiorul substanței, care se transformă dintr-o stare de agregare în alta. Am ales topirea.
+
+
+#### Explicația topirii unei substanțe: 
+
+În stare solidă particulele au energie potențială  minimă și distanțe intermoleculare foarte mici. Topirea se produce la temperatură constantă și prin urmare, energia cinetică este constantă (energia cinetică –de mișcare a particulelor –este funcție de temperatură).  Atunci ce face solidul cu căldura absorbită, dacă temperatura lui nu se modifică? Ei bine, căldura absorbită duce numai la creșterea energiei potențiale a moleculelor, care va conduce la creșterea distanțelor intermoleculare și trecerea solidului în lichid.
+
+**Q<sub>latentă</sub> = m • ʌ**
+
+Q<sub>latentă</sub> = căldura latentă, adică căldura absorbită (cedată) de o substanță pe parcursul schimbării stării de agregare (în Joule = J )
+
+m = masa substanței (în kg) 
+
+ʌ = căldura latentă specifică (constantă de material și o luăm din tabel).  Se măsoară în J / kg. Se notează cu litera grecească lambda (ʌ) .
+
+
+
+:::note Observaţii
+
+**a)** Căldurile latente specifice sunt  de două feluri: de topire  = ʌ<sub>t</sub>  și de vaporizare (fierbere) = ʌ<sub>v</sub>.
+
+**b)** Pentru aceeași substanță: 
+
+**ʌ<sub>t</sub>  = ʌ<sub>s</sub>**  și  
+
+**ʌ<sub>v</sub>  = ʌ<sub>c</sub>**  dar,
+  
+**ʌ<sub>t</sub>  ≠ ʌ<sub>v</sub>**.
+  
+
+:::
+
+
+#### De  exemplu pentru apă: 
+  - avem căldura latentă specifică de topire : ʌ<sub>t</sub> =334.000 J/kg 
+  - avem căldura latentă specifică de vaporizare : ʌ<sub>v</sub> = 2.260.000 J/kg
+
+
+
+:::caution Problemă model
+
+**1.** Ce căldură absoarbe 100g de gheață de la temperatura de (-20)°C până la vaporizarea completă? Se dau : c<sub>g</sub> = 2090 J/kg∙K, c<sub>a</sub> = 4200 J/kg∙K, ʌ<sub>t</sub> =334.000 J/kg , ʌ<sub>v</sub> = 2.260.000 J/kg, T<sub>t</sub> = 0°C și T<sub>f</sub> = 100°C.
+
+  
+:::
+
+
+
+- Scriem datele problemei: m = 100g = 0,1kg
+
+  - T<sub>1</sub> = -20°C
+
+  - T<sub>t</sub> = 0°C
+
+  - T<sub>f</sub> = 100°C
+
+  - c<sub>g</sub> = 2090 J/kg∙K
+
+  - c<sub>a</sub> = 4185 J/kg∙K
+
+  - ʌ<sub>t</sub> = 334.000 J/kg
+
+  - ʌ<sub>v</sub> = 2.260.000 J/kg
+
+
+- Scriem fenomenele suferite de gheață și aplicăm formulele corespunzătoare pentru căldura absorbită, în fiecare caz:
+
+**1.** Încălzirea gheții de la (-20)°C până la 0°C: 
+
+Q<sub>1</sub> = m ∙ c<sub>g</sub> ∙ ΔT = 0,1 ∙ 2090 ∙ [0 - (-20)] = 0,1 ∙ 2090 ∙ 20 = 4180 J
+
+**2.** Topirea gheții  la T = ct. = 0°C: fiind fenomen cu schimbare de stare de agregare aplicăm formula căldurii latente:
+
+Q<sub>2</sub> = Q<sub>latentă topire</sub> = m • ʌ<sub>t</sub> = 0,1 ∙ 334.000 = 33.400 J
+
+**3.** Încălzirea apei de la 0°C până la 100°C: 
+
+Q<sub>3</sub> = m ∙ c<sub>a</sub> ∙ ΔT = 0,1 ∙ 4185 ∙ (100 - 0) = 0,1 ∙ 4185 ∙ 100 = 41.850 J
+
+**4.** Fierberea (vaporizarea) apei  la T = ct. = 100°C: fiind fenomen cu schimbare de stare de agregare aplicăm formula căldurii latente:
+
+Q<sub>4</sub> = Q<sub>latentă vaporizare</sub> = m • ʌ<sub>v</sub> = 0,1 ∙ 2.260.000 = 226.000 J
+
+- Adunăm toate căldurile absorbite de gheață până la vaporizarea completă :
+
+Q<sub>1</sub> + Q<sub>2</sub> + Q<sub>3</sub> + Q<sub>4</sub> = 4180 + 33.400 + 41.850 + 226.000 = 305.430 J
+
+
+
+ 
+## I.10. Călduri latente.
+
+
+:::important Definiţie
+
+**Combustibilii** sunt substanțe care degajă căldură, prin arderea lor.
+
+:::
+
+
+#### A. Clasificarea combustibililor după starea lor de agregare:
+
+- **combustibili solizi**: cărbuni (huilă, antracit, lignit, turbă,etc.), lemn.
+- **combustibili lichizi**: petrol (țiței), benzină, motorină, kerosen, alcool.
+- **combustibili gazoși**: hidrogen, gaz metan, gaz etan, gaz propan, gaz butan.
+
+
+#### B. Clasificarea combustibililor după provenienţă:
+
+- **combustibili naturali**: țiței, cărbuni, lemn, gaz metan (gaz natural).
+- **combustibili artificiali**: benzină, motorină, kerosen, alcool, propan, butan.
+
+
+
+
+
+:::tip Experiment
+
+**27.** Depinde căldura cedată de un combustibil de masa lui?
+
+:::
+
+
+
+
+<Video src="https://www.youtube.com/embed/_Acr9KYMuTs" />
+
+
+**Materiale necesare:** pahar Erlenmeyer, apă rece de la robinet, spirtieră, sită de azbest, trepied, termometru, alcool.
+
+
+:::warning Atenţie
+
+Atenție când lucrezi cu surse de foc! Fă experimentul numai în prezenţa unui părinte!
+
+:::
+
+
+**Descrierea experimentului:** 
+- Pune într-un pahar 100g de apă și introdu în apă un termometru și măsoară temperatura inițială T<sub>1</sub> = 30°C.
+- Pune în spirtieră alcool și determină-i masa, m<sub>1</sub> = 136,1g.
+- Încălzește la flacăra acestei spirtiere, apa prin intermediul sitei de azbest de pe trepied, până se încălzește cu 10°C, adică până la 40°C. Stinge spirtiera.
+- Măsoară masa spirtierei după ce ai încălzit apa cu 10°C :  m<sub>2</sub> = 134,9g.
+- Calculează cantitatea de alcool arsă: m<sub>I</sub> = m<sub>2</sub> – m<sub>1</sub> = 1,2 g alcool.
+- Pune într-un pahar 100g de apă și introdu în apă un termometru și măsoară temperatura inițială T<sub>1</sub> = 31°C.
+- Pune în spirtieră alcool și determină-i masa, m<sub>1</sub> = 136,1g.
+- Încălzește la flacăra acestei spirtiere, apa prin intermediul sitei de azbest de pe trepied, până se încălzește cu 20°C, adică până la 51°C. Stinge spirtiera.
+- Măsoară masa spirtierei după ce ai încălzit apa cu 20°C : m<sub>2</sub> = 134,1g.
+- Calculează cantitatea de alcool arsă : m<sub>II</sub> = m<sub>2</sub> – m<sub>1</sub> = 2 g alcool.
+- Depinde căldura absorbită de apă de cantitatea de combustibil folosită ?
+
+- Ce observi ?
+
+
+
+
+
+
+:::note Observaţie
+
+_2 g de alcool încălzește mai mult apa decât 1,2 g de alcool._  
+
+:::
+
+
+
+**Concluzia experimentului:**
+
+Căldura cedată de un combustibil, prin arderea sa, este direct proporțională cu  masa combustibilului:  Q ~ m.
+
+
+
+<br></br>
+
+
+
+
+:::tip Experiment
+
+**28.** Depinde căldura degajată de un combustibil de felul acestuia?
+
+:::
+
+
+
+
+<Video src="https://www.youtube.com/embed/cg90_0RKHds" />
+
+
+**Materiale necesare:** pahar Erlenmeyer, apă rece de la robinet, spirtieră, sită de azbest, trepied, termometru, alcool, cronometru, aragaz
+
+
+:::warning Atenţie
+
+Atenție când lucrezi cu surse de foc! Fă experimentul numai în prezenţa unui părinte!
+
+:::
+
+
+**Descrierea experimentului:** 
+- Măsoară cu cronometrul timpul în care încălzești 100 g de apă cu 20°C cu ajutorul spirtierei umplută cu alcool: t<sub>1</sub> = 2min 28,54s.
+- Măsoară cu cronometrul timpul în care încălzești 100 g de apă cu 20°C cu ajutorul gazului metan de la aragaz: t<sub>2</sub> = 1min 1,72s
+- Depinde căldura absorbită de apă de felul combustibilului folosit ?
+
+- Ce observi ?
+
+
+
+
+
+
+:::note Observaţie
+
+_Gazul metan  încălzește mai repede apa decât spirtul._  
+
+:::
+
+
+
+**Concluzia experimentului:**
+
+Căldura cedată de un combustibil, prin arderea sa, este direct proporțională cu  felul combustibilului.
+
+
+Fiecare combustibil este caracterizat de o constantă de material, numită putere calorică (notată cu q), pe care o luăm din tabelul următor.
+
+
+<Img src="fizica/clasa8/capitolul1/1_10_Poza1_TabelCuPuteriCalorice.jpg" />
+
+
+
+:::important
+
+**Căldura degajată de un combustibil prin ardere** depinde de masa combustibilului ( m ) și de puterea calorică a combustibilului ( q) și are următoarea formulă :
+Q = m ∙ q
+m = masa (cantitatea) de combustibil ars (kg)
+q = puterea calorică a combustibilului (kJ/kg).
+
+
+:::
+
+
+
+:::caution Problemă model
+
+**1.** Determină puterea calorică a alcoolului, folosind datele experimentului nr.27. Consideră , că toată căldura degajată de alcool a fost folosită pentru a încălzi apa (neglijează pierderile de căldură cu mediul înconjurător).
+  
+:::
+
+
+- **Prima determinare:**
+
+  - Q<sub>1</sub> = m<sub>1</sub> ∙ q = m ∙ c ∙ ΔT<sub>1</sub>
+
+  - m<sub>1</sub> = 1,2 g = 0,0012kg alcool
+
+  - m = 100 g = 0,1g apă
+
+  - c = 4185 J/kg∙K
+
+  - ΔT<sub>1</sub> = 10°C
+
+  - q<sub>1</sub> = ?
+    
+
+
+<Img src="fizica/clasa8/capitolul1/1_10_Poza2_Ecuatia1ProblemaExperimentala1.jpg" /> 
+
+
+
+- **A doua determinare:**
+
+  - Q<sub>2</sub> = m<sub>2</sub> ∙ q = m ∙  c ∙ ΔT<sub>2</sub>
+
+  - m<sub>2</sub> = 2 g = 0,002 kg alcool
+
+  - m = 100 g = 0,1g apă
+
+  - c = 4185 J/kg∙K
+
+  - ΔT<sub>2</sub> = 20°C
+
+  - q<sub>2</sub> = ?
+
+  
+<Img src="fizica/clasa8/capitolul1/1_10_Poza3_Ecuatia2ProblemaExperimentala1.jpg" />
+
+ 
+Compar valoarea obținută experimental cu puterea calorică a alcoolului din tabel 23855 KJ/kg și observ că valoarea mea depășește valoarea din tabel (datorită erorilor de măsură).
+
+
+
+
+:::caution Problemă model
+
+**2.** Ce cantitate de motorină a fost consumată de un motor Diesel cu randamentul de 40%, dacă lucrul mecanic efectuat a fost de 8.500.000 J ?
+  
+:::
+
+
+- Scriem datele problemei și le transformăm în S.I.:
+ 
+m = ?
+
+q = 42.000 KJ/kg = 42.000.000 J/kg (din tabel)
+
+L = 8.500.000 J
+
+η = 40 % =  40/100
+
+- Scriem formula randamentului  și a căldurii degajată de combustibil :
+
+<Img src="fizica/clasa8/capitolul1/1_10_Poza4_Ecuatia1ProblemaExperimentala2.jpg" />
+
+
+<br></br>
+
+
+
+## I.11. Tabel cu constante fizice (de material).
+
+
+
+
+<Img src="fizica/clasa8/capitolul1/1_11_Poza1_TabelCuConstanteDeMaterial.jpg" />
+
+
