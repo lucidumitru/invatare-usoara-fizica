@@ -7,9 +7,6 @@ module.exports = {
     organizationName: 'lucidumitru', // Usually your GitHub org/user name.
     projectName: 'invatare-usoara-fizica', // Usually your repo name.
     themeConfig: {
-        googleAnalytics: {
-            trackingID: 'UA-GACODE-1',
-        },
         navbar: {
             title: 'Invăţarea uşoară a fizicii',
             logo: {
@@ -86,4 +83,26 @@ module.exports = {
             },
         ],
     ],
+
+  plugins: ['@docusaurus/plugin-google-analytics'],
+  themeConfig: {
+    googleAnalytics: {
+      trackingID: 'UA-175175454-1',
+      // Optional fields.
+      anonymizeIP: true, // Should IPs be anonymized?
+    },
+  },
+
+  plugins: ['@docusaurus/plugin-google-gtag'],
+  themeConfig: {
+    gtag: {
+      trackingID: 'UA-175175454-1',
+      // Optional fields.
+      anonymizeIP: true, // Should IPs be anonymized?
+    },
+  },
+
+
+
 };
+
