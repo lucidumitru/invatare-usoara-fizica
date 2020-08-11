@@ -1,4 +1,5 @@
 module.exports = {
+    onBrokenLinks: 'ignore',
     title: 'Invăţarea uşoară a fizicii',
     tagline: 'Invăţăm prin experimente',
     url: 'https://lucidumitru.github.io',
@@ -28,7 +29,18 @@ module.exports = {
         },
         footer: {
             style: 'dark',
-            links: [
+            links: [{
+                     title: 'Documentaţii',
+                     items: [{
+                              label: 'Invăţarea uşoară a fizicii',
+                              to: 'docs/fizica/clasa6/fizica-clasa6-capitolul1',
+                         },
+                             {
+                               label: 'Ghidul de fizica',
+                               to: 'docs/ghidul-de-fizica-versus-accidentari',
+                             },
+                            ],
+                },
                 {
                     title: 'Comunitate',
                     items: [{
