@@ -93,16 +93,6 @@ module.exports = {
     },
   },
 
-  plugins: ['@docusaurus/plugin-google-gtag'],
-  themeConfig: {
-    gtag: {
-      trackingID: 'UA-175175454-1',
-      // Optional fields.
-      anonymizeIP: true, // Should IPs be anonymized?
-    },
-  },
-
-
 
 };
 
