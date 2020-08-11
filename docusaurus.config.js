@@ -7,13 +7,16 @@ module.exports = {
     organizationName: 'lucidumitru', // Usually your GitHub org/user name.
     projectName: 'invatare-usoara-fizica', // Usually your repo name.
     themeConfig: {
+        googleAnalytics: {
+            trackingID: 'UA-GACODE-1',
+        },
         navbar: {
             title: 'Invăţarea uşoară a fizicii',
             logo: {
                 alt: 'My Site Logo',
                 src: 'img/logo.svg',
             },
-            links: [{
+            items: [{
                     to: 'docs/fizica/clasa6/fizica-clasa6-capitolul1',
                     activeBasePath: 'docs',
                     label: 'Documentaţii',
