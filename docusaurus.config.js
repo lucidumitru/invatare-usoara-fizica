@@ -7,9 +7,6 @@ module.exports = {
     organizationName: 'lucidumitru', // Usually your GitHub org/user name.
     projectName: 'invatare-usoara-fizica', // Usually your repo name.
     themeConfig: {
-        googleAnalytics: {
-              trackingID: 'UA-175175454-1',
-        },
         navbar: {
             title: 'Invăţarea uşoară a fizicii',
             logo: {
