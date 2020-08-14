@@ -1,4 +1,7 @@
 module.exports = {
+    plugins: [
+     require.resolve('@cmfcmf/docusaurus-search-local')
+    ],
     onBrokenLinks: 'ignore',
     title: 'Invăţarea uşoară a fizicii',
     tagline: 'Invăţăm prin experimente',
