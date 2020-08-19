@@ -9,11 +9,12 @@
     "deploy": "docusaurus deploy"
   },
   "dependencies": {
-    "@cmfcmf/docusaurus-search-local": "^0.3.0",
-    "@docusaurus/core": "^2.0.0-alpha.58",
+    "@docusaurus/core": "^2.0.0-alpha.61",
     "@docusaurus/plugin-google-analytics": "^2.0.0-alpha.37",
     "@docusaurus/plugin-google-gtag": "^2.0.0-alpha.37",
+    "@docusaurus/plugin-sitemap": "^2.0.0-alpha.37",
     "@docusaurus/preset-classic": "^2.0.0-alpha.58",
+    "@docusaurus/theme-search-algolia": "^2.0.0-alpha.32",
     "clsx": "^1.1.1",
     "exenv": "^1.2.2",
     "lodash": "^4.17.19",

@@ -1,7 +1,14 @@
 module.exports = {
     plugins: [
-     require.resolve('@cmfcmf/docusaurus-search-local')
+    [
+      '@docusaurus/plugin-sitemap',
+      {
+        cacheTime: 600 * 1000, // 600 sec - cache purge period
+        changefreq: 'weekly',
+        priority: 0.5,
+      },
     ],
+   ],
     onBrokenLinks: 'ignore',
     title: 'Invăţarea uşoară a fizicii',
     tagline: 'Invăţăm prin experimente',
@@ -14,7 +21,11 @@ module.exports = {
         googleAnalytics: {
             trackingID: 'UA-175175454-1',
         },
-
+         algolia: {
+             apiKey: 'YOUR_API_KEY',
+             indexName: 'YOUR_INDEX_NAME',
+             searchParameters: {}, // Optional (if provided by Algolia)
+        },
         navbar: {
             title: 'Invăţarea uşoară a fizicii',
             logo: {
