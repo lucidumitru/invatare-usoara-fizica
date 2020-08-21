@@ -1,4 +1,10 @@
 module.exports = {
+     plugins: [
+     [require.resolve('@cmfcmf/docusaurus-search-local'),{
+         // Options here
+         language: "ro" // language of your documentation, see next section
+     }]
+    ],
     onBrokenLinks: 'ignore',
     title: 'Invăţarea uşoară a fizicii',
     tagline: 'Invăţăm prin experimente',
@@ -11,12 +17,6 @@ module.exports = {
         googleAnalytics: {
             trackingID: 'UA-175175454-1',
         },
-        algolia: {
-             apiKey: 'YOUR_API_KEY',
-             indexName: 'YOUR_INDEX_NAME',
-             searchParameters: {}, // Optional (if provided by Algolia)
-        },
-
         navbar: {
             title: 'Invăţarea uşoară a fizicii',
             logo: {
