@@ -12,8 +12,8 @@ module.exports = {
             trackingID: 'UA-175175454-1',
         },
         algolia: {
-             apiKey: '9fca6c4ab075a147ad5ffdb7caf77214',
-             indexName: 'lucidumitru_invatare-usoara-fizica',
+             apiKey: 'YOUR_API_KEY',
+             indexName: 'YOUR_INDEX_NAME',
              searchParameters: {}, // Optional (if provided by Algolia)
         },
 
