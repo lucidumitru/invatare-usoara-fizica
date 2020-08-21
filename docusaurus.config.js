@@ -1,14 +1,4 @@
 module.exports = {
-plugins: [
-    [
-      '@docusaurus/plugin-sitemap',
-      {
-        cacheTime: 600 * 1000, // 600 sec - cache purge period
-        changefreq: 'weekly',
-        priority: 0.5,
-      },
-    ],
-  ],
     onBrokenLinks: 'ignore',
     title: 'Invăţarea uşoară a fizicii',
     tagline: 'Invăţăm prin experimente',
@@ -22,8 +12,8 @@ plugins: [
             trackingID: 'UA-175175454-1',
         },
         algolia: {
-             apiKey: 'YOUR_API_KEY',
-             indexName: 'YOUR_INDEX_NAME',
+             apiKey: '9fca6c4ab075a147ad5ffdb7caf77214',
+             indexName: 'lucidumitru_invatare-usoara-fizica',
              searchParameters: {}, // Optional (if provided by Algolia)
         },
 
