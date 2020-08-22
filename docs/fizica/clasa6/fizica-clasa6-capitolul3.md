@@ -9,11 +9,11 @@ import Img from '@site/src/components/Img'
 import Video from '@site/src/components/Video'
 
 
-## III.1. Mișcare și repaus
+## III.1. Mișcare și repaus.
 
 
 
-### III.1.1. Corp. Mobil. Reper. Sistem de referință. Mișcare și repaus.Traiectorie
+### III.1.1. Corp. Mobil. Reper. Sistem de referință. Mișcare și repaus. Traiectorie.
 
 
 Un corp cu dimensiuni neglijabile față de mărimea deplasărilor sau față de distanța la care se află alte corpuri se poate reprezenta printr-un punct numit **punct material.**
@@ -315,7 +315,7 @@ Un biciclist pleacă de la kilometrul 20 la ora 12:00 și ajunge la kilometrul 6
 
 :::important
 
-#### Caracterizarea lungimii ca mărime fizică:
+#### Caracterizarea vitezei medii ca mărime fizică:
 
 #### •	Simbol: v<sub>m</sub> sau v
 #### •	Formula de calcul:
@@ -461,7 +461,7 @@ Cum să îți măsori viteza de alergare pe o pistă de 100m?
 
 
 
-### III.1.4.a. Mișcarea rectilinie uniformă
+### III.1.4.a. Mișcarea rectilinie uniformă.
 
 
 #### A)	Clasificarea mișcării după traiectorie:
@@ -569,7 +569,7 @@ Când viteza ne dă cu perioadă, este bine să lucrăm cu fracție ireductibil�
 
 
 
-### III.1.4.b. Reprezentarea grafică a mișcării
+### III.1.4.b. Reprezentarea grafică a mișcării.
 
 
 #### Pentru a reprezenta graficul mișcării unui mobil (alergării Luizei pe pista de 100m) trebuie să parcurgi următoarele patru etape:
@@ -686,3 +686,612 @@ La calculul timpului, scădem t<sub>2</sub> - t<sub>1</sub>, deoarece t<sub>2</s
 
 
 <Video src="https://www.youtube.com/embed/r0HcxgJlXCY" />
+
+
+<br></br>
+<br></br>
+
+
+
+
+
+### III.1.5. Punerea în mișcare și oprirea unui corp. Aceelerația medie, unitatea de măsură.
+
+
+Mișcarea rectilinie uniformă este posibilă în viața de zi cu zi, numai pe porțiuni mici de autostradă. În cazul mișcărilor reale, viteza mobilelor crește sau scade în timp, datorită semafoarelor, curbelor, trecerilor de pietoni, limitărilor de viteză. Toate mașinile au o pedală de accelerație și una de frână.
+
+
+
+:::important Definiţie
+ 
+**Un mobil are o mișcare accelerată** atunci când viteza lui crește în timp.   
+ 
+:::
+
+
+#### Iată cum arată pozițiile unui mobil la intervale de timp egale în mișcarea accelerată:
+
+<Img src="fizica/clasa6/capitolul3/3_1_5_Poza1_PozitiiMobilLaMiscareaAccelerata.jpg" />
+
+
+**La pornire,** mobilul are o mișcare accelerată, deoarece viteza lui crește de la zero.
+
+
+
+#### Iată cum arată pozițiile unui mobil la intervale de timp egale în mișcarea frânată:
+
+
+<Img src="fizica/clasa6/capitolul3/3_1_5_Poza2_PozitiiMobilLaMiscareaFranata.jpg" />
+
+
+**La oprire,** mobilul are o mișcare frânată, deoarece viteza lui scade până la zero.
+
+
+
+
+:::important Definiţie
+ 
+**Accelerația medie (a<sub>medie</sub> sau a<sub>m</sub>) este mărimea fizică egală cu raportul dintre variația vitezei (creșterea sau scăderea ei) și durata în care s-a produs această variație.   
+ 
+:::
+
+
+
+
+
+:::important
+
+#### Caracterizarea accelerației ca mărime fizică:
+
+#### •	Simbol: a<sub>m</sub> sau a
+#### •	Formula de calcul:
+
+<Img src="fizica/clasa6/capitolul3/3_1_5_Poza3_FormulaCalculAcceleratieMedie.jpg" />
+
+#### •	Unitatea de măsură în Sistemul Internațional:
+
+<Img src="fizica/clasa6/capitolul3/3_1_5_Poza4_UnitateDeMasuraAAcceleratieiMedii.jpg" />
+
+#### •	Instrumente de măsură: accelerometrul.
+
+:::
+
+
+<br></br>
+<br></br>
+
+
+
+
+
+
+### III.1.6. Mișcarea rectilinie uniform variată.
+
+
+
+
+:::important Definiţie
+ 
+**Mișcarea rectilinie uniform variată** este mișcarea unui mobil pe o traiectorie rectilinie și cu accelerație constantă.
+ 
+:::
+
+
+:::important
+ 
+
+#### În mișcarea rectilinie uniform accelerată:
+
+- Mobilul parcurge distanțe din ce în ce mai mari, în intervale de timp egale.
+
+- Accelerația momentană  este egală cu accelerația  medie, fiind constante.
+
+- Accelerația și viteza au aceeași direcție și sens, ca și cel al mișcării.
+
+
+ 
+:::
+
+
+<Img src="fizica/clasa6/capitolul3/3_1_6_Poza1_MiscareRectilinieUniformVariata.jpg" />
+
+
+
+
+:::note Observaţie
+
+Cel mai cunoscut exemplu de **mișcarea rectilinie uniform accelerată** este căderea liberă a corpurilor pe Pământ. **Toate corpurile cad spre Pământ cu o accelerație constantă, numită accelerație gravitațională, g = 9,81 m/s<sup>2</sup>.**
+
+:::
+
+
+
+
+
+:::caution Problemă model
+
+Privește cu atenție datele despre mișcarea fetei. Cum determinăm tipul mișcării ei ? 
+
+Observăm că în intervale de timp egale (de 4s), fata parcurge distanțe din ce în ce mai mari. Dacă calculăm vitezele pe fiecare porțiune, acestea cresc. Vitezele cresc cu valori egale ( Δv =1 m/s) în intervale de timp egale ( Δt = 4s). Cum accelerația este raportul dintre variația vitezei pe intervalul de timp, rezultă că mișcarea este rectilinie uniform accelerată.
+
+
+<Img src="fizica/clasa6/capitolul3/3_1_6_Poza1_RezolvareaProblemaModel1.jpg" />
+
+:::
+
+
+
+:::caution Problemă model
+
+Pentru a intra într-o depășire, o mașină care se deplasează cu o viteză de 54 km/h, accelerează cu 4 m/s2 . La ce viteză ajunge mașina după 5 s ?
+
+
+- Notăm datele problemei  și le transformăm în SI:
+
+<Img src="fizica/clasa6/capitolul3/3_1_6_Poza2_DateleProblemeiModel2.jpg" />
+
+- Scriem formula accelerației și scoatem necunoscuta, v<sub>2</sub>:
+
+
+<Img src="fizica/clasa6/capitolul3/3_1_6_Poza3_RezolvareaProblemaModel2.jpg" />
+
+:::
+
+
+
+
+<br></br>
+<br></br>
+
+
+
+## III.2. Inerția. Masa. Densitatea.
+
+### III.2.1. Inerția proprietatea generală a corpurilor.
+
+
+
+:::tip Experiment
+
+**1.** De ce moneda cade în pahar ?
+
+:::
+
+
+<Video src="https://www.youtube.com/embed/_RsUIcTPYIM" />
+
+
+<br></br>
+
+**Materiale necesare:**: un pahar, carton subțire, monedă.
+
+**Descrierea experimentului:** 
+
+- Pune cartonul pe gura paharului.
+- Așază moneda peste carton, astfel încât moneda să fie la mijlocul gurii paharului.
+- Trage brusc de carton. 
+
+
+- Ce observi ?
+
+
+:::note Observaţie
+
+Moneda cade în pahar.
+
+:::
+
+
+
+**Concluzia experimentului:**
+Când tragi de carton, schimbi  starea de repaus în care se afla moneda. Moneda se opune la această schimbare (dă înapoi)  și cade în pahar. Această proprietate pe care o au toate corpurile din natură se numește inerție.
+
+
+
+:::important Definiţie
+ 
+**Inerția** este proprietatea corpurilor de a se opune schimbării stării de repaus sau de mișcare rectilinie uniformă în care se aflau.
+ 
+:::
+
+
+
+
+<br></br>
+<br></br>
+
+
+
+
+:::tip Experiment
+
+**2.** Ou crud sau ou fiert ?
+
+:::
+
+
+<Video src="https://www.youtube.com/embed/WjM4nTMZfvg" />
+
+
+<br></br>
+
+**Materiale necesare:**: o farfurie, un ou fiert și un ou crud (nefiert) de aceeași dimensiune.
+
+**Descrierea experimentului:** 
+
+- Învârte, pe rând, cele două ouă într-o farfurie.
+- Atinge-le rapid cu mâna și observă ce se întâmplă cu fiecare.
+
+
+- Ce observi ?
+
+
+:::note Observaţie
+
+Oul fiert se oprește repede, iar cel crud (nefiert) continuă să se învârtă.
+
+:::
+
+
+
+**Concluzia experimentului:**
+Oul crud are inerția mai mare decât cel fiert, deoarece se opune mai mult la schimbarea stării de mișcare în care se afla.
+
+
+
+
+<br></br>
+<br></br>
+
+
+
+:::tip Experiment
+
+**3.** Inerția și autobuzul.
+
+:::
+
+
+<Video src="https://www.youtube.com/embed/D4PSgjkNXZk" />
+
+
+<br></br>
+
+**Materiale necesare:**: două farfurii de dimensiuni diferite.
+
+
+**Descrierea experimentului:** 
+
+- Pune farfuria mai mică în cea mai mare, la jumătatea ei.
+- Pornește brusc farfuria mai mare. Ce observi ?
+
+:::note Observaţie
+
+Când pornim brusc farfuria de dedesubt, cea de deasupra se dă înapoi.
+
+:::
+
+
+
+- Oprește brusc farfuria mai mare. Ce observi ?
+
+
+:::note Observaţie
+
+Când pornim brusc farfuria de dedesubt, cea de deasupra se dă înapoi.
+
+:::
+
+
+
+
+**Concluzia experimentului:**
+
+Farfuria de deasupra are inerție. Această situație este similară cazului în care suntem în autobuz.
+
+La pornirea autobuzului, noi ne dezechilibrăm în spate, deoarece ne opunem la schimbarea stării de repaus în care ne aflam, adică avem inerție.
+
+La oprirea autobuzului, noi ne dezechilibrăm în față (corpul nostru dorea să își continue mișcarea), deoarece ne opunem la schimbarea stării de mișcare în care ne aflam, adică avem inerție.
+
+
+
+:::note Observaţie
+
+Inerția unui corp se manifestă doar când asupra lui acționează un alt corp, adică când corpul are o mișcare variată:
+
+- Accelerează (la pornire)
+
+- Frânează (la oprire)
+
+- Schimbarea traiectoriei.
+
+**Dacă asupra corpului nu acționează un alt corp, el își va păstra starea de repaus sau de mișcare rectilinie uniformă.**
+
+
+:::
+
+
+
+:::caution Aplicarea în viața de zi cu zi a noțiunii de inerție
+
+**1.** Când suntem în mijloacele de transport în comun, este obligatoriu să ne ținem de bare, pentru a nu cădea
+  
+:::
+
+
+
+<Img src="fizica/clasa6/capitolul3/3_2_1_Poza1_AplicatiiInertie.jpg" />
+
+
+
+:::caution Aplicarea în viața de zi cu zi a noțiunii de inerție
+
+**2.** În autoturisme, trebuie să purtăm  centura de siguranță și scaunele auto pentru copii, deoarece la o oprire bruscă a mașinii, datorită inerției, ne putem lovi de obiectele din fața scaunului (parbriz sau banchetele din față).
+  
+:::
+
+
+<Img src="fizica/clasa6/capitolul3/3_2_1_Poza2_AplicatiiInertie.jpg" />
+
+
+
+:::caution Aplicarea în viața de zi cu zi a noțiunii de inerție
+
+**3.**  Pasagerii dintr-un vehicul, în curbă, sunt aruncați spre exterior, datorită inerției, tinzând să-și mențină mișcarea rectilinie.
+  
+:::
+
+<Img src="fizica/clasa6/capitolul3/3_2_1_Poza3_AplicatiiInertie.jpg" />
+
+
+
+:::caution Aplicarea în viața de zi cu zi a noțiunii de inerție
+
+**4.**  În spațiul cosmic, unde nu există aer și nici gravitație (nicio interacțiune cu alte corpuri), astronauții sunt în stare de imponderabilitate, datorită inerției.
+  
+:::
+
+<Img src="fizica/clasa6/capitolul3/3_2_1_Poza4_AplicatiiInertie.jpg" />
+
+
+
+:::caution Aplicarea în viața de zi cu zi a noțiunii de inerție
+
+**5.**  Când te afli pe bicicletă pe un drum drept, nu trebuie să pedalezi continuu, datorită inerției, bicicleta mai merge singură o porțiune de drum.
+  
+:::
+
+
+<Img src="fizica/clasa6/capitolul3/3_2_1_Poza5_AplicatiiInertie.jpg" />
+
+
+:::caution Aplicarea în viața de zi cu zi a noțiunii de inerție
+
+**6.** În sălile de atletism, lângă linia de sosire sunt puse saltele, deoarece  atleții, datorită inerției, nu se pot opri brusc după linia de sosire.
+  
+:::
+
+
+<Img src="fizica/clasa6/capitolul3/3_2_1_Poza6_AplicatiiInertie.jpg" />
+
+
+:::caution Aplicarea în viața de zi cu zi a noțiunii de inerție
+
+**7.** Praful din haine sau covoare poate fi scos prin scuturare sau batere cu un obiect dur . Când lovim covorul cu bătătorul, praful rămâne în urma covorului, datorită inerției și așa iese din covor.
+  
+:::
+
+<Img src="fizica/clasa6/capitolul3/3_2_1_Poza7_AplicatiiInertie.jpg" />
+
+
+
+:::caution Aplicarea în viața de zi cu zi a noțiunii de inerție
+
+**8.** Separarea mierii din fagure se realizează într-un separator manual, care pune în rotație fagurele cu ajutorul unei manivele. Mierea, datorită proprietății de inerție, va tinde să rămână în urma fagurelui fixat într-o sită metalică și astfel, ea se separă de ceara din fagure.  
+  
+:::
+
+<Img src="fizica/clasa6/capitolul3/3_2_1_Poza8_AplicatiiInertie.jpg" />
+
+
+
+:::caution Aplicarea în viața de zi cu zi a noțiunii de inerție
+
+**9.** Rufele puse în mașina de spălat sunt stoarse în cuva metalică cu găurele, prin rotirea rapidă a cuvei (800- 1400 rotații pe minut) . Rufele ude tin să-și păstreze mișcarea rectilinie și uniformă, dar sunt obligate să se rotească datorită cuvei. Apa poate să iasă prin orificiile mici ale cuvei, dar rufele nu.  
+  
+:::
+
+<Img src="fizica/clasa6/capitolul3/3_2_1_Poza9_AplicatiiInertie.jpg" />
+
+
+
+<br></br>
+<br></br>
+
+
+
+
+### III.2.2. Masa, măsură a inerţiei. Unităţi de măsură.
+
+
+
+:::tip Experiment
+
+**4.** Inerţia bilelor!
+
+:::
+
+
+<Video src="https://www.youtube.com/embed/XausxW7Qxr0" />
+
+
+<br></br>
+
+**Materiale necesare:**: două bile de acelaşi diametru, una mai ușoară decât cealaltă, carton.
+
+**Descrierea experimentului:** 
+
+- Împătureşte cartonul de trei ori şi apoi desfă-l.
+- Așază un capăt al cartonului pe un suport pentru a forma un plan înclinat.
+- Lasă, pe rând, să se rostogolească cele două bile pe planul înclinat și observă care ajunge mai departe de baza planului înclinat. 
+
+
+:::note Observaţie
+
+Bila mai uşoară a parcurs o distanţă mai mică decât bila mai grea.
+
+:::
+
+
+
+**Concluzia experimentului:**
+Bila mai grea are inerția mai mare decât bila ușoară.
+
+
+
+Corpurile se comportă diferit la schimbarea stării de mișcare sau de repaus. Cu cât corpul  este mai greu, cu atât și oprirea lui este mai anevoioasă, deci inerția lui se manifestă mai puternic (este mai mare).
+
+Întrucât putem ordona corpurile după inerție, înseamnă că inerția este o proprietate măsurabilă, căreia i s-a asociat o mărime fizică numită masă.  
+
+
+#### Corpurile care au mase egale, spunem că au aceeași inerţie.
+ 
+#### Corpul care are masa mai mare decât altul, are şi inerția mai mare.
+
+
+:::important Definiţie
+ 
+**Masa unui corp** este o mărime fizică care măsoară inerţia corpului. 
+ 
+:::
+
+
+
+:::important
+
+#### Caracterizarea masei unui corp ca mărime fizică:
+
+#### •	Simbol: m
+#### •	Nu are formulă de calcul
+#### •	Unitatea de măsură în Sistemul Internațional: [m]SI = kg (kilogramul)
+#### •	Instrumente de măsură: cântar sau balanță.
+
+:::
+
+
+
+
+:::note Observaţie
+
+Masa unui corp arată și cantitatea de materie conținută de corp. Atenție! În limbajul de zi cu zi, oamenii confundă masa cu greutatea. Deci, nu este corect când spunem că prin cântărire determinăm greutatea corpului. Corect este, prin cântărire determinăm masa corpului.
+
+:::
+
+
+
+
+
+:::caution Problemă model
+
+O minge de tenis de câmp și una de baschet se mișcă cu aceeași viteză. Pe care o oprești mai ușor ?
+
+
+#### Rezolvare:
+
+Oprim mai ușor mingea de tenis deoarece, ea are masa mai mică decât cea de baschet. Având masa mai mică are și inerția mai mică și se opune mai puțin la schimbarea stării de mișcare în care se afla.
+
+:::
+
+
+
+:::note Observaţie
+
+**Inerția unui corp depinde atât de masa corpului, cât și de viteza lui.**
+
+În problema dată, considerăm că mingile au aceeași viteză. Dar, în realitate oprim mai ușor mingea de baschet, deoarece ea are o viteză mult mai mică ( maxim 100 km/h) decât cea de tenis (viteza ei poate ajunge la 250 km/h) , având și inerția mai mică.
+
+
+:::
+
+
+<br></br>
+<br></br>
+
+
+
+
+### III.2.3. Măsurarea directă a masei corpurilor. Cântărirea.
+
+
+Masa unui corp se determină prin cântărire:
+
+- cu ajutorul balanţei
+
+<Img src="fizica/clasa6/capitolul3/3_2_3_Poza1_PozaBalanta.jpg" />
+
+
+
+  
+- sau cu ajutorul cântarului.
+
+<Img src="fizica/clasa6/capitolul3/3_2_3_Poza2_PozaCantar.jpg" />
+
+
+
+<br></br>
+ 
+ 
+
+:::tip Experiment
+
+**5.** Cântărirea corpurilor cu balanța și cu cântarul
+
+:::
+
+
+<Video src="https://www.youtube.com/embed/M8UfgcbFqb4" />
+
+
+<br></br>
+
+**Materiale necesare:**: balanță, cântar, corp, mase marcate.
+
+**Descrierea experimentului:** 
+
+- Așază corpul pe un taler (farfurioara) al balanței.
+- Pe celălalt taler așază cea mai mare masă marcată (100g). Dacă este prea mare și balanța nu s-a echilibrat (acul indicator nu este la 0), înlocuiește-o cu următoarea masă mai mică (50g).
+- Procedezi la fel până balanța este echilibrată (pârghia balanței să fie orizontală și acul indicator la mijlocul scalei gradate, adică la 0).
+- Aduni toate masele marcate așezate pe taler, începând cu cele de ordinul gramelor și apoi cu cele de ordinul miligramelor. Așa obții masa corpului.
+
+
+
+
+:::note Observaţie
+
+Reguli pentru o cântărire corectă cu balanța din laboratorul de fizică
+1)	Balanța trebuie așezată pe o suprafață plană, fixă și stabilă.
+2)	 Înainte de cântărire, se verifică dacă balanţa este bine echilibrată (acul
+indicator să fie în dreptul diviziunii zero). 
+3)	Corpul de cântărit sau masele marcate trebuie să fie așezate în mijlocul talerelor, pentru a se evita dezechilibrarea lor.
+
+
+:::
+
+
+
+- Pentru a măsura masa unui corp cu un cântar, așază corpul pe cântar și citește indicația acestuia ( digitală sau cu ac indicator și scală gradată).
+
+
+
+**Concluzia experimentului:**
+Prin cântărire ca balanţa sau cântarul obţinem masa corpului.
+
+
+
+<br></br>
+<br></br>
+
+
+
+
+

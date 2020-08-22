@@ -1263,3 +1263,5 @@ d) 4,6hs =460s
 Calculează valoarea reală a perioadei pendulului din experimentul lui Mihai.
 
 
+
+
