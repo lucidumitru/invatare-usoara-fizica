@@ -2373,7 +2373,7 @@ Legea deformării elastice ne arată că forța deformatoare (F) este egală în
 
 :::caution Problemă model
 
-11) Un resort are lungimea inițială de 6cm și când este deformat are 2 cm. Știind  că resortul are 40 N /m, determină:
+11) Un resort are lungimea inițială de 6cm și când este deformat are 10 cm. Știind  că resortul are 40 N /m, determină:
 a)	Forța deformatoare.
 
 b)	Forța elastică.
@@ -2398,19 +2398,19 @@ a) Scriem legea deformării elastice : |F| = |F<sub>e</sub> | = k ∙ ΔL
 <Img src="fizica/clasa6/capitolul3/3_3_3_3_Poza7_RezolvarePunctulAProblemaModel11.jpg" />
 
 
-b) Forța elastică ( Fe) este egală în modul cu forța deformatoare ( F).
+b) Forța elastică (Fe) este egală în modul cu forța deformatoare (F).
 
 |F<sub>e</sub>| = |F| = 1,6 N.
 
 
-c)	Resortul este comprimat, deoarece lungimea lui scade când este deformat.
+c)	Resortul este alungit, deoarece lungimea lui creşte când este deformat.
 
-d)	Forța deformatoare (F) o desenăm un segment cu săgeată orientat spre resort (stânga), deoarece ea comprimă (strânge) resortul.
+d)	Forța deformatoare (F) o desenăm un segment cu săgeată orientat spre dreapta, deoarece ea alungeşte resortul.
 
-Forța elastică (F<sub>e</sub>) o desenăm un segment cu săgeată orientat în sens opus forței deformatoare (spre dreapta), deoarece ea readuce la forma inițială resortul.
+Forța elastică (F<sub>e</sub>) o desenăm un segment cu săgeată orientat în sens opus forței deformatoare (spre stânga), deoarece ea readuce la forma inițială resortul.
 
 
-<Img src="fizica/clasa6/capitolul3/3_3_3_3_Poza100_FortaDeformatoareSiFortaElastica.jpg" />
+<Img src="fizica/clasa6/capitolul3/3_3_3_3_Poza8_fortaDeformatoareSiFortaElastica.jpg" />
 
 :::
 
