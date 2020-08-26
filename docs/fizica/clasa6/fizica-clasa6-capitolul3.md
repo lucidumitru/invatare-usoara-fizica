@@ -2374,6 +2374,7 @@ Legea deformării elastice ne arată că forța deformatoare (F) este egală în
 :::caution Problemă model
 
 11) Un resort are lungimea inițială de 6cm și când este deformat are 10 cm. Știind  că resortul are 40 N /m, determină:
+
 a)	Forța deformatoare.
 
 b)	Forța elastică.
