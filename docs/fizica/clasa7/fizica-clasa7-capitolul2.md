@@ -1465,3 +1465,856 @@ Forța de frecare la rostogolire este mai mică decât forța de frecare la alun
 
 <br></br>
 <br></br>
+
+
+
+
+### II.4.4. Tensiunea în fir (T)
+
+#### De ce nu cad corpurile suspendate de fire sau bare ?
+
+
+#### Privește următoarele imagini  și observă cum sunt realizate interacțiunile dintre corpuri: 
+
+
+<Img src="fizica/clasa7/capitolul2/2_4_4_Poza1_Macara.jpg" />
+
+#### Macaraua ridică greutăți prin intermediul unor fire.
+
+
+<Img src="fizica/clasa7/capitolul2/2_4_4_Poza2_PodSuspendatPeCabluri.jpg" />
+
+
+#### Podul este susținut cu ajutorul unor cabluri și bare de oțel.
+
+
+<Img src="fizica/clasa7/capitolul2/2_4_4_Poza3_SanieTrasaDeCaini.jpg" />
+
+
+#### Câinii trag de firele legate de sanie.
+
+
+<br></br>
+<br></br>
+
+
+
+:::tip Experiment
+
+**17.** Măsurarea tensiunii în fir
+
+:::
+
+
+<Video src="https://www.youtube.com/embed/VIhFxW1yKjA" />
+
+
+<br></br>
+
+**Materiale necesare:**: corp, fir, dinamometru. 
+
+
+
+
+
+
+**Descrierea experimentului:** 
+
+- Prinde de un corp un fir inextensibil (ață).
+
+- Trage uniform corpul pe masă prin intermediul unui dinamometru.
+
+- Ce reprezintă forța indicată de dinamometru ?
+
+
+
+
+:::note Observaţie
+
+Forța indicată de dinamometru reprezintă valoarea forței de tracțiune, cât și valoarea forței apărută în fir la întiderea sa, atunci când tragem de el.
+
+:::
+
+
+
+
+**Concluzia experimentului:**
+
+Tensiunea din firul ce leagă dinamometrul de corp reprezintă reacțiunea forței cu care dinamometrul trage de fir și îl întinde. Conform principiului acțiunii și reacțiunii, tensiunea în fir are modulul egal cu forța indicată de dinamometru.
+
+
+
+:::important Definiţie
+ 
+**Tensiunea din fir ( T )** reprezintă forța de reacțiune  a firului inextensibil (care nu se alungește) la forță de întindere exercitată asupra lui. 
+ 
+ 
+:::
+
+
+
+
+:::note Observaţie
+
+- **În orice secțiune a unui fir întins de o forță acționează două forțe egale în modul, dar opuse ca sens, acțiunea și reacțiunea, cu care o parte a firului acționează asupra celeilalte părți. Oricare dintre aceste forțe se numește tensiune în fir.**
+ 
+- Dacă firul este de masă neglijabilă, atunci tensiunea are aceeași valoare în orice punct al firului.
+ 
+- Dacă firul are masă, atunci tensiunea în fir are valori diferite în puncte diferite.
+ 
+- Tensiunea într un fir sau într o bară se transmite din aproape în aproape, de a lungul întregului fir sau de a lungul întregii bare.
+
+- Forțele de tensiune apar atât în firele și tijele întinse, cât și în tijele comprimate. 
+
+
+:::
+
+
+
+
+
+:::caution Problemă model
+
+3) Desenează forțele care apar la tragerea unui corp prin intermediul unui fir.
+
+<Img src="fizica/clasa7/capitolul2/2_4_4_Poza4_SchemaProblemaModel3.jpg" />
+
+#### Rezolvare:
+
+
+#### Interacțiunea fir – mână:
+ 
+- Forța F<sub>2</sub> este exercitată de mână asupra firului (acțiunea),
+- T<sub>2</sub>  este forța exercitată de fir asupra mâinii (reacțiunea).
+
+
+#### Interacțiunea corp - fir:
+ 
+- Forța F<sub>1</sub> este exercitată de corp asupra firului (acțiunea),
+  
+- T<sub>1</sub> este forța exercitată de fir asupra corpului (reacțiunea).
+
+
+:::
+
+
+
+<br></br>
+<br></br>
+
+
+### II.4.5. Forța elastică ( F<sub>e</sub> )
+
+
+
+
+Un resort alungit sau comprimat este deformat elastic, cu o anumită forță, numită **forță deformatoare (F)**. Când încetează acțiunea asupra lui, resortul revine la forma inițială. Înseamnă că, asupra resortului acționează o altă forță, egală, dar de sens opus , numită forță elastică, întrucât apare numai în deformarea elastică. 
+
+:::important Definiţie
+ 
+**Forța elastică (notată Fe)** este forța care apare în interiorul unui corp deformat elastic și readuce corpul la forma inițială, fiind egală, dar de sens opus cu forța deformatoare (F). 
+ 
+:::
+
+
+
+:::caution Importanța forței elastice care apare în corpurile elastice :
+
+1)	Aerul are proprietăți elastice, fiind folosit la pneurile roților pentru amortizarea șocurilor sau la diferite obiecte pneumatice (saltele, mingii, baloane, etc.)
+
+<Img src="fizica/clasa7/capitolul2/2_4_5_Poza1_ImportantaForteiElastice_Pneuri.jpg" />
+
+
+2)	Arcurile (resorturile)  sunt folosite pentru  pentru amortizarea șocurilor și vibrațiilor (suspensii de autovehicole , pentru acumulare de energie (arcuri de ceas, rulouri, arcuri de supape), exercitarea unei forţe elastice permanente (cuplaje de siguranţă , reglarea sau limitarea forţelor sau a debitelor (prese, cuplaje de siguranţă, robinete de reglare etc.).
+
+
+<Img src="fizica/clasa7/capitolul2/2_4_5_Poza2_ImportantaForteiElastice_Resorturi.jpg" />
+
+
+#### Resorturile se găsesc în construcția multor obiecte :
+
+- Dinamometre și cântare
+
+- Pulverizatoare
+
+- Pixuri
+
+- Vagoane de tren
+
+- Ceasuri
+ 
+- Suspensia vehiculului
+ 
+- Saltea de pat
+
+- Clip de păr
+ 
+- Clanță și broască de ușă
+
+- Arcuri pentru dulapuri
+
+- Extensor si flexor fitness
+ 
+- Şaua bicicletei sau motocicletei este aşezată pe arcuri, pentru atenuarea zdruncinărilor în timpul mersului
+
+
+3)	Arc cu săgeți sau arbaletă pentru vânătoare.
+
+<Img src="fizica/clasa7/capitolul2/2_4_5_Poza3_ImportantaForteiElastice_ArcCuSageti.jpg" />
+
+
+4)	Coardă elastică în bungee jumping
+
+<Img src="fizica/clasa7/capitolul2/2_4_5_Poza4_ImportantaForteiElastice_BungeeJumping.jpg" />
+
+
+:::
+
+
+<br></br>
+
+
+
+:::tip Experiment
+
+**18.** Cum se determină constanta elastică?
+
+:::
+
+
+<Video src="https://www.youtube.com/embed/Zc31kjOmRsg" />
+
+
+<br></br>
+
+**Materiale necesare:**: dinamometru, disc cu mase marcate, riglă.
+
+
+:::note Observaţie
+
+Greutatea corpului suspendat este forța deformatoare,  egală în modul cu forța elastică ( au aceeași valoare numerică) : |G<sub>1</sub> | = |F<sub>1</sub> | = |F<sub>e1</sub> |.
+
+:::
+
+
+
+**Descrierea experimentului:** 
+
+- Suspendă dinamometrul pe un suport.
+
+- Măsoară lungimea inițială a resortului dinamometrului: L<sub>0</sub> = 2cm.
+
+- Suspendă de cârligul dinamometrului un corp și măsoară-i greutatea G<sub>1</sub> = F<sub>e1</sub> = 0,12 N.
+
+- Măsoară lungimea  resortului dinamometrului  deformat: L<sub>1</sub> = 3,2 cm.
+
+- Calculează alungirea (deformarea) resortului : ΔL<sub>1</sub> = L<sub>1</sub> - L<sub>0</sub> = 1,2 cm.
+
+- Mai repetă aceleași operații pentru încă cel puțin un corp de masă diferită față de primul. Trece datele experimentale în următorul tabel :
+ 
+
+ 
+<Img src="fizica/clasa7/capitolul2/2_4_5_Poza5_TabelExperiment18.jpg" />
+
+
+:::note Observaţie
+
+Raportul  F<sub>e</sub> / ΔL este constant pentru un resort dat. 
+
+:::
+
+
+
+
+**Concluzia experimentului:**
+
+Cu cât greutatea corpului suspendat crește, cu atât crește și alungirea resortului.  Deci, forța elastică este direct proporțională cu deformarea resortului.
+
+
+:::important Definiţie
+ 
+**Constanta elastică a unui resort (k)** este egală cu raportul dintre forța elastică (F<sub>e</sub>)  și deformarea resortului (ΔL).
+
+[k]<sub>SI</sub> = N/m 
+ 
+ 
+:::
+
+
+:::important
+ 
+**Legea deformării elastice : |F| = |F<sub>e</sub> | = k ∙ ΔL** 
+
+Legea deformării elastice ne arată că forța deformatoare (F) este egală în modul cu forța elastică (F<sub>e</sub>), fiind direct proporțională cu deformarea resortului (ΔL).  Fiecare resort are o anumită constantă elastică (k), care se determină experimental.
+
+
+:::
+
+
+<br></br>
+<br></br>
+
+
+
+
+:::tip Experiment
+
+**19.** Determinarea constantei elastice a unui elastic ( Legea lui Hooke )
+
+:::
+
+
+<Video src="https://www.youtube.com/embed/EH8OjW1hWFA" />
+
+
+<br></br>
+
+**Materiale necesare:**: elastice de diferite lungimi și secțiuni, fir, pahar de plasic, monede.
+
+
+
+
+**Descrierea experimentului:** 
+
+- Prinde de un elastic mai îngust cu o anumită lungime (l<sub>01</sub> = 30cm)  și secțiune transversală (S<sub>1</sub>), un fir cu un pahar de plastic.
+
+- Pune monede în pahar până alungești elasticul cu 0,5 cm. Calculează masa monedelor și greutatea lor.
+ 
+- Repetă experimentul cu un alt elastic de aceeași secțiune transversală (S<sub>1</sub>), dar cu lungimea mai mare (l<sub>02</sub> = 70cm).
+
+- Repetă experimentul cu un alt elastic mai lat (S<sub>2</sub> = secțiune transversală mai mare), dar cu aceeași lungime  (l<sub>03</sub> = 70cm).
+
+- Calculează pentru fiecare elastic constanta sa de elasticitate, împărțind greutatea monedelor la alungirea produsă de aceasta. Compară cele trei rezultate și trage concluziile.
+
+
+#### Pentru Elasticul nr. 1:
+
+<Img src="fizica/clasa7/capitolul2/2_4_5_Poza6_Elasticulnr1_Experiment19.jpg" />
+
+
+
+
+
+#### Pentru Elasticul nr. 2:
+
+
+<Img src="fizica/clasa7/capitolul2/2_4_5_Poza7_Elasticulnr2_Experiment19.jpg" />
+
+
+:::note Observaţie
+
+Elasticul cu o lungime mai mare (Elasticul nr.2) are o constantă elastică mai mică decât elasticul cu lungimea mai mică.  
+
+:::
+
+**Concluzia experimentului (Partea1):**
+
+Constanta elastică este invers proporțională cu lungimea inițială a corpului elastic.
+
+
+
+
+#### Pentru Elasticul nr. 3:
+
+
+<Img src="fizica/clasa7/capitolul2/2_4_5_Poza8_Elasticulnr3_Experiment19.jpg" />
+
+
+
+:::note Observaţie
+
+Elasticul cu o secțiune transversală mai mare (Elasticul nr.3) are o constantă elastică mai mare decât elasticul cu secțiunea mai mică. 
+
+:::
+
+**Concluzia experimentului (Partea2):**
+
+Constanta elastică este direct proporțională cu secțiunea transversală a corpului elastic.
+
+
+
+
+:::important
+ 
+**Legea lui Hooke reprezintă dependența constantei elastice ( k ) de caracteristicile corpului elastic (resort, elastic, lamelă de oțel, etc.):**
+
+
+<Img src="fizica/clasa7/capitolul2/2_4_5_Poza9_EcuatiaLegiiLuiHooke.jpg" />
+
+
+- constanta de elasticitate k variază invers proporțional cu lungimea elasticului în stare nedeformată l<sub>0</sub> .
+
+- constanta de elasticitate k variază direct proporțional cu aria secțiunii transversale a resortului S .
+
+- constanta de elasticitate, k, depinde de natura materialului din care este realizat corpul elastic prin modulul de elasticitate E ( modulul lui Young), o constantă de material . De exemplu, cauciucul are E = 0,1 GN/m2, iar aluminiul are E = 70 GN/m2 .
+ 
+:::
+
+
+<Video src="https://www.youtube.com/embed/OKs1QRwtBpg" />
+
+
+
+<br></br>
+<br></br>
+
+
+## II.5. Compunerea forțelor cu regula paralelogramului 
+
+
+**Pentru adunarea a doi vectori necoliniari concurenți (care au același punct de aplicație)** se folosește **_regula paralelogramului_**, parcurgând patru etape: 
+
+
+- Se desenează ce doi vectori astfel încât să aibă același punct de aplicație.
+- Cu segmentele celor 2 vectori, se formează un paralelogram (patrulater cu laturile paralele și egale ).
+- Se trasează diagonala paralelogramului care are punct comun cu cei doi vectori. Acest segment reprezintă vectorul rezultant , care se notează și i se pune săgeată în capăt.
+- Cu rigla măsurăm segmentul vectorului rezultant și cu regula de trei simplă, aflăm valoarea lui numerică.
+
+
+<Video src="https://www.youtube.com/embed/5WvouafAtUk" />
+
+
+
+<br></br>
+<br></br>
+
+
+## II.6. Compunerea forțelor cu regula poligonului
+
+
+**Pentru adunarea a mai multor  vectori necoliniari  neconcurenți (care nu au același punct de aplicație)** se folosește **_regula poligonului_** parcurgând următoarele etape: 
+
+
+- Se desenează primul vector.
+- Al doilea vector se desenează cu originea în vârful primului vector, păstrându-i direcția.
+- Al treilea vector se desenează cu originea în vârful celui de-al doilea vector, păstrându-i direcția ș.a.m.d. până reprezentăm toți vectorii.
+- _Vectorul rezultant_ este segmentul care se obține prin unirea originii (0) cu vârful ultimului vector, având vârful în vârful ultimului vector.
+- Valoarea vectorului rezultant o obținem prin măsurarea segmentului său cu rigla și apoi înmulțim cu etalonul dat (ales).
+
+
+<Video src="https://www.youtube.com/embed/O5QRonDNS7o" />
+
+
+<br></br>
+<br></br>
+
+
+## II.7. Descompunerea unei forțe după două direcții reciproc perpendiculare
+
+
+**Descompunerea unei forțe după două direcții reciproc perpendiculare**  se realizează astfel: 
+
+- Din vârful vectorului dat se duc **_perpendiculare_** pe cele două direcții Ox și Oy.
+
+
+**- Scriem ecuația vectorială:**
+
+<Img src="fizica/clasa7/capitolul2/2_7_Poza1_EcuatiaVectoriala.jpg" />
+
+**- Scriem ecuația scalară:**
+
+<Img src="fizica/clasa7/capitolul2/2_7_Poza2_EcuatiaScalara.jpg" />
+
+
+<Img src="fizica/clasa7/capitolul2/2_7_Poza3_ReprezentareGrafica.jpg" />
+
+
+
+:::note Observaţie
+ 
+Descompunerea unui vector după două direcții reciproc perpendiculare  este inversă compunerii a doi vectori necoliniari și concurenți, cu regula paralelogramului, cu precizarea că vectorii componenți sunt pe cele două direcții principale: F<sub>x</sub> pe orizontală și F<sub>y</sub> pe verticală. Asfel obținem un dreptunghi care are ca laturi segmentele forțelor componente. 
+ 
+:::
+
+
+
+
+
+:::caution Problemă model
+
+3) Laurențiu bate un cui cu ciocanul cu o forță de 500N într-un perete, ținând cuiul înclinat față de perete cu un unghi α = 38°.  Ce valoare au forțele care compun forța lui Laurențiu ?
+
+#### Rezolvare:
+
+F = 500 N, direcție ce face un unghi de 38° cu verticala.
+
+Putem afla cele două forțe prin metoda grafică. 
+
+- Alegem ca etalon: 1cm = 100N
+
+500N:100N = 5cm : segmentul forței F și o desenăm. Din vârful vectorului  F se duc perpendiculare pe cele două direcții O<sub>x</sub> și O<sub>y</sub>. Măsurăm cu rigla segmentele vectorilor componenți și înmulțim cu etalonul pentru a le afla valorile.
+
+
+<Img src="fizica/clasa7/capitolul2/2_7_Poza4_ReprezentareGraficaProblemaModel3.jpg" />
+
+
+
+Fx = 3∙100 = 300N
+
+Fy = 4∙100 = 400N
+
+- Scriem ecuația vectorială : 
+
+<Img src="fizica/clasa7/capitolul2/2_7_Poza1_EcuatiaVectoriala.jpg" />
+
+- Verificăm cu teorema lui Pitagora:
+
+- Scriem ecuația scalară:
+
+<Img src="fizica/clasa7/capitolul2/2_7_Poza2_EcuatiaScalara.jpg" />
+
+
+500<sup>2</sup> =300<sup>2</sup> + 400<sup>2</sup>
+250000 = 90000 +160000
+
+
+
+
+
+
+
+:::
+
+
+
+<br></br>
+<br></br>
+
+
+
+
+
+## II.8. Descompunerea unei forțe după două direcții date
+
+
+**Descompunerea unui vector după două direcții date Δ1 și Δ2** se realizează în felul următor:  
+
+- Din vârful vectorului dat se duc **_paralele_** pe cele două direcții date.
+
+
+**- Scriem ecuația vectorială:**
+
+<Img src="fizica/clasa7/capitolul2/2_8_Poza1_EcuatiaVectoriala.jpg" />
+
+**- Scriem ecuația scalară:**
+
+<Img src="fizica/clasa7/capitolul2/2_8_Poza2_EcuatiaScalara.jpg" />
+
+
+<Img src="fizica/clasa7/capitolul2/2_8_Poza3_ReprezentareGrafica.jpg" />
+
+
+
+:::note Observaţie
+ 
+Descompunerea unui vector după două direcții date este inversă compunerii a doi vectori necoliniari și concurenți, cu regula paralelogramului. 
+ 
+:::
+
+
+<br></br>
+<br></br>
+
+
+## II.9. Mișcarea unui corp sub acțiunea mai multor forțe
+
+Oare în ce stare mecanică (mișcare sau repaus) se află un corp aupra căruia acționează simultan mai multe forțe ?
+
+În următorul exemplu este un resort alungit , aflat în repaus. Asupra sa acționează două forțe: forța deformatoare ( F ) și forța elastică ( F<sub>e</sub> ).
+
+
+
+
+
+
+
+:::tip Experiment
+
+**20.** Mișcarea unui corp sub acțiunea mai multor forțe
+
+:::
+
+
+<Video src="https://www.youtube.com/embed/pcdOyxq0Rew" />
+
+
+<br></br>
+
+**Materiale necesare:**: corp prins cu un fir, scripete, cârlig cu discuri crestate, suport.
+
+
+
+
+**Descrierea experimentului:** 
+
+- Se așază corpul pe masă și firul său se trece peste un scripete astfel încât firul să fie oblic.
+- Pune discuri pe cârlig astfel încât, corpul paralelipipedic să înceapă să alunece uniform pe masa de lucru.
+- Care sunt forțele ce acționează asupra corpului ? Figurează aceste forțe.
+
+
+ 
+
+:::note Observaţie
+
+Un corp se poate mișca uniform, chiar dacă asupra sa acționează mai multe forțe. 
+
+:::
+
+
+
+
+#### Cum se desenează forțele ce acționează asupra acestui corp:
+
+
+- Desenăm forța de tracțiune pe o direcție oblică.
+
+- Descompunem forța de tracțiune după cele două direcții perpendiculare, Ox (pe orizontală) și Oy (pe verticală), ducând din vârful ei perpendiculare pe cele două axe. Așa obținem componentele forței de tracțiune pe cele două axe,  F<sub>x</sub> și F<sub>y</sub>.
+
+-Reprezentăm greutatea corpului, din centrul de greutate, pe vericală în jos.
+
+- Măsurăm segmentul forței F<sub>y</sub> și trasăm un segment egal cu  diferența dintre segmentul greutății și segmentul forței Fy, de la baza corpului, în același sens cu Fy. Aceasta este forța de reacțiune normală ( N ).
+
+- Măsurăm segmentul forței F<sub>x</sub> și trasăm un segment egal cu acesta, de la mijlocul corpului, la suprafața de contact, însă în sens opus lui F<sub>x</sub>. Aceasta este forța de frecare ( F<sub>f</sub> ).
+
+- Pentru ca un corp să se miște uniform trebuie ca rezultanta tuturor forțelor ce acționează asupra corpului să fie zero.
+
+
+**Pe direcția orizontală ( O<sub>x</sub> ) : |F<sub>x</sub> | = |F<sub>f</sub>| 	=>	R<sub>x</sub> = F<sub>x</sub> - F<sub>f</sub> = 0**
+
+**Pe direcția verticală ( O<sub>y</sub> ) : |G| = |F<sub>y</sub> + N|  =>	R<sub>y</sub> = G – F<sub>y</sub> – N = 0**
+
+<Img src="fizica/clasa7/capitolul2/2_9_Poza1_ReprezentareGrafica.jpg" />
+
+
+
+<Video src="https://www.youtube.com/embed/MQvqC8QQ-80" />
+
+
+
+
+<br></br>
+<br></br>
+
+
+## II.10. Mișcarea unui corp pe un plan înclinat
+
+
+
+:::tip Experiment
+
+**21.** Ce este un plan înclinat ?
+
+:::
+
+
+<Video src="https://www.youtube.com/embed/GcJT8MvxBM0" />
+
+
+<br></br>
+
+**Materiale necesare:**: corp cu cârlig, pla înclinat, dinamometru.
+
+
+
+
+
+**Descrierea experimentului:** 
+
+- Ridică un corp pe verticală și măsoară această forță, care este chiar greutatea corpului : G = 0,5 N.
+
+- Așază corpul pe planul înclinat și trage de el prin intermediul unui dinamometru pentru a-l ridica la o anumită înălțime. Măsoară înălțimea planului, h1 = 2 cm și  această forță, F1 = 0,1 N
+ 
+- Așază corpul pe un plan mai înclinat și trage de el prin intermediul unui dinamometru pentru a-l ridica la o altă înălțime. Măsoară  înălțimea planului, h2 = 6 cm și  această forță, F2 = 0,2 N.
+
+- Așază corpul pe un plan mai înclinat și trage de el prin intermediul unui dinamometru pentru a-l ridica la o altă înălțime. Măsoară  înălțimea planului, h2 = 11 cm și  această forță, F2 = 0,3 N.
+
+- Compară cele patru forțe.
+
+ 
+
+
+:::note Observaţie
+
+G > F1  și F3 > F2 > F1. 
+
+:::
+
+
+
+
+**Concluzia experimentului:**
+
+Este mai ușor să ridicăm un corp pe un plan înclinat, decăt direct pe verticală, la o anumită înălțime.
+
+Cu cât înălțimea planului înclinat, implicit și unghiul acestuia, este mai mare și forța de tracțiune este mai mare.
+
+
+
+
+:::important Definiţie
+ 
+**Planul înclinat** este un plan ce formează cu planul orizontal un unghi ascuțit și folosit pentru urcarea mai ușoară a corpurilor la o anumită înălțime . 
+ 
+:::
+
+
+#### Elementele unui plan înclinat :
+
+
+<Img src="fizica/clasa7/capitolul2/2_10_Poza1_ElementelePlanuluiInclinat.jpg" />
+
+
+:::caution Exemple de plane înclinate:
+
+1. Toate scările.
+
+<Img src="fizica/clasa7/capitolul2/2_10_Poza2_Exemple_PlaneInclinate_Scarile.jpg" />
+
+2.  Drumurile în pantă (șoselele sunt șerpuite pentru ca înclinația pe diferite segmente să nu fie prea mare și astfel să poată fi urcate ușor).
+
+<Img src="fizica/clasa7/capitolul2/2_10_Poza3_Exemple_PlaneInclinate_SoseleSerpuite.jpg" />
+
+
+3. Rampe înclinate pentru accesul persoanalor cu dizabilități în diferite instituții
+
+<Img src="fizica/clasa7/capitolul2/2_10_Poza4_Exemple_PlaneInclinate_RampeInclinate.jpg" />
+
+
+4. Funiculare.
+
+<Img src="fizica/clasa7/capitolul2/2_10_Poza5_Exemple_PlaneInclinate_Funiculare.jpg" />
+
+
+
+:::
+
+
+<br></br>
+<br></br>
+
+
+### II.10.1. Coborârea unui corp pe un plan înclinat  
+
+<Video src="https://www.youtube.com/embed/OzVUPK_7LpY" />
+
+
+- Desenăm un corp pe un plan înclinat.
+
+- Trasăm greutatea corpului, G, din mijlocul corpului (centru de greutate, notat cu C) pe verticală, în jos .
+ 
+- Din C trasăm punctat axa O<sub>x</sub>, paralelă cu planul înclinat.
+
+- Din C trasăm punctat axa O<sub>y</sub>, perpendiculară pe planul înclinat.
+
+- Descompunem greutatea după aceste două axe, astfel încât greutatea corpului se poate înlocui cu perechea de forțe G<sub>t</sub> și G<sub>n</sub>.
+
+  - Forța G<sub>t</sub>  se numește componenta tangențială a greutății și acționează pe direcția mișcării O<sub>x</sub> (paralelă cu planul înclinat),
+   
+  - Forța G<sub>n</sub> se numește componenta normală a greutății și acționează perpendicular pe direcția mișcării O<sub>y</sub> (perpendiculară pe planul înclinat).
+  
+- Trasăm reacțiunea normală, N, de la baza corpului, un segment orientat pe direcția O<sub>y</sub> și egal cu G<sub>n</sub> .
+
+- Trasăm forța de frecare, F<sub>f</sub> , de la baza corpului, un segment orientat pe direcția O<sub>x</sub>, în sus și egal cu G<sub>t</sub>.
+
+
+- Greutatea este suma vectorială a acestor două forțe, G<sub>t</sub>  și G<sub>n</sub>.
+
+<Img src="fizica/clasa7/capitolul2/2_10_1_Poza1_SumaVectorialGreutati.jpg" />
+
+
+- Modulele celor trei forțe sunt legate prin relația 
+
+<Img src="fizica/clasa7/capitolul2/2_10_1_Poza2_Pitagora.jpg" />
+
+conform teoremei lui Pitagora aplicată în triunghiul dreptunghic format de cele trei forțe.
+
+
+
+- Planul înclinat este reprezentat printr un triunghi dreptunghic care este asemenea cu triunghiul dreptunghic format de greutate și componentele sale. Din asemănarea triunghiurilor precizate se găsesc relațiile: 
+
+<Img src="fizica/clasa7/capitolul2/2_10_1_Poza3_AsemanareTriunghiuri.jpg" />
+
+
+
+:::important Definiţie
+ 
+**Corpul lăsat liber pe planul înclinat coboară uniform atunci când G<sub>t</sub> = F<sub>f</sub> .** 
+ 
+:::
+
+
+
+
+
+<br></br>
+<br></br>
+
+
+### II.10.2. Urcarea unui corp pe un plan înclinat    
+
+<Video src="https://www.youtube.com/embed/l1_vXqm6IL4" />
+
+
+- Desenăm un corp pe un plan înclinat.
+
+- Trasăm greutatea corpului, G, din mijlocul corpului (centru de greutate, notat cu C) pe verticală, în jos .
+ 
+- Din C trasăm punctat axa O<sub>x</sub>, paralelă cu planul înclinat.
+
+- Din C trasăm punctat axa O<sub>y</sub>, perpendiculară pe planul înclinat.
+
+- Descompunem greutatea după aceste două axe, astfel încât greutatea corpului se poate înlocui cu perechea de forțe G<sub>t</sub> și G<sub>n</sub>.
+
+  - Forța G<sub>t</sub>  se numește componenta tangențială a greutății și acționează pe direcția mișcării O<sub>x</sub> (paralelă cu planul înclinat),
+   
+  - Forța G<sub>n</sub> se numește componenta normală a greutății și acționează perpendicular pe direcția mișcării O<sub>y</sub> (perpendiculară pe planul înclinat).
+  
+- Trasăm reacțiunea normală, N, de la baza corpului, un segment orientat pe direcția O<sub>y</sub> și egal cu G<sub>n</sub> .
+
+- Trasăm forța de frecare, F<sub>f</sub>, de la baza corpului, un segment orientat pe direcția O<sub>x</sub>, în jos.
+
+- Trasăm forța de tracțiune, F , pe direcția axei O<sub>x</sub>, cu un segment egal cu suma segmentelor G<sub>t</sub> și F<sub>f</sub> .
+
+- Greutatea este suma vectorială a acestor două forțe, G<sub>t</sub>  și G<sub>n</sub>.
+
+<Img src="fizica/clasa7/capitolul2/2_10_1_Poza1_SumaVectorialGreutati.jpg" />
+
+
+- Modulele celor trei forțe sunt legate prin relația 
+
+<Img src="fizica/clasa7/capitolul2/2_10_1_Poza2_Pitagora.jpg" />
+
+conform teoremei lui Pitagora aplicată în triunghiul dreptunghic format de cele trei forțe.
+
+
+
+- Planul înclinat este reprezentat printr un triunghi dreptunghic care este asemenea cu triunghiul dreptunghic format de greutate și componentele sale. Din asemănarea triunghiurilor precizate se găsesc relațiile: 
+
+<Img src="fizica/clasa7/capitolul2/2_10_1_Poza3_AsemanareTriunghiuri.jpg" />
+
+
+
+:::important Definiţie
+ 
+**Corpul urcă uniform pe planul înclinat atunci când F = G<sub>t</sub> + F<sub>f</sub>**. 
+ 
+:::
+
+:::important
+
+Forța de tracțiune, necesară pentru ridicarea corpului în mișcare uniformă pe planul înclinat, se obține din condiția de echilibru:
+
+<Img src="fizica/clasa7/capitolul2/2_10_2_Poza1_LegeaPlanuluiInclinat.jpg" />
+
+:::
+
+:::important Definiţie
+
+Dacă forța de frecare la alunecare se poate neglija, se poate observa că forța devine
+
+<Img src="fizica/clasa7/capitolul2/2_10_2_Poza2_LegeaPlanuluiInclinatFaraFrecare.jpg" />
+
+
+:::
+
+
