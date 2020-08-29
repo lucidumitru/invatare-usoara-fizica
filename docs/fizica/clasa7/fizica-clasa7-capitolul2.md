@@ -356,7 +356,7 @@ Deformările în care corpul nu mai revine la forma inițială sunt deformări p
 
 #### •	Simbol: în general F
 #### •	Formulă de calcul: fiecare tip de forță are o formulă de calcul.
-#### •	Unitatea de măsură în Sistemul Internațional: [F]SI = N (Newton)
+#### •	Unitatea de măsură în Sistemul Internațional: [F]<sub>SI</sub> = N (Newton)
 #### •	Instrumente de măsură: dinamometru.
 :::
 
@@ -815,7 +815,7 @@ Raportul dintre greutatea unui corp și masa lui se numește **accelerație grav
 
 #### •	Simbol: G
 #### •	Formulă de calcul: G = m∙g, unde m = masa corpului(în kg) și g = accelerația gravitațională a Pământului de 9,8 N/kg.
-#### •	Unitatea de măsură în Sistemul Internațional: [G]SI = N (Newton)
+#### •	Unitatea de măsură în Sistemul Internațional: [G]<sub>SI</sub> = N (Newton)
 #### •	Instrumente de măsură: dinamometru.
 :::
 
@@ -1026,6 +1026,58 @@ Corpul acționează asupra mesei cu o _forță de apăsare normală_ (perpendicu
 
 
 :::
+
+
+
+
+
+
+:::caution Problemă model
+
+3) 	Trage un mop pe podea și apoi împinge-l. Când este mai ușor? Reprezintă forțele. 
+
+#### Rezolvare:
+
+**I.	Când mopul este tras:**
+
+<Img src="fizica/clasa7/capitolul2/2_4_2_Poza2_ReprezentareGrafica_ProblemaModel3.jpg" />
+
+
+Pe axa O<sub>x</sub>: F<sub>x</sub> și F<sub>f</sub> , dacă mopul este tras uniform, ele vor fi egale în modul.
+
+Pe axa O<sub>y</sub>: |G| = |F<sub>y</sub>| + |N|
+
+Reacțiunea normală din partea podelei este mică.
+
+
+**II.	Când mopul este împins :**
+
+<Img src="fizica/clasa7/capitolul2/2_4_2_Poza3_ReprezentareGrafica2_ProblemaModel3.jpg" />
+
+
+
+Pe axa O<sub>x</sub>: F<sub>x</sub> și F<sub>f</sub> , dacă mopul este împins uniform, ele vor fi egale în modul.
+
+Pe axa O<sub>y</sub> : |N| = |F<sub>y</sub>| + |G|
+
+Reacțiunea normală din partea podelei este mare.
+
+**Deci, este mai ușor să tragi de mop decât să îl împingi.**
+
+:::
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <br></br>
 <br></br>
@@ -1575,9 +1627,9 @@ Tensiunea din firul ce leagă dinamometrul de corp reprezintă reacțiunea forț
 
 :::caution Problemă model
 
-3) Desenează forțele care apar la tragerea unui corp prin intermediul unui fir.
+4) Desenează forțele care apar la tragerea unui corp prin intermediul unui fir.
 
-<Img src="fizica/clasa7/capitolul2/2_4_4_Poza4_SchemaProblemaModel3.jpg" />
+<Img src="fizica/clasa7/capitolul2/2_4_4_Poza4_SchemaProblemaModel4.jpg" />
 
 #### Rezolvare:
 
@@ -1932,7 +1984,7 @@ Descompunerea unui vector după două direcții reciproc perpendiculare  este in
 
 :::caution Problemă model
 
-3) Laurențiu bate un cui cu ciocanul cu o forță de 500N într-un perete, ținând cuiul înclinat față de perete cu un unghi α = 38°.  Ce valoare au forțele care compun forța lui Laurențiu ?
+5) Laurențiu bate un cui cu ciocanul cu o forță de 500N într-un perete, ținând cuiul înclinat față de perete cu un unghi α = 38°.  Ce valoare au forțele care compun forța lui Laurențiu ?
 
 #### Rezolvare:
 
@@ -1945,7 +1997,7 @@ Putem afla cele două forțe prin metoda grafică.
 500N:100N = 5cm : segmentul forței F și o desenăm. Din vârful vectorului  F se duc perpendiculare pe cele două direcții O<sub>x</sub> și O<sub>y</sub>. Măsurăm cu rigla segmentele vectorilor componenți și înmulțim cu etalonul pentru a le afla valorile.
 
 
-<Img src="fizica/clasa7/capitolul2/2_7_Poza4_ReprezentareGraficaProblemaModel3.jpg" />
+<Img src="fizica/clasa7/capitolul2/2_7_Poza4_ReprezentareGraficaProblemaModel5.jpg" />
 
 
 

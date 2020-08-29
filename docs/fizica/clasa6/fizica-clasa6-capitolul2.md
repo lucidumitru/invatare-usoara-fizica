@@ -456,7 +456,7 @@ c)	0,4 cs = ? s
 
 #### •	Simbol: l
 #### •	Nu are formulă de calcul
-#### •	Unitatea de măsură în Sistemul Internațional: [ l]SI = m (metrul)
+#### •	Unitatea de măsură în Sistemul Internațional: [ l ]<sub>SI</sub> = m (metrul)
 #### •	Instrumente de măsură: riglă, ruletă, șubler, centimetrul de croitorie, metrul de tâmplărie, etc.
 
 :::
@@ -666,7 +666,7 @@ Foloseşte aceste valori și determină mărimea reală a diametrului paharului.
 
 #### •	Simbol: S sau A
 #### •	Are formulă de calcul pentru fiecare suprafață regulată.
-#### •	Unitatea de măsură în Sistemul Internațional: [ S ] <sub>SI</sub> = m<sup>2</sup> (metrul pătrat=m.p.)  
+#### •	Unitatea de măsură în Sistemul Internațional: [ S ]<sub>SI</sub> = m<sup>2</sup> (metrul pătrat=m.p.)  
 #### •	Instrumente de măsură: hârtia milimetrică.
 
 :::
@@ -900,7 +900,7 @@ b) 4,9 dam<sup>2</sup> = ? m<sup>2</sup>
 
 #### •	Simbol:  V
 #### •	Are formulă de calcul pentru fiecare suprafață regulată.
-#### •	Unitatea de măsură în Sistemul Internațional: [ V ] <sub>SI</sub> = m<sup>3</sup> (metrul cub=m.c.).  
+#### •	Unitatea de măsură în Sistemul Internațional: [ V ]<sub>SI</sub> = m<sup>3</sup> (metrul cub=m.c.).  
 #### •	Instrumente de măsură: cilindrul gradat (mensura).
 
 :::
@@ -1116,7 +1116,7 @@ Mensura trebuie să stea pe o suprafață orizontală (pe masă). Suprafața lib
 
 #### •	Simbol:  t
 #### •	Nu  are formulă de calcul 
-#### •	Unitatea de măsură în Sistemul Internațional: [ t ] <sub>SI</sub> = s (secunda)
+#### •	Unitatea de măsură în Sistemul Internațional: [ t ]<sub>SI</sub> = s (secunda)
 #### •	Instrumente de măsură: ceasul, cronometrul, clepsidra, etc.
 
 :::

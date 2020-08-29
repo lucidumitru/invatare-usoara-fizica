@@ -1173,7 +1173,7 @@ Corpurile se comportă diferit la schimbarea stării de mișcare sau de repaus. 
 
 #### •	Simbol: m
 #### •	Nu are formulă de calcul
-#### •	Unitatea de măsură în Sistemul Internațional: [m]SI = kg (kilogramul)
+#### •	Unitatea de măsură în Sistemul Internațional: [m]<sub>SI</sub> = kg (kilogramul)
 #### •	Instrumente de măsură: cântar sau balanță.
 
 :::
@@ -1887,7 +1887,7 @@ Efectul interacțiunii  este cu atât mai mare, cu cât interacțiunea este mai 
 
 #### •	Simbol: în general F
 #### •	Formulă de calcul: fiecare tip de forță are o formulă de calcul.
-#### •	Unitatea de măsură în Sistemul Internațional: [F]SI = N (Newton)
+#### •	Unitatea de măsură în Sistemul Internațional: [F]<sub>SI</sub> = N (Newton)
 #### •	Instrumente de măsură: dinamometru.
 :::
 
@@ -2068,7 +2068,7 @@ Raportul dintre greutatea unui corp și masa lui se numește **accelerație grav
 
 #### •	Simbol: G
 #### •	Formulă de calcul: G = m∙g, unde m = masa corpului(în kg) și g = accelerația gravitațională a Pământului de 9,8 N/kg.
-#### •	Unitatea de măsură în Sistemul Internațional: [G]SI = N (Newton)
+#### •	Unitatea de măsură în Sistemul Internațional: [G]<sub>SI</sub> = N (Newton)
 #### •	Instrumente de măsură: dinamometru.
 :::
 
