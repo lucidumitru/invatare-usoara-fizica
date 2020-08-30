@@ -822,7 +822,7 @@ Energia cinetică a unui corp în mișcare, cu o anumită viteză se calculează
 #### Rezolvare:
 
 
-- Reprezentăm forțele ce acționează asupra mașinii:
+- Reprezentăm forțele ce acționează asupra motocicletei:
 
 <Img src="fizica/clasa7/capitolul3/3_4_Poza3_ReprezentareForte_ProblemaModel6.jpg" />
 
@@ -880,6 +880,871 @@ Energia cinetică a unui corp în mișcare, cu o anumită viteză se calculează
 
 <br></br>
 <br></br>
+
+
+
+
+
+
+## III.5. Energia potențială gravitațională
+
+
+
+:::tip Experiment
+
+**4.** Au energie corpurile aflate la înălțime ?
+
+:::
+
+
+<Video src="https://www.youtube.com/embed/rjQF8sOfVTM" />
+
+
+<br></br>
+
+**Materiale necesare:**: vas cu făină, două bile de mase diferite.
+ 
+
+
+
+**Descrierea experimentului(Partea1):** 
+
+- Ridică o bilă la o anumită înălțime și las-o să cadă liber. 
+
+- Ce observi ?
+
+
+
+:::note Observaţie (Partea1)
+
+Bila aflată la o anumită înălțime , lăsată liberă cade.
+
+:::
+
+
+
+
+
+**Concluzia experimentului(Partea1):**
+
+
+Corpurile aflate la o anumită înălțime efectuează lucru mecanic, atunci când cad, datorită atracției gravitaționale a Pământului. Deci,  au energie, numită energie potențială gravitațională (de la cuvântul latinesc “ potens “ care înseamnă “ capabil de ceva“).
+
+
+
+**Descrierea experimentului(Partea2):** 
+
+- Lasă să cadă de la aceeași înălțime două bile de mase diferite în vasul cu făină.
+
+- Cum sunt urmele lăsate de ele ?
+
+
+:::note Observaţie (Partea2)
+
+Bila mai  grea lasă o urmă mult mai adâncă decât bila ușoară.
+
+:::
+
+
+**Concluzia experimentului(Partea2):**
+
+Energia potențială gravitațională a unui corp depinde direct proporțional de masa corpului.
+
+
+
+
+**Descrierea experimentului(Partea3):** 
+
+- Lasă să cadă de la înălțimi diferite aceeşi bilă, în vasul cu făină.
+ 
+- Cum sunt urmele lăsate de bilă în cele 2 cazuri ?
+
+
+
+:::note Observaţie (Partea3)
+
+Bila care cade de la o înălțime mai mare lasă o urmă mai adâncă decât bila care cade de la o înălțime mai mică.
+
+:::
+
+
+
+**Concluzia experimentului(Partea3):**
+
+Energia  potențială gravitațională  a unui corp depinde de înălțimea la care se află corpul față de sol sau față de un alt nivel de referință.
+
+
+
+
+:::important Definiţie
+
+**Energia potențială gravitațională ( E<sub>pg</sub> )** este energia pe care o are un corp aflat la o anumită înălțime față de sol.
+
+:::
+
+
+
+:::important
+
+Energia potențială gravitațională caracterizează capacitatea unui corp de a efectua lucru mecanic sub acțiunea greutății sale și depinde de poziția corpului în raport cu un nivel de referință.
+
+**Energia potențială gravitațională a unui corp**  este egală cu:
+ 
+E<sub>pg</sub> = m ∙ g ∙ h
+
+m este masa corpului
+
+g este accelerația gravitațională
+
+h este înălțimea la care se află centrul de greutate al corpului în raport cu un nivel de referință căruia i se atribuie, prin convenție, o energie potențială nulă.
+
+ 
+:::
+
+
+De exemplu, pentru corpurile lăsate să cadă libere în apropierea solului, nivelul de referință pentru care energia potențială gravitațională este considerată nulă este suprafața solului. În general, nivelul de referință este ales la nivelul solului sau la nivelul cel mai de jos.
+
+
+
+:::important Definiţie
+
+**Legea variației energiei potențiale gravitaționale:**
+
+**“ Variația energiei potențiale gravitaționale a unui corp ( ΔE<sub>pg</sub> ) este egală cu lucrul mecanic ( L<sub>G</sub> ) al forței de greutate ce acționează asupra corpului  cu semnul minus“ :**
+
+**ΔE<sub>pg</sub> = - L<sub>G</sub>**
+
+
+:::
+
+
+
+:::note Observaţie
+
+Pe măsură ce cade corpul, lucrul mecanic al greutății este pozitiv greutatea având aceeași direcție și același sens cu deplasarea corpului (pe verticală, în jos ).  Însă, energia potențială gravitațională a corpului scade, deoarece scade și înălțimea lui față de sol și deci, variația energiei potențiale gravitaționale este negativă.
+
+:::
+
+
+:::important 
+
+Greutatea efectuează același lucru mecanic, între două nivele diferite, indiferent de drumul urmat de corpul în cădere.  
+
+:::
+
+
+
+
+:::caution Problemă model
+
+7) a) Calculaţi lucrul mecanic al greutății unui corp cu masa de 1 kg, când cade liber pe sol de la înălțimea h = 2m.
+
+b) Calculaţi lucrul mecanic al greutății unui corp cu masa de 1 kg, când coboară pe un plan înclinat la sol având o lungime de h = 3m. 
+
+
+#### Rezolvare:
+
+a)  L<sub>G</sub> = G ∙ h = m ∙ g ∙ h = 1 ∙ 10 ∙ 2 = 20 J
+
+b) Când corpul coboară  pe un plan înclinat, forța care efectuează lucru mecanic este greutatea tangențială, G<sub>t</sub> și parcurge o distanță egală cu lungimea ( l ) a planului înclinat.
+
+<Img src="fizica/clasa7/capitolul3/3_5_Poza1_Calcul_ProblemaModel7.jpg" />
+
+
+- Deci,  indiferent de drumul urmat de corp, lucrul mecanic al greutății este același.
+
+<Img src="fizica/clasa7/capitolul3/3_5_Poza2_ReprezentareGraficaForte_ProblemaModel7.jpg" />
+
+
+
+
+:::
+
+
+
+
+:::important Definiţie
+
+O forță care efectuează un lucru mecanic care este independent de drumul parcurs și depinde numai de pozițiile extreme (inițială și cea finală ) se numește **forță conservativă (de exemplu: greutatea și forța elastică).**
+
+:::
+
+
+:::important
+
+Energia potențială este o mărime fizică ce caracterizează starea unui corp și se poate defini numai pentru forțe conservative, așa cum sunt greutatea și forța elastică. 
+
+:::
+
+
+:::caution Problemă model
+
+8) Cât este energia potențială gravitațională a unui avion  de 30 t la altitudinea de 10 km față de sol ?
+
+
+#### Rezolvare:
+
+- Scriem datele problemei și transformăm în SI :
+
+ΔE<sub>pg</sub> = ?
+
+m = 30 t = 30.000 kg
+
+h  = 10 km = 10.000 m
+
+- Calculăm energia potențială gravitațională a avionului
+
+
+E<sub>pg</sub> = m ∙ g ∙ h = 30.000 ∙ 10 ∙ 10.000 = 3.000.000.000 J
+
+:::
+
+
+
+
+<br></br>
+<br></br>
+
+
+
+
+## III.6. Energia potențială elastică
+
+
+
+:::tip Experiment
+
+**5.** Au energie corpurile deformate elastic ?
+
+:::
+
+
+<Video src="https://www.youtube.com/embed/zqLNleAs_tY" />
+
+
+<br></br>
+
+**Materiale necesare:**: o sticlă de plastic cu puțină apă, elastic.
+ 
+
+**Descrierea experimentului:** 
+
+- Prinde elasticul de gâtul sticlei.
+
+- Așază sticla pe podea, ținând de capătul elasticului.
+
+- Blochează sticla între tălpile picioarelor.
+
+- Trage de elastic ca să îl întinzi.
+
+- Eliberează sticla. 
+
+- Ce observi ?
+
+
+
+:::note Observaţie
+
+Sticla urcă la o anumită înălțime.
+
+:::
+
+
+
+**Concluzia experimentului:**
+
+Forța elastică apărută în elasticul alungit efectuează un lucru mecanic asupra sticlei, deplasând-o. Deci, elasticul întins posedă energie, numită energie potențială elastică.
+
+
+
+
+
+
+
+
+:::tip Experiment
+
+**6.** Un resort cu  energie 
+
+:::
+
+
+<Video src="https://www.youtube.com/embed/wNWZkqLrWTY" />
+
+
+<br></br>
+
+**Materiale necesare:**: 2 resorturi de dimensiuni diferite, bilă, riglă.
+ 
+
+**Descrierea experimentului(Partea1):** 
+
+- Fixează resortul mai mic și comprimă-l.
+
+- Așază în fața resortului comprimat o bilă.
+
+- Dă drumul la resort. Măsoară distanța parcursă de bilă: d<sub>1</sub> =
+
+- Fixează resortul mai mare de masă și comprimă-l.
+
+- Așază în fața resortului comprimat bila.
+
+- Dă drumul la resort. Măsoară distanța parcursă de bilă: d<sub>2</sub> =
+
+
+
+
+:::note Observaţie (Partea1)
+
+d<sub>1</sub> > d<sub>2</sub>  Cele două resorturi au aceeași secțiune, dar lungimi diferite. Resortul mai scurt are constanta elastică mai mare decât cel mai lung ( k<sub>1</sub> > k<sub>2</sub> ).
+
+:::
+
+
+
+**Concluzia experimentului(Partea1):**
+
+Energia potențială elastică crește cu creșterea constantei elastice .
+
+
+
+
+
+**Descrierea experimentului(Partea2):** 
+
+- Măsoară distanța parcursă de bilă când comprimi mai puțin resortul, respectiv când îl comprimi la maxim. 
+
+
+
+:::note Observaţie (Partea2)
+
+Resortul comprimat la maxim deplasează mai mult bila.
+
+:::
+
+
+
+**Concluzia experimentului(Partea2):**
+
+Energia potențială elastică crește cu creșterea comprimării resortului.
+
+Energia potențială elastică este direct proporțională cu constanta elastică și cu deformarea corpului elastic.
+
+
+
+:::important Definiţie
+
+**Energia potențială elastică ( E<sub>pe</sub> )** este energia pe care o are un corp deformat elastic, adică alungit sau comprimat.
+
+:::
+
+
+:::important
+
+Starea de referință, căreia i se atribuie energia potențială elastică nulă, este starea nedeformată a corpului elastic .
+
+:::
+
+
+
+
+
+
+
+
+
+:::caution Problemă model
+
+9) O forță de 40 N alungește un resort cu 2 dm. Cât este forța care alungește același resort cu 6 dm ? Trasează graficul forței deformatoare F de la starea nedeformată  până la alungirea maximă, în funcție de alungirea resortului , Δl. 
+
+#### Rezolvare:
+
+
+- Scriem datele problemei și transformăm în SI :
+
+
+
+<Img src="fizica/clasa7/capitolul3/3_6_Poza1_DateInitiale_ProblemaModel9.jpg" />
+
+
+- Scriem legea deformării elastice pentru prima forță deformatoare ( F<sub>1</sub> ) și aflăm constanta elastică a resortului, k:
+
+<Img src="fizica/clasa7/capitolul3/3_6_Poza2_LegeaDeformariiElastice_ProblemaModel9.jpg" />
+
+
+- Scriem legea deformării elastice pentru a doua forță deformatoare F<sub>2</sub> :
+
+<Img src="fizica/clasa7/capitolul3/3_6_Poza3_LegeaDeformariiElastice2_ProblemaModel9.jpg" />
+
+
+- Reprezentăm graficul forței deformatoare F, în funcție de alungirea resortului, de la starea nedeformată ( F = 0 și Δl = 0) până la alungirea maximă.
+
+<Img src="fizica/clasa7/capitolul3/3_6_Poza4_GraficulForteiDeformatoare_ProblemaModel9.jpg" />
+
+
+Graficul este liniar ( linia roșie ) datorită dependenței liniare a forței deformatoare cu deformarea produsă asupra resortului. 
+
+
+:::
+
+
+
+
+:::important
+
+**Lucrul mecanic efectuat de forța deformatoare ce deformează resortul, din starea nedeformată până în starea cu deformarea maximă este egal cu este egal cu aria figurii ( triunghiului galben) dintre graficul forței și axa alungirilor, arie limitată de coordonata  Δl :**
+
+<Img src="fizica/clasa7/capitolul3/3_6_Poza5_FormulaLucruMecanicFortaDeformatoare.jpg" />
+
+Întrucât forța elastică este egală în modul , dar de sens opus cu forța deformatoare, avem :
+
+<Img src="fizica/clasa7/capitolul3/3_6_Poza5bis_FormulaLucruMecanicFortaDeformatoare.jpg" />
+
+**Lucrul mecanic efectuat de forța elastică (o forță conservativă ), nu depinde de drumul efectuat de punctul material supus acțiunii acelei forțe, ci numai de pozițiile extreme ale resortului. El  este egal  lucrul mecanic efectuat de forța deformatoare, dar cu semnul minus,**  deoarece forța elastică se opune deformării resortului :
+
+<Img src="fizica/clasa7/capitolul3/3_6_Poza6_FormulaLucruMecanicFortaElastica.jpg" />
+
+
+
+**Teorema de variație a energiei potențiale elastice : “ Variația energiei potențiale elastice a unui corp elastic este egală cu lucrul mecanic efectuat de forța elastică, considerat cu semnul minus “ .**
+
+<Img src="fizica/clasa7/capitolul3/3_6_Poza6bis_FormulaTeoremeiDeVariatieAEnergieiPotentiale.jpg" />
+
+
+**Energia  potențială  elastică a unui corp elastic deformat se calculează cu formula :**
+
+
+
+<Img src="fizica/clasa7/capitolul3/3_6_Poza7_FormulaEnergieiPotentialeAUnuiCorpElastic.jpg" />
+
+
+:::
+
+
+
+
+:::caution Problemă model
+
+10) Cât este energia potențială elastică a unui resort cu 150 N/m comprimat cu 30 cm ? 
+
+#### Rezolvare:
+
+
+- Scriem datele problemei și transformăm în SI :
+
+
+
+<Img src="fizica/clasa7/capitolul3/3_6_Poza8_DateInitiale_ProblemaModel10.jpg" />
+
+
+- Scriem formula energiei potențiale elastice și înlocuim datele problemei:
+
+<Img src="fizica/clasa7/capitolul3/3_6_Poza9_FormulaCalcul_ProblemaModel10.jpg" />
+
+
+:::
+
+
+
+<br></br>
+<br></br>
+
+
+
+## III.7. Energia mecanică
+
+
+
+
+:::important
+
+**Energia mecanică a unui corp este egală cu suma dintre energia cinetică (E<sub>c</sub>) și energia potențială, gravitațională ( E<sub>pg</sub> ) și elastică ( E<sub>pe</sub> ) a corpului:** 
+
+**E = E<sub>c</sub> + E<sub>p</sub> = E<sub>c</sub> + E<sub>pg</sub> + E<sub>pe</sub>** 
+
+
+:::
+
+
+:::important Definiţie
+
+**Teorema de variație a energiei mecanice:**
+ 
+**“Variația energiei mecanice a unui corp sau a unui sistem de corpuri este egală cu lucrul mecanic al forțelor neconservative ce acționează asupra corpului în decursul variației considerate“.** 
+
+**ΔE =  L<sub>neconservative</sub>**
+
+Forțele neconservative sunt forțele al căror lucru mecanic depinde de drumul parcurs, cum ar fi, de exemplu, forța de frecare, forța de tracțiune etc.
+
+:::
+
+
+
+:::note Observaţie
+
+În practică, pentru specificarea cantităților de energie, se utilizează frecvent kilowattul – oră, pentru exprimarea cantităților de energie electrică sau energie termică. Un kilowatt-oră, notat kWh, este o unitate de măsură pentru energie, egală cu cantitatea de energie transferată de un proces care dă sau primește o putere de un kilowatt timp de o oră . Ca să transformăm în joule ( J ), transformăm kW în W și ora în secunde : 
+
+**1 kWh = 1000 W ∙ 3600 s = 3600000 J.**
+
+
+:::
+
+
+
+
+
+:::caution Problemă model
+
+11) Un șifonier de 50 kg aflat într-un camion, coboară pe o platformă oblică ajungând la o viteză de 36 km/h la baza acestui plan înclinat. Calculează lucrul mecanic al forței de frecare asupra șifonierului în timpul coborârii lui. 
+
+#### Rezolvare:
+
+
+- Scriem datele problemei și transformăm în SI :
+
+
+
+<Img src="fizica/clasa7/capitolul3/3_7_Poza1_DateInitiale_ProblemaModel11.jpg" />
+
+
+- Scriem ecuația  teoremei de variație a energiei mecanice și înlocuim datele problemei. 
+
+<Img src="fizica/clasa7/capitolul3/3_7_Poza2_FormulaCalcul_ProblemaModel11.jpg" />
+
+
+:::
+
+
+:::caution Aplică ce ai învăţat
+
+Care este tipul energiei mecanice ilustrată în următoarele imagini?
+
+
+1. ......................................................
+
+<Img src="fizica/clasa7/capitolul3/3_7_Poza3_AplicaCeAiInvatat1.jpg" />
+
+
+2. ......................................................
+
+
+<Img src="fizica/clasa7/capitolul3/3_7_Poza4_AplicaCeAiInvatat2.jpg" />
+
+
+
+3. ......................................................
+
+<Img src="fizica/clasa7/capitolul3/3_7_Poza5_AplicaCeAiInvatat3.jpg" />
+
+
+:::
+
+
+<br></br>
+<br></br>
+
+
+
+## III.8. Conservarea energiei mecanice
+
+#### Privește imaginea de mai jos și explică cum poate să urce o pantă trenulețul din parcul de distracții .
+
+
+<Img src="fizica/clasa7/capitolul3/3_8_Poza1_ParcDistractii_MontaigneRusse.jpg" />
+
+**Trenulețul din parcul de distracții poate urca o pantă datorită energiei cinetice pe care a câștigat-o în urma coborârii altei pante.**
+ 
+**Funcționarea lui se bazează pe transformarea continuă a energiei potențiale în energie cinetică și invers.**
+
+
+
+
+
+:::tip Experiment
+
+**7.** O sticlă care face bungee-jumping 
+
+:::
+
+
+<Video src="https://www.youtube.com/embed/PnHu_uvbf5E" />
+
+
+<br></br>
+
+**Materiale necesare:**: sticlă cu apă, elastic, masă.
+ 
+
+**Descrierea experimentului:** 
+
+- Leagă un elastic, de lungime egală cu înălțimea unei mese, de gura sticlei.
+
+- Pune sticla pe masă și las-o să cadă liber. 
+
+- Ce observi ?
+
+
+
+:::note Observaţie
+
+Sticla cade, dar nu lovește podeaua.
+
+:::
+
+
+
+**Concluzia experimentului:**
+
+Sticla pe masă, fiind la o anumită înălțime față de sol,  are energie potențială gravitațională. Când începe să coboare, scade energie potențială gravitațională a ei, însă elasticul se întinde și crește energie potențială elastică.
+
+Deci, energie potențială gravitațională se transformă în energie potențială elastică și de aceea sticla nu ajunge pe podea , cum se întâmplă cu alte corpuri lăsate să cadă.
+
+Aceeași situație are loc la saltul cu coarda elastică (Bungee-jumping ).
+
+
+
+<br></br>
+
+
+
+
+
+:::tip Experiment
+
+**8.** Piulița uriașă și conservarea energiei 
+
+:::
+
+
+<Video src="https://www.youtube.com/embed/kxiIlPVuiIE" />
+
+
+<br></br>
+
+**Materiale necesare:**: o piuliță (o bilă ) , ață.
+ 
+
+**Descrierea experimentului:** 
+
+- Leagă ața de piulița și fixează firul pe marginea blatului unei mese.
+
+- Ridică piulița într-o parte la o anumită înălțime și dă-i drumul.
+ 
+- Ce observi ?
+
+
+
+:::note Observaţie
+
+Piulița începe să coboare și apoi urcă în cealaltă parte la aceeași înălțime la care am ridicat-o.
+
+:::
+
+
+
+**Concluzia experimentului:**
+
+Firul cu piuliță, fiind la o anumită înălțime față de sol,  are energie potențială gravitațională. Când începe să coboare, scade energie potențială gravitațională a ei, dar crește energie cinetică a ei, devenind maximă când trece prin dreptul poziției de echilibru ( verticală ). Apoi, piulița începe să urce în cealaltă parte din cauza transformării energiei cinetice în energie potențială gravitațională.  Procesul s-ar repeta la nesfârșit dacă între firul cu piuliță și aerul atmosferic n-ar exista forță de  frecare. 
+
+Aceeași situație are loc în parcul de distracții, când trenulețul  urca o pantă datorită energiei cinetice pe care a câștigat-o în urma coborârii altei pante.
+
+
+
+
+:::important Definiţie
+
+
+**Legea conservării energiei mecanice:**
+ 
+**“ Energia mecanică a unui corp se conservă dacă asupra sa acționează numai forțe conservative. “**
+
+E = constantă, dacă corpul este izolat de exterior și F<sub>f</sub> = 0.
+
+
+:::
+
+
+
+:::note Observaţie
+
+Energia se transformă dintr-o formă în alta. Ea nu poate fi creată, nici distrusă. Chimistul francez, **Antoine Lavoisier,** este autorul expresiei : **“În natură nimic nu se pierde, nimic nu se câștigă, totul se transformă.”**
+
+**Deci, Universul conține o energie constantă.**
+
+:::
+
+
+
+
+
+
+
+:::caution Problemă model
+
+12) Un pendul gravitațional este tras lateral la 0,3 m față de poziția de echilibru ( verticală ). Cu ce viteză va trece pendulul prin dreptul poziției de echilibru (starea 2) ? 
+
+
+
+#### Rezolvare:
+
+
+- Desenăm graficul mişcării:
+
+
+<Img src="fizica/clasa7/capitolul3/3_8_Poza2_ReprezentareaGrafica_ProblemaModel12.jpg" />
+
+
+
+
+- Scriem datele problemei și transformăm în SI :
+
+  - v = ?
+
+  - h = 0,3 m
+
+- Calculăm energia mecanică a pendulului în cele două stări:
+
+
+<Img src="fizica/clasa7/capitolul3/3_8_Poza3_Calcul_ProblemaModel12.jpg" />
+
+
+- Scriem ecuația legii conservării energiei mecanice și înlocuim datele problemei.  
+
+<Img src="fizica/clasa7/capitolul3/3_8_Poza4_EcuatiaLegiiConservariiMecanice_ProblemaModel12.jpg" />
+
+
+:::
+
+
+
+<br></br>
+<br></br>
+
+
+
+
+## III.9. Metode de conversie a energiei mecanice
+
+### III.9.1. Conversia energie mecanică – energie electrică
+
+
+Într-o **hidrocentrală**, energia potențială gravitațională a apei din bazinul de acumulare se transformă în energie cinetică, iar aceasta pune în mișcare paletele turbinei de apă. 
+
+<Img src="fizica/clasa7/capitolul3/3_9_1_Poza1_Hidrocentrala.jpg" />
+
+
+Roata turbinei de apă se rotește în jurul unui ax, care se continuă într-un generator electric. Pe axul din generator se află o bobină, care se rotește în câmpul magnetic al statorului, producând energie electrică la nivel industrial.
+
+<Img src="fizica/clasa7/capitolul3/3_9_1_Poza2_Turbina.jpg" />
+
+
+Curentul produs de generatorul din cadrul centralelor electrice este transmis prin cabluri electrice către consumatori.
+
+<Img src="fizica/clasa7/capitolul3/3_9_1_Poza3_CabluriElectrice.jpg" />
+
+
+
+
+:::important Definiţie
+
+
+**Generatorul electric** este un dispozitiv care transformă energia mecanică în energie electrică.
+
+:::
+
+
+Atunci când curentul electric produs este continuu, generatorul electric se numește **dinam**, iar când curentul electric produs este alternativ, generatorul electric se numește **alternator.**
+
+Și în **morile de vânt ( generatoare eoliene )**, energia cinetică a vântului este transformată în energie electrică.
+
+<Img src="fizica/clasa7/capitolul3/3_9_1_Poza4_MoriDeVant.jpg" />
+
+
+**Dinamul unei biciclete** transformă energia cinetică a roții în energie electrică, necesară luminării farului unei biciclete.
+
+<Img src="fizica/clasa7/capitolul3/3_9_1_Poza5_DinamBicicleta.jpg" />
+
+
+
+:::important Definiţie
+
+
+Dispozitivele care transformă energia electrică în energie mecanică se numesc **motoare electrice.**
+
+:::
+
+
+#### Motoarele electrice au multe aplicații:
+
+
+- aparate electrocasnice (ventilator, frigider, mașină de spălat, hotă,  mixer, aer condiționat, aspirator, etc.)
+
+<Img src="fizica/clasa7/capitolul3/3_9_1_Poza6_Ventilator.jpg" />
+ 
+- mașina electrică
+
+<Img src="fizica/clasa7/capitolul3/3_9_1_Poza7_MasinaElectrica.jpg" />
+
+- trenul electric, tramvai, troleibuz.
+
+<Img src="fizica/clasa7/capitolul3/3_9_1_Poza8_TrenElectric.jpg" />
+
+
+
+### III.9.2. Conversia energie mecanică – energie termică
+
+
+:::important Definiţie
+
+**Energia mecanică se poate transforma în energie termică ( căldură ) prin frecarea pieselor aflate în mișcare în diferite dispozitive.**
+
+:::
+
+
+- Iarna, când ne îngheață mâinile, dacă le frecăm, ele se încălzesc.
+
+<Img src="fizica/clasa7/capitolul3/3_9_2_Poza1_FrecareaMainilor.jpg" />
+
+
+
+- Aprinderea chibriturilor, prin frecarea bățului de catran. Chibritul are la unul dintre capete o gămălie de material ușor inflamabil, care se aprinde prin frecare cu pasta aplicată pe cutie.
+
+<Img src="fizica/clasa7/capitolul3/3_9_2_Poza2_AprindereaChibritului.jpg" />
+
+
+- Motoarele electrice conțin piese care se mișcă unele față de altele. După un timp de funcționare, ele se încălzesc și trebuie lăsate să se răcească, altfel se deteriorează, datorită supraîncălzirii lor.
+
+<Img src="fizica/clasa7/capitolul3/3_9_2_Poza3_Mixer.jpg" />
+
+
+- Meteoriții, când intră în atmosfera terestră atrași de Pământ, se aprind datorită frecării cu aerul atmosferic.
+
+<Img src="fizica/clasa7/capitolul3/3_9_2_Poza4_MeteoritAprins.jpg" />
+
+
+:::important Definiţie
+
+Un **motor termic** este o mașină care transformă energia termică în energie mecanică. Energia termică poate fi produsă prin arderea unui combustibil (gaze naturale, benzină, motorină, hidrogen, etc.). Ca motoare termice avem motoarele cu benzină ( Otto ) , cu motorină ( Diesel ),  de rachete cosmice, etc.
+
+:::
+
+
+<Img src="fizica/clasa7/capitolul3/3_9_2_Poza5_DecolareNavetaSpatiala.jpg" />
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
 
 
 
