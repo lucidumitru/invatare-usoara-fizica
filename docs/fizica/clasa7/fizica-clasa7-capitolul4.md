@@ -288,7 +288,7 @@ Mișcarea de rotație are două sensuri :
 
 <br></br>
 
-**Materiale necesare:**: ață cu cârlig, disc cu perforații, suport.
+**Materiale necesare:** ață cu cârlig, disc cu perforații, suport.
  
 
 
@@ -436,7 +436,7 @@ Deoarece b<sub>F</sub> = 0, atunci și M<sub>F</sub> = 0 ( momentul forței este
 
 <br></br>
 
-**Materiale necesare:**: ață cu cârlig, disc cu perforații, suport, cârlig cu mase marcate.
+**Materiale necesare:** ață cu cârlig, disc cu perforații, suport, cârlig cu mase marcate.
  
 
 
@@ -543,7 +543,6 @@ Ca exemple de cupluri de forțe avem:
 
 - mișcarea acului unei busole;
 
-- deschiderea dopului de sticlă PET;
 
 - înșurubarea unui șurub cu șurubelnița;
 
@@ -552,8 +551,18 @@ Ca exemple de cupluri de forțe avem:
 - mânuirea volanului,
  
 <Img src="fizica/clasa7/capitolul4/4_2_Poza18_PozaVolan_ExempluCupluDeForte.jpg" />
+
+- deschiderea dopului de sticlă PET.
+
+<Video src="https://www.youtube.com/embed/7uCDu9L2KZo" />
+
+
  
 :::
+
+
+
+
 
 
 
@@ -610,7 +619,7 @@ Răspunsul îl vei afla în această lecție cu pârghii, întrucât marea major
 
 <br></br>
 
-**Materiale necesare:**: ață cu cârlig, disc cu perforații, suport, cârlig cu mase marcate, trepied, tijă lungă și scurtă, clemă, bară rigidă cu orificii, dinamometru.
+**Materiale necesare:** ață cu cârlig, disc cu perforații, suport, cârlig cu mase marcate, trepied, tijă lungă și scurtă, clemă, bară rigidă cu orificii, dinamometru.
  
 
 
@@ -709,7 +718,7 @@ Pârghia este o bară rigidă ce se poate roti în jurul unui punct de sprijin (
 
 <br></br>
 
-**Materiale necesare:**: ață cu cârlig, disc cu perforații, suport, cârlig cu mase marcate, trepied, tijă lungă și scurtă, clemă, bară rigidă cu orificii, dinamometru.
+**Materiale necesare:** ață cu cârlig, disc cu perforații, suport, cârlig cu mase marcate, trepied, tijă lungă și scurtă, clemă, bară rigidă cu orificii, dinamometru.
  
 
 
@@ -774,7 +783,7 @@ Cum se desenează o pârghie de Ordinul I?
 
 <br></br>
 
-**Materiale necesare:**: ață cu cârlig, disc cu perforații, suport, cârlig cu mase marcate, trepied, tijă lungă și scurtă, clemă, bară rigidă cu orificii, dinamometru.
+**Materiale necesare:** ață cu cârlig, disc cu perforații, suport, cârlig cu mase marcate, trepied, tijă lungă și scurtă, clemă, bară rigidă cu orificii, dinamometru.
  
 
 
@@ -844,7 +853,7 @@ Cum se desenează o pârghie de Ordinul II?
 
 <br></br>
 
-**Materiale necesare:**: ață cu cârlig, disc cu perforații, suport, cârlig cu mase marcate, trepied, tijă lungă și scurtă, clemă, bară rigidă cu orificii, dinamometru.
+**Materiale necesare:** ață cu cârlig, disc cu perforații, suport, cârlig cu mase marcate, trepied, tijă lungă și scurtă, clemă, bară rigidă cu orificii, dinamometru.
  
 
 
@@ -930,8 +939,6 @@ Când corpul omenesc execută diferite mișcări, se formează pârghii .
 - Ridicarea antebrațului (în flexiune).
 
 - Coastele, în timpul respirației (inspirație și expirație).
-
-
  
 :::
 
@@ -940,7 +947,1067 @@ Când corpul omenesc execută diferite mișcări, se formează pârghii .
 
 
 
+:::caution Problemă model
 
+5)	Tăiem un cui cu ajutorul unui clește. Distanța nit (articulația cleștelui) la cui este de 3 cm și de la nit la mâner este 5 dm. Mâna strânge cleștele cu 600 N. Cât este forța rezistentă din partea cuiului ?
+
+
+
+#### Rezolvare:
+
+
+- Desenăm forțele ce apar la tăierea cu cleștele :
+
+
+
+<Img src="fizica/clasa7/capitolul4/4_3_Poza7_ReprezentareGrafica_ProblemaModel5.jpg" />
+
+
+- Scriem datele problemei și transformăm în SI :
+
+  - OB = b<sub>R</sub> = 3 cm = 0,03 m
+
+  - OA = b<sub>F</sub> = 5 dm = 0,5 m
+
+  - F = 600 N
+
+  - R = ?
+
+
+- Scriem legea pârghiei și scoatem necunoscuta :
+
+<Img src="fizica/clasa7/capitolul4/4_3_Poza8_Rezolvare_ProblemaModel5.jpg" />
+
+:::
+
+
+
+
+<br></br>
+<br></br>
+
+
+
+## IV.4. Scripetele – un mecanism simplu.
+
+
+
+
+
+:::tip Experiment
+
+**7.** Scripetele fix 
+
+:::
+
+
+<Video src="https://www.youtube.com/embed/qpBLJn8mrt4" />
+
+
+<br></br>
+
+**Materiale necesare:** scripete, ață cu cârlig, suport, cârlig cu mase marcate, trepied, tijă lungă și scurtă, clemă, dinamometru.
+ 
+
+
+
+**Descrierea experimentului:** 
+
+- Ridică furca scripetelui și fixeaz-o cu cârligul de suport.
+
+- Pune ața pe șanțul scripetelui.
+
+- Calculează greutatea cârligului cu mase marcate.
+
+- De un capăt al aței suspendă cârligul cu mase marcate și de celălalt capăt trage cu dinamometrul de ață în jos.
+ 
+- Măsoară forța indicată de dinamometru.
+
+- Compară forța indicată de dinamometru cu greutatea ridicată.
+
+- Greutatea corpului ridicat reprezintă forța rezistentă R, iar forța indicată de dinamometru reprezintă forța activă F. 
+
+
+
+
+
+:::note Observaţie
+
+Forța indicată de dinamometru  este egală cu greutatea ridicată.  
+
+:::
+
+
+<br></br>
+
+
+
+
+:::tip Experiment
+
+**8.** Scripetele mobil 
+
+:::
+
+
+<Video src="https://www.youtube.com/embed/wc3X63sfFSg" />
+
+
+<br></br>
+
+**Materiale necesare:** scripete, ață cu cârlig, suport, cârlig cu mase marcate, trepied, tijă lungă și scurtă, clemă, dinamometru.
+ 
+
+
+
+**Descrierea experimentului:** 
+
+- Calculează greutatea cârligului cu mase marcate.
+
+- Fixează un capăt al aței de suportul orizontal de pe tijă.
+
+- Coboară furca scripetelui și pune pe cârligul ei greutatea .
+
+- Pune ața pe șanțul scripetelui și ridică de capătul ei prin intermediul dinamometrului.
+
+- Măsoară forța indicată de dinamometru.
+
+- Compară forța indicată de dinamometru cu greutatea ridicată.
+
+- Greutatea corpului ridicat reprezintă forța rezistentă R, iar forța indicată de dinamometru reprezintă forța activă F. 
+
+
+
+
+
+:::note Observaţie
+
+Forța indicată de dinamometru  este jumătate din greutatea ridicată.
+
+:::
+
+
+<br></br>
+
+
+
+
+:::tip Experiment
+
+**9.** Scripetele compus
+
+:::
+
+
+<Video src="https://www.youtube.com/embed/aGdsY338e2c" />
+
+
+<br></br>
+
+**Materiale necesare:** 2 scripeți, ață cu cârlig, suport, cârlig cu mase marcate, trepied, tijă lungă și scurtă, clemă, dinamometru.
+ 
+
+
+
+**Descrierea experimentului:** 
+
+- Montează un scripete fix și unul mobil într-un singur sistem, astfel încât să îmbini avantajele oferite de scripetele fix și mobil
+ 
+- Calculează greutatea cârligului cu mase marcate.
+
+- Fixează un capăt al aței de suportul orizontal de pe tijă.
+
+- Coboară furca scripetelui și pune pe cârligul ei greutatea .
+
+- Pune ața pe șanțul scripetelui mobil și apoi așaz-o peste șanțul scripetelui fix.
+
+- Trage în jos de capătul ei prin intermediul dinamometrului.
+
+- Măsoară forța indicată de dinamometru.
+
+- Compară forța indicată de dinamometru cu greutatea ridicată. Greutatea corpului ridicat reprezintă forța rezistentă R, iar forța indicată de dinamometru reprezintă forța activă F.
+ 
+
+
+
+
+:::note Observaţie
+
+Forța indicată de dinamometru  este jumătate din greutatea ridicată.
+
+:::
+
+
+<br></br>
+
+
+
+
+
+:::caution Aplicaţii ale scripeţilor
+
+
+Unul dintre mecanismele simple, care are multiple utilizări practice, este scripetele. 
+
+Scripeții pot fi de mai multe tipuri: scripete fix , scripete mobil , scripete compus.
+
+Cu ajutorul scripeților se pot realiza diverse montaje și sisteme mecanice, care sunt utilizate în construcții sau în activitățile cotidiene: 
+
+- macarale de diverse dimensiuni;
+
+- tiroliana;
+
+- fântâna tradițională;
+
+- mecanismul de ridicare/coborâre a unui pod etc.
+
+
+:::
+
+
+
+Scripetele este un mecanism simplu, cu rotație continuă, asupra căruia acționează două forțe: forța rezistentă (forța ce trebuie învinsă) și forța activă (forța care învinge forța rezistentă). 
+
+
+
+
+
+
+:::important Definiţie
+
+**Scripetele** este un disc care se rotește în jurul unui ax prevăzut cu o furcă cu cârlig și care are pe muchie cu un canal prin care trece un cablu.
+
+:::
+
+
+
+:::important
+
+În funcție de modalitatea de montare, identificăm:
+ 
+
+1)	scripetele fix – furca scripetelui se fixează de o grindă.
+ 
+2)	scripetele mobil – scripetele se mișcă odată cu corpul agățat de furca lui.
+ 
+:::
+
+
+:::important
+
+1)	Pentru un scripete ideal fix ( fără frecare) de rază r, la echilibru, momentele celor două forțe ce acționează asupra scripetelui sunt egale: 
+
+
+<Img src="fizica/clasa7/capitolul4/4_4_Poza1_ReprezentareGraficaScripeteFix.jpg" />
+
+
+
+M<sub>F</sub> = M<sub>R</sub>
+
+F • r = R • r
+ 
+ 
+:::
+
+
+:::important
+
+**Legea scripetelui fix: F = R**
+
+- **avantajul scripetelui fix:** schimbă în mod convenabil sensul forței active ( adică tragem de cablu în jos)
+
+- **dezavantajul scripetelui fix:** modulele celor două forțe, la echilibru, sunt egale, adică noi nu putem ridica un corp cu o greutate mai mare decât forța noastră). 
+
+:::
+
+
+
+
+:::note Observaţie
+
+Pentru un scripete fix, distanța pe care se deplasează punctul de aplicație al forței active ( d<sub>F</sub> ) este egală cu distanța pe care se deplasează punctul de aplicație al forței rezistente ( d<sub>R</sub> ), adică 
+
+
+d<sub>F</sub> = d<sub>R</sub>  
+
+
+
+:::
+
+
+<br></br>
+<br></br>
+
+
+
+
+
+:::important
+
+2)	Pentru un scripete ideal mobil (fără frecare) de rază r, la echilibru, momentele celor două forțe ce acționează asupra scripetelui sunt egale:  
+
+
+
+<Img src="fizica/clasa7/capitolul4/4_4_Poza2_ReprezentareGraficaScripeteMobil.jpg" />
+
+
+
+M<sub>F</sub> = M<sub>R</sub>
+
+F • 2r = R • r
+ 
+ 
+:::
+
+
+:::important
+
+**Legea scripetelui mobil: 2 • F = R**
+
+- **avantajul scripetelui mobil:** putem ridica o greutate dublă decât forța noastră
+
+- **dezavantajul scripetelui fix:** tragem de cablu în sus
+
+:::
+
+
+
+
+:::note Observaţie
+
+Pentru un scripete mobil, distanța pe care se deplasează punctul de aplicație al forței active ( d<sub>F</sub> ) este egală cu dublul distanței pe care se deplasează punctul de aplicație al forței rezistente ( d<sub>R</sub> ), adică 
+
+
+d<sub>F</sub> = 2 • d<sub>R</sub>  
+
+
+
+:::
+
+
+<br></br>
+<br></br>
+
+
+
+**Scripetele compus** îmbină avantajul scripetelui fix cu cel al scripetelui mobil.
+
+
+
+:::important
+
+**Legea scripetelui compus: 2 • F = R**
+
+:::
+
+
+:::note Observaţie
+
+Pentru un scripete compus, distanța pe care se deplasează punctul de aplicație al forței active ( d<sub>F</sub> ) este egală cu dublul distanței pe care se deplasează punctul de aplicație al forței rezistente ( d<sub>R</sub> ), adică 
+
+
+d<sub>F</sub> = 2 • d<sub>R</sub>  
+
+
+<Img src="fizica/clasa7/capitolul4/4_4_Poza3_ReprezentareGraficaScripeteCompus.jpg" />
+
+
+
+:::
+
+
+
+
+
+
+
+<br></br>
+<br></br>
+
+
+
+## IV.5. Centrul de greutate.
+
+:::important
+
+**Centrul de greutate ( notat cu C )** este punctul de aplicație al greutății unui corp.
+
+:::
+
+
+**Uneori centrul de greutate se află în afara corpului.** 
+
+
+**Exemple:**
+ 
+- un inel;
+
+- un covrig;
+
+- un colac;
+
+- o pernă decorativă inelară;
+
+- o gogoașă, etc.
+
+<Img src="fizica/clasa7/capitolul4/4_5_Poza1_Gogoasa.jpg" />
+
+
+
+
+
+:::important
+
+Centrul de greutate al unui corp omogen plan cu formă geometrică regulată se află: 
+
+- pentru pătrat și dreptunghi, la intersecția diagonalelor :
+
+<Img src="fizica/clasa7/capitolul4/4_5_Poza2_CentruDeGreutateDreptunghi.jpg" />
+
+
+
+- pentru triunghi, la intersecția medianelor:
+
+<Img src="fizica/clasa7/capitolul4/4_5_Poza3_CentruDeGreutateTriunghi.jpg" />
+
+
+- pentru cerc, în centrul cercului.
+
+<Img src="fizica/clasa7/capitolul4/4_5_Poza4_CentruDeGreutateCerc.jpg" />
+
+
+Pentru corpurile cu formă geometrică neregulată, centrul lor de greutate se determină experimental.
+
+
+:::
+
+
+
+
+
+
+:::tip Experiment
+
+**10.** Determinarea centrului de greutate
+
+:::
+
+
+<Video src="https://www.youtube.com/embed/g3gl96bo9q4" />
+
+
+<br></br>
+
+**Materiale necesare:** bucată de carton, foarfecă, creion, fir cu plumb (poți face firul cu plumb dintr-un fir de care legi o piuliță), ață cu ac
+ 
+
+:::warning Atenţie
+
+Atenție când lucrezi cu acul să nu te înțepi !
+
+:::
+
+
+**Descrierea experimentului:** 
+
+- Decupează cartonul într-o formă  dorită de tine.
+
+- Alege trei puncte de pe marginea conturului, perforează-le cu vârful unui compas şi prinde-le câte un fir de aţă de 10cm.
+
+- Ține figurina suspendată de unul dintre fire şi trasează cu creionul verticala prin punctul de susţinere cu ajutorul firului cu plumb (piuliţă). Poţi trasa uşor verticala dacă prinzi de un perete cele două fire – al figurinei şi al piuliţei, cu bandă adezivă.
+
+- Repetă operaţia şi cu celelalte două fire .
+
+
+
+
+:::note Observaţie
+
+La intersecţia celor trei verticale notează punctul C, numit **centru de greutate** al corpului.
+
+:::
+
+
+
+<br></br>
+<br></br>
+
+
+
+## IV.6. Echilibrul corpurilor și energia potențială.
+
+
+
+
+:::important
+
+**Un corp suspendat este în echilibru** atunci când verticala dusă din punctul de susținere, trece prin centrul de greutate al corpului.
+
+**Un corp sprijinit este în echilibru** atunci când verticala dusă din centrul de greutate al corpului,  cade în interiorul bazei de sprijin.
+
+
+:::
+
+
+**Urmărește următorul videoclip și explică de ce nu am căzut la efectuarea figurilor de patinaj artistic.** 
+
+
+<Video src="https://www.youtube.com/embed/DCWDNXQdwYA" />
+
+<br></br>
+
+
+
+:::important
+
+#### Un corp poate fi în trei tipuri de echilibre: 
+
+**- stabil**;
+
+**- instabil**;
+
+**- indiferent**.
+
+:::
+
+
+<br></br>
+<br></br>
+
+
+### IV.6.1. Echilibru stabil  
+
+:::important
+
+**Un corp este în echilibru stabil** dacă revine în poziția de echilibru după ce a fost scos din aceasta și dacă, la mici deviații față de poziția de echilibru, centrul de greutate urcă
+
+:::
+
+
+
+Tendința corpurilor este de a fi într-o stare de echilibru stabil, corespunzătoare unei energii potențiale gravitaționale minime. La scoaterea unui corp din starea de echilibru stabil, energia potențială crește, iar greutatea și forța de reacțiune din punctul de susținere formează un cuplu de forțe care pot readuce corpul în poziția de echilibru stabil.
+
+
+
+:::important
+
+a)	**Corpurile suspendate sunt în echilibru stabil** când centrul de greutate (C ) este sub punctul de suspendare ( S ), pe aceeași verticală.
+
+
+<Img src="fizica/clasa7/capitolul4/4_6_1_Poza1_CorpuriSuspendate.jpg" />
+
+
+**Exemple de corpurile suspendate în echilibru stabil:** 
+
+- hainele puse în cuier;
+- hainele puse pe umeraș;
+- lustre;
+- tablouri, etc.
+
+
+b)	**Corpurile sprijinite sunt în echilibru stabil** când verticala dusă din centrul de greutate ( C ) cade în interiorul bazei de sprijin.
+
+<Img src="fizica/clasa7/capitolul4/4_6_1_Poza2_CorpuriSprijinite.jpg" />
+
+
+**Exemple de corpurile sprijinite în echilibru stabil:**
+ 
+- oamenii;
+
+- mobilierul;
+ 
+- casele, etc.
+
+
+:::
+
+
+<br></br>
+<br></br>
+
+
+
+
+### IV.6.2. Echilibru instabil  
+
+:::important
+
+**Un corp este în echilibru instabil** dacă nu revine în poziția de echilibru după ce a fost scos din aceasta și dacă, la mici deviații față de poziția de echilibru, centrul de greutate coboară. Energia potențială gravitațională este maximă.
+
+:::
+
+
+
+:::important
+
+a)	**Corpurile suspendate sunt în echilibru instabil** când centrul de greutate (C ) este deasupra punctului  de susținere ( S ), pe aceeași verticală.
+
+
+
+
+<Img src="fizica/clasa7/capitolul4/4_6_2_Poza1_CorpuriSuspendateInEchilibruInstabil.jpg" />
+
+
+**Exemple de corpurile suspendate în echilibru instabil:** 
+
+
+- o riglă ținută pe deget;
+
+- un acrobat care stă pe o mână;
+
+- un om care stă pe cap, etc.
+
+
+
+
+b)	**Corpurile sprijinite sunt în echilibru instabil** când verticală dusă din centrul de greutate (C ) cade pe muchia bazei de sprijin. 
+
+
+<Img src="fizica/clasa7/capitolul4/4_6_2_Poza2_CorpuriSprijiniteInEchilibruInstabil.jpg" />
+
+
+**Exemple de corpurile sprijinite în echilibru instabil:**
+ 
+- un butoi înclinat.
+
+
+:::
+
+
+:::note Observaţie
+
+Corpurile sprijinite pe o bază de susținere vor fi răsturnate de cuplul normalei și greutății dacă verticala dusă din centrul de greutate cade în afara bazei de susținere.
+
+:::
+
+
+
+
+<br></br>
+<br></br>
+
+
+
+
+
+
+
+### IV.6.3. Echilibru indiferent.
+
+:::important
+
+**Un corp este în echilibru indiferent** dacă corpul rămâne în poziția de echilibru , oricum l-am așeza și la deviații mari.
+
+:::
+
+
+#### Energia potențială gravitațională este zero.
+
+
+
+:::important
+
+a)	**Corpurile suspendate sunt în echilibru indiferent** când punctul de susținere este chiar în centrul lor de greutate ( S coincide cu C ).
+
+În acest caz rezultanta forțelor ce acționează asupra corpului este nulă, iar momentul cuplului este nul. 
+
+
+
+
+<Img src="fizica/clasa7/capitolul4/4_6_3_Poza1_CorpuriSuspendateInEchilibruIndiferent.jpg" />
+
+
+**Exemple de corpurile suspendate în echilibru indiferent:** 
+
+
+- morile de vânt;
+
+- paletele unei turbine;
+
+- acul busolei.
+
+
+
+b)	**Corpurile sprijinite sunt în echilibru indiferent** când sunt pe o suprafață orizontală și la mari deviații rămân tot în echilibru. 
+
+
+<Img src="fizica/clasa7/capitolul4/4_6_3_Poza2_CorpuriSprijiniteInEchilibruIndiferent.jpg" />
+
+
+**Exemple de corpurile sprijinite în echilibru indiferent:**
+ 
+- o bilă pe sol.
+
+
+:::
+
+
+
+<br></br>
+<br></br>
+
+
+
+
+
+:::tip Experiment
+
+**11.** Echilibrul unui corp suspendat
+
+:::
+
+
+<Video src="https://www.youtube.com/embed/m-1Bq1ZI4zE" />
+
+
+<br></br>
+
+**Materiale necesare:** creion, riglă cu orificiu (o bucată de carton dreptunghiulară), compas.
+ 
+
+
+**Descrierea experimentului (Partea 1):** 
+
+- Suspendă rigla pe vârful creionului astfel încât centrul de greutate al ei (aflat la mijlocul riglei)să fie sub orificiu. 
+
+- Deplasează puţin rigla în dreapta sau în stânga.
+
+
+:::note Observaţie Partea 1
+
+Rigla se va mişca într-o parte şi în alta până va reveni la poziţia iniţială, adică pe verticală.
+
+:::
+
+
+
+**Descrierea experimentului (Partea 2):** 
+
+- Suspendă rigla pe creion astfel încât centrul de greutate al ei (aflat la mijlocul riglei)să fie deasupra orificiului.
+
+- Încearcă să o ţii nemişcată în această poziţie.Este destul de greu !
+
+
+
+:::note Observaţie Partea 2
+
+Rigla stă în această poziţie numai dacă nu o mişcăm deloc. La cea mai mică  mişcare a mâinii, rigla se răstoarnă,nemairevenind în poziţia iniţială.
+
+:::
+
+
+
+
+**Descrierea experimentului (Partea 3):** 
+
+- Trasează diagonalele cartonului dreptunghiular pentru a-i afla centrul de greutate. 
+
+- Suspendă pe acul compasului dreptunghiul chiar în centrul său. Ai obținut o morișcă.
+
+
+:::note Observaţie Partea 3
+
+Oricât ai mișca morișca , ea rămâne în echilibru.
+
+:::
+
+
+**Concluzia experimentului:**
+
+**Echilibrul corpului poate fi :**
+
+- **Stabil,** când punctul de suspensie se află deasupra centrului de greutate, pe aceeaşi verticală . Această situaţie a fost îndeplinită în primul caz.
+
+- **Instabil,** când punctul de suspensie se află sub centrul de greutate, pe aceeaşi verticală . Această situaţie a fost îndeplinită în al doilea caz, când corpul scos din starea de echilibru  nu a mai revenit singur la poziţia iniţială. La circ, multe numere de acrobaţii se realizează într-un echilibru instabil, lucru care cere multă abilitate şi mult exerciţiu.
+
+- **Indiferent,** când punctul de suspensie se află chiar în centrul de greutate al corpului. Această situaţie a fost îndeplinită la morișca de carton, când corpul a revenit singur la poziţia iniţială, oricât de mult l-am deplasat .
+
+
+
+
+
+
+
+<br></br>
+<br></br>
+
+
+
+:::tip Experiment
+
+**12.** Echilibrul unui corp sprijinit
+
+:::
+
+
+<Video src="https://www.youtube.com/embed/bk4O6rmuaLw" />
+
+
+<br></br>
+
+**Materiale necesare:** paralelipiped deformabil.
+ 
+
+
+**Descrierea experimentului (Partea 1):** 
+
+- Așază paralelipipedul deformabil pe masă, astfel încât paralelipipedul să fie drept  pe suprafața mesei.
+ 
+- Observă firul cu plumb.
+
+
+:::note Observaţie Partea 1
+
+Firul cu plumb cade în mijlocul bazei de sprijin.
+
+:::
+
+
+
+
+
+
+**Descrierea experimentului (Partea 2):** 
+
+- Înclină treptat paralelipipedul deformabil pe masă.
+ 
+- Observă firul cu plumb.
+
+
+:::note Observaţie Partea 2
+
+Când firul cu plumb cade pe muchia bazei de sprijin, paralelipipedul nu se răstoarnă.
+
+Când firul cu plumb cade în exteriorul bazei de sprijin, paralelipipedul se răstoarnă.
+
+
+:::
+
+
+
+
+
+
+**Concluzia experimentului:**
+
+- Când firul cu plumb cade în interiorul bazei de sprijin, paralelipipedul este în echilibru stabil.
+
+- Când firul cu plumb cade pe muchia bazei de sprijin, paralelipipedul este în echilibru instabil.
+
+- Când firul cu plumb cade în exteriorul bazei de sprijin, paralelipipedul nu mai este în echilibru.
+
+
+:::note Observaţie
+
+**Stabilitatea unui corp depinde de doi factori :**
+
+1)	Cu cât baza de sprijin este mai mare, cu atât stabilitatea corpului crește.
+
+2)	Cu cât centrul de greutate al corpului este mai aproape de baza de sprijin, cu atât stabilitatea corpului este mai mare.
+
+
+:::
+
+
+
+
+<br></br>
+<br></br>
+
+
+
+
+
+:::tip Experiment
+
+**13.** Stabilitatea și suprafața de sprijin
+
+:::
+
+
+<Video src="https://www.youtube.com/embed/hIRVo-GFZBM" />
+
+
+<br></br>
+
+**Materiale necesare:** 2 sticle de plastic goale.
+ 
+
+
+**Descrierea experimentului:** 
+
+- Sprijină o sticlă pe baza mare (pe fund) şi suflă puternic pentru a o răsturna.
+
+- Sprijină o sticlă pe baza mică ( pe dop) şi suflă  din nou puternic pentru a o răsturna.
+
+
+:::note Observaţie
+
+Sticla se răstoarnă foarte uşor  când e sprijinită  pe dop. 
+
+:::
+
+
+
+**Concluzia experimentului:**
+
+Stabilitatea unui corp aşezat este cu atât mai mare, cu cât baza de sprijin este mai mare.
+
+
+
+
+
+<br></br>
+<br></br>
+
+
+
+:::tip Experiment
+
+**14.** O roată care nu se rostogoleşte
+
+:::
+
+
+<Video src="https://www.youtube.com/embed/6CrhtReG0Bo" />
+
+
+<br></br>
+
+**Materiale necesare:** două dopuri de sticlă de plastic, 4 piuliţe, bandă adezivă, plan înclinat din carton (de la un dosar).
+ 
+
+
+**Descrierea experimentului:** 
+
+- Fixează  cu bandă adezivă pe fundul fiecărui dop câte două piuliţe.
+
+- Lipeşte cele două dopuri cu bandă adezivă pentru a obţine o roată.
+
+- Aşază cartonul pe un obiect nu prea înalt pentru a obţine un plan înclinat şi pune pe el rotiţa din dopuri.
+
+
+:::note Observaţie
+
+Rotiţa nu se rostogoleşte pe planul înclinat. 
+
+:::
+
+
+
+**Concluzia experimentului:**
+
+Datorită greutăţii piuliţelor aşezate pe fundul rotiţei, centrul de greutate al rotiţei coboară spre baza de sprijin. Astfel, corpul are o foarte mare stabilitate,  încât  învinge forţa de atracţie a Pământului care i-ar fi provocat rostogolirea pe planul înclinat.
+
+
+
+:::caution Aplicaţii
+
+Numai la corpurile omogene (alcătuite din acelaşi material sau substanţă) centrul de greutate coincide cu centrul de greutate geometric (de simetrie). 
+
+Pentru corpurile neomogene, centrul de greutate va fi mai jos sau mai sus în funcţie de locul unde este concentrată masa (greutatea) corpului.
+ 
+Stabilitatea unui corp aşezat este cu atât mai mare, cu cât centrul de greutate este mai aproape de baza de sprijin.
+ 
+- La încărcarea unui camion (vapor), se aşează mai întâi lucrurile mai grele şi apoi cele mai uşoare. În caz contrar, camionul se poate răsturna.
+ 
+- Fundul sticlelor, paharelor se face mai gros, piciorul paharelor este lat şi greu, pentru ca centrul de greutate să fie cât mai jos, iar baza de sprijin cât mai mare pentru a nu se răsturna cu uşurinţă.
+ 
+- “Hopa Mitică”, oricum ai aşeza-o, revine în picioare. Această jucărie are partea inferioară umplută cu plumb şi de aceea centrul ei de greutate se află în poziţia cea mai de jos. 
+
+
+
+:::
+
+
+
+
+
+
+<br></br>
+<br></br>
+
+
+
+
+
+:::tip Experiment
+
+**15.** Echilibrul unei bile.
+
+
+:::
+
+
+<Video src="https://www.youtube.com/embed/Ab8ieQ6tR4o" />
+
+
+<br></br>
+
+**Materiale necesare:** o bilă, o minge, un bol.
+ 
+
+
+**Descrierea experimentului (Partea 1):** 
+
+- Pune o bilă într-un bol de sticlă. Ridică bila pe marginea bolului și las-o liberă. 
+
+- Observă comportarea bilei .
+
+- Ce poți spune despre echilibrul bilei în cele trei cazuri?
+
+
+
+:::note Observaţie (Partea 1)
+
+Bila revine pe fundul bolului , deci este în echilibru stabil. 
+
+:::
+
+
+
+
+
+**Descrierea experimentului (Partea 2):** 
+
+- Așază bila pe o minge astfel încât să fie în echilibru. 
+
+- Observă ce se întâmplă cu bila atunci când este deviată foarte puțin de la poziția de echilibru.
+
+
+:::note Observaţie (Partea 2)
+
+Bila cade de pe minge când este mișcată, fiind în echilibru instabil. 
+
+:::
+
+
+
+**Descrierea experimentului (Partea 3):** 
+
+- Pune bila pe o suprafață orizontală în diferite poziții și observă comportarea acesteia.
+
+
+:::note Observaţie (Partea 3)
+
+Bila pe o suprafață este în echilibru indiferent. 
+
+:::
+
+
+
+
+
+
+
+
+**Concluzia experimentului:**
+
+- Bila pe fundul bolului revine în poziția de echilibru datorită forței de greutate, având o energia potențială gravitațională minimă .
+
+- Energia potențială a bilei aflată pe minge este maximă.
+  
+- Bila rămâne în echilibru în oricare dintre pozițiile aflate în planul orizontal, având o energie potențială egală cu zero ( nu are unde să cadă, nefiind la o înălțime față de sol ).
 
 
 
