@@ -1000,3 +1000,766 @@ Umiditatea aerului împiedică electricitatea statică să se formeze, deci oric
 
 
 
+<br></br>
+<br></br>
+
+
+
+
+## II.2. Electrocinetica
+
+
+### II.2.1. Circuite electrice. Componentele unui circuit. Generatoare electrice.
+
+
+
+Suntem în secolul 21 și trăim într-o lume bazată pe tehnologie, care la rândul ei se bazează 24 de ore din 24 de ore pe energie electrică.
+
+Te-ai gândit măcar odată, măcar când ai avut o pană de curent electric, cum ar fi viața ta și a celorlalți fără electricitate ?
+
+Dacă ar avea loc o puternică explozie solară, sistemele de transmitere a curentului electric s-ar avaria.
+
+Consecințele acestei avarieri ar fi:
+
+- Toate orașele ar rămâne în beznă .
+
+- Mijloacele de comunicare nu ar mai funcționa (telefoane, televizoare, calculatoare, radio, etc.)
+
+- Nu am mai avea apă la robinet (fără apă de băut și de spălat).
+
+- În spitale ar fi haos, fără aparatură medicală.
+
+- Transportul ar fi blocat.
+
+
+Dar să nu devenim prea sceptici și să ne bucurăm de această minunăție a lumii, numită curent electric.
+
+
+
+:::important Definiţie
+
+**Curentul electric** este mișcarea ordonată a purtătorilor de sarcină electrică printr-un circuit electric.
+
+:::
+
+:::important
+
+Purtătorii de sarcină electrică ce formează curentul electric pot fi:
+
+a)	Electronii liberi, în metale.
+
+b)	Ionii, în lichide și gaze.
+
+
+:::
+
+
+
+:::important Componentele unui circuit electric
+
+**1)	Generatoare electrice (surse electrice)** sunt dispozitive care au rolul de a produce și de a menține curentul electric printr-un circuit.
+
+Clasificarea generatoarelor după felul curentului produs:
+
+- **Generatoare de curent continuu (c.c.)** , care are un singur sens prin circuit: bateria electrică, acumulatori electrici, bateria solară.
+
+- **Generatoare de curent alternativ (c.a.)**, care își schimbă periodic sensul prin circuit : generatorul din cadrul centralelor electrice, dinamul de la bicicletă.
+
+Simboluri pentru surse electrice : 
+
+<Img src="fizica/clasa8/capitolul2/2_2_1_Poza1_SimboluriPentruSurseElecrice.jpg" />
+
+
+
+
+:::
+
+
+
+:::important Componentele unui circuit electric
+
+**2) Aparate electrice (consumatori electrici)** sunt dispozitive care transformă energia electrică ( a curentului electric ) în :
+
+
+
+a) lumină, numit **bec electric** cu simbolul:
+
+
+<Img src="fizica/clasa8/capitolul2/2_2_1_Poza2_SimbolBec.jpg" />
+
+
+
+
+b) căldură, numit **rezistor electric**, cu simbolul:
+
+<Img src="fizica/clasa8/capitolul2/2_2_1_Poza3_SimbolRezistor.jpg" />
+
+	
+
+Exemple de aparate care au rezistori:
+ 
+- foen (uscător de păr);
+
+- aerotermă;
+
+- calorifer electric;
+
+- plită electrică;
+
+- filtru de cafea;
+
+- fier de călcat;
+
+- prăjitor de pâine, etc.
+
+
+
+c)	energie cinetică (pune ceva în mișcare), numit **motor electric**, cu simbolul:
+
+<Img src="fizica/clasa8/capitolul2/2_2_1_Poza4_SimbolMotor.jpg" />
+
+
+
+Exemple de aparate care au motoare electrice:
+
+- aspirator;
+
+- ventilator;
+ 
+- mașină de spălat;
+ 
+- frigider;
+ 
+- hotă;
+ 
+- aer condiționat;
+ 
+- mixer, etc.
+
+
+:::
+
+
+
+:::important Componentele unui circuit electric
+
+**3) Conductoare de legătură** sunt fire confecționate din aluminiu sau cupru și care leagă componentele circuitului între ele.
+
+
+<Img src="fizica/clasa8/capitolul2/2_2_1_Poza5_SimbolFire.jpg" />
+
+
+
+
+:::
+
+
+
+:::important Componentele unui circuit electric
+
+**4) Întrerupătoare electrice** care au rolul de a închide și de a deschide circuitul electric. Numai când întrerupătorul este pe poziție închis, trece curentul electric prin circuit.
+
+
+<Img src="fizica/clasa8/capitolul2/2_2_1_Poza6_SimbolIntrerupatoare.jpg" />
+
+
+:::
+
+
+:::important
+
+Sensul convențional al curentului electric printr-un circuit este de la borna pozitivă a sursei spre borna negativă, prin circuitul exterior (prin consumatori).
+
+
+<Img src="fizica/clasa8/capitolul2/2_2_1_Poza7_SensulCurentului.jpg" />
+
+
+:::
+
+
+
+
+
+
+:::note Observaţie
+
+Sensul convenţional al curentului electric este invers sensului deplasării electronilor prin circuit.
+
+Bineînţeles că vă veţi întreba de ce sensul curentului electric stabilit prin convenţie nu corespunde cu sensul real al deplasării electronilor?
+
+Lucrurile stau aşa, deoarece savanţii din secolul al XIX-lea, neştiind de existenţa electronilor, au fixat sensul curentului electric înainte de a-i cunoaşte natura sa.
+
+Curentul electric poate fi _continuu_ (având un singur sens) şi _alternativ_ (schimbându-şi periodic sensul).
+
+
+:::
+
+
+
+:::important
+
+**Clasificarea generatoarelor după tipul energiei pe care o transformă în energie electrică:** 
+
+- **Bateriile electrice și acumulatorii** transformă energia chimică în energie electrică:
+
+<Img src="fizica/clasa8/capitolul2/2_2_1_Poza8_Baterii.jpg" />
+
+ 
+  - Telefoanele mobile, camerele video, aparatele foto digitale, laptop-urile, etc. funcţionează cu **acumulatoare.**
+
+
+
+  
+<Img src="fizica/clasa8/capitolul2/2_2_1_Poza9_Acumulatori.jpg" />
+
+
+- **Dinamurile și alternatoarele electrice** transformă energia mecanică în energie electrică:
+
+<Img src="fizica/clasa8/capitolul2/2_2_1_Poza10_DinamSiAlternator.jpg" />
+
+
+- **Baterii solare (fotocelule)** transformă energia luminii în energie electrică :
+
+<Img src="fizica/clasa8/capitolul2/2_2_1_Poza11_BateriiSolare.jpg" />
+
+
+
+:::
+
+
+
+
+:::important
+
+
+Consumatorii electrici sunt dispozitive care transformă energia electrică ( a curentului electric ) în :
+
+a) lumină, numit **bec electric** 
+
+<Img src="fizica/clasa8/capitolul2/2_2_1_Poza12_Becuri.jpg" />
+
+
+b) căldură, numit **rezistor electric**
+
+<Img src="fizica/clasa8/capitolul2/2_2_1_Poza13_Phoen.jpg" />
+
+
+<Img src="fizica/clasa8/capitolul2/2_2_1_Poza14_FierDeCalcat.jpg" />
+
+
+<Img src="fizica/clasa8/capitolul2/2_2_1_Poza15_PlitaElectrica.jpg" />
+
+
+<Img src="fizica/clasa8/capitolul2/2_2_1_Poza16_PrajitorPaine.jpg" />
+
+
+<Img src="fizica/clasa8/capitolul2/2_2_1_Poza17_FiltruCafea.jpg" />
+
+
+
+c) energie cinetică (pune ceva în mișcare), numit **motor electric**
+
+
+<Img src="fizica/clasa8/capitolul2/2_2_1_Poza18_Aspirator.jpg" />
+
+
+<Img src="fizica/clasa8/capitolul2/2_2_1_Poza19_Mixer.jpg" />
+
+
+<Img src="fizica/clasa8/capitolul2/2_2_1_Poza20_MasinaSpalat.jpg" />
+
+
+<Img src="fizica/clasa8/capitolul2/2_2_1_Poza21_Frigider.jpg" />
+
+
+:::
+
+
+<br></br>
+
+
+
+
+:::tip Experiment
+
+**9.** Circuitul electric simplu
+
+:::
+
+<Video src="https://www.youtube.com/embed/9rXjElvlAXE" />
+
+<br></br>
+
+**Materiale necesare:** baterie electrică, bec, motoraș, rezistor (poți folosi o sârmă de fier de la buretele metalic de vase), fire de legătură, întrerupător.
+
+
+**Descrierea experimentului:**
+ 
+- Leagă în serie (unul după altul) bateria electrică, becul, motorașul, rezistorul, firele de legătură și întrerupătorul.
+
+- Închide întrerupătorul.
+
+
+- Ce observi ?
+
+
+:::note Observaţie
+
+La închiderea întrerupătorului, curentul electric trece prin circuit. 
+
+Becul luminează, motorașul învârte elicea și rezistorul dă căldură. 
+
+
+:::
+
+
+
+**Concluzia experimentului:**
+
+Un circuit electric simplu este format din sursă electrică ( bateria electrică ), fire de legătură , consumatori electrici ( becul, motorașul, rezistorul) și întrerupător, toate legate în serie.
+
+
+
+
+
+
+:::note Observaţie
+
+Deoarece toate aparatele electrocasnice funcţionează doar dacă sunt conectate la o priză electrică, ai fi tentat să afirmi că priza este o sursă electrică. 
+
+Dar, reamintindu-ne că sursa electrică este dispozitivul care produce curent electric, ne dăm seama că acest lucru nu se întâmplă la priză, ea fiind un dispozitiv intermediar între consumatorii electrici şi generatoarele electrice de la diverse centrale electrice.
+
+La instalaţiile electrocasnice există două tipuri de prize:
+
+- priza simplă a cărei soclu are 2 borne;
+
+- priza cu împământare care are două borne şi o bornă  legată la pământ (împământarea).
+
+
+
+
+<Img src="fizica/clasa8/capitolul2/2_2_1_Poza22_PrizaSimplaSiCuImpamantare.jpg" />
+
+
+
+Cele două borne tip mamă ale unei prize nu sunt identice. Pentru a le distinge fără pericol, electricienii utilizează o şurubelniţă specială de tensiune. Când şurubelniţa specială de tensiune introdusă într-o bornă tip mamă se aprinde înseamnă că aceea este borna numită fază, iar în cazul când nu se aprinde, aceea este borna numită nul. Între cele două borne tip mamă (între fază şi nul) există o tensiune eficace de 220V, la fel între fază şi împământare.
+
+<Img src="fizica/clasa8/capitolul2/2_2_1_Poza23_BornePriza.jpg" />
+
+
+Priza cu împământare, cu toate că nu joacă un rol indispensabil în funcţionarea aparatelor, are un rol foarte important în securitatea din domeniul electricităţii. Fără aceasta, la producerea accidentală a unui scurtcircuit, atingând carcasa metalică a unui aparat electric ar exista riscul electrocutării.
+
+<Img src="fizica/clasa8/capitolul2/2_2_1_Poza24_PrizaSimplaSiCuImpamantare.jpg" />
+
+
+
+:::
+
+
+
+<br></br>
+<br></br>
+
+
+
+
+
+### II.2.2. Tensiunea electrică. Tensiunea electromotoare.
+
+Generatoare electrice (surse electrice ) sunt dispozitive care au rolul de a produce și de a menține curentul electric printr-un circuit, adică asigură deplasarea purtătorilor de sarcină electrică prin circuit. Ele efectuează un lucru mecanic asupra acestor purtători pentru a-i deplasa.
+
+
+:::important Definiție
+
+**Tensiunea electromotoare ( prescurtată t.e.m., cu simbolul E )** a unei surse este mărimea fizică scalară care măsoară lucrul mecanic efectuat de sursă ( Ltotal ) pentru deplasarea unității de sarcină electrică ( q ) de-a lungul întregului circuit.
+
+<Img src="fizica/clasa8/capitolul2/2_2_2_Poza0bis_FormulaTensiuniiElectromotoare.jpg" />
+
+**Unitate de măsură în S.I pentru tensiunea electrică este voltul ( V ):**
+
+<Img src="fizica/clasa8/capitolul2/2_2_2_Poza0bis2_UnitateaDeMasuraATensiuniiElectromotoare.jpg" />
+
+
+:::
+
+
+
+Lucrul mecanic total efectuat de sursă pentru a deplasa sarcina q prin întreg circuitul este egal cu lucrul mecanic exterior efectuat de sursă pentru a deplasa sarcina q prin circuitul exterior ( L<sub>ext</sub> ) și lucrul mecanic efectuat de sursă pentru a deplasa sarcina q prin circuitul interior al sursei ( L<sub>int</sub> ) :
+
+L<sub>total</sub>  = L<sub>ext</sub>  + L<sub>int</sub> 
+
+<Img src="fizica/clasa8/capitolul2/2_2_2_Poza0bis3_LucruMecanicSursa.jpg" />
+
+
+
+:::important Definiție
+
+**Tensiunea electrică la borne (cu simbolul U<sub>b</sub> )** este mărimea fizică scalară care măsoară lucrul mecanic efectuat de sursă ( Lext ) pentru deplasarea unității de sarcină electrică ( q ) de-a lungul circuitului exterior.
+
+<Img src="fizica/clasa8/capitolul2/2_2_2_Poza0bis4_TenisuneaLaBorne.jpg" />
+
+
+:::
+
+
+
+
+:::important Definiție
+
+**Tensiunea internă ( cu simbolul u )** este mărimea fizică scalară care măsoară lucrul mecanic efectuat de sursă ( L<sub>int</sub> ) pentru deplasarea unității de sarcină electrică ( q ) de-a lungul circuitului interior.
+
+
+<Img src="fizica/clasa8/capitolul2/2_2_2_Poza0bis5_TenisuneaInterna.jpg" />
+
+:::
+
+
+
+:::important
+
+Astfel obținem relația dintre cele trei tensiuni electrice ale unui circuit electric :
+
+**E = U<sub>b</sub> + u**
+
+:::
+
+
+
+
+:::important
+
+#### Caracterizarea tensiunii electrice ca mărime fizică:
+
+#### •	Simbol: de obicei U
+
+#### •	Formulă de calcul: 
+
+<Img src="fizica/clasa8/capitolul2/2_2_2_Poza0bis6_FormulaTensiuniiElectrice.jpg" />
+
+#### •	Unitatea de măsură în Sistemul Internațional: 
+
+<Img src="fizica/clasa8/capitolul2/2_2_2_Poza0bis7_UnitateaDeMasuraATensiuniiElectrice.jpg" />
+
+
+#### •	Instrumente de măsură: voltmetru, care se leagă în paralel la elementele circuitului, având simbolul:
+
+<Img src="fizica/clasa8/capitolul2/2_2_2_Poza1_SimbolVoltmetru.jpg" />
+
+
+
+:::
+
+
+
+
+:::note Observaţie
+
+Dacă alegem două puncte oarecare ale unui circuit electric, 1 și 2, tensiunea electrică între acestea este egală lucrul mecanic efectuat de sursă ( L<sub>12</sub>) pentru deplasarea unității de sarcină electrică ( q ) între aceste două puncte.
+
+**Diferența de potențial dintre 2 puncte:**
+
+<Img src="fizica/clasa8/capitolul2/2_2_2_Poza1bis_FormulaDiferentaDePotential.jpg" />
+
+
+
+
+
+:::
+
+
+
+
+
+
+Bateriile de buzunar au diferite tensiuni electromotoare .
+
+
+<Img src="fizica/clasa8/capitolul2/2_2_2_Poza2_ExempleBateriiBuzunar.jpg" />
+
+
+
+
+
+
+<br></br>
+<br></br>
+
+
+
+
+:::tip Experiment
+
+**10.** Măsurarea tensiunilor electrice
+
+:::
+
+<Video src="https://www.youtube.com/embed/VfEjn0WeAqg" />
+
+<br></br>
+
+**Materiale necesare:** baterie electrică, bec, fire de legătură, întrerupător, voltmetru.
+
+
+**Descrierea experimentului (Partea 1):**
+ 
+- Leagă în serie bateria electrică, becul, firele de legătură și întrerupătorul.
+
+- Leagă în paralel bornele voltmetrului la sursă, cu întrerupătorul deschis.
+
+
+:::note Observaţie Partea 1
+
+Când legăm în paralel voltmetrul la bornele sursei, cu circuitul deschis, măsurăm tensiunea electromotoare a sursei ( E ).
+
+
+:::
+
+
+<Img src="fizica/clasa8/capitolul2/2_2_2_Poza3_Experiment10_CircuitDeschis.jpg" />
+
+
+
+
+
+**Descrierea experimentului (Partea 2):**
+ 
+- Închide întrerupătorul. 
+
+- Ce observi ?
+
+
+:::note Observaţie Partea 2
+
+La închiderea întrerupătorului, când legăm în paralel voltmetrul la bornele sursei, cu circuitul închis, măsurăm tensiunea la bornele circuitului exterior ( Ub ).
+
+
+:::
+
+
+<Img src="fizica/clasa8/capitolul2/2_2_2_Poza4_Experiment10_CircuitInchis.jpg" />
+
+
+
+
+**Descrierea experimentului (Partea 3):**
+ 
+- Leagă în paralel bornele voltmetrului la bornele becului, cu întrerupătorul închis.
+
+
+
+:::note Observaţie Partea 3
+
+Când legăm în paralel voltmetrul la bornele becului, cu circuitul închis, măsurăm tensiunea la bornele becului  ( U<sub>bec</sub> ) .
+
+
+:::
+
+
+<Img src="fizica/clasa8/capitolul2/2_2_2_Poza5_Experiment10_CircuitBec.jpg" />
+
+
+
+
+
+
+**Concluzia experimentului:**
+
+Relația care exprimă bilanțul tensiunilor într-un circuit este :
+
+E = U<sub>b</sub> + u
+
+Experimental se poate determina numai tensiunea electromotoare a sursei ( E ) și tensiunea la bornele circuitului exterior ( U<sub>b</sub> ). 
+
+Tensiunea internă ( u ) se determină din formula tensiunilor :
+
+u = E - U<sub>b</sub> 
+
+
+
+
+
+
+
+
+
+<br></br>
+<br></br>
+
+
+:::tip Experiment
+
+**11.** Tensiunea  nominală
+
+:::
+
+<Video src="https://www.youtube.com/embed/_4405HL3G00" />
+
+<br></br>
+
+**Materiale necesare:** baterii electrice de 1,5 V, 4,5 V și 9 V, bec de 3,5 V, fire de legătură.
+
+
+**Descrierea experimentului (Partea 1):**
+ 
+- Leagă  becul la bornele bateriei de 1,5 V. 
+
+- Cum luminează becul ?
+
+
+
+
+:::note Observaţie Partea 1
+
+Când legăm un bec cu tensiunea nominală de 3,5 V la o baterie de 1,5 V, becul luminează slab.
+
+
+:::
+
+
+
+**Descrierea experimentului (Partea 2):**
+ 
+- Leagă  becul la bornele bateriei de 3 V. 
+
+- Cum luminează becul ?
+
+
+
+
+:::note Observaţie Partea 2
+
+Când legăm un bec cu tensiunea nominală de 3,5 V la o baterie de 3 V, becul luminează normal.
+
+
+:::
+
+
+
+**Descrierea experimentului (Partea 3):**
+ 
+- Leagă  becul la bornele bateriei de 9 V. 
+
+- Cum luminează becul ?
+
+
+
+:::note Observaţie Partea 3
+
+Când legăm un bec cu tensiunea nominală de 3,5 V la o baterie de 9 V, becul luminează puternic.
+
+
+:::
+
+
+
+
+
+
+**Concluzia experimentului:**
+
+Pe orice consumator scrie tensiunea lui nominală, pentru care a fost construit.
+
+Dacă alimentăm consumatorul la o tensiune mai mică decât cea înscrisă pe el, el va funcționa mai slab.
+
+Orice consumator trebuie alimentat la o tensiune egală cu cea nominală, pentru o funcționare normală (optimă).
+
+Dacă alimentăm consumatorul la o tensiune mai mare decât cea înscrisă pe el, el se poate deteriora.
+
+
+
+<br></br>
+<br></br>
+ 
+ 
+ 
+
+### II.2.3. Intensitatea curentului electric.
+
+
+Când aplicăm o tensiune electrică între două puncte ale unui conductor, apare un curent electric, adică o mișcare dirijată a electronilor săi liberi, care transportă o sarcină q = n ∙ e.
+
+
+
+
+
+
+:::important Definiție
+
+
+**Intensitatea curentului electric ( I )** este o mărime fizică scalară care măsoară sarcina electrică ce trece prin secțiunea transversală a unui conductor în unitatea de timp.
+
+
+
+:::
+
+
+
+:::important
+
+#### Caracterizarea intensității electrice ca mărime fizică:
+
+#### •	Simbol: I
+
+#### •	Formulă de calcul: 
+
+<Img src="fizica/clasa8/capitolul2/2_2_3_Poza0_FormulaIntensitate.jpg" />
+
+#### •	Unitatea de măsură în Sistemul Internațional: 
+
+<Img src="fizica/clasa8/capitolul2/2_2_3_Poza0bis_UnitateMasuraIntensitate.jpg" />
+
+
+#### •	Instrumente de măsură: ampermetru.
+
+
+
+:::
+
+
+
+
+<br></br>
+<br></br>
+
+
+:::tip Experiment
+
+**12.** Măsurarea intensității curentului electric
+
+:::
+
+<Video src="https://www.youtube.com/embed/AFQKUtUJi3s" />
+
+<br></br>
+
+**Materiale necesare:** baterie electrică, bec, fire de legătură, întrerupător, ampermetru.
+
+
+**Descrierea experimentului:**
+ 
+- Leagă în serie bateria electrică, becul, firele de legătură și întrerupătorul. 
+
+- Verifică aprinderea becului.
+
+- Leagă în serie la circuitul deja creat și ampermetru și citește indicația acestuia.
+
+- Dacă dispui de mai multe ampermetre, conectează câte unul in diferite secțiuni ale circuitului și citește indicațiile lor.
+
+
+
+
+
+:::note Observaţie
+
+Pentru un circuit simplu, intensitatea curentului electric are aceeași valoare în toate secțiunile circuitului.
+
+
+:::
+
+
+**Concluzia experimentului:**
+
+Intensitatea curentului electric se măsoară cu ampermetru, legat în serie cu elementele circuitului.
+
+
+<Img src="fizica/clasa8/capitolul2/2_2_3_Poza1_Experiment11_CircuitAmpermetru.jpg" />
