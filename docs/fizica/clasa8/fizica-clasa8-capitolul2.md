@@ -1763,3 +1763,724 @@ Intensitatea curentului electric se măsoară cu ampermetru, legat în serie cu 
 
 
 <Img src="fizica/clasa8/capitolul2/2_2_3_Poza1_Experiment11_CircuitAmpermetru.jpg" />
+
+
+
+<br></br>
+<br></br>
+
+
+### II.2.4. Rezistența electrică.
+
+
+
+Constanta de proporționalitate dintre tensiunea aplicată (U) și intensitatea curentului (I) este cunoscută sub numele de rezistența electrică a conductorului.
+
+
+
+
+:::important Definiție
+
+
+_**Rezistenţa electrică**_ este mărimea fizică care ne arată cât de mult se opune un conductor la trecerea curentului electric prin el .
+
+
+:::
+
+
+:::important Definiție
+
+
+**Rezistența electrică a unui conductor ( R )** este mărimea scalară egală cu raportul dintre tensiunea aplicată ( U ) la capetele conductorului și intensitataea curentului ( I ) stabilit prin el, când temperatura conductorului rămâne constantă.
+
+
+:::
+
+
+
+
+
+
+:::important
+
+#### Caracterizarea rezistenței electrice ca mărime fizică:
+
+#### •	Simbol: R
+
+#### •	Formulă de calcul: 
+
+<Img src="fizica/clasa8/capitolul2/2_2_4_Poza0_FormulaCalculRezistenta.jpg" />
+
+#### •	Unitatea de măsură în Sistemul Internațional: 
+
+<Img src="fizica/clasa8/capitolul2/2_2_4_Poza0bis_UnitateMasuraRezistenta.jpg" />
+
+
+#### •	Instrumente de măsură: ohmmetrul
+
+
+
+:::
+
+
+<br></br>
+
+
+
+
+:::tip Experiment
+
+**13.** Determinarea rezistenței electrice a unui  rezistor
+
+:::
+
+<Video src="https://www.youtube.com/embed/9fRM2lr0KHw" />
+
+<br></br>
+
+**Materiale necesare:** sursă de tensiune variabilă (baterii electrice de diferite tensiuni electromotoare), rezistor de 50 Ω  (poți folosi un beculeț), fire de legătură, ampermetru, voltmetru (multimetru).
+
+
+**Descrierea experimentului:**
+ 
+- Leagă rezistorul în serie cu bateria de 1,5 V și cu ampermetrul. 
+
+- Măsoară intensitatea curentului electric ce trece prin rezistor.
+
+- Leagă rezistorul în serie cu bateria de 1,5 V și măsoară tensiunea la bornele rezistorului, legând în paralel voltmetrul la rezistor.
+
+- Repetă măsurătorile, schimbând bateria de 1,5 V cu una de 3 V, respectiv de 9 V. 
+
+- Trece datele în următorul tabel:
+
+<Img src="fizica/clasa8/capitolul2/2_2_4_Poza1_Experiment13_TabelDate.jpg" />
+
+- Reprezintă graficul tensiunii în funcție de intensitate. 
+
+- Ce observi ?
+
+<Img src="fizica/clasa8/capitolul2/2_2_4_Poza1bis_Experiment13_SchemaCircuit.jpg" />
+
+
+:::note Observaţie
+
+Raportul dintre tensiunea la bornele rezistorului și intensitatea curentului ce trece prin acesta este constant.
+
+
+
+:::
+
+
+**Concluzia experimentului:**
+
+Constanta de proporționalitate dintre tensiune și intensitate este rezistența electrică a conductorului respectiv.
+
+
+<Img src="fizica/clasa8/capitolul2/2_2_4_Poza2_Experiment13_Grafic.jpg" />
+
+
+
+<br></br>
+<br></br>
+
+
+
+:::tip Experiment
+
+**14.** De cine depinde rezistența unui conductor
+
+:::
+
+<Video src="https://www.youtube.com/embed/GCgHT_T-KUY" />
+
+<br></br>
+
+**Materiale necesare:** baterie electrică,  fire de legătură, beculeț, 2 mine de grafit una subțire și una mai groasă, conductor de cupru, conductor de fier, voltmetru.
+
+
+**Descrierea experimentului (Partea 1):**
+ 
+- Leagă beculețul la baterie și intercalează la capetele acestui circuit un conductor de cupru. 
+
+- Măsoară tensiunea la bornele conductorului.
+
+- Repetă și pentru alte conductoare din alte materiale ( fier, grafit ), care să aibă aceeași lungime și grosime cu cel de cupru.
+ 
+- Ce observi ?
+
+
+:::note Observaţie (Partea 1)
+
+Tensiunea la bornele conductoarelor a crescut de la cupru, la fier, fiind cea mai mare la grafit. Cum intensitatea curentului este aceeași în toate aceste trei cazuri, înseamnă că rezistența acestor conductoare a crescut, cea mai mică fiind a cuprului și cea mai mare a grafitului.
+
+
+
+:::
+
+
+
+
+
+**Descrierea experimentului (Partea 2):**
+ 
+- Leagă beculețul la baterie și intercalează la capetele acestui circuit un conductor de grafit, cu o lungime mică. Măsoară tensiunea la bornele conductorului.
+
+- Repetă și pentru alte lungimi mai mari ale minei de grafit.
+ 
+- Ce observi ?
+
+
+:::note Observaţie (Partea 2)
+
+Tensiunea la bornele conductoarelor a crescut de la mina de grafit cu cea mai mică lungime până mina de grafit cu cea mai mare lungime . Cum intensitatea curentului este aceeași în toate aceste trei cazuri, înseamnă că rezistența acestor conductoare a crescut odată cu lungimea conductorului de grafitului.
+
+
+
+:::
+
+
+
+
+**Descrierea experimentului (Partea 3):**
+ 
+- Leagă beculețul la baterie și intercalează la capetele acestui circuit un conductor de grafit subțire. Măsoară tensiunea la bornele conductorului.
+
+- Repetă și pentru alte grosimi mai mari ale minei de grafit. 
+ 
+- Ce observi ?
+
+
+:::note Observaţie (Partea 3)
+
+Tensiunea la bornele conductoarelor a scăzut de la mina de grafit cu cea mai mică grosime până la mina de grafit cu cea mai mare grosime . Cum intensitatea curentului este aceeași în toate aceste trei cazuri, înseamnă că rezistența acestor conductoare a crescut odată cu scăderea ariei secțiunii transversale (grosimii) conductorului de grafitului.
+
+Când rezistența conductorului din circuit crește, scade luminozitatea becului, deoarece crește căderea de tensiune la capetele conductorului și scade căderea de tensiune la bornele becului.
+
+
+
+
+:::
+
+
+
+
+
+
+
+**Concluzia experimentului:**
+
+Rezistenţa unui conductor depinde de :
+
+a)	materialul din care este confecţionat. Astfel, conductoarele sunt de două categorii: 
+
+- Bune conductoare (ex.argintul, cuprul, aurul, aluminiul), care au rezistenţa mică.
+
+- Slab (greu) conductoare (ex. fierul, wolframul, nichelina, manganina, grafitul etc.), care au rezistenţa mare.
+
+b)	 de lungimea lui (cu cât lungimea conductorului e mai mare, cu atât şi rezistenţa lui e mai mare).
+ 
+c)	 de aria secțiunii transversale (cu cât aria transversală lui e mai mare, cu atât el are rezistenţa mai mică).
+
+
+
+
+
+:::important
+
+Dependența rezistenței electrice de natura și de dimensiunile conductorului este:
+
+
+<Img src="fizica/clasa8/capitolul2/2_2_4_Poza3_Experiment14_FormulaRezistivitatii.jpg" />
+
+
+unde ρ este **rezistivitatea electrică** a materialului conductor:
+
+**[ ρ ]<sub>SI</sub> = 1Ω ∙ m**
+
+
+
+:::
+
+
+
+
+:::note Observaţie (Partea 3)
+
+**- Rezistivitatea electrică a materialului conductor depinde numai de natura materialului din care este confecționat rezistorul.  Astfel, conductoarele au rezistivitatea cuprinsă în intervalul 10<sup>-8</sup> – 10<sup>-5</sup> Ωm, semiconductorii între 10<sup>-3</sup> – 10<sup>7</sup> Ωm, iar izolatoarele între 10<sup>8</sup> – 10<sup>20</sup> Ωm.**
+
+**- Rezistența electrică a conductoarelor (metale) crește atunci când temperatura crește.**
+
+**- Rezistența electrică a unor materiale precum nemetalele (grafitul, germaniul, siliciul) scade atunci când temperatura crește. Ele se numesc semiconductori.**
+
+**- Rezistența electrică a conductorului depinde și ea de temperatură după următoarea relație:**
+
+**R = R<sub>0</sub> (1+αt)**
+
+- Supraconductibilitatea este un fenomen în care rezistența electrică a unui material conductor devine zero, dacă temperatura sa este mai mică decât o anumită valoare specifică materialului, numită temperatură critică. 
+
+- De exemplu, rezistența electrice a mercurului  sub o temperatură, apropiată de temperatura heliului lichid ( 4,2 K = - 267°C ) este zero. 
+
+
+
+
+:::
+
+
+
+
+:::caution Aplicațiile supraconductibilității : 
+
+- Magneți supraconductori și cabluri supraconductoare în acceleratoarele de particule.
+
+- Bobine realizate din materiale supraconductoare, care pot genera câmpuri magnetice foarte mari.
+
+- Transport de energie - Trenurile MAGLEV de mare viteză.
+
+- Biomagnetism: aparatură de rezonanță magnetică (computer tomograf)
+
+- Domeniul informaticii: se speculează apariția unor microprocesoare cu o frecvență de 4000 de ori mai mare decât o au procesoarele actuale
+
+
+
+:::
+
+
+
+
+<br></br>
+<br></br>
+
+
+
+
+
+:::tip Experiment
+
+**15.** Cât este rezistența corpului omenesc
+
+:::
+
+<Video src="https://www.youtube.com/embed/vNcNAvRd5xc" />
+
+<br></br>
+
+**Materiale necesare:** multimetru ( ohmmmetru ).
+
+
+**Descrierea experimentului:**
+ 
+- Comută butonul multimetrului pe scala ohm ( Ω ) la 2000 k.
+
+- Strânge vârful conectorilor ohmmetrului în fiecare mână.
+
+- Citește valoarea rezistenței electrice a corpului tău
+
+
+
+:::note Observaţie
+
+Rezistența electrică se poate măsura direct cu ohmmetrul.
+
+
+
+:::
+
+
+**Concluzia experimentului:**
+
+Valoarea rezistenţei electrice a corpului uman are valori diferite şi depinde de ţesutul muscular, sistemul osos, aparatul circulator, organele interne, de sistemul nervos şi de procesele biofizice şi biochimice care au loc în organism. 
+
+Rezistenţa electrică totală a corpului uman, depinde de rezistenţa electrică a stratului din piele. 
+
+
+
+
+<br></br>
+<br></br>
+
+
+
+
+
+
+### II.2.5. Legea lui Ohm pentru o porțiune de circuit
+
+
+
+:::tip Experiment
+
+**16.** Legea lui Ohm pentru o porțiune de circuit 
+
+:::
+
+<Video src="https://www.youtube.com/embed/DTdscFBQk2A" />
+
+<br></br>
+
+**Materiale necesare:** sursă de tensiune variabilă (baterii electrice de diferite tensiuni electromotoare), rezistoare de diferite valori (50 Ω, 100 Ω), fire de legătură, ampermetru, voltmetru (multimetru).
+
+
+**Descrierea experimentului:**
+ 
+- Leagă rezistorul de 50 Ω în serie cu bateria de 4,5 V și cu ampermetrul. Măsoară intensitatea curentului electric ce trece prin rezistor.
+
+- Leagă rezistorul de 100 Ω în serie cu bateria de 4,5 V  și cu ampermetrul. Măsoară intensitatea curentului electric ce trece prin rezistor.
+
+- Cum depinde intensitatea de rezistența electrică ?
+
+
+
+:::note Observaţie
+
+Intensitatea curentului ce trece prin rezistor scade cu creșterea rezistenței acestuia.
+
+La experimentul nr. 13, când am determinat rezistența unui rezistor, am realizat graficul dependenței intensității ce trece printr-un rezistor de tensiunea aplicată la capetele acestuia:
+
+
+<Img src="fizica/clasa8/capitolul2/2_2_4_Poza2_Experiment13_Grafic.jpg" />
+
+
+
+
+:::
+
+
+**Concluzia experimentului:**
+
+Graficul intensității curentului electric în funcție de tensiune reprezintă **caracteristica curent – tensiune pentru o porțiune de circuit** (capetele unui rezistor).
+Din analiza acestui grafic, rezultă **dependența aproximativ liniară dintre intensitatea curentului și tensiune.**
+
+**_Intensitatea curentului_** ce traversează rezistorul depinde de :
+
+**1) Tensiunea de la capetele rezistorului:** _cu cât creşte tensiunea de la bornele rezistorului, cu atât creşte şi intensitatea curentului ce trece prin el._
+
+**2) Rezistenţa electrică:** _cu cât creşte rezistenţa circuitului, cu atât scade intensitatea curentului ce trece prin rezistor._
+
+
+
+:::important Definiție
+
+**Legea lui Ohm:**
+
+**“ Intensitatea curentului electric ( I ) care străbate o porțiune de circuit fără surse este direct proporțională cu tensiunea electrică ( U ) aplicată acelei porțiuni și invers proporțională cu rezistența ( R ) acestei porțiuni . “**
+
+
+<Img src="fizica/clasa8/capitolul2/2_2_5_Poza1_FormulaLegiiLuiOhm.jpg" />
+
+
+
+<Img src="fizica/clasa8/capitolul2/2_2_5_Poza2_LegeaLuiOhm.jpg" />
+
+
+
+:::
+
+
+
+<br></br>
+<br></br>
+
+
+
+
+### II.2.6. Legea lui Ohm pentru întregul circuit.
+
+:::important Definiție
+
+
+
+**Legea lui Ohm pentru întregul circuit:**
+ 
+**“Intensitatea curentului electric printr-un circuit simplu este direct proporțională cu tensiunea electromotoare a sursei ( E ) și invers proporțională cu rezistența totală a circuitului ( R+r ). “**
+
+<Img src="fizica/clasa8/capitolul2/2_2_6_Poza1_FormulaLegiiLuiOhmPentruIntregulCircuit.jpg" />
+
+
+:::
+
+
+:::note Observaţie
+
+1)	Legea lui Ohm este valabilă în general pentru surse chimice deoarece au rezistența internă mică, dar poate fi particularizată și pentru alte surse.
+
+**2)	Dacă rezistența exterioară ( R ) are valori foarte mici, obținută de exemplu prin scurtcircuitarea sursei cu un conductor scurt, adică dacă R = 0, intensitatea curentului debitat de sursă devine maximă:**  
+
+
+<Img src="fizica/clasa8/capitolul2/2_2_6_Poza2_FormulaLegiiLuiOhmScurtCircuit.jpg" />
+
+
+**Acest lucru nu este de dorit, deoarece curenții mari pot provoca daune, iar sursa se consumă rapid.**
+
+
+:::
+
+
+:::caution Problemă model
+
+1) Pe un bec de lanternă este scris 0,2 A și 6,3 V. Se leagă becul la o baterie de 9 V. Determină :
+
+a)	Rezistența electrică a filamentului becului.
+
+b)	Sarcina electrică ce trece prin filamentul becului timp de o oră.
+
+c)	Tensiunea  internă a bateriei.
+
+d)	Rezistența internă a bateriei.
+
+e)	Intensitatea curentului de scurcircuit.
+
+
+
+#### Rezolvare:
+
+- Notăm datele problemei:
+
+  - I = 0,2 A
+
+  - U = 6,3 V
+
+  - E = 9 V
+
+  - t = 1h = 3600 s
+
+- Calculăm necunoscutele :
+
+
+<Img src="fizica/clasa8/capitolul2/2_2_6_Poza3_RezolvareProblemaModel1.jpg" />
+
+
+
+
+:::
+
+
+<br></br>
+<br></br>
+
+
+
+### II.2.7. Gruparea rezistoarelor.
+
+Orice element de circuit ( generator electric, bec, rezistor, motor, întrerupător ) poate fi legat (grupat ) cu un altul ( de același fel sau diferit ) în două moduri: 
+
+- **În serie** și
+
+- **În paralel.**
+
+În viața de zi cu zi întâlnim grupări mixte de serie cu paralel.
+
+Pentru a înțelege diferența celor două tipuri de grupări trebuie să cunoaștem elementele unei rețele electrice ( circuit ramificat ).
+
+
+
+:::important
+
+O rețea electrică, oricât de complicată, este constituită din trei elemente distincte: 
+
+- Noduri;
+
+- Laturi;
+
+- Ochiuri.
+
+
+
+:::
+
+
+
+
+:::important Definiție
+
+
+**Nodul de circuit** reprezintă intersecția și contactul fizic a cel puțin trei conductoare electrice. 
+
+:::
+
+
+
+:::important Definiție
+
+**Latura de circuit** este porțiunea de circuit cuprinsă între două noduri succesive, astfel încât prin elementele ei să circule același curent electric.
+
+:::
+
+
+
+:::important Definiție
+
+**Ochiul de circuit** reprezintă porțiunea de circuit formată din două laturi, conectate astfel încât să formeze un contur închis.
+
+
+:::
+
+
+:::important Definiție
+
+Un grup de rezistoare se înlocuiește cu unul singur, denumit **rezistor echivalent.** Rezistența acestuia reprezintă echivalentul rezistențelor respectivei grupări.
+
+:::
+
+
+
+
+<br></br>
+<br></br>
+
+
+
+
+
+
+:::tip Experiment
+
+**17.** Gruparea în serie a rezistoarelor 
+
+:::
+
+<Video src="https://www.youtube.com/embed/SgMR7hyTODo" />
+
+<br></br>
+
+**Materiale necesare:** baterie electrică, rezistoare de diferite valori ( 50 Ω, 100 Ω ), fire de legătură, ampermetru, voltmetru (multimetru).
+
+
+**Descrierea experimentului:**
+ 
+- Realizează următorul montaj legând în serie cei doi rezistori.
+
+<Img src="fizica/clasa8/capitolul2/2_2_7_Poza1_Montaj_Experiment17.jpg" />
+
+
+- Aplică o tensiune de la baterie și măsoară intensitatea curentului electric, tensiunea de la capetele grupării și tensiunea pe fiecare rezistor.
+ 
+- Calculează rapoartul dintre tensiunea de la capetele grupării și intensitatea ce trece prin ele, adică rezistența electrică a grupării de cei doi rezistori. În ce relație se află cele trei tensiuni măsurate și rezistența grupării cu rezistențele celor 2 rezistori ?
+
+
+
+
+
+:::note Observaţie
+
+Tensiunea dintre capetele grupării de rezistori este egală în acest caz cu suma tensiunilor de la bornele celor doi rezistori.
+
+Se observă că suma rezistențelor celor doi rezistori este egală cu rezistența grupării de rezistori. 
+:::
+
+
+**Concluzia experimentului:**
+
+Aplicând la capetele rezistorului echivalent aceeași tensiune ca la bornele grupării în serie, prin rezistorul echivalent circulă același curent ( I ) ca prin gruparea echivalată: U = U<sub>1</sub> + U<sub>2</sub> .
+Se poate scrie:
+
+U<sub>1</sub> = IR<sub>1</sub>; U<sub>2</sub> = IR<sub>2</sub> ; U = IR<sub>s</sub> ;
+
+U = U<sub>1</sub> + U<sub>2</sub> 
+
+IR<sub>s</sub> = IR<sub>1</sub> + IR<sub>2</sub>
+
+R<sub>s</sub> = R<sub>1</sub> + R<sub>2</sub>
+
+
+
+:::important
+
+Rezistorii  prin care trece același curent și care se află pe aceeași latură a unui circuit formează o  grupare în serie, fiind echivalați cu rezistorul R<sub>s</sub> .
+
+**Rezistența rezistorului echivalent  serie este: R<sub>s</sub> = R<sub>1</sub> + R<sub>2</sub>.**
+
+<Img src="fizica/clasa8/capitolul2/2_2_7_Poza2_RezistentaRezistoruluiSerie.jpg" />
+
+:::
+
+
+
+<br></br>
+<br></br>
+
+
+
+:::tip Experiment
+
+**18.** Gruparea în paralel a rezistoarelor 
+
+:::
+
+<Video src="https://www.youtube.com/embed/KH4F7V-bha8" />
+
+<br></br>
+
+**Materiale necesare:** baterie electrică, rezistoare de diferite valori (50 Ω, 100 Ω ), fire de legătură, ampermetru, voltmetru ( multimetru).
+
+
+**Descrierea experimentului:**
+ 
+- Realizează următorul montaj legând în paralel cei doi rezistori.
+
+<Img src="fizica/clasa8/capitolul2/2_2_7_Poza3_Montaj_Experiment18.jpg" />
+
+
+- Aplică o tensiune de la baterie și măsoară intensitatea curentului electric ce trece atât prin fiecare rezistor, cât și prin circuitul cu sursa.
+ 
+- Măsoară tensiunea electrică de la capetele grupării și tensiunea pe fiecare rezistor.
+ 
+- Calculează rapoartele dintre intensitate și tensiune (adică inversele rezistențelor electrice dintre punctele de măsurare) pentru fiecare dintre cele trei măsurători.
+ 
+- În ce relație se află cele trei intensități măsurate? Dar cele trei tensiuni măsurate?
+
+
+
+
+
+:::note Observaţie
+
+Suma inverselor celor două rezistențe este egală cu inversul rezistenței circuitului. Intensitatea curentului ce intră în grupare este egală cu suma intensităților curenților ce trec prin cei doi rezistori, iar tensiunile măsurate sunt egale.
+
+:::
+
+
+**Concluzia experimentului:**
+
+Aplicând la capetele rezistorului echivalent aceeași tensiune ca la bornele grupării în paralel, pe rezistorul echivalent va cădea aceeași tensiune ca pe fiecare dintre rezistorii din grupare:  U = U<sub>1</sub> = U<sub>2</sub>. 
+
+Se poate scrie: 
+
+
+ 
+
+<Img src="fizica/clasa8/capitolul2/2_2_7_Poza4_FormulaRezistoruluiEchivalentParalel.jpg" />
+
+
+Simplificând pe U de la numărător obținem formula rezistenței echivalente paralel. 
+
+
+
+:::important
+
+Rezistorii care se află pe laturi diferite între aceleași două noduri ale  unui circuit, având aceeași tensiune la capete formează o  grupare în paralel, fiind echivalați cu rezistorul R<sub>p</sub>.
+
+
+**Rezistența rezistorului echivalent  paralel  este:** 
+
+<Img src="fizica/clasa8/capitolul2/2_2_7_Poza5_Formula2RezistoruluiEchivalentParalel.jpg" />
+
+
+<Img src="fizica/clasa8/capitolul2/2_2_7_Poza6_RezistentaRezistoruluiParalel.jpg" />
+
+
+:::
+
+
+
+<br></br>
+<br></br>
+
+
+
+
+
+
+
+
+
+
