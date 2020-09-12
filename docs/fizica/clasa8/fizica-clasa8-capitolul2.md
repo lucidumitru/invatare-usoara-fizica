@@ -2473,6 +2473,306 @@ Rezistorii care se află pe laturi diferite între aceleași două noduri ale  u
 
 
 <br></br>
+
+
+:::caution Problemă model
+
+**2.** Determină  rezistenţa echivalentă a rezistorilor din următoarea grupare mixtă : 
+
+
+<Img src="fizica/clasa8/capitolul2/2_2_7_Poza7_SchemaElectrica_ProblemaModel2.jpg" />
+
+
+
+#### Rezolvare:
+
+- Se notează pe rețea toate nodurile cu litere mari.
+
+- Mergem pe conturul circuitului de la un nod la altul și echivalăm grupările de rezistori cu rezistori echivalenți, serie sau paralel.
+
+- Între nodul A și B avem 2 rezistori pe aceeași latură, deci sunt în serie și îi echivalăm cu R<sub>s1</sub>.
+
+- Între nodul B și C avem 2 rezistori pe laturi diferite între aceleași 2 noduri, deci sunt în paralel și îi echivalăm cu R<sub>p1</sub>.
+
+- Între nodul A și E avem 1 rezistor pe care îl copiem.
+
+- Între nodul E și D avem 2 rezistori pe laturi diferite între aceleași 2 noduri, deci sunt în paralel și îi echivalăm cu R<sub>p2</sub>.
+
+
+<Img src="fizica/clasa8/capitolul2/2_2_7_Poza8_SchemaElectrica2_ProblemaModel2.jpg" />
+
+
+
+
+
+- Calculăm rezistențele echivalente :
+
+
+<Img src="fizica/clasa8/capitolul2/2_2_7_Poza9_Formula1_RezistenteEchivalente_ProblemaModel2.jpg" />
+
+
+- Pe schema nouă, continuăm să echivalăm grupările de rezistori :
+
+  - Între nodul A și D, pe latura de sus, avem 2 rezistori pe aceeași latură ( R<sub>s1</sub> cu R<sub>p1</sub> ), deci sunt în serie și îi echivalăm cu R<sub>s2</sub> .
+
+  - Între nodul A și D, pe latura din mijloc, avem 2 rezistori pe aceeași latură ( R<sub>5</sub> cu R<sub>p2</sub> ), deci sunt în serie și îi echivalăm cu R<sub>s3</sub> .
+
+
+<Img src="fizica/clasa8/capitolul2/2_2_7_Poza10_SchemaElectrica3_ProblemaModel2.jpg" />
+
+- Calculăm rezistențele echivalente:
+
+  - R<sub>s2</sub> = R<sub>s1</sub> + R<sub>p1</sub> = 25 + 4 = 29Ω
+
+  - R<sub>s3</sub> = R<sub>5</sub> + R<sub>p2</sub> = 2 + 6 = 8Ω
+
+- Pe schema nouă, continuăm să echivalăm grupările de rezistori :
+
+  - Între nodul A și D avem 2 rezistori pe laturi diferite între aceleași 2 noduri, deci sunt în paralel și îi echivalăm cu R<sub>p3</sub> .
+  
+
+<Img src="fizica/clasa8/capitolul2/2_2_7_Poza11_SchemaElectrica4_ProblemaModel2.jpg" />
+
+- Calculăm rezistența echivalentă :
+
+<Img src="fizica/clasa8/capitolul2/2_2_7_Poza12_Formula2_RezistenteEchivalente_ProblemaModel2.jpg" />
+
+
+:::
+
+
+<br></br>
+<br></br>
+
+
+
+
+
+### II.2.8. Extindere: Teoremele lui Kirchhoff.
+
+
+Cum se rezolvă o problemă cu rețea electrică :
+
+- Notează cu litere mari nodurile rețelei (punctele unde se intersectează și se ating cel puțin trei conductori).
+
+- Notează laturile rețelei (porțiunile de circuit dintre două noduri succesive, prin care trece un singur curent). Stabilește arbitrar (cum dorești tu) câte un sens pentru fiecare curent și notează-i cu simboluri cu indici (I<sub>1</sub>, I<sub>2</sub>, ... etc). Ai grijă ca unii să intre în nod (vârful săgeții spre nod) și alții să iasă din nod (vârful săgeții opus nodului).
+
+- Notează ochiurile simple ale rețelei (porțiunile de circuit care au un contur închis și formate din două laturi). Stabilește arbitrar (cum dorești tu) câte un sens de parcurs pentru fiecare ochi.
+
+
+
+:::important Definiție
+
+**Prima teoremă a lui Kirchhoff :**
+
+**“ Suma algebrică a intensităților curenților care se întâlnesc într-un nod de circuit este nulă “.**
+
+<Img src="fizica/clasa8/capitolul2/2_2_8_Poza1_PrimaTeoremaALuiKirchhoff.jpg" />
+
+unde intensitățile I<sub>k</sub> pot fi pozitive sau negative, în funcție de modul în care trece curentul prin nod (intră în nod sau iese din nod).
+
+O altă modalitate de enunțare a primei teoreme a lui Kirchhoff :
+
+**“ Suma algebrică a intensităților curenților care intră într-un nod de circuit este egală cu suma intensităților curenților care ies din nodul de rețea“.** 
+
+Pentru n = nr. noduri, se scriu _( n - 1 )_ ecuații cu prima teoremă a lui Kirchhoff, aplicată nodurilor de rețea.
+
+
+
+
+:::
+
+
+
+
+:::important Definiție
+
+**A doua teoremă a lui Kirchhoff :**
+
+**“Suma algebrică a tensiunilor electromotoare pentru un ochi de circuit este egală cu suma algebrică a căderilor de tensiune din acel ochi de circuit“.**
+
+
+<Img src="fizica/clasa8/capitolul2/2_2_8_Poza2_ADouaTeoremaALuiKirchhoff.jpg" />
+
+
+unde termenii sumelor pot fi pozitivi sau negativi, în funcție de sensul tensiunii sau al intensității în raport cu sensul ales arbitrar pentru ochiul considerat.
+
+Pentru m = nr. ochiuri simple, se scriu _m_ ecuații cu a doua teoremă a lui Kirchhoff.
+
+
+:::
+
+<br></br>
+
+<Video src="https://www.youtube.com/embed/WTf_8i81rws" />
+
+
+<br></br>
+
+<Video src="https://www.youtube.com/embed/Ce3tXMe5Eqw" />
+
+
+
+
+
+
+<br></br>
+
+
+:::caution Problemă model
+
+**3.** Determină intensitățile curenților din următorul circuit ramificat: 
+
+
+<Img src="fizica/clasa8/capitolul2/2_2_8_Poza3_ShemaElectrica_ProblemaModel3.jpg" />
+
+
+
+#### Rezolvare:
+
+- Notează cu litere mari nodurile rețelei ( A și B).
+
+- Notează laturile rețelei, stabilim arbitrar sensurile curenților de pe fiecare latură:
+
+  - AE<sub>1</sub>B ( I<sub>1</sub> )
+
+  - AE<sub>2</sub>B ( I<sub>2</sub> )
+
+  - AR<sub>3</sub>B ( I<sub>3</sub> )
+
+- Notează ochiurile simple ale rețelei Stabilește arbitrar ( cum dorești tu ) câte un sens de parcurs pentru fiecare ochi ( orar sau antiorar ).
+
+- Aplicăm prima teoremă a lui Kirchhoff :  “ Suma algebrică a intensităților curenților care intră într-un nod de circuit este egală cu suma intensităților curenților care ies din nodul respectiv “.
+ 
+- Pentru n = nr. noduri , se scriu ( n- 1) ecuații cu prima teoremă a lui Kirchhoff, aplicată nodurilor de rețea, deci pentru un singur nod :
+
+  - I<sub>1</sub> + I<sub>2</sub> = I<sub>3</sub>
+
+- Aplicăm a doua teoremă a lui Kirchhoff :  “Suma algebrică a tensiunilor electromotoare pentru un ochi de circuit este egală cu suma algebrică a căderilor de tensiune din acel ochi de circuit“, pentru două ochiuri simple :
+
+
+<Img src="fizica/clasa8/capitolul2/2_2_8_Poza4_Calcule_ProblemaModel3.jpg" />
+
+
+
+:::
+
+
+<br></br>
+<br></br>
+
+
+
+### II.2.9. Gruparea generatoarelor identice (studiu experimental)
+
+
+Prin gruparea mai multor surse se obține o „sursă echivalentă“ cu o tensiune electromotoare echivalentă și o rezistență internă echivalentă.
+
+
+
+
+
+:::tip Experiment
+
+**19.** Cum determinăm rezistența internă a unei baterii
+
+:::
+
+<Video src="https://www.youtube.com/embed/ByUrpF0bKYM" />
+
+<br></br>
+
+**Materiale necesare:** baterie electrice, bec, fire de legătură, ampermetru, voltmetru ( multimetru).
+
+
+**Descrierea experimentului:**
+ 
+- Realizează următorul montaj legând în paralel bornele voltmetrului la bornele bateriei, pentru a-i determina tensiunea electromotoare , E. ( pentru o baterie nouă apare înscrisă pe baterie ).
+
+<Img src="fizica/clasa8/capitolul2/2_2_9_Poza1_Circuit_Experiment19.jpg" />
+
+- Realizează circuitul din următorul montaj și notează indicațiile ampermetrului ( I ) și voltmetrului ( U ). 
+
+<Img src="fizica/clasa8/capitolul2/2_2_9_Poza2_Circuit2_Experiment19.jpg" />
+
+- Calculează  rezistența internă a bateriei aplicând Legea lui Ohm pentru întreg circuitul : 
+
+<Img src="fizica/clasa8/capitolul2/2_2_9_Poza3_LegeaLuiOhm_Experiment19.jpg" />
+
+
+
+**Concluzia experimentului:**
+
+Obținem: 
+
+<Img src="fizica/clasa8/capitolul2/2_2_9_Poza4_FormulaRezistentaInterna_Experiment19.jpg" />
+
+
+<br></br>
+
+
+
+:::tip Experiment
+
+**20.** Gruparea în serie a generatoarelor
+
+:::
+
+<Video src="https://www.youtube.com/embed/G606D_sLgEs" />
+
+<br></br>
+
+**Materiale necesare:** două baterii cu parametrii determinați în montajul anterior, un voltmetru, fire de legătură.
+
+
+**Descrierea experimentului:**
+ 
+- Măsoară, pe rând, tensiunea electromotoare a fiecărei baterii, legând în paralel voltmetrul la bornele bateriei. Notează-le cu E<sub>1</sub>, E<sub>2</sub>.
+
+- Grupează două baterii în serie, legând borna plus a uneia la borna minus a celeilalte.
+
+
+
+<Img src="fizica/clasa8/capitolul2/2_2_9_Poza5_Circuit_Experiment20.jpg" />
+
+
+
+- Măsoară tensiunea electromotoare a grupării, E<sub>S</sub> (la mers în gol - fără să fie conectate în circuit).
+
+- Compară E<sub>s</sub> cu E<sub>1</sub> + E<sub>2</sub>.
+
+ 
+
+
+
+
+**Concluzia experimentului:**
+
+Tensiunea electromotoare echivalentă este suma tensiunilor electromotoare ale bateriilor din grupare.
+
+
+Teorema a doua a lui Kirchhoff pentru circuitul analizat este: 
+ 
+E<sub>1</sub> + E<sub>2</sub> = I(R<sub>bec</sub> + r<sub>1</sub> + r<sub>2</sub>).
+ 
+Obținem  legea lui Ohm pentru întregul circuit :
+ 
+ 
+<Img src="fizica/clasa8/capitolul2/2_2_9_Poza6_LegeaLuiOhm_Experiment20.jpg" />
+
+
+
+:::important
+
+**Pentru o grupare în serie de n surse identice: tensiunea electromotoare a grupării serie de generatoare electrice : E<sub>s</sub> = n • E**
+
+**Rezistența internă a grupării serie de generatoare electrice: r<sub>s</sub> = n • r**
+
+Dacă avem mai multe baterii la dispoziție și avem nevoie de o tensiune mai mare decât a unei baterii, grupăm în serie bateriile.
+
+:::
+
+
 <br></br>
 
 
@@ -2480,7 +2780,289 @@ Rezistorii care se află pe laturi diferite între aceleași două noduri ale  u
 
 
 
+:::tip Experiment
+
+**21.** O baterie din lămâi
+
+:::
+
+<Video src="https://www.youtube.com/embed/Xu9JAQnlpps" />
+
+<br></br>
+
+**Materiale necesare:** lămâi,monede de 5 bani, agrafe de birou, fire de legătură, un voltmetru.
+
+
+**Descrierea experimentului:**
+ 
+- Introdu într-o lămâie , într-o parte o monedă și în cealaltă parte agrafa de birou.
+
+- Prinde câte un fir de legătură de monedă, respectiv de agrafă și conectează-le la un voltmetru în paralel. Notează tensiunea electromotoare a acesteia.
+
+- Grupează în serie cu prima lămâie o altă lămâie, legând modeda uneia de agrafa celeilalte și leagă capetele acestei grupări la voltmetru în paralel. Notează tensiunea electromotoare a acestei grupări. 
+
+- Ce observi ?
 
 
 
 
+
+
+
+
+:::note Observaţie
+
+Crește tensiunea electromotoare a grupării de lămâi.
+
+:::
+
+
+- Dacă mai dispui de lămâi poți continua cu o grupare mai mare de baterii din lămâi.
+
+
+
+**Concluzia experimentului:**
+
+Bateriile din lămâi generează curent electric, ca și celelalte baterii, prin transformarea energiei chimice a reacțiilor care au loc între cele două metale diferite și sucul de lămâie în energie electrică.
+ 
+
+Prin legarea mai multor baterii în serie crește tensiunea electromotoare a grupării respective.
+
+
+
+<br></br>
+
+
+
+:::tip Experiment
+
+**22.** Gruparea în paralel a generatoarelor
+
+:::
+
+<Video src="https://www.youtube.com/embed/ZZ1arvfUIEI" />
+
+<br></br>
+
+**Materiale necesare:** două baterii cu parametrii determinați în montajul anterior, un voltmetru, fire de legătură.
+
+
+**Descrierea experimentului:**
+ 
+- Măsoară, pe rând, tensiunea electromotoare a fiecărei baterii, legând în paralel voltmetrul la bornele bateriei. Notează-le cu E<sub>1</sub>, E<sub>2</sub>.
+
+- Grupează două baterii în paralel, legând borna plus a uneia la borna plus a celeilalte, și borna minus a uneia la borna minus a celeilalte.
+
+
+
+<Img src="fizica/clasa8/capitolul2/2_2_9_Poza7_Circuit_Experiment22.jpg" />
+
+
+
+- Măsoară tensiunea electromotoare la bornele grupării paralel la mers în gol, Ep .
+
+
+ 
+
+
+
+
+**Concluzia experimentului:**
+
+Pentru cazul particular în care cele două surse sunt identice se obține: 
+
+E<sub>p</sub> = E<sub>1</sub> = E<sub>2</sub> 
+
+
+
+:::important
+
+Pentru o grupare în paralel de n surse identice: tensiunea electromotoare a grupării paralel  de generatoare electrice : Ep = E1 = E2 = …= En 
+
+Rezistența internă a grupării serie de generatoare electrice : 
+
+<Img src="fizica/clasa8/capitolul2/2_2_9_Poza8_RezistentaInterna_Experiment22.jpg" />
+
+Dacă avem nevoie de un curent de o intensitate mai mare pentru un anumit circuit, grupăm bateriile în paralel.
+
+
+::: 
+ 
+
+:::caution Temă
+
+1. Privește telecomanda din poza de mai jos și spune cum sunt legate bateriile electrice ?
+
+<Img src="fizica/clasa8/capitolul2/2_2_9_Poza9_BateriiTelecomanda.jpg" />
+
+
+:::
+
+
+ 
+
+<br></br>
+<br></br>
+
+
+
+
+### II.2.10. Energia și puterea electrică
+
+Energia electrică ( notată cu W ) a unei surse măsoară lucrul mecanic efectuat de aceasta pentru a deplasa sarcina electrică ( q) prin secțiunea transversală a circuitului , într-un interval de timp ( Δt ) :
+
+W = L = E ∙ q
+ 
+Dar q = I ∙ Δt ( din formula intensității )
+
+W<sub>tot</sub> = E ∙ I ∙ Δt ( energia consumată pe întreg circuitul ).
+
+W<sub>ext</sub> = U ∙ I ∙ Δt ( energia consumată pe o porțiune de circuit ).
+
+W<sub>int</sub> = u ∙ I ∙ Δt ( energia consumată pe circuitul interior ).
+
+
+
+
+:::important
+
+#### Caracterizarea energiei electrice ca mărime fizică:
+
+#### •	Simbol: W
+
+#### •	Formulă de calcul: Energia electrică transferată unei porțiuni de circuit, de rezistență R,  este :
+
+<Img src="fizica/clasa8/capitolul2/2_2_10_Poza1_FormulaEnergiei.jpg" />
+
+unde,
+
+U este tensiunea electrică,
+
+I  este intensitatea curentului electric,
+
+Δt este intervalul de timp.
+
+
+
+
+
+#### •	Unitatea de măsură în Sistemul Internațional:  [ W ]SI =  J( Joule )
+
+
+
+#### •	Instrumente de măsură: contor ( acesta măsoară energia electrică în kWh).
+
+1 kWh = 1000 W • 3600 s = 3.600.000 J.
+
+
+
+
+:::
+
+
+:::important Definiție
+
+Puterea electrică ( P ) este o mărime fizică care măsoară viteza de transfer a  energiei electrice .
+
+
+
+:::
+
+
+
+
+
+
+:::important
+
+#### Caracterizarea puterii electrice ca mărime fizică:
+
+#### •	Simbol: P
+
+#### •	Formulă de calcul: Puterea electrică transferată unei porțiuni de circuit, de rezistență R,  este :
+
+<Img src="fizica/clasa8/capitolul2/2_2_10_Poza2_FormulaPuterii.jpg" />
+
+unde,
+
+W este energia electrică,
+
+Δt este intervalul de timp
+
+ 
+U este tensiunea electrică,
+
+I  este intensitatea curentului electric,
+ 
+
+
+
+
+#### •	Unitatea de măsură în Sistemul Internațional: 
+ 
+<Img src="fizica/clasa8/capitolul2/2_2_10_Poza3_UnitateaDemasuraAPuterii.jpg" />
+
+
+
+#### •	Instrumente de măsură: wattmetrul.
+
+
+:::
+
+
+
+
+
+:::tip Experiment
+
+**23.** Măsurarea puterii electrice a unui bec de lanternă
+
+:::
+
+<Video src="https://www.youtube.com/embed/-huw4CBpYHc" />
+
+<br></br>
+
+**Materiale necesare:** o baterii de tensiune electromotoare egală cu tensiunea nominală a becului, un voltmetru, un ampermetru, un bec de 6,3 V, fire de legătură.
+
+
+**Descrierea experimentului:**
+ 
+- Realizează circuitul electric simplu prezentat în imaginea următoare :
+
+
+<Img src="fizica/clasa8/capitolul2/2_2_10_Poza4_Circuit_Experiment23.jpg" />
+
+
+- Măsoară intensitatea curentului electric ce trece prin circuit și tensiunea electrică de la bornele becului.
+ 
+- Calculează puterea becului înmulțind tensiunea aplicată la bornele becului cu intensitatea curentului ce trece prin bec.
+
+
+:::note Observație
+
+P = U∙ I ( măsurată în W )
+
+:::
+ 
+
+
+
+
+**Concluzia experimentului:**
+
+Becul luminează normal când se respectă valorile nominale înscrise pe el ( U<sub>n</sub>, I<sub>n</sub> și P<sub>n</sub> ).
+
+
+:::important
+
+Valorile nominale inscripționate pe  aparatele electrice sunt o pereche dintre valorile P<sub>n</sub>, I<sub>n</sub>, U<sub>n</sub>.
+
+P<sub>n</sub> = U<sub>n</sub> • I<sub>n</sub>
+
+
+::: 
+
+
+
+### II.2.11. Legea lui Joule. Efectul electrotermic.
