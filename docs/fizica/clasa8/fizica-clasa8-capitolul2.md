@@ -3023,7 +3023,7 @@ I  este intensitatea curentului electric,
 
 <br></br>
 
-**Materiale necesare:** o baterii de tensiune electromotoare egală cu tensiunea nominală a becului, un voltmetru, un ampermetru, un bec de 6,3 V, fire de legătură.
+**Materiale necesare:** o baterie de tensiune electromotoare egală cu tensiunea nominală a becului, un voltmetru, un ampermetru, un bec de 6,3 V, fire de legătură.
 
 
 **Descrierea experimentului:**
@@ -3041,7 +3041,7 @@ I  este intensitatea curentului electric,
 
 :::note Observație
 
-P = U∙ I ( măsurată în W )
+P = U ∙ I ( măsurată în W )
 
 :::
  
@@ -3065,4 +3065,923 @@ P<sub>n</sub> = U<sub>n</sub> • I<sub>n</sub>
 
 
 
+<br></br>
+<br></br>
+
+
+
 ### II.2.11. Legea lui Joule. Efectul electrotermic.
+
+:::important Definiție
+
+**Efectul electrotermic ( efectul termic al curentului electric )** constă în încălzirea unui conductor la trecerea curentului electric prin el.
+
+
+::: 
+
+
+:::caution Aplicații
+
+Cel mai cunoscut aparat care se bazează pe efectul electrotermic este becul electric care a fost inventat în 1878 de către inventatorul american, Thomas Edison.
+
+Filamentul becului este confecționat dintr-un metal greu conductor, care la trecerea curentului electric prin el se încălzește până la incandescență, producând lumină și căldură.
+
+
+
+<Img src="fizica/clasa8/capitolul2/2_2_11_Poza1_ConstructiaBecului.jpg" />
+
+
+:::
+
+<br></br>
+
+
+:::tip Experiment
+
+**24.** Efectul electrotermic.
+
+:::
+
+<Video src="https://www.youtube.com/embed/NNiJayf6v5E" />
+
+<br></br>
+
+**Materiale necesare:** o baterie, un bec de lanternă, sârmă de cupru, fire de legătură.
+
+
+**Descrierea experimentului:**
+ 
+- Realizează un circuit simplu format dintr-o baterie, bec, o sârmă de cupru, fire de legătură.
+ 
+- Închide circuitul și lasă să treacă curentul electric prin circuit, câteva minute.
+
+- Privește filamentul becului și atinge cu mâna sârma. 
+
+- Ce observi ?
+
+
+
+:::note Observație
+
+Sârma de cupru s-a încălzit foarte puțin, iar filamentul becului s-a încălzit foarte mult, chiar până la incandescență ( s-a înroșit).
+
+:::
+ 
+
+
+
+
+**Concluzia experimentului:**
+
+Conductoarele electrice se încălzesc diferit la trecerea curentului electric prin ele , astfel :
+
+- Metalele bune conductoare** ( exemple : argintul, cuprul, aurul, aluminiul) au o rezistență mică și se încălzesc puțin la trecerea curentului electric prin ele.
+
+- Metalele greu conductoare ( exemple : wolframul,  nichelina, manganina ) au o rezistență mare și se încălzesc mult la trecerea curentului electric prin ele.
+
+
+
+:::caution Aplicații
+
+Siguranţa fuzibilă  protejează aparatele electrice din instalaţiile electrice împotriva supracurenţilor care apar în reţea, mai ales la producerea unui scurtcircuit. Ea joacă rol de întrerupător electric când apar curenţi cu intensităţi foarte mari în circuit. Fiind confecţionată dintr-un fir foarte subţire din argint sau cupru, ea are o rezistenţă mare comparativ cu restul aparatelor (rezistenţa unui conductor este invers proporţională cu grosimea acestuia). Când supracurenţii trec prin reţeaua electrică, firul siguranţei se topeşte şi întrerupe trecerea acestora prin aparate (care altfel, le-ar arde). Siguranţa arsă se înlocuieşte cu alta nouă (cumpărată din comerţ), după ce s-a înlăturat cauza care a produs scurtcircuitul. 
+
+<Img src="fizica/clasa8/capitolul2/2_2_11_Poza2_SiguranteFuzibile.jpg" />
+
+Alte aplicații ale efectului electrotermic sunt aparatele cu rezistor . De exemplu, fierul de călcat are un conductor dintr-un aliaj de crom – nichel spiralat,  care traversat de curent electric se încălzeşte până la o temperatură de 700°C. El este plasat în interiorul carcasei metalice. Căldura degajată este transmisă tălpii metalice pentru netezirea rufelor.
+
+Foenul (uscătorul de păr) conţine pe lângă rezistorul de nichelină spiralat şi un motor electric pentru a evacua aerul cald spre părul ce trebuie uscat.
+
+
+<Img src="fizica/clasa8/capitolul2/2_2_11_Poza3_ComponenteleFoen.jpg" />
+
+
+
+
+:::
+
+
+
+
+:::important Definiție
+
+**Legea lui Joule:**
+ 
+**Căldura disipată de o porțiune de circuit cu rezistența electrică R este direct proporțională cu pătratul intensității curentului  ( I<sup>2</sup> ) care parcurge acea porțiune, cu rezistența ei ( R ) și cu durata trecerii curentului ( Δt ).**
+
+**W = R ∙ I<sup>2</sup> ∙ Δt**
+
+ 
+unde, 
+
+R este rezistența electrică,
+
+I  este intensitatea curentului electric,
+
+Δt este intervalul de timp.
+
+
+
+::: 
+
+
+Energia transferată conductorului de rezistență R este transmisă de către acesta mediului înconjurător sub formă de căldură ( energie termică ). Electonii liberi în mișcare se ciocnesc cu ionii rețelei metalice ai conductorului, astfel agitația termică se intensifică ducând la creșterea temperaturii și încălzirea conductorului.
+
+
+
+
+
+
+<br></br>
+
+
+:::tip Experiment
+
+**25.** Legea lui Joule
+
+:::
+
+<Video src="https://www.youtube.com/embed/0L-vIhSPv_M" />
+
+<br></br>
+
+**Materiale necesare:** o baterie, calorimetru cu sârmă de nichelină și termometru , fire de legătură, pahar gradat, cronometru.
+
+
+**Descrierea experimentului:**
+ 
+- Măsoară o anumită cantitate de apă ( 0,1 kg )și pune-o în calorimetru.
+
+- Măsoară temperatura apei.
+
+- Pune capacul calorimetrului cu sârma de nichelină în apă.
+
+- Leagă o baterie la bornele conductorului de nichelină și pornește cronometrul.
+
+- Așteaptă până crește temperatura apei cu câteva grade ( 3°C), și oprește cronometrul.
+
+- Calculează căldura degajată de conductorul de nichelină, la trecerea curentului electric prin el.
+
+
+
+
+:::note Observație
+
+Q = R ∙ I<sup>2</sup> ∙ Δt = m ∙ c ∙ ΔT
+
+Q = 0,1 ∙ 4185 ∙ 3 = 1255,5 J
+
+
+
+
+:::
+ 
+
+**Concluzia experimentului:**
+
+Știind I = 0,02 A și  Δt = 12 min = 720 s, află rezistența rezistorului.
+
+
+<br></br>
+<br></br>
+
+
+
+### II.2.12. Extindere: Efectul chimic al curentului electric. Electroliza
+
+
+
+:::important Definiție
+
+**Electrolitul** este o substanță care, dizolvată sau topită, permite trecerea curentului electric prin ea. Ca exemple de electroliți avem sărurile, acizii și bazele.
+
+
+::: 
+
+
+:::important Definiție
+
+Fenomenul fizic în care un electrolit se descompune în ioni la dizolvarea în apă se numește **disociație electrolitică.** 
+
+
+::: 
+
+:::important
+
+În urma disocierii electrolitice, ionii formați au o mișcare dezordonată .
+
+La introducerea a doi electrozi legați la o sursă electrică, ionii din soluție încep să se miște ordonat și să se deplaseze către electrodul de semn opus lor, adică trece curentul electric prin soluție.
+ 
+Odată ajunși la electrozi, au loc reacții chimice , adică ionii se neutralizează, devenind atomi sau molecule.
+
+Vom exemplifica pe clorura de cupru II ( CuCl<sub>2</sub> ).
+
+<Img src="fizica/clasa8/capitolul2/2_2_12_Poza1_DisociatieElectrolitica.jpg" />
+
+
+
+
+:::
+
+
+
+
+Trecerea curentului electric prin soluţiile de electroliţi determină fenomene chimice la electrozi, numite **efecte electrochimice.** 
+
+
+
+
+:::important Definiție
+
+**Efectul electrochimic (electroliza)** constă în degajări de gaze şi depuneri de substanţe la trecerea curentului prin soluţiile sau topiturile de electroliţi.  
+
+:::
+
+
+
+<br></br>
+
+
+:::tip Experiment
+
+**26.** Electroliza sării de bucătărie
+
+:::
+
+<Video src="https://www.youtube.com/embed/kv_6pbQtDpw" />
+
+<br></br>
+
+**Materiale necesare:** sursă de alimentare (baterie electrică de 9V sau alimentator), bec 3,5V, electrozi de grafit (mine mai groase de creion mecanic (se pot procura de la o baterie de 4,5V uzată) , suport  electrozi confecţionat din carton , conductoare de legătură, apă (de preferat, distilată), sare de bucătărie, linguriţă şi pahar.
+
+
+**Descrierea experimentului (Partea 1):**
+ 
+- Fixează  electrozii de grafit în suport, pune apă în pahar şi aşează suportul pe pahar.
+
+- Realizează un circuit serie leagând un electrod la o bornă a bateriei, celălalt electrod la o bornă a becului şi cu cealaltă bornă a becului închide circuitul la a doua bornă a bateriei.
+
+- Introdu electrozii în apă.
+ 
+- Ce observi ?
+
+
+
+
+:::note Observație (Partea 1)
+
+Becul nu se aprinde.
+
+
+:::
+ 
+
+**Descrierea experimentului (Partea 2):**
+ 
+- Scoate cartonul cu electrozi şi toarnă în apa din pahar o lingură cu sare de bucătărie (amestecând-o ) şi repetă experimentul, lăsând circa cinci minute să treacă curentul prin saramură.
+
+- Ce observi ?
+
+
+
+:::note Observație (Partea 2)
+
+Becul se aprinde. La electrodul legat la borna pozitivă(+) a bateriei (anod), se simte mirosul specific al clorului.	
+
+
+:::
+
+
+
+
+**Concluzia experimentului:**
+
+Apa pură( distilată) este izolatoare electrică.
+
+Apa în care se dizolvă  săruri devine  conductoare electrică.
+
+
+Soluţiile  (sau topiturile) de săruri, acizi sau baze se  numesc  electroliţi. 
+
+La această electroliză, ionul negativ de clor din soluţie s-a deplasat către anod, unde s-a neutralizat. 
+
+Un atom de clor s-a unit cu altul, rezultând molecula de Cl<sub>2</sub>, adică binecunoscutul gaz clor, cu mirosul lui specific. 
+
+La catod, s-a neutralizat ionul de sodiu. Atomul de sodiu, fiind foarte reactiv, s-a combinat cu apa din soluţie, dând hidroxidul de sodiu (dacă ai picura fenolftaleină în pahar, soluţia s-ar înroşi imediat).
+
+
+
+
+<br></br>
+
+
+:::tip Experiment
+
+**27.** Electroliza iodurii de potasiu
+
+:::
+
+<Video src="https://www.youtube.com/embed/ocaVaw9HnVA" />
+
+<br></br>
+
+**Materiale necesare:** sursă de alimentare (baterie electrică de 9V sau alimentator),  electrozi de grafit (mine mai groase de creion mecanic sau se pot procura de la o baterie de 4,5V uzată) , suport  electrozi confecţionat din carton , conductoare de legătură, apă , iodură de potasiu, linguriţă şi pahar.
+
+
+**Descrierea experimentului:**
+ 
+- Dizolvă iodura de potasiu în apă.
+
+- Fixează  electrozii de grafit în suport, pune soluția în pahar şi aşează suportul pe pahar.
+
+- Realizează un circuit serie leagând un electrod la o bornă a bateriei, celălalt electrod la o bornă a becului şi cu cealaltă bornă a becului închide circuitul la a doua bornă a bateriei.
+
+- Introdu electrozii în soluție.
+ 
+- Ce observi ?
+
+
+
+
+:::note Observație
+
+La catod apare o colorație maronie.
+
+
+:::
+ 
+
+
+
+**Concluzia experimentului:**
+
+La catod se obține iod, la anod se degajă hidrogen și în soluție se formează hidroxid de potasiu.
+
+
+
+
+<br></br>
+
+
+:::tip Experiment
+
+**28.** Electroliza azotatului de sodiu
+
+:::
+
+<Video src="https://www.youtube.com/embed/g-l-LQ3dhqk" />
+
+<br></br>
+
+**Materiale necesare:** sursă de alimentare (baterie electrică sau alimentator),  conductoare de legătură, apă , azotat de sodiu, fenolftaleină, linguriţă, hârtie de filtru pahar.
+
+
+**Descrierea experimentului:**
+ 
+- Dizolvă azotatul de sodiu în apă și adaugă câteva picături de fenolftaleină.
+
+- Impregnează o hârtie de filtru cu această soluție.
+
+- Leagă firele la bornele bateriei.
+
+- Atinge capetele firelor de hârtia impreganată cu soluție
+ 
+- Ce observi ?
+
+
+
+
+:::note Observație
+
+La firul legat la borna negativă apare o colorație roșu-carmin.
+
+
+:::
+ 
+
+
+
+**Concluzia experimentului:**
+
+La catod se concentrează ionii pozitivi de sodiu care cu apa formează hidroxidul de sodiu. Fenolftaleina în mediu bazic se înroșește.
+
+
+
+
+
+
+<br></br>
+
+
+:::tip Experiment
+
+**29.** Cum determini borna negativă a unei baterii cu ajutorul turmericului
+
+:::
+
+<Video src="https://www.youtube.com/embed/5CB4BN2a0XI" />
+
+<br></br>
+
+**Materiale necesare:** sursă de alimentare (baterie electrică sau alimentator),  conductoare de legătură, apă , alcool 96 %, turmeric ( curcumină ) pulbere sau pastilă, linguriţă, 2  pahare, hârtie de filtru ( sugativă ), pâlnie, sare de bucătărie.
+
+
+**Descrierea experimentului:**
+ 
+- Dizolvă turmericul în alcool și filtrează.
+
+- Adaugă câteva picături din această soluție portocalie într-o soluție de sare.
+
+- Impregnează o hârtie de filtru cu această soluție.
+
+- Leagă firele la bornele bateriei.
+
+- Atinge capetele firelor de hârtia impreganată cu soluție.
+ 
+- Ce observi ?
+
+
+
+
+:::note Observație
+
+La firul legat la borna negativă apare o colorație maronie.
+
+
+:::
+ 
+
+
+
+**Concluzia experimentului:**
+
+La catod se concentrează ionii pozitivi de sodiu care cu apa formează hidroxidul de sodiu. Curcumina  în mediu bazic se maronește.
+
+
+
+<br></br>
+
+
+:::tip Experiment
+
+**30.** Rafinarea (purificarea) cuprului.
+
+:::
+
+<Video src="https://www.youtube.com/embed/7oNLaY4R8LI" />
+
+<br></br>
+
+**Materiale necesare:** alimentator (baterie de 9V), 2 electrozi de cupru (sârmă mai groasă), carton folosit ca suport pentru electrozi, soluţie de sulfat de cupru (piatra vânătă-se găseşte la chimicale pentru stropit viţa-de-vie ), pahar sau borcan, conductoare de legătură
+
+
+:::warning
+
+Atenție ! Piatra vânătă este toxică !
+
+:::
+
+
+**Descrierea experimentului:**
+ 
+- Taie un disc de carton cât gura paharului.
+
+- Leagă cei doi electrozi la bornele bateriei şi introdu-i în paharul cu soluţie de sulfat de cupru.
+
+- Lasă să treacă curentul electric prin soluţie timp de cel puţin 5-10 min. şi observă suprafaţa catodului (electrodul legat la polul negativ al bateriei).
+
+ 
+- Ce observi ?
+
+
+
+
+:::note Observație
+
+Pe suprafaţa catodului s-a depus un strat subţire roşiatic de cupru.
+
+
+:::
+ 
+
+
+
+**Concluzia experimentului:**
+
+Acest experiment arată una din aplicaţiile electrolizei, foarte importantă în tehnică, şi-anume rafinarea metalelor care, numai pe cale electrolitică, permite obţinerea metalelor cu cea mai înaltă puritate (99,99% ). Ionii pozitivi de cupru din soluţie se neutralizează la catod. Cuprul depus pe catod se înegreşte repede la contactul cu aerul atmosferic, deoarece se oxidează (oxidul de cupru este negru). Anodul, confecţionat din cupru, se consumă.
+
+
+
+
+<br></br>
+
+
+
+:::tip Experiment
+
+**31.** Argintarea electrochimică
+
+:::
+
+<Video src="https://www.youtube.com/embed/KY0ddlEe2lU" />
+
+<br></br>
+
+**Materiale necesare:** alimentator (baterie de 9V), 1 electrod de cupru (sârmă mai groasă), 1 electrod de argint, carton folosit ca suport pentru electrozi, soluţie de azotat de argint, pahar sau borcan, conductoare de legătură
+
+
+:::warning
+
+Atenție ! Azotatul de argint este toxic și caustic !
+
+:::
+
+
+**Descrierea experimentului:**
+ 
+- Taie un disc de carton cât gura paharului.
+
+- Leagă electrodul de cupru la catod ( borna negativă a bateriei ) și obiectul de argint la anod ( borna pozitivă a bateriei ).
+ 
+- Introdu cei doi electrozi în paharul cu soluţie de azotat de argint.
+
+- Lasă să treacă curentul electric prin soluţie timp de cel puţin 5-10 min. şi observă suprafaţa catodului (electrodul legat la polul negativ al bateriei).
+
+
+ 
+- Ce observi ?
+
+
+
+
+:::note Observație
+
+Pe suprafaţa catodului de cupru s-a depus un strat subţire de argint.
+
+
+:::
+ 
+
+
+
+**Concluzia experimentului:**
+
+Ionii de argint din soluție se neutralizează la catod, depunându-se sub formă metalică. Prin această metodă se acoperă unele metale cu alte metale care nu se oxidează în aerul atmosferic ( aurire, nichelare, cromare, etc.). 
+
+
+
+
+<br></br>
+
+
+
+:::tip Experiment
+
+**32.** Galvanoplastia
+
+:::
+
+<Video src="https://www.youtube.com/embed/mfMqQipPae8" />
+
+<br></br>
+
+**Materiale necesare:** alimentator (baterie de 9V), 2 electrozi de cupru (sârmă mai groasă),  carton folosit ca suport pentru electrozi, soluţie de sulfat de cupru, pahar sau borcan, conductoare de legătură, ceară, grafit pulbere (obținută prin fărâmițarea minelor de creion).
+
+
+:::warning
+
+Atenție ! Piatra vânătă este toxică ! 
+
+:::
+
+
+**Descrierea experimentului:**
+ 
+- Taie un disc de carton cât gura paharului.
+
+- Modelează din ceară o figurină.
+
+- Tăvălește figurina prin pulberea de grafit petru a deveni conductoare
+
+- Agață figurina de o sârmă de cupru și leagă acest electrod la catod (borna negativă a bateriei)
+
+- Leagă celălat electrod de cupru la anod ( borna pozitivă a bateriei ) .
+ 
+- Introdu cei doi electrozi în paharul cu soluţie de sulfat de cupru.
+
+- Lasă să treacă curentul electric prin soluţie timp de cel puţin 30 min. şi observă suprafaţa figurine agățată la catod (electrodul legat la polul negativ al bateriei).
+
+
+ 
+- Ce observi ?
+
+
+
+
+:::note Observație
+
+Pe suprafaţa figurinei de ceară impregnată cu grafit s-a depus un strat subţire de cupru.
+
+
+:::
+ 
+
+
+
+**Concluzia experimentului:**
+
+Operația de reproducere a unor obiecte prin electroliză se numește galvanoplastie. Obiectul ce trebuie reprodus se așază întotdeauna la catod iar metalul cu care se acoperă mulajul se așază la anod.  
+
+
+
+:::caution Aplicații
+
+Electroliza are foarte multe aplicații:
+
+1)	Obținerea unor substanțe pe cale electrolitică : aluminiu, sodiu, magneziu, oxigen, hidrogen, clor, sodă caustică ( NaOH ), etc.
+
+2)	Rafinarea ( purificarea ) metalelor, obținându-se metale de cea mai înaltă puritate.
+
+3)	Galvanostegia constă în adică acoperirea unui obiect metalic cu un strat subţire dintr-un alt metal depus prin electroliză : aurire, argintare, cromare, nichelare, zincarea, etc. De exemplu medalile de aur câștigate de olimpici nu sunt din aur, ci din argint placat cu aur. La catod se așază metalul care trebuie acoperit, iar la anod metalul cu care dorim să acoperim.
+
+4)	Galvanoplastia constă în reproducerea în relief a unor obiecte. Mulajul obiectului se face din ceară impregnată cu grafit pentru a deveni conductoare și se așază la catod, iar la anod se pune metalul cu care se face reproducerea.
+
+
+
+
+
+:::
+
+
+
+
+
+<br></br>
+<br></br>
+
+
+
+
+### II.2.13. Extindere: Transferul de putere într-un circuit electric simplu de curent continuu
+
+
+Ce este o etichetă energetică? 
+Eticheta energetică ilustrează, prin culori, săgeți sau literele alfabetului, eficiența energetică a unui aparat electric de uz casnic.
+ 
+Etichetele energetice arată unde se situează aparatele electrocasnice pe care le comercializați sau produceți pe o scară de la A la G, în funcție de consumul lor de energie. Clasa A (verde) este cea mai eficientă din punct de vedere energetic și clasa G (roșu) cel mai puțin eficientă. În prezent, dat fiind faptul că majoritatea aparatelor electrice de un anumit tip sunt clasa A, au fost adăugate și alte 3 clase: A+, A++ și A+++.
+
+Etichetele energetice le permit consumatorilor să economisească bani alegând produse care consumă mai puțină energie. Etichetele pot, de asemenea, să încurajeze întreprinderile să creeze și să investească în proiectarea eficientă din punct de vedere energetic a produselor.
+
+Un aparat electrocasnic din clasa energetică A++ consumă jumătate faţă de unul din clasa B. Alegerea unei maşini de spălat rufe de uz casnic de clasa A în locul uneia de clasa C conduce la o economie anuală de energie de până la 110 kWh/an. De exemplu, pornind de la clasa energetică A spre clasa de eficientă G, se constată un consum de energie scăzut de la o clasa energetică la următoarea în ordine succesivă astfel: consumul energetic al unui aparat clasa A faţă de cel al unui aparat clasa D este cu 74% mai mic, reprezentând o economie anuală de 156 kWh/an; consumul energetic al unui aparat clasa B faţă de cel al unui aparat clasa D este cu 75% mai mic, reprezentând o economie anuală 104 kWh/an, consumul energetic al unui aparat clasa C faţă de cel al unui aparat clasa D este cu 90% mai mic, reprezentând o economie anuală de 51 kWh/an.
+
+
+<Img src="fizica/clasa8/capitolul2/2_2_13_Poza1_EtichetaEnergetica.jpg" />
+
+Când transferul de putere de la o sursă electrică, de rezistență internă r și tensiune electromotoare E,  la un aparat de rezistență R este maxim ?
+
+Puterea transmisă de către sursă aparatului este :
+
+<Img src="fizica/clasa8/capitolul2/2_2_13_Poza2_FormulaPuteriiUnuiAparat.jpg" />
+
+
+:::important
+
+S-a constatat că puterea transmisă de către sursă aparatului electric este maximă atunci când rezistența aparatului ( R ) este egală cu rezistența internă a sursei r).
+
+<Img src="fizica/clasa8/capitolul2/2_2_13_Poza3_FormulaPuteriiMaxime.jpg" />
+
+
+:::
+
+
+
+<br></br>
+<br></br>
+
+
+
+## II.3. Efectul magnetic al curentului electric
+
+
+### II.3.1. Studiul experimental (calitativ) al efectului magnetic. Electromagneţi.
+
+
+Până în 1820 electricitatea şi magnetismul au fost două domenii ale fizicii  strict separate. Însă, experimentul celebru al fizicianului danez **Hans Christian Oersted** (1777-1851) a stabilit prima legătură între electricitate şi magnetism, demonstrând că în jurul unui conductor parcurs de curent electric apare un câmp magnetic. Astfel a luat  naştere un nou domeniu al fizicii: electromagnetismul.  
+
+**Ampère** demonstrează proprietăţile magnetice ale unui solenoid.
+
+
+:::important Definiție
+
+**Efectul electromagnetic** constă în apariția unui câmp magnetic în jurul unui conductor parcurs de curent electric.
+
+:::
+
+
+
+
+<br></br>
+
+
+
+:::tip Experiment
+
+**33.** Efectul electromagnetic al unui conductor liniar
+
+:::
+
+<Video src="https://www.youtube.com/embed/gQRN-hOja60" />
+
+<br></br>
+
+**Materiale necesare:** baterie (de 4,5V sau de 9V), o sârmă de cupru sau aluminiu dezizolată şi busolă sau ac magnetic plutitor (un smartphone cu senzor magnetic şi aplicaţie software de tip busolă sau ac magnetic ).
+
+
+
+**Descrierea experimentului:**
+ 
+- Lasă acul magnetic ( ac magnetizat pe un magnet și pus pe o foiță de celofan pe apă ) să se orienteze spre polii Pământului, până rămâne nemișcat.
+
+- Leagă capetele conductorului la polii bateriei și plimbă conductorul (prin care trece curent electric) pe deasupra acului magnetic, având grijă să nu-l atingi.
+ 
+- Ce observi ?
+
+
+
+
+:::note Observație
+
+Conductorul prin care trece curent electric deviază acul magnetic de la direcţia N-S a Pământului.
+
+
+
+:::
+ 
+
+
+
+**Concluzia experimentului:**
+
+În jurul conductorului parcurs de curent electric apare un câmp magnetic, care deviază ușor acul magnetic. 
+
+
+
+<br></br>
+
+
+
+
+:::tip Experiment
+
+**34.** Efectul electromagnetic al unei bobine
+
+:::
+
+<Video src="https://www.youtube.com/embed/d0KZ9vXwyk8" />
+
+<br></br>
+
+**Materiale necesare:** carton (10cm. cu 5cm.), sârmă de cupru ( 1,5m.- 2m.) izolată sau dezizolată, baterie (4,5V sau 9V), bandă adezivă, busolă sau ac magnetic plutitor .
+
+
+
+**Descrierea experimentului:**
+ 
+- Confecţionează un cilindru de carton cu diametrul de 2-3cm.
+
+- Înfăşoară sârma de cupru, spiră lângă spiră, pe toată lungimea tubului, în acelaşi sens şi scoate capetele sârmei prin interiorul tubului pentru a nu se desface înfăşurarea. Ai obținut o bobină prin înfășurarea conductorului de cupru pe un suport izolator.
+
+- Capetele conductorului acestei bobine le legi la bornele bateriei.
+
+- Cu un capăt al bobinei parcursă de curent electric te plimbi pe deasupra acului magnetic plutitor
+
+ 
+- Ce observi ?
+
+
+
+
+
+
+:::note Observație
+
+Acul magnetic este deviat considerabil de la direcţia N.G - S.G. a Pământului de  capătul bobinei.
+
+
+
+:::
+ 
+
+
+
+**Concluzia experimentului:**
+
+În jurul bobinei parcursă de curent electric apare un câmp magnetic astfel încât, bobina se comportă ca un magnet, având la cele două capete cei doi poli magnetici.
+
+Capătul bobinei  care se  atrage cu N acului magnetic este polul sud al bobinei, iar capătul bobinei care se atrage cu S acului magnetic este polulnord al bobinei.
+ 
+Inversând legarea bornelor bobinei la polii bateriei, polii magnetici ai săi se inversează și ei.
+
+ 
+
+
+
+<br></br>
+
+
+
+
+
+
+
+:::tip Experiment
+
+**35.** Efectul electromagnetic al unui electromagnet
+
+:::
+
+<Video src="https://www.youtube.com/embed/CrxGsh5b0L0" />
+
+<br></br>
+
+**Materiale necesare:** 
+Materiale necesare: bobina de la experimentul anterior, cui sau şurub mai mare, obiecte mici de fier (cuie, ace, agrafe de birou), baterie.
+
+
+
+
+**Descrierea experimentului:**
+ 
+
+- Introdu în mijlocul bobinei o bară de fier (cui, şurub) ale cărei capete să iasă în afara suportului bobinei. Ai obţinut un electromagnet. Electromagnetul se mai poate obţine şi prin înfăşurarea unei sârme de cupru sau aluminiu direct pe un cui sau şurub. 
+
+- Leagă capetele bobinei la baterie;
+
+- Apropie miezul de fier al electromagnetului de o grămăjoară de cuie.
+
+ 
+- Ce observi ?
+
+
+
+
+
+
+:::note Observație
+
+Miezul electromagnetului atrage obiectele de fier.
+
+
+
+:::
+ 
+
+
+
+**Concluzia experimentului:**
+
+Câmpul magnetic din jurul electromagnetului este mult mai intens decât cel din jurul unui conductor liniar sau bobine parcurse de curent electric.
+
+Electromagnetul atrage obiecte de fier. 
+ 
+
+
+
+<br></br>
+
+
+
+
+:::caution Temă
+
+2. Priveşte cu atenţie imaginile ce urmează şi descoperă ce efect al curentului electric corespunde fiecăreia.
+
+Efectul:
+
+.........................................
+
+<Img src="fizica/clasa8/capitolul2/2_2_1_Poza14_FierDeCalcat.jpg" />
+
+
+
+
+..........................................
+
+<Img src="fizica/clasa8/capitolul2/2_3_1_Poza1.jpg" />
+
+
+
+
+..........................................
+
+<Img src="fizica/clasa8/capitolul2/2_3_1_Poza2.jpg" />
+
+
+
+
+
+
+
+
+
+:::
+
