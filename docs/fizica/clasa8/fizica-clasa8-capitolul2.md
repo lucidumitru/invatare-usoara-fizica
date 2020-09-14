@@ -3976,12 +3976,438 @@ Efectul:
 <Img src="fizica/clasa8/capitolul2/2_3_1_Poza2.jpg" />
 
 
+:::
 
 
 
+:::important Definiție
+
+**Câmpul magnetic** este o formă a materiei, care se manifestă prin acțiunea asupra acului magnetic sau asupra conductoarelor parcurse de curent electric.
+
+:::
+
+
+:::important
+
+Pentru reprezentarea intuitivă a câmpului magnetic, la fel ca şi în cazul câmpului electric, se pot folosi linii de câmp, formând așa-numitul **spectrul câmpului magnetic.**
+ 
+
+Spre deosebire de liniile câmpului electric, liniile câmpului magnetic sunt curbe închise. 
+
+Spectrul câmpului magnetic este diferit în funcție de forma magnetului sau de forma conductorului prin care trece curent electric.
+
+**Liniile de câmp magnetic ale unui magnet bară** au sensul astfel încât intră în polul sud, traversează magnetul, ies din polul nord şi se închid în exteriorul magnetului. 
+
+
+<Img src="fizica/clasa8/capitolul2/2_3_1_Poza3_LiniileDECampMagneticAlUnuiMagnetBara.jpg" />
+
+:::
+
+
+<br></br>
+
+<Video src="https://www.youtube.com/embed/VuA3wGxVmKk" />
+
+
+<br></br>
+
+
+:::important
+
+
+**Liniile de câmp magnetic ale unui conductor liniar parcurs de curent** sunt cercuri concentrice în jurul curentului şi sunt într-un plan perpendicular pe acesta. Sensul lor poate fi determinat cu regula mâinii drepte: înfășurăm conductorul cu cele patru degete  astfel încât degetul mare întins lateral să arate sensul sensul curentului electric ( de la plus la minus ) prin conductor. Cele patru degete vor da  sensul liniilor de câmp magnetic.
+
+
+<Img src="fizica/clasa8/capitolul2/2_3_1_Poza4bis_ConductorCuRegulaMainiiDrepte.jpg" />
+
+
+:::
+
+
+
+:::important
+
+Câmpul magnetic produs de un curent electric depinde de intensitatea curentului electric, dar şi de sensul acestuia. 
+
+<Img src="fizica/clasa8/capitolul2/2_3_1_Poza4_SensulLiniilorDECampMagnetic.jpg" />
+
+:::
+
+:::important
+
+**Liniile de câmp magnetic ale unei bobine** ale cărei spire sunt străbătute de un curent electric este similară cu un magnet în formă de bară din punct de vedere al distribuţiei liniilor de câmp magnetic. 
+
+Sensul lor poate fi determinat cu regula mâinii drepte: înfășurăm bobina cu cele patru degete în sensul curentului electric ( de la plus la minus ), iar degetul mare întins lateral arată sensul sensul liniilor de câmp magnetic.
+
+
+<Img src="fizica/clasa8/capitolul2/2_3_1_Poza5_DesenBobinaCuRegulaMainiiDrepte_Final_OK.jpg" />
+
+:::
+
+
+<br></br>
+
+
+
+:::tip Experiment
+
+**36.** Spectrul magnetic al unui solenoid
+
+:::
+
+<Video src="https://www.youtube.com/embed/3cC20DU_CzE" />
+
+<br></br>
+
+**Materiale necesare:** 
+
+Materiale necesare: solenoid (bobina cu un singur rând de spire), fire de legătură baterie, busolă.
+
+
+
+**Descrierea experimentului (Partea 1):**
+
+- Pune la un capăt al solenoidului busola.
+
+- Leagă bateria la bornele solenoidului
+
+- Ce observi ?
+
+
+
+
+:::note Observație (Partea 1)
+
+Capătul solenoiului atrage sudul acului magnetic.
+
+:::
+ 
+
+
+
+**Concluzia experimentului (Partea 1):**
+
+Solenoidul parcurs de curent electric se comportă ca un magnet, având la capete cei doi poli magnetici, nord și sud.
+
+Capătul solenoidului care a atras polul sud al acului, reprezintă polul nord al solenoidului.
+ 
+
+
+
+**Descrierea experimentului (Partea 2):**
+
+- Schimbă polaritatea bornelor bateriei la solenoid
+
+- Ce observi ?
+
+
+
+
+
+
+:::note Observație (Partea 2)
+
+Capătul solenoiului atrage nordul acului magnetic.
+
+
+
+:::
+ 
+
+
+
+**Concluzia experimentului (Partea 2):**
+
+Capătul solenoidului care a atras polul nord al acului, reprezintă polul sud al solenoidului.
+
+Prin schimbarea sensului curentului prin bobină, se schimbă și poli magnetici ai acesteia.
+ 
+
+<br></br>
+
+
+:::important Definiție
+
+Mărimea fizică vectorială care caracterizează un câmp magnetic din punct de vedere al intensității interacției sale cu conductor parcurs de curent electric aflat în acel câmp se numeşte **inducţia câmpului magnetic (notată cu B)**  
+
+
+:::
+
+
+:::important
+
+În orice punct din câmp, inducția magnetică este un vector tangent la linia de câmp magnetic în planul acesteia și are sensul liniei de câmp.
+ 
+Unitatea de măsură în SI este, [B]<sub>SI</sub> = T (Tesla )
+
+
+:::
+
+
+:::important
+Pentru caracterizarea câmpului magnetic este necesar ca pe lângă inducția magnetică care este o marime care depinde si de proprietățile mediului, se introduce intensitatea câmpului magnetic notata cu H. 
+
+Relația dintre cele două mărimi este B = μ • H = μo • μr • H 
+
+μ = permeabilitatea magnetica absoluta, ce caracterizeaza proprietatile magnetice ale unui mediu
+
+μ<sub>o</sub> = 4π • 10<sup>-7</sup> = permeabilitatea magnetica a vidului.
+
+
+:::
+
+
+
+
+
+
+
+<br></br>
+
+
+
+:::tip Experiment
+
+**37.** Inducția  magnetică a unei bobine
+
+:::
+
+<Video src="https://www.youtube.com/embed/Y78lIDUTJJM" />
+
+<br></br>
+
+**Materiale necesare:** 
+
+Materiale necesare: 2 bobine cu număr de spire diferit și aceeași lungime, o bobină cu același număr de spire și mai scurtă decât celelalte două, fire de legătură, 2baterii de 3V, aplicație software care măsoară inducția magnetică, descărcată gratuit, pe un smartphone din magazinele online.
+
+
+
+**Descrierea experimentului (Partea 1):**
+
+- Apropie de  aplicația de pe telefon bobina cu lungime mare și nr. spire mic, alimentată la o baterie de 3V.
+
+- Ce observi ?
+
+
+
+
+:::note Observație (Partea 1)
+
+Aplicația indică o inducție magnetică de 22 μT, 22 microtesla = 22/1000000 T.
+
+:::
+ 
+
+
+**Descrierea experimentului (Partea 2):**
+
+- Apropie  de aplicație bobina cu lungime mare și cu nr. spire mai mare, alimentată la o baterie de 3V .
+
+- Ce observi ?
+
+
+
+
+
+
+:::note Observație (Partea 2)
+
+Aplicația indică o inducție magnetică de 26 μT.
+
+:::
+ 
+
+
+**Descrierea experimentului (Partea 3):**
+
+- Apropie de aplicație bobina cu lungime mică și cu nr. spire mare, alimentată la o baterie de 3V. 
+
+- Ce observi ?
+
+
+
+:::note Observație (Partea 3)
+
+Aplicația indică o inducție magnetică de 30 μT.
+
+:::
+
+
+
+**Descrierea experimentului (Partea 4):**
+
+- Apropie de busolă sau de aplicație bobina cu lungime mare și cu nr. spire mare, alimentată la o baterie de 6V.  
+
+- Ce observi ?
+
+
+
+:::note Observație (Partea 4)
+
+Aplicația indică o inducție magnetică de 29 μT.
+
+:::
+
+
+
+
+<br></br>
+
+
+:::important
+
+Câmpul magnetic al bobinei este cu atât mai intens cu cât:
+
+- intensitatea curentului electric, prin spirele bobinei, este mai mare,
+ 
+- cu cât numărul de spire al bobinei este mai mare
+
+- cu cât lungimea bobinei este mai mică.
+  
+
+
+:::
+
+
+
+
+
+
+<br></br>
+
+
+
+:::tip Experiment
+
+**38.** Forța de atracție a unui electromagnet
+
+:::
+
+<Video src="https://www.youtube.com/embed/Buf7RBRa_js" />
+
+<br></br>
+
+**Materiale necesare:** 
+
+Materiale necesare: 2 bobine cu număr de spire diferit și aceeași lungime, fire de legătură, 2baterii de 3V, ace de gamălie ( agrafe de birou).
+
+
+
+**Descrierea experimentului (Partea 1):**
+
+- Apropie de ace bobina cu  nr. spire mic, alimentată la o baterie de 3V .
+
+- Ce observi ?
+
+
+
+
+:::note Observație (Partea 1)
+
+Bobina atrage un anumit nr. de ace ( 18 ace). 
+
+:::
+ 
+
+
+**Descrierea experimentului (Partea 2):**
+
+- Apropie de ace bobina cu  nr. spire mare, alimentată la o baterie de 3V.
+
+- Ce observi ?
+
+
+
+
+
+
+:::note Observație (Partea 2)
+
+Bobina atrage un mai multe ace (20 ace), când are mai multe spire și aceeași lungime. 
+
+:::
+ 
+
+
+**Descrierea experimentului (Partea 3):**
+
+- Apropie de ace bobina cu nr. spire mic, alimentată la o baterie de 6V. 
+
+- Ce observi ?
+
+
+
+:::note Observație (Partea 3)
+
+Bobina atrage mai multe ace (20 ace), când este traversată de un curent de intensitate mai mare. 
+
+:::
+
+
+
+
+
+
+<br></br>
+
+
+
+
+
+:::important
+
+Forţa de atracţie exercitată de electromagnet asupra obiectelor de fier, depinde  direct proporțional de câmpul magnetic produs de bobina electromagnetului parcursă de curent electric și , implicit, de inducția magnetică a acesteia. 
+
+Forţa de atracţie exercitată de electromagnet asupra obiectelor de fier mai depinde și de forma miezului de fier . Ea crește de la miezul de fier sub formă de bară, apoi potcoavă ( U ), până la miezul de fier închis.
+
+
+<Img src="fizica/clasa8/capitolul2/2_3_1_Poza6_FormulaFortaDeAtractie_Experiment38.jpg" />
+
+
+
+unde B este inducţia câmpului magnetic produs de electromagnet, S este aria secţiunii bobinei electromagnetului, iar μ<sub>0</sub> este permeabilitatea magnetică a vidului. 
+
+
+:::
+
+
+
+:::caution Aplicațiile electromagneților
+
+**1) Macaraua electromagnetică** se folosește în industria metalurgică, la transportarea pieselor de fier și mai ales la încărcarea fierului vechi în cuptoarele de topit din cadrul fabricilor de oțeluri. Acestea sunt formate dintr-un electromagnet foarte puternic purtat de către o macara mecanică. Electromagnetul folosit are de obicei formă de clopot. Bobina lui are un număr de spire foarte mare, iar curentul ce trece prin electromagnetul macaralei are o intensitate mare.
+
+<Img src="fizica/clasa8/capitolul2/2_3_1_Poza6bis_MacaraElectromagnetica.jpg" />
+
+
+
+
+**2) Soneria electrică** are ca părți principale:
+
+- Un electromagnet;
+
+- O lamă elastică din oțel cu un ciocănaș la capăt;
+
+- Clopotul de sonerie ;
+
+- Un buton.
+
+Iată cum funcționează soneria: dacă apăsăm butonul soneriei, trece curent prin bobina electromagnetului care atrage lamela de oțel(aliaj al fierului). Aceasta are la capăt un ciocănaș care lovește clopotul de sonerie producând un sunet. 
+
+
+<Img src="fizica/clasa8/capitolul2/2_3_1_Poza6bis2_ElectromagnetSonerie.jpg" />
+
+
+**3) Releul electromagnetic** este un dispozitiv, care comandă  închiderea și deschiderea unui circuit de la distanță, ca un comutator, având un electromagnet care atrage o lamelă.
+
+Releele electromagnetice sunt folosite printre altele la închiderea și deschiderea circuitelor de înaltă tensiune, la  construcția interfoanelor, mai precis a yalelor electromagnetice de la ușa de la intrarea blocurilor,  a macazurilor de cale ferată (tren, metrou sau tramvai) dar și la echipamentele de automatizări.
+
+
+<Img src="fizica/clasa8/capitolul2/2_3_1_Poza6bis3_ReleuElectromagnetic.jpg" />
 
 
 
 
 :::
+
+
 
