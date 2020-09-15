@@ -25,7 +25,7 @@ module.exports = {
             },
             items: [{
                    to: '/docs/fizica/clasa6/fizica-clasa6-capitolul1',
-//                    to: '/docs/experimente-distractive-fizica',
+//                    to: 'docs/experimente-distractive-fizica',
                     activeBasePath: 'docs',
                     label: 'Documentaţii',
                     position: 'left',
@@ -78,7 +78,7 @@ module.exports = {
             {
                 docs: {
                     // It is recommended to set document id as docs home page (`docs/` path).
-//                    homePageId: 'doc1',
+                    homePageId: 'doc1',
                     sidebarPath: require.resolve('./sidebars.js'),
                     // Please change this to your repo.
                     editUrl: 'https://github.com/facebook/docusaurus/edit/master/website/',
