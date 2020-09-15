@@ -5,7 +5,7 @@ module.exports = {
          language: "ro" // language of your documentation, see next section
      }]
     ],
-    onBrokenLinks: 'ignore',
+//    onBrokenLinks: 'ignore',
     title: 'Invăţarea uşoară a fizicii',
     tagline: 'Invăţăm prin experimente',
     url: 'https://lucidumitru.github.io',
@@ -24,7 +24,8 @@ module.exports = {
                 src: 'img/logo.svg',
             },
             items: [{
-                    to: 'docs/fizica/clasa6/fizica-clasa6-capitolul1',
+                   to: '/docs/fizica/clasa6/fizica-clasa6-capitolul1',
+//                    to: '/docs/experimente-distractive-fizica',
                     activeBasePath: 'docs',
                     label: 'Documentaţii',
                     position: 'left',
@@ -38,11 +39,11 @@ module.exports = {
                      title: 'Documentaţii',
                      items: [{
                               label: 'Invăţarea uşoară a fizicii',
-                              to: 'docs/fizica/clasa6/fizica-clasa6-capitolul1',
+                              to: '/docs/fizica/clasa6/fizica-clasa6-capitolul1',
                          },
                              {
                                label: 'Ghidul de fizica',
-                               to: 'docs/ghidul-de-fizica-versus-accidentari',
+                               to: '/docs/ghidul-de-fizica-versus-accidentari',
                              },
                             ],
                 },
@@ -77,7 +78,7 @@ module.exports = {
             {
                 docs: {
                     // It is recommended to set document id as docs home page (`docs/` path).
-                    homePageId: 'doc1',
+//                    homePageId: 'doc1',
                     sidebarPath: require.resolve('./sidebars.js'),
                     // Please change this to your repo.
                     editUrl: 'https://github.com/facebook/docusaurus/edit/master/website/',

@@ -4354,6 +4354,13 @@ Bobina atrage mai multe ace (20 ace), când este traversată de un curent de int
 
 
 
+
+
+
+
+
+
+
 :::important
 
 Forţa de atracţie exercitată de electromagnet asupra obiectelor de fier, depinde  direct proporțional de câmpul magnetic produs de bobina electromagnetului parcursă de curent electric și , implicit, de inducția magnetică a acesteia. 
@@ -4408,6 +4415,239 @@ Releele electromagnetice sunt folosite printre altele la închiderea și deschid
 
 
 :::
+
+
+
+
+
+
+
+
+<br></br>
+
+
+
+:::tip Experiment
+
+**39.** Forța electromagnetică
+
+:::
+
+<Video src="https://www.youtube.com/embed/v1tBfMDEPZo" />
+
+<br></br>
+
+**Materiale necesare:** 
+
+Materiale necesare: dispozitiv pentru demonstrarea forței electromagnetice, fire de legătură, 1 baterie de 4,5V
+
+
+
+**Descrierea experimentului (Partea 1):**
+
+- Alimentează bobina dispozitivului la baterie.
+
+- Ce observi ?
+
+
+
+
+:::note Observație (Partea 1)
+
+Latura de jos a bobinei deviază într-o parte. 
+
+:::
+ 
+
+
+**Descrierea experimentului (Partea 2):**
+
+- Alimentează bobina dispozitivului la baterie inversând firele la polii bateriei. 
+
+- Ce observi ?
+
+
+
+
+
+
+:::note Observație (Partea 2)
+
+Latura de jos a bobinei deviază în cealaltă  parte.  
+
+:::
+ 
+**Concluzia experimentului:**
+
+
+Latura de jos a bobinei parcursă de curent electric și aflată într-un câmp magnetic este deviată datorită unei forțe numită **forță electromagnetică.**
+
+
+
+
+
+
+
+<br></br>
+
+
+
+
+
+
+
+:::important 
+
+**Forţa electromagnetică** este forţa exercitată de un câmp magnetic asupra unui conductor parcurs de curent electric .
+
+Dacă plasăm un conductor liniar într-un câmp magnetic uniform, forţa electromagnetică exercitată asupra lui este:
+
+**F = I • l • B • sin α** 
+
+I = intensitatea curentului ce trece prin conductor
+
+l = lungimea conductorului aflat în câmp magnetic
+
+α = unghiul făcut de vectorul inducţie magnetică cu orientarea curentului electric (direcţie şi sens) şi corespunde unghiului minim.
+
+
+
+<Img src="fizica/clasa8/capitolul2/2_3_1_Poza7_Leagan.jpg" />
+
+
+Sensul forţei electromagnetice depinde de :
+
+- Aranjarea polilor magnetici (cu ce pol apropiem magnetul de bobină)
+
+- Sensul curentului prin bobină.
+
+Sensul forţei electromagnetice se poate determina cu **regula mâinii stângi** : întindem mâna stângă cu fața spre polul nord al magnetului, astfel încât cele patru degete să fie îndreptate în sensul curentului electric și degetul mare întins lateral va arăta sensul forței electromagnetice.
+
+
+
+<Img src="fizica/clasa8/capitolul2/2_3_1_Poza8_RegulaMainiiStangi.jpg" />
+
+
+:::
+
+
+
+
+
+:::caution Aplicațiile forței electromagnetice 
+
+1)	**Aparatele de măsură**  pentru intensitatea curentului electric (**ampermetrul**) şi pentru  tensiunea electrică de la bornele unui aparat (**voltmetrul**) au ca principiu de funcţionare acţiunea curentului electric asupra unui câmp magnetic (forţa electromagnetică).
+
+<Img src="fizica/clasa8/capitolul2/2_3_1_Poza9_AmpermetruSiVooltmetru.jpg" />
+
+
+
+2)	**Motoarele electrice** funcţionează pe bază de electromagnetism, mai precis datorită forţelor electromagnetice ce iau naştere între câmpul magnetic produs de stator şi curentul electric ce trece prin bobina rotorului.Aceste forţe electromagnetice pun în mişcare rotorul motorului ce se află pe un ax. _Statorul_ este format dintr-un magnet ( la motoarele de dimensiuni mici) sau electromagnet, având rolul de-a produce câmpul magnetic. _Rotorul_ este alcătuit dintr-o bobină cu miez de fier fixată pe un ax. Alimentarea bobinei rotorului se face printr-un sistem de contacte mobile, numit _colector_. Pe lamelele acestuia alunecă două contacte fixe, din cărbune presat, numite _periuţe_. 
+
+<Img src="fizica/clasa8/capitolul2/2_3_1_Poza10_MotorElectric.jpg" />
+
+
+3)	**Trenurile foarte rapide cu suspensie magnetică** au electromagneţi în loc de roţi (joacă rolul statorului). Forţa magnetică generată de aceştia susţine trenul la câţiva centimetri deasupra liniei, propulsându-l cu viteză foarte mare. Motorul liniar al acestor trenuri necesită o valoare mare a investiţiei iniţiale, dar deoarece aceste trenuri nu ating şinele, forţa de frecare nu există şi costurile de întreţinere sunt foarte mici.
+
+<Img src="fizica/clasa8/capitolul2/2_3_1_Poza11_Maglev.jpg" />
+
+
+4)	**Microfonul** transformă sunetul în semnale electrice. O membrană elastică dinăuntrul microfonului este pusă în vibraţie de undele sonore. Vibraţia se transmite unor spire. Spirele sunt situate între polii unui magnet. Pe măsură ce spirele se mişcă, generează un curent electric. Curentul se mişcă înainte şi înapoi ca şi sunetul şi este transportat către amplificator.
+
+<Img src="fizica/clasa8/capitolul2/2_3_1_Poza12_Microfon.jpg" />
+
+
+5)	**Difuzorul** funcţionează invers decât un microfon. El transformă semnalele electrice înapoi în unde sonore. Semnalele electrice se scurg printr-o spirală, dând naştere unei forţe electromagnetice. Această forţă împinge spirele spre şi dinspre magnet. Spirele care vibrează fac un con să vibreze, producând sunete.
+
+<Img src="fizica/clasa8/capitolul2/2_3_1_Poza13_Difuzoare.jpg" />
+
+
+
+
+:::
+
+
+
+
+
+## II.4. Măsuri de securitate în domeniul electricităţii
+
+
+Din păcate, corpul omenesc este conductor electric. 
+
+Este suficient ca două puncte ale corpului să intre în contact cu două puncte ale circuitului electric pentru ca să aibă loc un accident, numit **electrocutare**, când se poate opri fie respiraţia, fie circulaţia sângelui (sau ambele efecte).
+
+Tensiunile bateriilor cu care ai lucrat la experimente (1,5V-9V) sunt inofensive pentru corpul omenesc.
+
+**Tensiunea periculoase pentru corpul omenesc încep de la valoarea de 24V (locuri umede) şi 50V (aer uscat).** 
+
+
+
+#### Pentru a-ţi  asigura propria securitate, ai grijă la următoarele reguli de protecţie:
+
+
+
+
+:::warning Pericol de electrocutare
+
+1. Să nu introduci vreun obiect conductor în una din bornele prizei (poate fi chiar faza) pentru a nu exista riscul trecerii curentului electric prin corpul tău.
+
+<Img src="fizica/clasa8/capitolul2/2_4_Poza1_NuIntroduceObiecteAscutiteInPriza.jpg" />
+
+
+:::
+
+<br></br>
+
+
+:::warning Pericol de electrocutare
+
+2. Să nu utilizezi niciodată vreun aparat electric în locuri umede (sala de baie) şi să nu atingi aparate electrice prin care circulă curent, dacă eşti ud pe mână;
+
+<Img src="fizica/clasa8/capitolul2/2_4_Poza2_NuUtilizaAparateElectriceInBaie.jpg" />
+
+
+:::
+
+<br></br>
+
+
+
+:::warning Pericol de electrocutare
+
+3. Să nu repari (demontezi) vreun aparat electric înainte de a-l debranşa de la priză  şi să nu atingi fire electrice neprotejate (fără izolaţie);
+
+<Img src="fizica/clasa8/capitolul2/2_4_Poza3_NuReparaObiecteAflateSubTensiune.jpg" />
+
+
+:::
+
+<br></br>
+
+
+:::warning Pericol de electrocutare
+
+4. Când scoţi un aparat electric din priză, nu-l trage de cordon, ci ţine o mână pe soclul prizei şi cu cealaltă trage fişa cordonului de alimentare;
+
+<Img src="fizica/clasa8/capitolul2/2_4_Poza4_NuTrageDeCordonulDeAlimentareCandScotiCevaDinPriza.jpg" />
+
+
+:::
+
+<br></br>
+
+
+
+:::warning Pericol de electrocutare
+
+5. Nu pune în funcţiune la o priză prea multe aparate electrice (apar supracurenţi cu pericol de încălzire puternică a fişelor electrice).
+
+<Img src="fizica/clasa8/capitolul2/2_4_Poza5_NuAlimentaInAceeasiPrizaMultiConsumatori.jpg" />
+
+
+:::
+
+<br></br>
 
 
 
