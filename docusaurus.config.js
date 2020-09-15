@@ -24,7 +24,7 @@ module.exports = {
                 src: 'img/logo.svg',
             },
             items: [{
-                   to: 'docs/fizica/clasa6/fizica-clasa6-capitolul1',
+                   to: '/docs/fizica/clasa6/fizica-clasa6-capitolul1',
 //                    to: 'docs/experimente-distractive-fizica',
                     activeBasePath: 'docs',
                     label: 'Documentaţii',
