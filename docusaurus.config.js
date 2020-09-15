@@ -5,7 +5,7 @@ module.exports = {
          language: "ro" // language of your documentation, see next section
      }]
     ],
-//    onBrokenLinks: 'ignore',
+    onBrokenLinks: 'ignore',
     title: 'Invăţarea uşoară a fizicii',
     tagline: 'Invăţăm prin experimente',
     url: 'https://lucidumitru.github.io',
