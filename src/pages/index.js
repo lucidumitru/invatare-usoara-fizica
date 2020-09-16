@@ -20,6 +20,7 @@ const features = [
     title: <>Structurare logică a lecţiilor</>,
     //imageUrl: 'img/undraw_docusaurus_tree.svg',
     imageUrl: 'img/atoms-medical-svgrepo-com_StructurareLogica_Color.svg',
+//    imageUrl: 'img/EasyFizi_Logo.svg',
     description: (
       <>
       </>

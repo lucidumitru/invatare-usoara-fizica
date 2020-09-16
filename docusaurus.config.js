@@ -1,9 +1,9 @@
 module.exports = {
      plugins: [
-     [require.resolve('@cmfcmf/docusaurus-search-local'),{
-         // Options here
-         language: "ro" // language of your documentation, see next section
-     }]
+//     [require.resolve('@cmfcmf/docusaurus-search-local'),{
+//         // Options here
+//         language: "ro" // language of your documentation, see next section
+//     }]
     ],
 //    onBrokenLinks: 'ignore',
     title: 'Invăţarea uşoară a fizicii',
@@ -22,6 +22,7 @@ module.exports = {
             logo: {
                 alt: 'My Site Logo',
                 src: 'img/logo.svg',
+//                src: 'img/EasyFizi_Logo.svg',
             },
             items: [{
                    to: '/docs/fizica/clasa6/fizica-clasa6-capitolul1',

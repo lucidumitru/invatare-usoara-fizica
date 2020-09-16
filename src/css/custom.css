@@ -37,13 +37,29 @@
 
 /* svg */
 
+
 .svg-responsive {
-    display: block;
-    width: 50%;
+    width: 10%;
     height: auto;
-    margin: 30px auto;
+    margin: auto;
     cursor: zoom-in;
 }
+
+.svg-responsive2 {
+    width: 30%;
+    height: auto;
+    margin: auto;
+    cursor: zoom-in;
+}
+
+
+.svg-responsive3 {
+    width: 70%;
+    height: auto;
+    margin: auto;
+    cursor: zoom-in;
+}
+
 
 
 

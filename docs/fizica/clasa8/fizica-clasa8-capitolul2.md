@@ -4348,16 +4348,6 @@ Bobina atrage mai multe ace (20 ace), când este traversată de un curent de int
 
 
 
-<br></br>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -4376,6 +4366,25 @@ unde B este inducţia câmpului magnetic produs de electromagnet, S este aria se
 
 
 :::
+
+
+
+
+
+
+
+<br></br>
+
+
+
+<Video src="https://www.youtube.com/embed/OLzKfEIi-uU" />
+
+
+
+
+<br></br>
+
+
 
 
 
