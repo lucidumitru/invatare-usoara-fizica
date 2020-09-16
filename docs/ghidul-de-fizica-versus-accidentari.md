@@ -117,7 +117,7 @@ import Video from '@site/src/components/Video'
 - Nu vorbiți la telefon.
 
 
-### A.1.4. Reguli împotriva electrocutării :
+### A.1.4. Reguli împotriva electrocutării:
 
 
 :::important Definiţie
