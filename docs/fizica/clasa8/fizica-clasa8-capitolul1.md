@@ -1964,7 +1964,7 @@ Observație: Temperaturile de fierbere din tabelul cu constantele de material su
 
 :::important Definiţie
 
-**II.** Pe parcursul fieberii unui lichid (de la primul clocot până la vaporizarea completă) **temperatura de fierbere este constantă, la aceeași presiune.**
+**II.** Pe parcursul fierberii unui lichid (de la primul clocot până la vaporizarea completă) **temperatura de fierbere este constantă, la aceeași presiune.**
 
 :::
 
