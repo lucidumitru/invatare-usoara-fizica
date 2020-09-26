@@ -36,7 +36,7 @@ module.exports = {
                     label: 'Documentaţii',
                     position: 'left',
                 },
-                { to: 'blog', label: 'Blog', position: 'left' },
+//                { to: 'blog', label: 'Blog', position: 'left' },
             ],
         },
         footer: {
@@ -68,8 +68,10 @@ module.exports = {
                 {
                     title: 'Extra',
                     items: [{
-                            label: 'Blog',
-                            to: 'blog',
+                            label: 'Experimente distractive',
+                            to: '/docs/experimente-distractive-fizica',
+//                            label: 'Blog',
+//                            to: 'blog',
                         },
 
                     ],

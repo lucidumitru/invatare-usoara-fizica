@@ -655,13 +655,35 @@ Dilataţia la solide este de sute ori mai mică decât la lichide, iar dilataţi
 
 1) Termometrul cu lichid ( alcool, mercur ) funcționează pe baza dilatării lichidului, care la încălzire urcă în tubul capilar proporțional cu variația temperaturii lui.
 
+<Img src="fizica/clasa6/capitolul4/4_2_1_2_Poza5_DesenTermometruCuLichid.jpg" />
+
+<Img src="fizica/clasa6/capitolul4/4_2_1_2_Poza5_DesenTermometruCuLichid_PozaReala.jpg" />
+
 2) Podurile metalice au numai un capăt fixat în beton armat, iar celălalt capăt este pus pe niște role care permit deplasarea capătului liber, atunci când vara se dilată sau când se contractă iarna.
+
+<Img src="fizica/clasa6/capitolul4/4_2_1_2_Poza6_DesenPodMetalic.jpg" />
+
+<Img src="fizica/clasa6/capitolul4/4_2_1_2_Poza6_PodMetalic_PozaReala.jpg" />
   
 3) La montarea șinelor de cale ferată se lasă un interval ( o anumită distanță) între capatele acestora, numit rostul șinei, pentru a nu se deforma, vara când se dilată.
 
+<Img src="fizica/clasa6/capitolul4/4_2_1_2_Poza7_RostDilatieCaleFerata.jpg" />
+
+<Img src="fizica/clasa6/capitolul4/4_2_1_2_Poza7_RostDilatieCaleFerata_PozaReala.jpg" />
+
+
 4) Cablurile electrice aeriene sunt astfel dimensionate încât lungimea lor ( l ) dintre doi stâlpi, să fie mai mare decât distanța dintre cei doi stâlpi, pentru a nu se rupe iarna când se contractă.
+
+<Img src="fizica/clasa6/capitolul4/4_2_1_2_Poza8_CabluElectric.jpg" />
+
+<Img src="fizica/clasa6/capitolul4/4_2_1_2_Poza8_CabluElectric_PozaReala.jpg" />
  
 5) Conductele de apă caldă / gaze sunt prevăzute, din loc în loc, cu niște coturi ( bucle ) pentru a preveni deformarea acestora la variații mari de temperatură.
+
+
+<Img src="fizica/clasa6/capitolul4/4_2_1_2_Poza9_ConductaDeGaze.jpg" />
+
+<Img src="fizica/clasa6/capitolul4/4_2_1_2_Poza9_ConductaDeGaze_PozaReala.jpg" />
 
 
 :::

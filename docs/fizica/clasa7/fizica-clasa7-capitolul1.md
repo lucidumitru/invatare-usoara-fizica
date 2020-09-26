@@ -238,27 +238,31 @@ _Observarea și măsurarea_ sunt activități fundamentale în fizică. Pornind 
 - Într-un triunghi dreptunghic, pătratul ipotenuzei este egal cu suma pătratelor celor două catete.
 
 
-:::caution Aplică ce ai învăţat: Temă
+:::caution Aplică ce ai învăţat: Tema 1
 
 - În cele trei triunghiuri dreptunghice de la experimentul nr. 2, trasează înălțimea corespunzătoare ipotenuzei și notează piciorul perpendicularei pe ipotenuză. 
 - Măsoară, cu ajutorul riglei, aceste înălțimi și proiecțiile catetelor pe ipotenuză.  
 - Completează determinările tale în tabelele următoare și prelucrează datele:
 
-:::
-
 <Img src="fizica/clasa7/capitolul1/1_2_Tema_Poza1_Tabel.jpg" />
 
-
-:::caution Aplică ce ai învăţat: Temă
-- Compară rezultatele obținute în ultimele două coloane ale tabelului și trage concluzia experimentului tău. Egalitatea obținută de tine se numește **Teorema înălțimii.**  Scrie enunțul acestei teoreme.
-
 :::
 
+
+
+
+:::caution Aplică ce ai învăţat: Tema 2
+- Compară rezultatele obținute în ultimele două coloane ale tabelului și trage concluzia experimentului tău. Egalitatea obținută de tine se numește **Teorema înălțimii.**  Scrie enunțul acestei teoreme.
 
 <Img src="fizica/clasa7/capitolul1/1_2_Tema_Poza2_Tabel.jpg" />
 
+:::
 
-:::caution Aplică ce ai învăţat: Temă
+
+
+
+
+:::caution Aplică ce ai învăţat: Tema 3
 - Compară rezultatele obținute în ultimele două coloane ale tabelului și trage concluzia experimentului tău. Egalitatea obținută de tine se numește **Teorema catetei.**  Scrie enunțul acestei teoreme.
 
 :::
@@ -395,13 +399,11 @@ Direcția oblică se desenează cu ajutorul raportorului. Se așază linia rapor
 :::
 
 
-:::caution Problemă model
-
-**1.** Reprezintă grafic următorii vectori :
+:::caution Problema model 1: Reprezintă grafic următorii vectori:
 
 **a)** Un călător se deplasează 10 km, pe o șosea dreaptă, spre est.
 
-:::
+#### Rezolvare:
 
 Deci, d = 10km, direcție orizontală, sensul spre dreapta.
 
@@ -415,11 +417,16 @@ Etalon: 1cm = 2km
 <Img src="fizica/clasa7/capitolul1/1_4_Poza3_ProblemaModel1_a.jpg" />
 
 
-:::caution Problemă model
+
+:::
+
+
+
+:::caution Problema model 1: Reprezintă grafic următorii vectori:
 
 **b)** Un corp este aruncat cu o viteză de 120 km/h, pe verticală, în jos.
 
-:::
+#### Rezolvare:
 
 Deci, v = 120km/h, direcție verticală, sensul în jos.
 
@@ -432,12 +439,17 @@ Etalon: 1cm = 40km/h
 <Img src="fizica/clasa7/capitolul1/1_4_Poza4_ProblemaModel1_b.jpg" />
 
 
-:::caution Problemă model
 
-**c)** Asupra unui corp  acționează o forță de 1800N, pe o direcție ce face un unghi de 50° cu verticala, în sus.
 
 :::
 
+
+
+:::caution Problema model 1: Reprezintă grafic următorii vectori:
+
+**c)** Asupra unui corp  acționează o forță de 1800N, pe o direcție ce face un unghi de 50° cu verticala, în sus.
+
+#### Rezolvare:
 
 Deci, F = 1800N, direcție cu un unghi de 50° cu verticala, sensul în sus.
 Etalon: 1cm = 300 N
@@ -450,12 +462,18 @@ Etalon: 1cm = 300 N
 
 
 
+:::
 
-:::caution Problemă model
+
+
+
+
+
+:::caution Problema model 1: Reprezintă grafic următorii vectori:
 
 **d)** Un corp se deplasează accelerat cu o accelerație de 42m/s<sup>2</sup>, pe o direcție ce face un unghi de 30° cu orizontala, în sus.
 
-:::
+#### Rezolvare:
 
 Deci, a = 42m/s<sup>2</sup>, direcție cu un unghi de 30° cu orizontala, sensul în sus.
 Etalon:  1cm = 6m/s<sup>2</sup> 
@@ -467,6 +485,11 @@ Etalon:  1cm = 6m/s<sup>2</sup>
 
 
 <Img src="fizica/clasa7/capitolul1/1_4_Poza6_ProblemaModel1_d.jpg" />
+
+
+
+:::
+
 
 
 :::caution Problemă model
@@ -486,7 +509,7 @@ Etalon:  1cm = 6m/s<sup>2</sup>
 
 
 
-## I.5. Reprezentarea grafică a unui vector.
+## I.5. Compunerea vectorilor.
 
 :::important Definiţie
 **A aduna (a compune) doi (F1 și F2) sau mai mulți vectori** înseamnă a le determina vectorul rezultant (F) .
@@ -557,7 +580,7 @@ Punctul de intersecție a axelor se numește _origine_ și se notează cu _O_. P
 
 **1.** Doi copii trag de o sanie pe un drum orizontal, spre vest, cu forțele F1 = 400N,  respectiv F2 = 800N. Compune cele două forțe ale copiilor.
 
-:::
+#### Rezolvare:
 
 **Vectorul rezultant are:**
 - **valoarea numerică** egală cu suma valorilor numerice a vectorilor componenți, adică F = F1 + F2 = 400N + 800N = 1200N
@@ -573,12 +596,16 @@ Segmentul vectorului rezultant este de 1200:200 = 6 cm.
 <Img src="fizica/clasa7/capitolul1/1_5_Poza3_ProblemaModel1.jpg" />
 
 
+:::
+
+
+
 
 :::caution Problemă model
 
 **2.** Asupra resortului unui dinamometru suspendat de un suport, acționează două  forțe, una de 60 N, pe verticală în jos, cealaltă de 150 N, pe verticală în sus. Ce forță indică dinamometrul ?
 
-:::
+#### Rezolvare:
 
 **Vectorul rezultant are:**
 - **valoarea numerică** egală cu diferența valorilor numerice a vectorilor componenți, adică F = F2 – F1 = 150N –  60N = 90N
@@ -594,12 +621,17 @@ Segmentul vectorului rezultant este de 90:30 = 3 cm.
 <Img src="fizica/clasa7/capitolul1/1_5_Poza4_ProblemaModel2.jpg" />
 
 
+:::
+
+
+
+
 
 :::caution Problemă model
 
 **3.** Asupra unui dinamometru acționează două forțe, una de 150 N  pe o direcție verticală, sensul în sus. Dinamometrul indică o forță de 90 N, resortul lui fiind alungit pe verticală, în jos. Desenează cea de-a doua forță care acționează asupra resortului dinamometrului. 
 
-:::
+#### Rezolvare:
 
 **Etalon:** 1cm = 60N.
 
@@ -616,6 +648,11 @@ F<sub>2</sub> = -90N -150N = -240N . Rezultă că F<sub>2</sub> are un segment d
 
 
 <Img src="fizica/clasa7/capitolul1/1_5_Poza6_ProblemaModel3_DesenulFortei.jpg" />
+
+
+
+:::
+
 
 
 
@@ -649,7 +686,8 @@ Pentru compunerea vectorilor necoliniari (care nu au aceeași direcție) se apli
 :::caution Problemă model
 
 **1.** Un râu curge spre est cu o viteză de 60km/h. O barcă merge pe râu în sensul lui de curgere cu viteza de 100km/h, pe o direcție ce face un unghi de 30° față de malul râului. Care este viteza bărcii față de mal? Reprezintă grafic la scara: 1cm = 20 km/h.
-:::
+
+#### Rezolvare:
 
 v1 = 60km/h, direcție orizontală, sensul spre dreapta
 
@@ -661,6 +699,11 @@ v2 = 100km/h, direcție ce face un unghi de 30° cu orizontala, în sus.
 <Img src="fizica/clasa7/capitolul1/1_5_Poza7_RegulaParalelogramului.jpg" />
 
 
+
+:::
+
+
+<br></br>
 
 
 <Video src="https://www.youtube.com/embed/5WvouafAtUk" />
@@ -684,9 +727,8 @@ v2 = 100km/h, direcție ce face un unghi de 30° cu orizontala, în sus.
 :::caution Problemă model
 
 **1.** Un biciclist merge către est 20km, apoi către sud 40km, apoi către vest 80km și către nord 60km. Determină vectorul rezultant, adică la ce distanță a ajuns biciclisul față de reper (0).
-:::
 
-
+#### Rezolvare:
 
 d1 = 20km, direcție orizontală, spre dreapta
 
@@ -707,6 +749,13 @@ d1 = 60km, direcție verticală, în sus
 - Valoarea vectorului rezultant o obținem prin măsurarea segmentului său cu rigla și apoi înmulțim cu etalonul dat : d = 6,3 ∙ 10 = 63 km. Deci, biciclistul se află la o distanță de 63km față de punctul de plecare, după toată cursa.
 
 <Img src="fizica/clasa7/capitolul1/1_5_Poza9_RegulaPoligonului.jpg" />
+
+
+
+:::
+
+<br></br>
+
 
 
 <Video src="https://www.youtube.com/embed/O5QRonDNS7o" />
@@ -746,7 +795,8 @@ Descompunerea unui vector după două direcții reciproc perpendiculare  este in
 
 **1.** Laurențiu bate un cui cu ciocanul cu o forță de 500N într-un perete, ținând cuiul înclinat față de perete cu un unghi α = 38°.  Ce valoare au forțele care compun forța lui Laurențiu ? 
 
-:::
+#### Rezolvare:
+
 
 F = 500 N, direcție ce face un unghi de 38° cu verticala.
 
@@ -773,6 +823,11 @@ Putem afla cele două forțe prin metoda grafică.
 
 - 500<sup>2</sup> =300<sup>2</sup> + 400<sup>2</sup>
 - 250000 = 90000 +160000
+
+
+
+:::
+
 
  
 

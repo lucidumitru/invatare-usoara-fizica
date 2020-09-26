@@ -220,10 +220,15 @@ Relația de transformare între scara Celsius t(°C) și Fahrenheit  tF (°F):
 
 **1.** Transformă o temperatură de 40°C în Kelvin și grade Fahrenheit.
 
+
+#### Rezolvare:
+
+<Img src="fizica/clasa8/capitolul1/1_2_Poza5_ProblemaModel1.jpg" />
+
 :::
 
 
-<Img src="fizica/clasa8/capitolul1/1_2_Poza5_ProblemaModel1.jpg" />
+
 
 
 <br></br>
@@ -625,11 +630,12 @@ Așa explicăm și încălzirea unei camere de la calorifer. Aerul de lângă ca
 
 Cum este îndreptată flacăra lumânării : spre interiorul camerei sau spre exteriorul ei ?
 
-:::
-
 **Răspuns corect:** spre interior.
 
 <Img src="fizica/clasa8/capitolul1/1_4_2_Poza2_ProblemaModel1.jpg" />
+
+:::
+
 
 
 :::caution Problemă model
@@ -638,11 +644,13 @@ Cum este îndreptată flacăra lumânării : spre interiorul camerei sau spre ex
 
 Cum este îndreptată flacăra lumânării : spre interiorul camerei sau spre exteriorul ei ?
 
-:::
-
 **Răspuns corect:** spre exterior.
 
 <Img src="fizica/clasa8/capitolul1/1_4_2_Poza3_ProblemaModel2.jpg" />
+
+
+:::
+
 
 
 
@@ -793,9 +801,6 @@ _Apa din flaconul negru are temperatura mai mare decât cea din flaconul alb._
 
 **1.** Privește imaginea următoare și descoperă formele de propagare ale căldurii.
 
-:::
-
-
 
 <Img src="fizica/clasa8/capitolul1/1_4_3_Poza1_Experiment11_PozaIbric.jpg" />
 
@@ -803,6 +808,13 @@ _Apa din flaconul negru are temperatura mai mare decât cea din flaconul alb._
 - Ibricul cu apă se încălzește de la flacăra aragazului prin ……………………
 - Coada metalică a ibricului se încălzește prin ……………………………….
 - Apa din ibric se încălzește prin ……………………………………………..
+
+
+
+:::
+
+
+
 
 
 
@@ -1139,19 +1151,84 @@ Comparăm cu căldura specifică a cuprului din tabel (385 J/kg∙K) și observ�
 
 
 
-
 :::caution Problemă model
 
-**1.** Într-un calorimetru a cărui capacitate calorică este 80 J/kg, se pune 200g apă la temperatura de 10°C. În apa din calorimetru se introduce un corp de aluminiu care cântărește 100g,  cu temperatura de 100°C. Care este temperatura finală a celor două corpuri ? Se dau căldurile specifice: a apei de 4185 J/kg∙K și a aluminiului 880 J/kg∙K. Capacitatea calorică a calorimetrului este C = 80 J/kg.
+**1.** În 20g de glicerină cu căldura specifică de 2400 J/Kg∙K  se pune 50 g fier la temperatura de 90°C și căldura specifică de 450 J/Kg∙K. Știind temperatura de echilibru de 50°C, află temperatura inițială a glicerinei.
   
-:::
+#### Rezolvare
 
 
 - Înainte de a scrie datele problemei, se stabilește corpul rece, respectiv cel cald:
 
-Corp 1: apa și calorimetrul : rece   =˃  primește căldură: Q<sub>primită</sub>
+  - Corp 1: glicerină : rece   =˃  primește căldură: Q<sub>primită</sub>
 
-Corp 2: aluminiul : cald  		        =˃  cedează căldură: Q<sub>cedată</sub>
+  - Corp 2: fier : cald  	   =˃  cedează căldură: Q<sub>cedată</sub>
+
+
+- Scriem datele problemei, punând indice 1 la datele despre glicerină și indice 2, la datele despre fier. Transformăm mărimile din date în SI, cu excepția temperaturii, deoarece diferența dintre două temperaturi în grade Celsius este egală cu diferența temperaturilor în Kelvin.
+
+  - m<sub>1</sub> = 20g = 0,02 kg
+
+  - c<sub>1</sub> = 2400 J/kg∙K
+  
+  - m<sub>2</sub> = 50g = 0,05 kg
+
+  - t<sub>2</sub> = 90°C
+
+  - c<sub>2</sub> = 450 J/kg∙K
+
+  - t<sub>e</sub> = 50°C
+  
+  - t<sub>1</sub> = ?
+
+  
+
+
+
+
+- Calculăm căldura primită:
+
+  - Q<sub>primită</sub> = m<sub>1</sub> ∙ c<sub>1</sub> ∙ Δt<sub>1</sub>  =  0,02 ∙ 2400 ∙ (t<sub>e</sub> – t<sub>1</sub>) = 2 ∙ 24 ∙ (50 - t<sub>1</sub>) 
+  
+
+
+- Calculăm căldura cedată:
+
+  - Q<sub>cedată</sub> = m<sub>2</sub> ∙ c<sub>2</sub> ∙ Δt<sub>2</sub> =  0,05 ∙ 450 ∙ (t<sub>2</sub> – t<sub>e</sub>) = 0,05 ∙ 450 ∙ (90 – 50) = 900 J
+ 
+
+
+- Scriem ecuația calorimetrică : Q<sub>cedată</sub> = Q<sub>primită</sub>
+
+  - m<sub>2</sub> ∙ c<sub>2</sub> ∙ (t<sub>2</sub> – t<sub>e</sub>) =  m<sub>1</sub> ∙ c<sub>1</sub> ∙ (t<sub>e</sub> – t<sub>1</sub>) 
+
+- Înlocuim datele problemei și facem calculele matematice :	
+
+  - 900 = 48 ∙ 50 - 48 ∙ t<sub>1</sub>
+  - 48 ∙ t<sub>1</sub> = 2400 - 900
+  - 48 ∙ t<sub>1</sub> = 1500
+  - t<sub>1</sub> = 31,25 °C
+
+:::
+
+
+
+
+
+:::caution Problemă model
+
+**2.** Într-un calorimetru a cărui capacitate calorică este 80 J/kg, se pune 200g apă la temperatura de 10°C. În apa din calorimetru se introduce un corp de aluminiu care cântărește 100g,  cu temperatura de 100°C. Care este temperatura finală a celor două corpuri ? Se dau căldurile specifice: a apei de 4185 J/kg∙K și a aluminiului 880 J/kg∙K. Capacitatea calorică a calorimetrului este C = 80 J/kg.
+  
+
+
+
+#### Rezolvare
+
+- Înainte de a scrie datele problemei, se stabilește corpul rece, respectiv cel cald:
+
+  - Corp 1: apa și calorimetrul : rece   =˃  primește căldură: Q<sub>primită</sub>
+
+  - Corp 2: aluminiul : cald  		        =˃  cedează căldură: Q<sub>cedată</sub>
 
 
 - Scriem datele problemei, punând indice 1 la datele despre apă și indice 2, la datele despre aluminiu. Transformăm mărimile din date în SI, cu excepția temperaturii, deoarece diferența dintre două temperaturi în grade Celsius este egală cu diferența temperaturilor în Kelvin.
@@ -1185,7 +1262,7 @@ Corp 2: aluminiul : cald  		        =˃  cedează căldură: Q<sub>cedată</sub>
   - Δt<sub>2</sub> =  t<sub>2</sub> – t<sub>e</sub> (aluminiul are inițial 100°C, final t<sub>e</sub> care este mai mic decât t<sub>2</sub>)
 
 
-- Scriem ecuația calorimetrică : Q<sub>primită</sub> = Q<sub>cedată</sub>
+- Scriem ecuația calorimetrică : Q<sub>cedată</sub> = Q<sub>primită</sub>
 
   - m<sub>2</sub> ∙ c<sub>2</sub> ∙ (t<sub>2</sub> – t<sub>e</sub>) =  (m<sub>1</sub> ∙ c<sub>1</sub> + C) ∙ (t<sub>e</sub> – t<sub>1</sub>) 
 
@@ -1199,21 +1276,27 @@ Corp 2: aluminiul : cald  		        =˃  cedează căldură: Q<sub>cedată</sub>
   - t<sub>e</sub>  = 17970/(1005) = 17,88 °C
 
 
-
-:::caution Problemă model
-
-**2.** Corpul 1 este pus în contact termic cu corpul 2.
-  
 :::
 
 
 
-<Img src="fizica/clasa8/capitolul1/1_6_2_Poza4_GraficProblemaModel2.jpg" />
+
+
+
+:::caution Problemă model
+
+**3.** Corpul 1 este pus în contact termic cu corpul 2.
+  
+
+
+
+
+<Img src="fizica/clasa8/capitolul1/1_6_2_Poza4_GraficProblemaModel3.jpg" />
 
 
 - Care sunt temperaturile inițiale ale celor două corpuri  și care este corpul rece, respectiv cald?
 
-  - #### R: T<sub>1</sub> = 90°C (corpul 1 - cald) și T2 = 25°C (corpul 2 - rece).
+  - #### Rezolvare: T<sub>1</sub> = 90°C (corpul 1 - cald) și T2 = 25°C (corpul 2 - rece).
 
 
 
@@ -1221,13 +1304,14 @@ Corp 2: aluminiul : cald  		        =˃  cedează căldură: Q<sub>cedată</sub>
 
 - Care este temperatura de echilibru ale celor două corpuri ?
 
-  - #### R: T<sub>e</sub> = 60°C.
+  - #### Rezolvare: T<sub>e</sub> = 60°C.
 
 
 - După cât timp ajung corpurile la echilibru termic?  
 
-  - #### R: După 5 min.
+  - #### Rezolvare: După 5 min.
 
+:::
 
 
 <br></br>
@@ -2257,10 +2341,7 @@ m = masa substanței (în kg)
 
 **1.** Ce căldură absoarbe 100g de gheață de la temperatura de (-20)°C până la vaporizarea completă? Se dau : c<sub>g</sub> = 2090 J/kg∙K, c<sub>a</sub> = 4200 J/kg∙K, ʌ<sub>t</sub> =334.000 J/kg , ʌ<sub>v</sub> = 2.260.000 J/kg, T<sub>t</sub> = 0°C și T<sub>f</sub> = 100°C.
 
-  
-:::
-
-
+#### Rezolvare:
 
 - Scriem datele problemei: m = 100g = 0,1kg
 
@@ -2283,23 +2364,31 @@ m = masa substanței (în kg)
 
 **1.** Încălzirea gheții de la (-20)°C până la 0°C: 
 
-Q<sub>1</sub> = m ∙ c<sub>g</sub> ∙ ΔT = 0,1 ∙ 2090 ∙ [0 - (-20)] = 0,1 ∙ 2090 ∙ 20 = 4180 J
+  - Q<sub>1</sub> = m ∙ c<sub>g</sub> ∙ ΔT = 0,1 ∙ 2090 ∙ [0 - (-20)] = 0,1 ∙ 2090 ∙ 20 = 4180 J
 
 **2.** Topirea gheții  la T = ct. = 0°C: fiind fenomen cu schimbare de stare de agregare aplicăm formula căldurii latente:
 
-Q<sub>2</sub> = Q<sub>latentă topire</sub> = m • ʌ<sub>t</sub> = 0,1 ∙ 334.000 = 33.400 J
+  - Q<sub>2</sub> = Q<sub>latentă topire</sub> = m • ʌ<sub>t</sub> = 0,1 ∙ 334.000 = 33.400 J
 
 **3.** Încălzirea apei de la 0°C până la 100°C: 
 
-Q<sub>3</sub> = m ∙ c<sub>a</sub> ∙ ΔT = 0,1 ∙ 4185 ∙ (100 - 0) = 0,1 ∙ 4185 ∙ 100 = 41.850 J
+  - Q<sub>3</sub> = m ∙ c<sub>a</sub> ∙ ΔT = 0,1 ∙ 4185 ∙ (100 - 0) = 0,1 ∙ 4185 ∙ 100 = 41.850 J
 
 **4.** Fierberea (vaporizarea) apei  la T = ct. = 100°C: fiind fenomen cu schimbare de stare de agregare aplicăm formula căldurii latente:
 
-Q<sub>4</sub> = Q<sub>latentă vaporizare</sub> = m • ʌ<sub>v</sub> = 0,1 ∙ 2.260.000 = 226.000 J
+  - Q<sub>4</sub> = Q<sub>latentă vaporizare</sub> = m • ʌ<sub>v</sub> = 0,1 ∙ 2.260.000 = 226.000 J
 
 - Adunăm toate căldurile absorbite de gheață până la vaporizarea completă :
 
-Q<sub>1</sub> + Q<sub>2</sub> + Q<sub>3</sub> + Q<sub>4</sub> = 4180 + 33.400 + 41.850 + 226.000 = 305.430 J
+  - Q<sub>1</sub> + Q<sub>2</sub> + Q<sub>3</sub> + Q<sub>4</sub> = 4180 + 33.400 + 41.850 + 226.000 = 305.430 J
+
+
+
+  
+:::
+
+
+
 
 
 
@@ -2460,8 +2549,8 @@ q = puterea calorică a combustibilului (kJ/kg).
 :::caution Problemă model
 
 **1.** Determină puterea calorică a alcoolului, folosind datele experimentului nr.27. Consideră , că toată căldura degajată de alcool a fost folosită pentru a încălzi apa (neglijează pierderile de căldură cu mediul înconjurător).
-  
-:::
+
+#### Rezolvare:
 
 
 - **Prima determinare:**
@@ -2507,26 +2596,41 @@ Compar valoarea obținută experimental cu puterea calorică a alcoolului din ta
 
 
 
-:::caution Problemă model
 
-**2.** Ce cantitate de motorină a fost consumată de un motor Diesel cu randamentul de 40%, dacă lucrul mecanic efectuat a fost de 8.500.000 J ?
-  
 :::
 
 
+
+
+
+:::caution Problemă model
+
+**2.** Ce cantitate de motorină a fost consumată de un motor Diesel cu randamentul de 40%, dacă lucrul mecanic efectuat a fost de 8.500.000 J ?
+
+
+#### Rezolvare:
+
 - Scriem datele problemei și le transformăm în S.I.:
  
-m = ?
+  - m = ?
 
-q = 42.000 KJ/kg = 42.000.000 J/kg (din tabel)
+  - q = 42.000 KJ/kg = 42.000.000 J/kg (din tabel)
 
-L = 8.500.000 J
+  - L = 8.500.000 J
 
-η = 40 % =  40/100
+  - η = 40 % =  40/100
 
 - Scriem formula randamentului  și a căldurii degajată de combustibil :
 
 <Img src="fizica/clasa8/capitolul1/1_10_Poza4_Ecuatia1ProblemaExperimentala2.jpg" />
+
+
+
+
+
+:::
+
+
 
 
 <br></br>

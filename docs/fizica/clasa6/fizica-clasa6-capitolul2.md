@@ -576,8 +576,8 @@ Pentru exemplul nostru: L = 25,9 cm ± 0,06 cm.
 
 În urma măsurătorilor a găsit următoarele valori : 1,5m; 1,46m; 1,6m ; 1,2m; 1,56m.  Cum a procedat el?
 
-:::
 
+#### Rezolvare:
 
 - A calculat lm = lungimea medie, adică media aritmetică a celor patru lungimi măsurate. Valoarea 1,2m este mult diferită,  se taie și nu se ia în calculul lungimii medie, fiind o eroare grosolană.
 
@@ -586,13 +586,13 @@ Pentru exemplul nostru: L = 25,9 cm ± 0,06 cm.
 
 - A calculat pentru fiecare măsurătoare Δ l = eroarea absolută, care se calculează prin diferența lungimii măsurate și lungimea medie (cea mare minus cea mai mică); Δ l = l1 – lm sau Δ l = lm – l1.
 
-Δl1 = 1,53-1,5 = 0,03m
+  - Δl1 = 1,53-1,5 = 0,03m
 
-Δl2 = 1,53-1,46 = 0,07m
+  - Δl2 = 1,53-1,46 = 0,07m
+ 
+  - Δl3 = 1,6-1,53 = 0,07m
 
-Δl3 = 1,6-1,53 = 0,07m
-
-Δl4 = 1,56-1,53 = 0,03m
+  - Δl4 = 1,56-1,53 = 0,03m
 
 
 - A calculat Δlm = eroarea medie absolută, care se calculează făcând media aritmetică a celor patru erori absolute.
@@ -601,9 +601,16 @@ Pentru exemplul nostru: L = 25,9 cm ± 0,06 cm.
 
 - Florin a scris rezultatul determinării, folosind același număr de zecimale pentru toate numerele (valorile cu două zecimale, prin rotunjire).
 
-#### Rezultatul determinării = valoarea medie ± eroarea medie absolută
+  - #### Rezultatul determinării = valoarea medie ± eroarea medie absolută
 
-#### l = lmedie ± Δlmedie  = 1,53 m ± 0,05 m.
+  - #### l = lmedie ± Δlmedie  = 1,53 m ± 0,05 m.
+
+
+
+
+:::
+
+
 
 
 <br></br>
@@ -616,9 +623,6 @@ Pentru exemplul nostru: L = 25,9 cm ± 0,06 cm.
 
 **1.** Care din următoarele afirmații sunt adevărate sau false și de ce ?
 
-:::
-
-
 a) 278 mm > 27,8 cm
 
 b) 0,066 km = 66 m
@@ -626,6 +630,11 @@ b) 0,066 km = 66 m
 c) 0,45 hm ≤ 7,9 dam
 
 d) 562 dam ≥ 3495 dm
+
+:::
+
+
+
 
 
 :::caution Temă
@@ -635,7 +644,6 @@ d) 562 dam ≥ 3495 dm
 :::
 
 
-<br></br>
 
 :::caution Temă
 
@@ -792,8 +800,7 @@ Unități de măsură pentru aria suprafețelor de teren în agricultură folosi
 
 **1.** Un teren de tenis (dreptunghiular)  are o lungime de 2,377 dam și o lățime de 8230 mm pentru jocul de simplu. Calculează aria suprafeței dreptunghiului în m<sup>2</sup>.  
 
-:::
-
+#### Rezolvare:
 
 
 - Notăm datele problemei și facem transformările mărimilor date în SI:
@@ -806,11 +813,18 @@ Unități de măsură pentru aria suprafețelor de teren în agricultură folosi
 <Img src="fizica/clasa6/capitolul2/2_230_6_ProblemaModelArie_Poza2.jpg" /> 
 
 
+
+:::
+
+
+
+
+
 :::caution Problemă model
 
 **2.** Un triunghi oarecare are o latură de 0,008km și înălțimea corespunzătoare a acestei laturi este de 670cm. Află aria suprafeței acestui triunghi.  
 
-:::
+#### Rezolvare:
 
 - Notăm datele problemei și facem transformările mărimilor date în SI:
 
@@ -821,11 +835,15 @@ Unități de măsură pentru aria suprafețelor de teren în agricultură folosi
 <Img src="fizica/clasa6/capitolul2/2_230_8_ProblemaModel2Arie_Poza2.jpg" />
 
 
+:::
+
+
+
 :::caution Problemă model
 
 **3.** Un triunghi oarecare are o latură de 0,008km și înălțimea corespunzătoare a acestei laturi este de 670cm. Află aria suprafeței acestui triunghi.  
 
-:::
+#### Rezolvare:
 
 - Notăm datele problemei și facem transformările mărimilor date în SI:
 
@@ -835,6 +853,10 @@ Unități de măsură pentru aria suprafețelor de teren în agricultură folosi
 - Aplicăm formula de calcul a ariei unui dreptunghi și înlocuim datele problemei. Întotdeauna să adaugi la rezultatul obținut unitatea de măsură. 
 
 <Img src="fizica/clasa6/capitolul2/2_230_10_ProblemaModel3Arie_Poza2.jpg" />
+
+
+:::
+
 
 
 <br></br>
@@ -868,10 +890,12 @@ b) 4,9 dam<sup>2</sup> = ? m<sup>2</sup>
 
 **3.** Determină aria următorului contur: 
 
+<Img src="fizica/clasa6/capitolul2/2_230_11_Tema3_DeterminaAriaUrmatoruluiContur.jpg" />
+
 :::
 
 
-<Img src="fizica/clasa6/capitolul2/2_230_11_Tema3_DeterminaAriaUrmatoruluiContur.jpg" />
+
 
 
 
@@ -1026,9 +1050,8 @@ Mensura trebuie să stea pe o suprafață orizontală (pe masă). Suprafața lib
 :::caution Problemă model
 
 **1.** O cameră are lungimea de 0,06 hm, lățimea de 40 dm și înălțimea de 330 cm. Calculează volumul de aer din cameră exprimat în m<sup>3</sup>.
-  
 
-:::
+#### Rezolvare:
 
 - Notăm datele problemei și facem transformările mărimilor date în SI:
 
@@ -1041,15 +1064,14 @@ Mensura trebuie să stea pe o suprafață orizontală (pe masă). Suprafața lib
 <Img src="fizica/clasa6/capitolul2/2_250_4_ProblemaModelVolum_Poza2.jpg" />
 
 
-<br></br>
+:::
 
 
 :::caution Problemă model
 
-**2.** Într-o cafetieră turnăm 500cm3 de apă și preparăm cafeaua. Știind că o ceașcă de cafea are 150 mL, câte cafele ați făcut?
-  
-:::
+**2.** Într-o cafetieră turnăm 500cm<sup>3</sup> de apă și preparăm cafeaua. Știind că o ceașcă de cafea are 150 mL, câte cafele ați făcut?
 
+#### Rezolvare:
 
 - Notăm datele problemei și facem transformările mărimilor date în SI:
 
@@ -1059,10 +1081,13 @@ Mensura trebuie să stea pe o suprafață orizontală (pe masă). Suprafața lib
 
 - Împărțim volumul cafetierei la volumul ceștii:
 
-
-
-
 <Img src="fizica/clasa6/capitolul2/2_250_6_ProblemaModel2Volum_Poza2.jpg" />
+
+
+  
+:::
+
+
 
 
 
@@ -1076,10 +1101,12 @@ Mensura trebuie să stea pe o suprafață orizontală (pe masă). Suprafața lib
 
 **1.** Determină volumul corpului din imaginea următoare, știind că în primul cilindru este pusă numai apă, iar în al doilea s-a adăugat în apă din primul cilindru, corpul al cărui volum trebuie să îl determini.
 
+<Img src="fizica/clasa6/capitolul2/2_250_7_Tema1_DeterminaVolumulCorpului.jpg" />
+
 :::
 
 
-<Img src="fizica/clasa6/capitolul2/2_250_7_Tema1_DeterminaVolumulCorpului.jpg" />
+
 
 
 
@@ -1190,19 +1217,14 @@ Dacă folosești cronometrul electronic de la telefon, care măsoară și sutimi
 :::caution Problemă model
 
 **1.** Un film difuzat pe un post TV a început la ora 20:30 și s-a terminat la ora 22:20. Dacă el a fost întrerupt de patru secvențe de publicitate, fiecare de câte 8 minute, cât a durat filmul, exprimat în ore, minute  și secunde?
-  
-:::
 
-
-
+#### Rezolvare:
 
 - Calculăm timpul de difuzare atât a filmului, cât și a publicității, scăzând ora de terminare din ora de începere a filmului : ca să scădem minutele , mă împrumut de la unitatea orelor cu o oră, adică 60 min și le adun la 20 min și zic 80 min – 30 min = 50 min. Apoi scad 21h – 20 h = 1h. Deci, 22: 20 – 20: 30 = 1h 50 min = t<sub>1</sub>.
-
-:::note Observaţie
+ 
+**Observaţie:**
 
 Dacă vi se pare prea complicat, puteți să plecați de la 20:30 până la 21 = 30 min, apoi până la 22:00 încă o oră (60 min) și încă 20 min până la 22:20. În total iese tot 1h și 50min.
-
-:::
 
 
 - Calculăm timpul calupurilor (secvențelor) de publicitate : t<sub>2</sub> = 4 ∙ 8 min = 32 min
@@ -1214,6 +1236,18 @@ Dacă vi se pare prea complicat, puteți să plecați de la 20:30 până la 21 =
 - Pentru a afla durata în ore transformăm 18min în h cu regula de 3 simplă:
 
 <Img src="fizica/clasa6/capitolul2/2_260_5_ProblemaModel1_Regula3Simpla.jpg" />
+
+
+
+
+
+
+:::
+
+
+
+
+
 
 
 
@@ -1251,16 +1285,13 @@ d) 4,6hs =460s
 
 **3.** Mihai a realizat experimentul nr 4 pentru a măsura perioada de oscilație a unui pendul. El a cronometrat durata în care pendulul a efectuat de fiecare dată câte 10 oscilații și le-a notat în următorul tabel :
 
-:::
 
-
-| Nr. det   | Durata măsurată pt 10 oscilații | 
-| --------- | :------ |
-| 1.        | 9,64    |
-| 2.        | 10,42   |
-| 3.        | 10, 27  |
+<Img src="fizica/clasa6/capitolul2/2_261_1_TabelTema3.jpg" />
 
 Calculează valoarea reală a perioadei pendulului din experimentul lui Mihai.
+
+:::
+
 
 
 
