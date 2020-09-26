@@ -17,6 +17,11 @@ module.exports = {
         googleAnalytics: {
             trackingID: 'UA-175175454-1',
         },
+        algolia: {
+            apiKey: '9fca6c4ab075a147ad5ffdb7caf77214',
+            indexName: 'lucidumitru_invatare-usoara-fizica',
+            searchParameters: {}, // Optional (if provided by Algolia)
+        },
         navbar: {
             title: 'Invăţarea uşoară a fizicii',
             logo: {
