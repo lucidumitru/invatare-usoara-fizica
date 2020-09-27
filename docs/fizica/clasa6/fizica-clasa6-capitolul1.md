@@ -96,9 +96,11 @@ Cu alte cuvinte, **Fizica te face mai deștept**!
 
 :::important Definiţie
 
-**Experimentul** reprezintă o reproducere, cu ajutorul unor aparate speciale, a fenomenului fizic în timpul lecţiei, în condiţiile cele mai favorabile pentru studierea lui. 
+**Experimentul** reprezintă o reproducere, cu ajutorul unor aparate speciale, a fenomenului fizic în timpul lecţiei, în condiţiile cele mai favorabile pentru studierea lui 
 
 :::
+
+
 
 
 
