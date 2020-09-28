@@ -449,6 +449,10 @@ Etalon: 1cm = 40km/h
 
 **c)** Asupra unui corp  acționează o forță de 1800N, pe o direcție ce face un unghi de 50° cu verticala, în sus.
 
+
+<Video src="https://www.youtube.com/embed/LJU5neT0qd8" />
+
+
 #### Rezolvare:
 
 Deci, F = 1800N, direcție cu un unghi de 50° cu verticala, sensul în sus.
@@ -580,6 +584,9 @@ Punctul de intersecție a axelor se numește _origine_ și se notează cu _O_. P
 
 **1.** Doi copii trag de o sanie pe un drum orizontal, spre vest, cu forțele F1 = 400N,  respectiv F2 = 800N. Compune cele două forțe ale copiilor.
 
+
+<Video src="https://www.youtube.com/embed/aJL8s-z6h0k" />
+
 #### Rezolvare:
 
 **Vectorul rezultant are:**
@@ -603,7 +610,12 @@ Segmentul vectorului rezultant este de 1200:200 = 6 cm.
 
 :::caution Problemă model
 
+
+
 **2.** Asupra resortului unui dinamometru suspendat de un suport, acționează două  forțe, una de 60 N, pe verticală în jos, cealaltă de 150 N, pe verticală în sus. Ce forță indică dinamometrul ?
+
+
+<Video src="https://www.youtube.com/embed/YMEn02epM94" />
 
 #### Rezolvare:
 
