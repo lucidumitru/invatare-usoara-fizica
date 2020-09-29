@@ -379,6 +379,11 @@ Să recapitulăm direcțiile spațiului, care sunt o infinitate. Dintre acestea,
 
 Direcția verticală este perpendiculară pe cea orizontală.
 
+<Video src="https://www.youtube.com/embed/Kjga9P8GW4Y" />
+
+
+
+
 :::
 
 
