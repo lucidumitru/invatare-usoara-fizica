@@ -35,7 +35,22 @@
     cursor: zoom-in;
 }
 
+
+.img-responsive2 {
+    display: block;
+    width: 50%;
+    height: auto;
+    margin: 30px auto;
+    cursor: zoom-in;
+}
+
+
+
 /* svg */
+
+
+
+
 
 
 .svg-responsive {
@@ -54,14 +69,24 @@
 
 
 .svg-responsive3 {
+    color: white;
     width: 50%;
+    height: auto;
+    margin: auto;
+    cursor: zoom-in;
+
+}
+
+.svg-responsive4 {
+    width: 70%;
     height: auto;
     margin: auto;
     cursor: zoom-in;
 }
 
-.svg-responsive4 {
-    width: 70%;
+
+.svg-responsive5 {
+    width: 100%;
     height: auto;
     margin: auto;
     cursor: zoom-in;
