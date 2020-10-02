@@ -1237,6 +1237,10 @@ Lentilele (lupa , ochelarii) sunt aplicații ale fenomenului de refracție.
 :::
 
 
+<Video src="https://www.youtube.com/embed/5JTsGbZjFZA" />
+
+
+
 **Materiale necesare:** semicilindru din plexiglas ( sticlă), disc Hartl, laser.
 
 
@@ -1246,13 +1250,6 @@ Lentilele (lupa , ochelarii) sunt aplicații ale fenomenului de refracție.
 
 - Urmărește mersul razei incidente și a celei de refracție, pentru diferite unghiuri de incidență. Măsoară de fiecare dată unghiul de refracție.
 
-
-<Video src="https://www.youtube.com/embed/5FCdptUGXu4" />
-
-
-
-
-
 - Schimbă poziția piesei semicilindrice astfel încât raza incidentă să treacă din plexiglas în aer. 
 
 - Măsoară unghiurile de incidență și de refracție. 
@@ -1260,7 +1257,6 @@ Lentilele (lupa , ochelarii) sunt aplicații ale fenomenului de refracție.
 - Ce observi ?
 
 
-<Video src="https://www.youtube.com/embed/JZm36Iff1t8" />
 
 
 <br></br>
@@ -1395,6 +1391,14 @@ Pentru a avea loc fenomenul de reflexie totală trebuie îndeplinite două condi
 
 Unghiul limită al unei perechi de medii nu trebuie învățat. El se calculează aplicând a doua lege a refracției și punând condiția reflexiei totale
 
+
+
+<Video src="https://www.youtube.com/embed/G2QxQ47LUPc" />
+
+
+
+
+
 <Img src="fizica/clasa8/capitolul3/3_3_3_Poza1_ConditiaReflexieiTotale.jpg" />
 
 
@@ -1420,6 +1424,13 @@ Vei folosi calculatorul pentru a calcula sinusurile și arcsinusurile.
 <Img src="fizica/clasa8/capitolul3/3_3_3_Poza4_DesenReflexieTotala.jpg" />
 
 <Img src="fizica/clasa8/capitolul3/3_3_3_Poza5_ExplicatieDesenReflexieTotala.jpg" />
+
+
+
+<Video src="https://www.youtube.com/embed/rUjnRJFdoRw" />
+
+
+<br></br>
 
 
 :::caution Aplicații
