@@ -1479,3 +1479,307 @@ Fibrele optice au două mari aplicații:
 ### III.3.4. Lentile.
 
 
+### III.3.4.1. Lentile. Tipuri de lentile.
+
+
+:::important Definiție
+
+**Lentilele** sunt corpuri transparente și care au o suprafață sferică.
+
+
+:::
+
+
+:::important
+
+**Elementele unei lentile :**
+
+- **Axa optică principală** care se trasează prin mijlocul lentilei.
+
+- **Centrul optic al lentilei ( O )** aflat la intersecția lentilei cu axa optică principală.
+
+- **Două focare** așezate de-o parte și de alta față de centrul optic al lentilei, la distanțe egale. 
+
+  - Focarul aflat în partea stângă față de O se numește **focar negativ / obiect ( F<sub>1</sub> )**, deoarece se află pe axa numerelor negative. 
+  
+  - Focarul aflat în partea dreaptă față de O se numește **focar pozitiv / imagine ( F<sub>2</sub> )**, deoarece se află pe axa numerelor pozitive.
+
+- **Centrele de curbură ( C<sub>1</sub> și C<sub>2</sub> )** ale dioptrilor care mărginesc lentila.
+
+:::
+
+
+:::note Observații
+
+- Dacă grosimea lentilei este mică în comparaţie cu razele de curbură ale feţelor, lentila este considerată subţire.
+ 
+- Distanța OF<sub>1</sub> = OF<sub>2</sub> = f = distanță focală
+
+- În construcția imaginii unui obiect într-o lentilă vom desena numai centrul de curbură aflat în partea stângă față de O, la o distanță egală cu dublul distanței focale, OC = 2f.
+
+
+:::
+
+
+:::important
+
+**Clasificarea lentilelor:**
+
+1)	**Lentile convergente ( convexe )** sunt lentilele care transformă un fascicul de lumină paralel într-un fascicul convergent. Ele refractă lumina prin focarul pozitiv și de aceea se mai numesc și **lentile pozitive**. Ele măresc scrisul.
+
+<br></br>
+
+<Video src="https://www.youtube.com/embed/fjaYuEB20mM" />
+
+<br></br>
+
+<Img src="fizica/clasa8/capitolul3/3_3_4_1_Poza1_SchemaLentileConvergente.jpg" />
+
+
+
+2)	**Lentile divergente ( concave )** sunt lentilele care transformă un fascicul de lumină paralel într-un fascicul divergent. Ele refractă lumina prin focarul negativ și de aceea se mai numesc și **lentile negative**. Ele micșorează scrisul.
+
+<br></br>
+
+<Video src="https://www.youtube.com/embed/OXSM1GaxkG4" />
+
+<br></br>
+
+
+
+<Img src="fizica/clasa8/capitolul3/3_3_4_1_Poza2_SchemaLentileDivergente.jpg" />
+
+ 
+
+:::
+
+
+
+<br></br>
+
+
+
+### III.3.4.2. Formarea imaginilor unui obiect în lentile convergente.
+
+:::important
+
+#### Pentru a forma imaginea unui obiect într-o lentilă convergentă trebuie să trasăm două raze:
+
+- Desenăm simbolul lentilei convergente.
+
+- Trasăm prin mijlocul ei axa optică principală.
+
+- Punem elementele lentilei ( O, F<sub>1</sub>, F<sub>2</sub>, C ).
+
+- Desenăm obiectul ( AB ) în fața lentilei ( în partea stângă ), printr-un segment cu săgeată.
+
+- Trasăm o rază care pleacă din vârful obiectului ( B ), paralelă cu axa optică până întâlnește lentila și apoi o ducem prin focarul pozitiv ( F<sub>2</sub> ), deoarece lentila convergentă refractă lumina prin focarul pozitiv.
+
+- Trasăm a doua rază din vârful obiectului care să treacă prin centrul optic al lentilei ( O ). Prelungim aceste raze până se intersectează. La intersecția lor punem B' care este vârful imaginii ( im ) obiectului ( ob ) AB.
+ 
+- Din B' trasăm o perpendiculară pe axa optică, piciorul acesteia îl notăm cu A' și reprezintă baza im A'B'.
+
+- Punem vârful săgeții în B' și așa obținem imaginea obiectului AB în lentila convergentă.
+
+
+:::
+
+
+
+#### În funcție de distanța obiectului față de lentilă, avem trei tipuri de imagini în lentila convergentă.
+
+**I. Când obiectul este situat în intervalul  (-∞ ) și C**, imaginea obiectului are următoarele caracteristici :
+
+- Mai mică decât obiectul AB.
+
+- Răsturnată
+
+- Reală (se formează la intersecția razelor refractate, poate fi proiectată pe un ecran).
+
+
+<Img src="fizica/clasa8/capitolul3/3_3_4_2_Poza1_SchemaFormareImagineInLentileConvergenteCaz1.jpg" />
+
+
+**II.	Când obiectul este situat în intervalul  C și F<sub>1</sub>**, imaginea obiectului are următoarele caracteristici:
+
+- Mai mare decât obiectul AB.
+
+- Răsturnată
+
+- Reală  (se formează la intersecția razelor refractate, poate fi proiectată pe un ecran).
+
+
+<Img src="fizica/clasa8/capitolul3/3_3_4_2_Poza2_SchemaFormareImagineInLentileConvergenteCaz2.jpg" />
+
+
+**III. Când obiectul este situat în intervalul F<sub>1</sub> și O**, imaginea obiectului are următoarele caracteristici :
+
+- Mai mică decât obiectul.
+
+- Răsturnată
+
+- Reală (se formează la intersecția prelungirilor razelor refractate, nu poate fi proiectată pe un ecran).
+
+
+<Img src="fizica/clasa8/capitolul3/3_3_4_2_Poza3_SchemaFormareImagineInLentileConvergenteCaz3.jpg" />
+
+
+
+:::note Observații
+
+- Când obiectul AB este situat chiar în C, im ob A'B' este egală ca mărime cu obiectul.
+
+- Când obiectul AB este situat chiar în F<sub>1</sub>, im ob A'B' nu se poate forma deoarece razele ies din lentila convergentă paralele și nu se intersectează.
+
+
+
+:::
+
+
+
+<br></br>
+
+
+
+
+:::tip Experiment
+
+**12.** Formarea imaginilor în lentila convergentă
+
+:::
+
+<Video src="https://www.youtube.com/embed/DrH3tHa7SbA" />
+
+
+**Materiale necesare:** lentilă convergentă (lupă), lumânare, chibrit.
+
+
+:::warning Ateție
+
+Atenție când lucrezi cu surse de foc !
+
+:::
+
+
+
+
+**Modul de lucru:** 
+
+- Așază lumânarea aprinsă la o distanță de 40-60 cm față de un perete.
+
+- Mută, încetul cu încetul, lupa dinspre lumânare spre perete, astfel încât vârful lumânării, mijlocul lentilei să fie pe aceeaşi dreaptă.
+
+- Când lupa este aproape de flacăra lumânării, se formează o imagine virtuală, mai mică decât flacăra și dreaptă pe care o poți vedea prin lupă.
+
+- Depărtează lupa de flacără până când pe perete se formează imaginea clară a lumânării mai mare, reală și răsturnată.
+
+- Depărtează și mai mult lupa de flacără până când pe perete se formează o imaginea clară a lumânării mai mică, reală și răsturnată.
+
+ 
+
+
+:::note Observație
+
+În lentila convergentă (lupă) se formează trei tipuri de imagini ale obiectelor.
+
+:::
+
+
+
+
+<br></br>
+<br></br>
+
+
+### III.3.4.3. Formarea imaginilor unui obiect în lentile divergente.
+
+
+
+
+:::important
+
+#### Pentru a forma imaginea unui obiect într-o lentilă divergentă trebuie să trasăm două raze:
+
+- Desenăm simbolul lentilei divergente.
+
+- Trasăm prin mijlocul ei axa optică principală.
+
+- Punem elementele lentilei ( O, F<sub>1</sub>, F<sub>2</sub>, C ).
+
+- Desenăm obiectul ( AB ) în fața lentilei ( în partea stângă ), printr-un segment cu săgeată.
+
+- Trasăm o rază care pleacă din vârful obiectului ( B ), paralelă cu axa optică până întâlnește lentila și apoi o ducem prin focarul negativ ( F<sub>1</sub> ), deoarece lentila divergentă refractă lumina prin focarul negativ.
+
+- Trasăm a doua rază din vârful obiectului care să treacă prin centrul optic al lentilei ( O ). Prelungim aceste raze până se intersectează. La intersecția lor punem B' care este vârful imaginii ( im ) obiectului ( ob ) AB.
+ 
+- Din B' trasăm o perpendiculară pe axa optică, piciorul acesteia îl notăm cu A' și reprezintă baza im A'B'.
+
+- Punem vârful săgeții în B' și așa obținem imaginea obiectului AB în lentila convergentă.
+
+
+
+:::
+
+
+
+#### În lentila divergentă obținem o imagine care are aceleași aracteristici, indiferent de distanța obiectului față de lentilă:
+
+- Mai mică decât obiectul.
+
+- Dreaptă
+
+- Virtuală (se formează la intersecția prelungirilor razelor refractate, nu  poate fi proiectată pe un ecran).
+
+
+<Img src="fizica/clasa8/capitolul3/3_3_4_3_Poza1_SchemaFormareImagineInLentileDivergente.jpg" />
+
+
+
+<br></br>
+
+
+
+
+:::tip Experiment
+
+**13.** Formarea imaginilor în lentila divergentă
+
+:::
+
+<Video src="https://www.youtube.com/embed/A9qQF79YK4k" />
+
+
+**Materiale necesare:** lentilă divergentă  (ochelari pentru miopie cu dioptrii negative), lumânare, chibrit.
+
+
+:::warning Ateție
+
+Atenție când lucrezi cu surse de foc !
+
+:::
+
+
+
+
+**Modul de lucru:** 
+
+- Așază lumânarea aprinsă la o distanță de 40-60 cm față de un perete.
+
+- Mută, încetul cu încetul, lentila divergentă dinspre lumânare spre perete, astfel încât vârful lumânării, mijlocul lentilei să fie pe aceeaşi dreaptă.
+
+- Când lentila este aproape de flacăra lumânării, se formează o imagine virtuală, mai mică decât flacăra și dreaptă pe care o poți vedea prin lentilă.
+
+- Depărtează lentila de flacără și vei vedea, tot privind prin lentilă, imaginea clară a lumânării mai ică, virtuală și dreaptă.
+
+- Depărtează și mai mult lupa de flacără și vei vedea aceeași imagine din ce în ce mai mică decât flacăra, dar cu aceleași caracteristici.
+ 
+ 
+
+
+:::note Observație
+
+În lentila divergentă se formează un singur tip de imagine ale obiectelor, indiferent de distanța dintre obiect și lentilă.
+
+:::
+
+
