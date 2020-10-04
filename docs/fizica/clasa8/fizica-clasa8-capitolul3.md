@@ -1292,6 +1292,18 @@ Când indicele de refracție a primului mediu este mai mare decât a celui de-al
 
 <Img src="fizica/clasa8/capitolul3/3_3_2_Poza6_MonedaInPaharMarita.jpg" />
 
+
+- Licărirea stelelor
+
+
+<Video src="https://www.youtube.com/embed/xmS_w8x_M20" />
+ 
+
+Înainte de a ajunge la ochiul nostru, lumina care pornește de la o stea îndepărtată, străbate atmosfera, care nu este niciodată complet liniștită. Datorită refracției diferite a luminii, care trece prin straturi de aer mai rece sau mai cald, nouă  ni se pare ca stralucirea stelelor si culoarea lor se schimba mereu, adică stelele clipesc. Dar privite din spațiu cosmic, ele nu clipesc, având o lumină continuă.
+
+
+
+
 :::
 
 
@@ -1303,9 +1315,6 @@ Când indicele de refracție a primului mediu este mai mare decât a celui de-al
 
 :::note Observație
 
-De ce licăresc stelele ?
-
-Înainte de a ajunge la ochiul nostru, lumina care pornește de la o stea îndepărtată, străbate atmosfera, care nu este niciodată complet liniștită. Datorită refracției diferite a luminii, care trece prin straturi de aer mai rece sau mai cald, nouă  ni se pare ca stralucirea stelelor si culoarea lor se schimba mereu, adică stelele clipesc. Dar privite din spațiu cosmic, ele nu clipesc, având o lumină continuă.
 
 
 
@@ -1476,10 +1485,10 @@ Fibrele optice au două mari aplicații:
 
 
 
-### III.3.4. Lentile.
+## III.4. Lentile.
 
 
-### III.3.4.1. Lentile. Tipuri de lentile.
+### III.4.1. Lentile. Tipuri de lentile.
 
 
 :::important Definiție
@@ -1504,7 +1513,7 @@ Fibrele optice au două mari aplicații:
   
   - Focarul aflat în partea dreaptă față de O se numește **focar pozitiv / imagine ( F<sub>2</sub> )**, deoarece se află pe axa numerelor pozitive.
 
-- **Centrele de curbură ( C<sub>1</sub> și C<sub>2</sub> )** ale dioptrilor care mărginesc lentila.
+- **Centrele de curbură ( C<sub>1</sub> și C<sub>2</sub> )** ale dioptrilor care mărginesc lentila aflate de-o parte și de alta față de O, la o distanță dublă față de OF.
 
 :::
 
@@ -1525,7 +1534,7 @@ Fibrele optice au două mari aplicații:
 
 **Clasificarea lentilelor:**
 
-1)	**Lentile convergente ( convexe )** sunt lentilele care transformă un fascicul de lumină paralel într-un fascicul convergent. Ele refractă lumina prin focarul pozitiv și de aceea se mai numesc și **lentile pozitive**. Ele măresc scrisul.
+1)	**Lentile convergente ( convexe )** sunt lentilele care transformă un fascicul de lumină paralel într-un fascicul convergent. Ele refractă lumina prin focarul pozitiv și de aceea se mai numesc și **lentile pozitive**. Ele măresc scrisul. Sunt mai groase la mijloc și mai subțiri la capete.
 
 <br></br>
 
@@ -1533,11 +1542,11 @@ Fibrele optice au două mari aplicații:
 
 <br></br>
 
-<Img src="fizica/clasa8/capitolul3/3_3_4_1_Poza1_SchemaLentileConvergente.jpg" />
+<Img src="fizica/clasa8/capitolul3/3_4_1_Poza1_SchemaLentileConvergente.jpg" />
 
 
 
-2)	**Lentile divergente ( concave )** sunt lentilele care transformă un fascicul de lumină paralel într-un fascicul divergent. Ele refractă lumina prin focarul negativ și de aceea se mai numesc și **lentile negative**. Ele micșorează scrisul.
+2)	**Lentile divergente ( concave )** sunt lentilele care transformă un fascicul de lumină paralel într-un fascicul divergent. Ele refractă lumina prin focarul negativ și de aceea se mai numesc și **lentile negative**. Ele micșorează scrisul. Sunt mai groase la capete și mai subțiri la mijloc.
 
 <br></br>
 
@@ -1547,7 +1556,7 @@ Fibrele optice au două mari aplicații:
 
 
 
-<Img src="fizica/clasa8/capitolul3/3_3_4_1_Poza2_SchemaLentileDivergente.jpg" />
+<Img src="fizica/clasa8/capitolul3/3_4_1_Poza2_SchemaLentileDivergente.jpg" />
 
  
 
@@ -1556,10 +1565,18 @@ Fibrele optice au două mari aplicații:
 
 
 <br></br>
+<br></br>
 
 
 
-### III.3.4.2. Formarea imaginilor unui obiect în lentile convergente.
+### III.4.2. Formarea imaginilor unui obiect în lentile convergente.
+
+
+
+<Video src="https://www.youtube.com/embed/K8Kj6kjS--o" />
+
+<br></br>
+
 
 :::important
 
@@ -1597,7 +1614,16 @@ Fibrele optice au două mari aplicații:
 - Reală (se formează la intersecția razelor refractate, poate fi proiectată pe un ecran).
 
 
-<Img src="fizica/clasa8/capitolul3/3_3_4_2_Poza1_SchemaFormareImagineInLentileConvergenteCaz1.jpg" />
+:::note Observație
+
+La lentile, care sunt aplicații ale refracției luminii, razele care ies din lentilă sunt razele refractate. Razele care le desenăm în fața lentilei, sunt prelungirile razelor refractate.
+
+:::
+
+
+
+
+<Img src="fizica/clasa8/capitolul3/3_4_2_Poza1_SchemaFormareImagineInLentileConvergenteCaz1.jpg" />
 
 
 **II.	Când obiectul este situat în intervalul  C și F<sub>1</sub>**, imaginea obiectului are următoarele caracteristici:
@@ -1609,19 +1635,19 @@ Fibrele optice au două mari aplicații:
 - Reală  (se formează la intersecția razelor refractate, poate fi proiectată pe un ecran).
 
 
-<Img src="fizica/clasa8/capitolul3/3_3_4_2_Poza2_SchemaFormareImagineInLentileConvergenteCaz2.jpg" />
+<Img src="fizica/clasa8/capitolul3/3_4_2_Poza2_SchemaFormareImagineInLentileConvergenteCaz2.jpg" />
 
 
 **III. Când obiectul este situat în intervalul F<sub>1</sub> și O**, imaginea obiectului are următoarele caracteristici :
 
-- Mai mică decât obiectul.
+- Mai mare decât obiectul.
 
-- Răsturnată
+- Dreaptă
 
-- Reală (se formează la intersecția prelungirilor razelor refractate, nu poate fi proiectată pe un ecran).
+- Virtuală (se formează la intersecția prelungirilor razelor refractate, nu poate fi proiectată pe un ecran).
 
 
-<Img src="fizica/clasa8/capitolul3/3_3_4_2_Poza3_SchemaFormareImagineInLentileConvergenteCaz3.jpg" />
+<Img src="fizica/clasa8/capitolul3/3_4_2_Poza3_SchemaFormareImagineInLentileConvergenteCaz3.jpg" />
 
 
 
@@ -1669,7 +1695,7 @@ Atenție când lucrezi cu surse de foc !
 
 - Mută, încetul cu încetul, lupa dinspre lumânare spre perete, astfel încât vârful lumânării, mijlocul lentilei să fie pe aceeaşi dreaptă.
 
-- Când lupa este aproape de flacăra lumânării, se formează o imagine virtuală, mai mică decât flacăra și dreaptă pe care o poți vedea prin lupă.
+- Când lupa este aproape de flacăra lumânării, se formează o imagine virtuală, mai mare decât flacăra și dreaptă pe care o poți vedea prin lupă.
 
 - Depărtează lupa de flacără până când pe perete se formează imaginea clară a lumânării mai mare, reală și răsturnată.
 
@@ -1691,10 +1717,13 @@ Atenție când lucrezi cu surse de foc !
 <br></br>
 
 
-### III.3.4.3. Formarea imaginilor unui obiect în lentile divergente.
+### III.4.3. Formarea imaginilor unui obiect în lentile divergente.
 
 
+<Video src="https://www.youtube.com/embed/E9TAnKgXIJE" />
 
+
+<br></br>
 
 :::important
 
@@ -1731,7 +1760,7 @@ Atenție când lucrezi cu surse de foc !
 - Virtuală (se formează la intersecția prelungirilor razelor refractate, nu  poate fi proiectată pe un ecran).
 
 
-<Img src="fizica/clasa8/capitolul3/3_3_4_3_Poza1_SchemaFormareImagineInLentileDivergente.jpg" />
+<Img src="fizica/clasa8/capitolul3/3_4_3_Poza1_SchemaFormareImagineInLentileDivergente.jpg" />
 
 
 
@@ -1771,7 +1800,7 @@ Atenție când lucrezi cu surse de foc !
 
 - Depărtează lentila de flacără și vei vedea, tot privind prin lentilă, imaginea clară a lumânării mai ică, virtuală și dreaptă.
 
-- Depărtează și mai mult lupa de flacără și vei vedea aceeași imagine din ce în ce mai mică decât flacăra, dar cu aceleași caracteristici.
+- Depărtează și mai mult lentila de flacără și vei vedea aceeași imagine din ce în ce mai mică decât flacăra, dar cu aceleași caracteristici.
  
  
 
@@ -1779,6 +1808,346 @@ Atenție când lucrezi cu surse de foc !
 :::note Observație
 
 În lentila divergentă se formează un singur tip de imagine ale obiectelor, indiferent de distanța dintre obiect și lentilă.
+
+:::
+
+
+
+### III.4.4. Extindere: Determinarea formulelor lentilelor subțiri.
+
+Pentru a demonstra legile ( formulele ) lentilelor subțiri vom lua cazul când  obiectul AB este situat chiar în C, im ob A'B' este egală ca mărime cu obiectul AB.
+
+
+<Img src="fizica/clasa8/capitolul3/3_4_4_Poza1_SchemaFormareImagineInLentilaConvergentaSubtire.jpg" />
+
+
+Observăm că avem patru triunghiuri asemenea : CBF<sub>1</sub> ~ ONF<sub>1</sub> ~ OMF<sub>2</sub> ~ A'B'F<sub>2</sub> 
+
+Putem scrie următoarele rapoarte de asemănare :
+
+<Img src="fizica/clasa8/capitolul3/3_4_4_Poza2_RapoarteDeAsemanare.jpg" />
+
+
+MO = AB = ON = A'B', F<sub>1</sub>O = F<sub>2</sub>O = f . Le înlocuim în cele patru rapoarte și obținem :
+
+<Img src="fizica/clasa8/capitolul3/3_4_4_Poza3_RapoarteDeAsemanare2.jpg" />
+
+
+Cum AB = A'B', facem produsul pe diagonală și obținem :
+
+AF<sub>1</sub> ∙ A'F<sub>2</sub> = f<sup>2</sup> 
+
+**Aceasta este legea lentilelor subțiri: Produsul distanțelor de la obiect la focarul negativ și de la imagine la focarul pozitiv este egal cu pătratul distanței focale a lentilei.**
+
+Notăm cu:
+ 
+x<sub>1</sub> = distanța de la obiectul AB la lentilă = AO
+
+x<sub>2</sub> = distanța de la imaginea A'B' la lentilă = A'O
+
+AF<sub>1</sub> = AO – f = x<sub>1</sub> – f
+
+A'F<sub>2</sub> = A'O – f = x<sub>2</sub> – f. Înlocuind în legea lentilelor, obținem prima formulă a lentilelor subțiri .
+
+
+:::note Observație
+
+
+x<sub>1</sub> = distanța de la obiectul AB la lentilă, este situată pe axa numerelor negative, fiind tot timpul negativ, vom scrie formula lentilelor direct cu semnul minus .
+
+
+:::
+
+
+<Img src="fizica/clasa8/capitolul3/3_4_4_Poza4_SchemaLaLegeaLentilelorSubtiri.jpg" />
+
+
+:::important
+
+Formula fundamentală a lentilelor subțiri: 
+
+<Img src="fizica/clasa8/capitolul3/3_4_4_Poza5_FormulaFundamentalaALentilelorSubtiri.jpg" />
+
+x<sub>1</sub> = distanța de la obiectul AB la lentilă 
+
+x<sub>2</sub> = distanța de la imaginea A'B' la lentilă 
+
+f = distanța focală a lentilei
+
+
+:::
+
+
+:::important Definiție
+
+**Mărirea liniară transversală (β )** este o mărime fizică adimensională egală cu raportul dintre înălțimea imaginii și înălțimea obiectului.
+
+<Img src="fizica/clasa8/capitolul3/3_4_4_Poza6_MarireaLiniaraTransversala.jpg" />
+
+
+**β = mărirea liniară transversală**
+
+x<sub>1</sub> = distanța de la obiectul AB la lentilă
+ 
+x<sub>2</sub> = distanța de la imaginea A'B' la lentilă
+ 
+y<sub>1</sub> = înălțimea obiectului AB
+ 
+y<sub>2</sub> = înălțimea imaginii A'B'
+
+
+
+
+:::
+
+
+:::important
+
+**Convenții de semne:**
+
+- x<sub>2</sub> = se ia pozitiv când imaginea este reală ( se formează în spatele lentilei, pe axa numerelor pozitive ) și negativ când imaginea este virtuală ( se formează în fața lentilei, pe axa numerelor negative ).
+
+- Înălțimile ( dimensiunile liniare transversale ) obiectului ( y<sub>1</sub> ), respectiv imaginii ( y<sub>2</sub> ) vor fi pozitive dacă sunt deasupra axei optice principale și negative dacă sunt sub axa optică principală.
+
+- Distanța focală se consideră pozitivă ( f > 0 ) pentru lentilele convergente și negativă ( f < 0 ) pentru lentilele divergente. 
+
+
+<Img src="fizica/clasa8/capitolul3/3_4_4_Poza7_ConventiiDeSemne.jpg" />
+
+
+
+
+:::
+
+
+:::important Definiție
+
+**Convergența unei lentile ( C )** este o mărime fizică egală cu inversul distanței focale ( f ).
+
+<Img src="fizica/clasa8/capitolul3/3_4_4_Poza8_ConvergentaUneiLentile.jpg" />
+
+
+
+
+
+
+:::
+
+
+
+:::note Observație
+
+Dacă β>0, imaginea este dreaptă.
+	
+Dacă β<0, imaginea este răsturnată.
+	
+Dacă |β|>1, imaginea este mărită.
+	
+Dacă |β|<1, imaginea este micșorată.
+	
+
+
+
+:::
+
+
+<br></br>
+
+<Video src="https://www.youtube.com/embed/209bRr272JE" />
+
+
+
+
+
+
+<br></br>
+<br></br>
+
+
+
+## III.5. Instrumente optice
+
+### III.5.1. Ochiul uman
+
+
+#### Văzul este cel mai important simț al omului. Cu ajutorul lui putem vedea stările de agregare ale corpurilor, forma lor, dimensiunea lor, culorii lor, transparența lor, etc.
+
+
+<Img src="fizica/clasa8/capitolul3/3_5_1_Poza1_OchiulUman.jpg" />
+
+:::important
+
+Cum vede omul obiectele din jur ?
+
+În primul rând are nevoie de lumină, care se reflectă în corpurile din jurul nostru.
+
+Lumina reflectată de un obiect intră prin cornee ( o membrană transparentă ), apoi trece prin umoarea apoasă ( un lichid transparent ) și traversează irisul (partea colorată a ochiului ) prin pupilă ( orificiu de culoare neagră ).
+
+Când lumina ajunge la cristalin ( membrană transparentă elastică ) , ea se refractă ca printr-o lentilă convergentă , deoarece cristalinul este convex și transparent. Imaginea formată este reală, răsturnată și mai mică decât obiectul.
+
+Imaginea obiectului se formează pe retină ( strat de celule fotosensibile ), care transformă imaginea în impulsuri nervoase trimise la creier, prin intermediul nervului optic.
+
+Creierul prelucrează semnalele electrice, îndreaptă imaginea și dă senzația de văz.
+
+
+
+:::
+
+
+
+
+:::tip Experiment
+
+**14.** Un borcan cu apă pe post de ochi
+
+:::
+
+<Video src="https://www.youtube.com/embed/as2oEp0cFLY" />
+
+
+**Materiale necesare:** borcan sferic de sticlă plin cu apă, lumânare, chibrit, carton , cameră  slab luminată (semiobscură). 
+
+
+:::warning Ateție
+
+Atenție când lucrezi cu surse de foc ! Realizează experimentul în prezența unui adult !
+
+:::
+
+
+
+
+**Modul de lucru:** 
+
+- Poziţionează borcanul cu apă aproape de perete.
+
+- Fă cu vârful unui creion (compas ) un orificiu în mijlocul cartonului şi aşază-l pe verticală, sprijinindu-l de borcan.
+
+- Aşază lumânarea aprinsă în faţa cartonului, astfel ca flacăra să fie în dreptul orificiului.
+ 
+ 
+ 
+
+
+:::note Observație
+
+Pe perete se formează imaginea lumânării:  mai mică decât obiectul, răsturnată şi reală, asemeni celei formată de ochi.
+
+Lumina lumânării este refractată de vasul cu apă asemeni unei lentile convergente(cristalinul ochiului).
+
+Orificiul din carton joacă rolul pupilei care lasă să intre în ochi lumina reflectată de obiecte. 
+
+:::
+
+
+**Concluzia experimentului:**
+
+Borcanul cu apă este pe post de cristalin, focalizând razele ce îl traversează. Peretele joacă rolul retinei, loc în care se formează imaginea obiectului.
+
+
+
+
+
+Ochiul nostru poate vedea obiecte aflate la diferite distanțe, având o mare capacitate de acomodare, datorată elasticității cristalinului și mușchilor oculari și care își schimbă distanța focală.
+
+**Acomodarea cristalinului  unui ochi normal are două limite:**
+
+- **Punctul proximum**  aflat la o distanță minimă care, pentru un tânăr este la 10-15 cm și pentru adulți cam 25 cm.
+
+- **Punctul remotum** este cel mai îndepărtat punct al vederii clare fără acomodare, fiind la 15 m spre infinit.
+
+
+
+:::important
+
+**Defectele de vedere ale ochiului omenesc sunt :**
+
+1)	**Miopia** este defectul de vedere când nu se văd clar obiectele îndepărtate. Imaginea obiectelor se formează în fața retinei, ochiul miop fiind prea convergent. Prin urmare, miopia se corectează cu lentile divergente ( negative ).
+
+<Img src="fizica/clasa8/capitolul3/3_5_1_Poza2_Miopia.jpg" />
+
+
+
+2) **Hipermetropia** este defectul de vedere când nu se văd clar obiectele apropiate. Imaginea obiectelor se formează în spatele retinei, ochiul hipermetrop fiind prea puțin convergent. Prin urmare, hipermetropia se corectează cu lentile convergente ( pozitive ).
+
+<Img src="fizica/clasa8/capitolul3/3_5_1_Poza3_Hipermetropia.jpg" />
+
+
+:::
+
+
+:::caution Aplicații
+
+Primii ochelari cu lentile slabe care corectau hipermetropia au apărut după anii 1200. După circa 200 de ani a fost descoperită tehnica fabricării ochelarilor cu lentile concave, astfel a putut fi corectată și miopia.
+
+Majoritatea dintre noi petrecem mult timp în fața unui ecran: la birou, în fața unui computer, urmărind emisiunile la TV sau stând pe rețelele sociale. Toate aceste lucruri sunt resimțite de ochii noștri. Devin uscati, apar durerile de cap sau problemele cu somnul. Pentru a diminua aceste simptome, medicii recomandă folosirea ochelarilor de vedere cu protecție pentru calculator.
+
+Atunci când îți sunt prescriși ochelarii de vedere, purtarea lor trebuie făcută conform sfaturilor medicale, în funcție de afecțiunea oculară. Dacă nu respecți aceste sfaturi sau uiți să porți ochelarii de vedere, riști să-ți expui ochii la un efort în plus sau chiar la agravarea problemelor oculare.
+
+În caz de miopie, hipermetropie, astigmatism sau chiar presbiopie (când ai nevoie doar de ochelari de citit) dacă nu porți ochelari de vedere, provoci încordarea ochilor, care duce la dureri de cap, lipsă de focalizare sau vederea dublă. Pe lângă disconfort, lipsa purtării ochelarilor de vedere va conduce la o vedere și mai slabă .
+
+
+
+
+:::
+
+
+:::note Observație
+
+Prezbitismul este același defect de vedere ca și hipermetropia și apare la persoanele în vârstă, datorită scăderii elasticității cristalinului. 
+
+:::
+
+
+:::caution Aplicații
+
+- Lumina naturală, dar și cea artificială este foarte importantă pentru om. Ea ajută la sintetizarea vitaminei D care fixează calciul în oase și mărește imunitatea corpului, dă o stare de bună dispoziție.
+
+Când vine iarna și zilele se micșorează simțitor, o persoană din trei resimte o schimbare a nivelului energetic, a tonusului fizic și psihic.
+
+<Img src="fizica/clasa8/capitolul3/3_5_1_Poza3bis_Culorile.jpg" />
+
+
+- Ochiul omenesc are două imperfecțiuni. 
+
+  - Ochiul nu poate deosebi detalii separate ( de exemplu, două puncte alăturate ) sub un unghi mai mic de un minut de arc. Spre exemplu, nu poți vedea distinct ochii unei persoane de la mai mult de 200m.
+
+  - O altă imperfecțiune a ochiului  este faptul că retina sa este impresionată de o imagine formată pe ea timp de 0,1 s. Dacă în acest interval de timp privim un alt obiect, noi nu îl vedem, fiindcă retina este ocupată cu imaginea formată pe ea. Dacă privim imagini care se succed mai repede de 0,1 s, avem senzația că ele se contopesc într-o mișcare continuă, deoarece ochiul nostru nu vede trecerea de la o imagine la alta. Din această cauză, atunci când vedem desenele animate, care sunt mai multe cadre ( fotografii ) care se derulează într-o secundă, ni se pare acțiunea continuă. Pelicula cinematografică este alcătuită din 24 de cadre pe secundă. Slow motion sau redare cu încetinitorul  este o metodă prin care putem încetini o filmare făcută la mai multe cadre pe secunda decât este normal (24). Ca sa putem face Slow Motion în condiții de calitate, trebuie ca mai întâi să filmăm la peste 48 de cadre pe secundă. Există camere video care filmează cu 10.000 de cadre pe secunde și care surprind detalii care cu ochiul liber nu le putem vedea.
+
+
+<Video src="https://www.youtube.com/embed/Qd7S8UrOdjs" />
+
+<br></br>
+
+
+- Culorile care le vedeți pe ecrane ( TV, telefon, laptop, etc. ) sunt rezultatul amestecului celor trei culori primare din optică : 
+
+
+<Img src="fizica/clasa8/capitolul3/3_5_1_Poza3bis2_Culorile2.jpg" />
+
+
+<Video src="https://www.youtube.com/embed/a9BHUufyc7k" />
+
+<br></br>
+
+
+Dacă proiectezi pe un perete trei fascicule colorate în culorile primare din optică , vei obține o pată albă, iar amestecul de două culori formează diferite nuanțe.
+
+<Img src="fizica/clasa8/capitolul3/3_5_1_Poza4_CulorilePrimare.jpg" />
+
+
+Culorile primare din pictură / tipografie sunt:
+
+<Img src="fizica/clasa8/capitolul3/3_5_1_Poza5_Culorile3.jpg" />
+
+
+În tipografie se mai adaugă și negru pentru o mai bună claritate a scrisului sau fotografiilor color.
+
+
+
+ 
+
+
 
 :::
 
