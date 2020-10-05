@@ -1674,7 +1674,7 @@ La lentile, care sunt aplicații ale refracției luminii, razele care ies din le
 
 :::
 
-<Video src="https://www.youtube.com/embed/DrH3tHa7SbA" />
+<Video src="https://www.youtube.com/embed/BBbKgjZ4qYU" />
 
 
 **Materiale necesare:** lentilă convergentă (lupă), lumânare, chibrit.
@@ -1775,7 +1775,7 @@ Atenție când lucrezi cu surse de foc !
 
 :::
 
-<Video src="https://www.youtube.com/embed/A9qQF79YK4k" />
+<Video src="https://www.youtube.com/embed/1y6ZFrwBB5Y" />
 
 
 **Materiale necesare:** lentilă divergentă  (ochelari pentru miopie cu dioptrii negative), lumânare, chibrit.
@@ -2144,7 +2144,7 @@ Culorile primare din pictură / tipografie sunt:
 În tipografie se mai adaugă și negru pentru o mai bună claritate a scrisului sau fotografiilor color.
 
 
-
+<Video src="https://www.youtube.com/embed/Wzy-Hrmf1qg" />
  
 
 
