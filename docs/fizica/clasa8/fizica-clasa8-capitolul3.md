@@ -1313,14 +1313,6 @@ Când indicele de refracție a primului mediu este mai mare decât a celui de-al
 
 <br></br>
 
-:::note Observație
-
-
-
-
-:::
-
-
 <br></br>
 
 
