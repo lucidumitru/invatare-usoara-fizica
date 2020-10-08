@@ -673,7 +673,7 @@ Foloseşte aceste valori și determină mărimea reală a diametrului paharului.
 #### Caracterizarea ariei ca mărime fizică:
 
 #### •	Simbol: S sau A
-#### •	Are formulă de calcul pentru fiecare suprafață regulată.
+#### •	Are formulă de calcul pentru fiecare suprafață regulată. Pentru un dreptunghi formula ariei este: S = L ∙ l
 #### •	Unitatea de măsură în Sistemul Internațional: [ S ]<sub>SI</sub> = m<sup>2</sup> (metrul pătrat=m.p.)  
 #### •	Instrumente de măsură: hârtia milimetrică.
 
@@ -923,7 +923,7 @@ b) 4,9 dam<sup>2</sup> = ? m<sup>2</sup>
 #### Caracterizarea volumului ca mărime fizică:
 
 #### •	Simbol:  V
-#### •	Are formulă de calcul pentru fiecare suprafață regulată.
+#### •	Are formulă de calcul pentru fiecare corp geometric. Pentru un paralelipiped V =  L ∙ l ∙ h
 #### •	Unitatea de măsură în Sistemul Internațional: [ V ]<sub>SI</sub> = m<sup>3</sup> (metrul cub=m.c.).  
 #### •	Instrumente de măsură: cilindrul gradat (mensura).
 
