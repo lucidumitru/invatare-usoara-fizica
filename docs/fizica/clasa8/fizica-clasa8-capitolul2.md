@@ -11,11 +11,6 @@ import Video from '@site/src/components/Video'
 
 
 
-
-
-
-
-
 <br></br>
 <br></br>
 
