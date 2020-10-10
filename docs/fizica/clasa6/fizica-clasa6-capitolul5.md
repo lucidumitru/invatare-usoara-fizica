@@ -375,7 +375,7 @@ Atomul este o particulă **neutră** din punct de vedere electric, deoarece are 
 
 :::tip Experiment
 
-**1.** Atracția corpurilor electrizate
+**4.** Atracția corpurilor electrizate
 
 :::
 
@@ -509,12 +509,11 @@ Fenomenul prin care un corp se încarcă cu sarcini electrice se numește **elec
 
 
 <br></br>
-<br></br>
 
 
 :::tip Experiment
 
-**2.** Electrizarea prin frecare
+**5.** Electrizarea prin frecare
 
 :::
 
@@ -589,7 +588,7 @@ Interacțiunile dintre două corpuri electrizate **au loc la distanță prin int
 
 :::tip Experiment
 
-**3.** Interacțiuni electrostatice
+**6.** Interacțiuni electrostatice
 
 :::
 
@@ -654,7 +653,7 @@ Sticla s-a încarcat cu sarcini pozitive , iar paiul de plastic cu sarcini negat
 
 :::tip Experiment
 
-**4.** Confecționarea unui electroscop
+**7.** Confecționarea unui electroscop
 
 :::
 
@@ -703,7 +702,7 @@ Când electroscopul este încărcat, foițele se încarcă cu sarcini opuse și 
 
 :::tip Experiment
 
-**5.** Electrizarea prin contact
+**8.** Electrizarea prin contact
 
 :::
 
@@ -749,9 +748,8 @@ Sfera electroscopului se va încărca cu același tip de sarcină electrică cu 
 
 :::
 
+<br></br>
 
-<br></br>
-<br></br>
 
 
 ### V.3.3. Electrizarea prin influență.
@@ -759,7 +757,7 @@ Sfera electroscopului se va încărca cu același tip de sarcină electrică cu 
 
 :::tip Experiment
 
-**6.** Electrizarea prin influență (de la distanță)
+**9.** Electrizarea prin influență (de la distanță)
 
 :::
 
@@ -898,12 +896,12 @@ Colectorul se află pe o bandă de cauciuc trecută peste două role și pusă �
 :::
 
 
-
+<br></br>
 
 
 :::tip Experiment
 
-**7.** Vântul electrostatic
+**10.** Vântul electrostatic
 
 :::
 
@@ -1212,7 +1210,7 @@ Curentul electric poate fi _continuu_ (având un singur sens) şi _alternativ_ (
 
 :::tip Experiment
 
-**8.** Circuitul electric simplu
+**11.** Circuitul electric simplu
 
 :::
 
@@ -1331,7 +1329,7 @@ c) energie cinetică (pune ceva în mișcare), numit **motor electric**
 
 :::tip Experiment
 
-**9.** Conductori și izolatori electrici
+**12.** Conductori și izolatori electrici
 
 :::
 
@@ -1499,7 +1497,7 @@ Pentru a înțelege diferența celor două tipuri de grupări trebuie să cunoa�
 
 :::tip Experiment
 
-**10.** Gruparea în serie  și în paralel a becurilor 
+**13.** Gruparea în serie  și în paralel a becurilor 
 
 :::
 
@@ -1653,7 +1651,7 @@ Incendiile electrice nu se sting cu apă , ci cu o pătură uscată sau extincto
 
 :::tip Experiment
 
-**11.** Efectele scurtcircuitului 
+**14.** Efectele scurtcircuitului 
 
 :::
 
@@ -1820,7 +1818,7 @@ Bateriile de buzunar au diferite tensiuni electromotoare .
 
 :::tip Experiment
 
-**12.** Măsurarea tensiunilor electrice
+**15.** Măsurarea tensiunilor electrice
 
 :::
 
@@ -1898,7 +1896,7 @@ Când legăm în paralel voltmetrul la bornele becului, cu circuitul închis, m�
 
 :::tip Experiment
 
-**13.** Tensiunea  nominală
+**16.** Tensiunea  nominală
 
 :::
 
@@ -1985,7 +1983,7 @@ Dacă alimentăm consumatorul la o tensiune mai mare decât cea înscrisă pe el
 
 :::tip Experiment
 
-**14.** O baterie din lămâi
+**17.** O baterie din lămâi
 
 :::
 
@@ -2077,7 +2075,7 @@ Când aplicăm o tensiune electrică între două puncte ale unui conductor, apa
 
 :::tip Experiment
 
-**15.** Măsurarea intensității curentului electric
+**18.** Măsurarea intensității curentului electric
 
 :::
 
