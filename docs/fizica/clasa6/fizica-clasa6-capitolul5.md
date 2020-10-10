@@ -11,10 +11,315 @@ import Img from '@site/src/components/Img'
 import Video from '@site/src/components/Video'
 
 
-## V.1. Magneți. Interacțiuni între magneți. Poli magnetici.
+## V.1. Magneți . Poli magnetici. Interacțiuni magnetice.
+
+Cu aproximativ 4000 de ani în urmă, un cioban grec a descoperit că o rocă neagră atrăgea cuiele de fier.  Aceste roci erau cunoscute sub denumirea de “magnetite”, probabil numite dupa orașul antic Magnesia ( astăzi se numește Manisa, în vestul Turciei ), din apropierea stâncilor cu magnetite.
+
+
+<Img src="fizica/clasa6/capitolul5/5_1_Poza1_Magnetita.jpg" />
+
+Magneții ne fascinează și îi folosim lipiți de frigidere, să închidem dulapurile, ornamente de prins bilete pe frigider, la separarea metalelor, la trenurile de mare viteză „Maglev”, etc.
+
+
+
+
+:::tip Experiment
+
+**1.** Ce este un magnet ?
+
+:::
+
+<Video src="https://www.youtube.com/embed/HWtYtmPejTU" />
+
+<br></br>
+
+**Materiale necesare:** magnet, diferite metale : fier, aur, cupru, argint, aluminiu, zinc, plumb, agrafe de oțel ( aliaj al fierului ).
+
+**Descrierea experimentului:** 
+
+- Apropie, pe rând, magnetul de metale.
+
+- Ce metale atrage magnetul ?
+
+:::note Observaţie
+
+Magnetul atrage numai cuiul de fier și agrafele de oțel.
+
+:::
+
+
+
+
+:::important Definiție
+
+**Magnetul** este un corp care atrage obiecte care conțin fier și metale feroase (cobalt, nichel).
+
+
+:::
+
+
+<Video src="https://www.youtube.com/embed/IKgfBpW_U9E" />
+
+<br></br>
+
+:::important
+
+#### Clasificarea magneților: 
+
+**I.	După proveniență :**
+
+- Naturali care sunt și permanenți din roca neagră numită magnetită.
+
+- Artificiali: din oțel magnetizat ( temporar, își pierde proprietățile magnetice în timp ), din neodim ( permanenți ), din ferită (permanenți), etc.
+
+
+**II.	După formă :**
+
+- Magneți bară 
+
+<Img src="fizica/clasa6/capitolul5/5_1_Poza2_MagnetBara.jpg" />
+
+
+- Magneți cilindrici 
+
+
+<Img src="fizica/clasa6/capitolul5/5_1_Poza3_MagnetCilindru.jpg" />
+
+- Magneți potcoavă sau în formă de U
+
+
+<Img src="fizica/clasa6/capitolul5/5_1_Poza4_MagnetPotcoava.jpg" />
+
+
+- Ace magnetice sau busole
+
+<Img src="fizica/clasa6/capitolul5/5_1_Poza5_AceMagnetice.jpg" />
+ 
+
+
+:::
+
+
+
+:::tip Experiment
+
+**2.** Ce sunt polii magnetici ?
+
+:::
+
+<Video src="https://www.youtube.com/embed/VojEwb2nHRk" />
+
+<br></br>
+
+**Materiale necesare:** magnet, obiecte de fier.
+
+**Descrierea experimentului:** 
+
+- Apropie un magnet de o grămăjoară cu obiecte de fier. 
+
+- Ce observi ?
+
+
+
+:::note Observaţie
+
+Magnetul atrage în mod deosebit obiectele de fier cu capetele sale.
+
+:::
+
+
+:::important
+
+**Polii magnetici** sunt capetele magnetului cu care atrage în mod deosebit obiectele de fier .
+
+Fiecare magnet are doi poli numiţi polul nord şi polul sud.
+ 
+Capătul magnetului care se orientează către polul nord geografic (N.G.) al Pământului se numește **pol nord (N).**
+
+Capătul magnetului care se orientează către polul sud geografic (S.G.) al Pământului se numește **pol sud (S).**
+
+
+
+<Img src="fizica/clasa6/capitolul5/5_1_Poza6_OrientareaUnuiMagnetPePamant.jpg" />
+
+
+
+
+:::
+
+
+
+<br></br>
+
+
+
+
+
+:::tip Experiment
+
+**3.** Interacțiuni magnetice
+
+:::
+
+<Video src="https://www.youtube.com/embed/aC1AFcn-iJo" />
+
+<br></br>
+
+**Materiale necesare:** 2 magneți.
+
+**Descrierea experimentului (Partea 1):** 
+
+- Apropie doi magneți cu poli opuși, nord cu sud.
+
+- Ce observi ?
+
+
+
+:::note Observaţie (Partea 1)
+
+Magneții se atrag.
+
+:::
+
+
+
+**Descrierea experimentului (Partea 2):** 
+
+- Apropie doi magneți cu poli de același fel, nord cu nord și sud cu sud 
+
+- Ce observi ?
+
+
+
+:::note Observaţie (Partea 2)
+
+Magneții se resping.
+
+:::
+
+
+
+
+
+
+
+
+:::important 
+
+**Interacțiunile magnetice** sunt de două feluri :
+
+1)	**Atracția dintre doi magneți** are loc când apropiem cei doi magneți cu poli opuși, nord cu sud.
+
+2)	**Respingerea dintre doi magneți** are loc când apropiem cei doi magneți cu poli de același fel, nord cu nord și sud cu sud.
+
+
+
+:::
+
+
+
+
+:::important Definiție
+
+**Interacțiunile magnetice sunt interacțiuni de la distanță , care se manifestă prin intermediul câmpului magnetic din jurul oricărui magnet.**
+
+:::
+
+
+:::note Observaţie
+
+Dacă tăiem un magnet, obținem doi magneți, adică polii magnetici sunt inseparabili. 
+
+:::
+
+
+
+
+
+
+
+
+
+:::important
+
+Pentru reprezentarea intuitivă a câmpului magnetic, la fel ca şi în cazul câmpului electric, se pot folosi linii de câmp, formând așa-numitul **spectrul câmpului magnetic.**
+ 
+
+Spre deosebire de liniile câmpului electric, liniile câmpului magnetic sunt curbe închise. 
+
+Spectrul câmpului magnetic este diferit în funcție de forma magnetului.
+
+**Liniile de câmp magnetic ale unui magnet bară** au sensul astfel încât intră în polul sud, traversează magnetul, ies din polul nord şi se închid în exteriorul magnetului. 
+
+
+<Img src="fizica/clasa6/capitolul5/5_1_Poza7_LiniileDECampMagneticAlUnuiMagnetBara.jpg" />
+
+:::
+
+
+<br></br>
+
+<Video src="https://www.youtube.com/embed/VuA3wGxVmKk" />
+
+
+<br></br>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## V.2. Magnetismul terestru. Busola.
+
+
+
+<Video src="https://www.youtube.com/embed/I7gpyphuyiw" />
+
+<br></br>
+
+:::important
+
+**Pământul este un imens magnet**, care pe lângă perechea de poli geografici, Nord-Geografic și Sud –Geografic, are și o pereche de poli magnetici : Nord-Magnetic (N.M.) și Sud- Magnetic (S.M.).
+
+:::
+
+
+Deoarece polul nord al unui magnet atrage polii sud ai altor magneți și respinge polii nord, trebuie să fie atras de polul sudic al magnetului Pământului. Deci , polii magnetici sunt situați invers ca cei geografici.
+
+Pământul este un imens magnet bară magnetic poziționat în centrul Pământului și înclinat la un unghi de aproximativ 11° față de axa de rotație a Pământului.
+
+<Img src="fizica/clasa6/capitolul5/5_2_Poza1_CampulMagneticAlPamantului.jpg" />
+
+
+:::caution Aplicații
+
+Câmpul magnetic al Pământului are un rol foarte important pentru planeta noastră , deoarece el respinge radiațiile cosmice ( particule care au o viteză foarte mare și care pot distruge organismele vii ) provenite de la Soare, mai ales în timpul erupțiilor solare.
+
+:::
+
+<Video src="https://www.youtube.com/embed/6ax-YA6D-CE" />
+
+
+Chinezii au dezvoltat o busolă maritimă chiar mai devreme decât vikingii și cu o construcție similară. Chinezii navigau cu ajutorul unei așchii de magnetită care plutea pe apa, încă din anii 2000 d.Hr., atunci când exploratorii , cum ar fi Marco Polo, au adus compasul magnetic înapoi în Italia. Aducerea busolei în Europa a însemnat un salt uriaș pentru călătorii și comerț, permițând în cele din urmă europenilor să exploreze oceanele pe care vikingii le navigaseră deja folosind propria versiune a busolei pentru cel puțin 500 de ani.
+
+<Img src="fizica/clasa6/capitolul5/5_2_Poza2_BusolaAntica.jpg" />
+
+<Img src="fizica/clasa6/capitolul5/5_2_Poza3_BusolaModerna.jpg" />
+
+<br></br>
+<br></br>
+
+
+
 
 
 ## V.3. Structura atomică a substanței. Electrizarea și sarcina electrică. Interacțiunea dintre corpurile electrizate. Metode de electrizare.
@@ -1326,7 +1631,7 @@ Avantajele legării în paralel  a becurilor :
 
 :::warning Atenție
 
-Marea majoritatea incendiilor sunt datorate scurtcircuitelor produse în instalația electrică a locuințelor. Curenții foarte mari care apar determină supraîncălzirea circuitului electric și producerea incendiilor. 
+Marea majoritate a incendiilor sunt datorate scurtcircuitelor produse în instalația electrică a locuințelor. Curenții foarte mari care apar determină supraîncălzirea circuitului electric și producerea incendiilor. 
 
 :::
 
@@ -1439,11 +1744,591 @@ Becurile se sting .
 :::
 
 
-...
+:::important
+
+**I. Dacă într-un montaj de becuri legate în serie:**
+
+- Scurtcircuităm unul dintre becuri, celelalte becuri luminează mai tare.
+
+<Img src="fizica/clasa6/capitolul5/5_8_2_Poza3_ScurtCircuitLaUnBecDinGrupareaSerie.jpg" />
+
+
+- Scurtcircuităm bateria, becurile nu mai luminează și bateria se încălzește.
+
+<Img src="fizica/clasa6/capitolul5/5_8_2_Poza4_ScurtCircuitLaBaterieDinGrupareaSerie.jpg" />
+
+
+
+**II. Dacă într-un montaj de becuri legate în paralel:**
+
+- Scurtcircuităm unul dintre becuri, celelalte becuri se sting.
+
+<Img src="fizica/clasa6/capitolul5/5_8_2_Poza5_ScurtCircuitLaUnBecDinGrupareaParalel.jpg" />
+
+
+- Scurtcircuităm bateria, becurile nu mai luminează și bateria se încălzește.
+
+<Img src="fizica/clasa6/capitolul5/5_8_2_Poza6_ScurtCircuitLaBaterieDinGrupareaParalel.jpg" />
+
+
+
+:::
 
 
 
 
+
+
+<br></br>
+
+
+### V.8.3. Tensiunea electrică. Tensiunea electromotoare.
+
+Generatoarele electrice (sursele electrice) sunt dispozitive care au rolul de a produce și de a menține curentul electric printr-un circuit, adică asigură deplasarea electronilor prin circuit. 
+
+
+:::important
+
+**Tensiunea electromotoare ( prescurtată t.e.m., cu simbolul E )** a unei surse apare notată pe orice sursă.
+
+**Unitate de măsură în S.I pentru tensiunea electrică este voltul ( V ):**  
+
+**[ E ]<sub>SI</sub> = V ( Volt )**
+
+
+**Tensiunea electrică la borne (cu simbolul U) se măsoară tot în Volți.**
+
+**[ U ]<sub>SI</sub> = V ( Volt )**
+
+#### Instrument de măsură: voltmetru, care se leagă în paralel la elementele circuitului, având simbolul:
+
+
+<Img src="fizica/clasa6/capitolul5/5_8_3_Poza1_SimbolVoltmetru.jpg" />
+
+
+:::
+
+
+Bateriile de buzunar au diferite tensiuni electromotoare .
+
+
+<Img src="fizica/clasa6/capitolul5/5_8_3_Poza2_ExempleBateriiBuzunar.jpg" />
+
+
+
+
+
+:::tip Experiment
+
+**12.** Măsurarea tensiunilor electrice
+
+:::
+
+<Video src="https://www.youtube.com/embed/VfEjn0WeAqg" />
+
+<br></br>
+
+**Materiale necesare:** baterie electrică, bec, fire de legătură, întrerupător, voltmetru.
+
+
+**Descrierea experimentului (Partea 1):**
+ 
+- Leagă în serie bateria electrică, becul, firele de legătură și întrerupătorul.
+
+- Leagă în paralel bornele voltmetrului la sursă, cu întrerupătorul deschis.
+
+
+:::note Observaţie Partea 1
+
+Când legăm în paralel voltmetrul la bornele sursei, cu circuitul deschis, măsurăm tensiunea electromotoare a sursei ( E ).
+
+
+:::
+
+
+<Img src="fizica/clasa6/capitolul5/5_8_3_Poza3_Experiment_CircuitDeschis.jpg" />
+
+
+
+
+
+**Descrierea experimentului (Partea 2):**
+ 
+- Închide întrerupătorul. 
+
+- Ce observi ?
+
+
+:::note Observaţie Partea 2
+
+La închiderea întrerupătorului, când legăm în paralel voltmetrul la bornele sursei, cu circuitul închis, măsurăm tensiunea la bornele circuitului exterior ( Ub ).
+
+
+:::
+
+
+<Img src="fizica/clasa6/capitolul5/5_8_3_Poza4_Experiment_CircuitInchis.jpg" />
+
+
+
+
+**Descrierea experimentului (Partea 3):**
+ 
+- Leagă în paralel bornele voltmetrului la bornele becului, cu întrerupătorul închis.
+
+
+
+:::note Observaţie Partea 3
+
+Când legăm în paralel voltmetrul la bornele becului, cu circuitul închis, măsurăm tensiunea la bornele becului  ( U<sub>bec</sub> ) .
+
+
+:::
+
+
+<Img src="fizica/clasa6/capitolul5/5_8_3_Poza5_Experiment_CircuitBec.jpg" />
+
+
+
+
+<br></br>
+
+
+
+
+:::tip Experiment
+
+**13.** Tensiunea  nominală
+
+:::
+
+<Video src="https://www.youtube.com/embed/_4405HL3G00" />
+
+<br></br>
+
+**Materiale necesare:** baterii electrice de 1,5 V, 4,5 V și 9 V, bec de 3,5 V, fire de legătură.
+
+
+**Descrierea experimentului (Partea 1):**
+ 
+- Leagă  becul la bornele bateriei de 1,5 V. 
+
+- Cum luminează becul ?
+
+
+
+
+:::note Observaţie Partea 1
+
+Când legăm un bec cu tensiunea nominală de 3,5 V la o baterie de 1,5 V, becul luminează slab.
+
+
+:::
+
+
+
+**Descrierea experimentului (Partea 2):**
+ 
+- Leagă  becul la bornele bateriei de 3 V. 
+
+- Cum luminează becul ?
+
+
+
+
+:::note Observaţie Partea 2
+
+Când legăm un bec cu tensiunea nominală de 3,5 V la o baterie de 3 V, becul luminează normal.
+
+
+:::
+
+
+
+**Descrierea experimentului (Partea 3):**
+ 
+- Leagă  becul la bornele bateriei de 9 V. 
+
+- Cum luminează becul ?
+
+
+
+:::note Observaţie Partea 3
+
+Când legăm un bec cu tensiunea nominală de 3,5 V la o baterie de 9 V, becul luminează puternic.
+
+
+:::
+
+
+
+
+
+
+**Concluzia experimentului:**
+
+Pe orice consumator scrie tensiunea lui nominală, pentru care a fost construit.
+
+Dacă alimentăm consumatorul la o tensiune mai mică decât cea înscrisă pe el, el va funcționa mai slab. Spunem că becul este subtensionat
+
+Orice consumator trebuie alimentat la o tensiune egală cu cea nominală, pentru o funcționare normală (optimă).
+
+Dacă alimentăm consumatorul la o tensiune mai mare decât cea înscrisă pe el, el se poate deteriora. Spunem că becul este supratensionat.
+
+
+
+<br></br>
+
+
+
+
+
+:::tip Experiment
+
+**14.** O baterie din lămâi
+
+:::
+
+<Video src="https://www.youtube.com/embed/Xu9JAQnlpps" />
+
+<br></br>
+
+**Materiale necesare:** lămâi,monede de 5 bani, agrafe de birou, fire de legătură, un voltmetru.
+
+
+**Descrierea experimentului:**
+ 
+- Introdu într-o lămâie , într-o parte o monedă și în cealaltă parte agrafa de birou.
+
+- Prinde câte un fir de legătură de monedă, respectiv de agrafă și conectează-le la un voltmetru în paralel. Notează tensiunea electromotoare a acesteia.
+
+- Grupează în serie cu prima lămâie o altă lămâie, legând modeda uneia de agrafa celeilalte și leagă capetele acestei grupări la voltmetru în paralel. Notează tensiunea electromotoare a acestei grupări. 
+
+- Ce observi ?
+
+
+
+
+
+
+
+
+:::note Observaţie
+
+Crește tensiunea electromotoare a grupării de lămâi.
+
+:::
+
+
+- Dacă mai dispui de lămâi poți continua cu o grupare mai mare de baterii din lămâi.
+
+
+
+**Concluzia experimentului:**
+
+Bateriile din lămâi generează curent electric, ca și celelalte baterii, prin transformarea energiei chimice a reacțiilor care au loc între cele două metale diferite și sucul de lămâie în energie electrică.
+ 
+
+Prin legarea mai multor baterii în serie crește tensiunea electromotoare a grupării respective.
+
+
+
+<br></br>
+<br></br>
+
+
+
+### V.8.4. Intensitatea curentului electric.
+
+
+Când aplicăm o tensiune electrică între două puncte ale unui conductor, apare un curent electric, adică o mișcare dirijată a electronilor săi liberi.
+
+
+:::important Definiție
+
+
+**Intensitatea curentului electric ( I )** este o mărime fizică scalară care măsoară sarcina electrică ce trece prin secțiunea transversală a unui conductor în unitatea de timp.
+
+
+
+:::
+
+
+
+:::important
+
+
+
+#### 1) Unitatea de măsură în Sistemul Internațional: 
+
+**[ I ]<sub>SI</sub> = A( Amper )**
+
+
+#### 2) Instrument de măsură: ampermetru, _care se leagă în serie cu elementele circuitului._
+
+
+:::
+
+
+
+
+<br></br>
+
+
+:::tip Experiment
+
+**15.** Măsurarea intensității curentului electric
+
+:::
+
+<Video src="https://www.youtube.com/embed/AFQKUtUJi3s" />
+
+<br></br>
+
+**Materiale necesare:** baterie electrică, bec, fire de legătură, întrerupător, ampermetru.
+
+
+**Descrierea experimentului:**
+ 
+- Leagă în serie bateria electrică, becul, firele de legătură și întrerupătorul. 
+
+- Verifică aprinderea becului.
+
+- Leagă în serie la circuitul deja creat și ampermetru și citește indicația acestuia.
+
+- Dacă dispui de mai multe ampermetre, conectează câte unul in diferite secțiuni ale circuitului și citește indicațiile lor.
+
+
+
+
+
+:::note Observaţie
+
+Pentru un circuit simplu, intensitatea curentului electric are aceeași valoare în toate secțiunile circuitului.
+
+
+:::
+
+
+**Concluzia experimentului:**
+
+Intensitatea curentului electric se măsoară cu ampermetru, legat în serie cu elementele circuitului.
+
+
+<Img src="fizica/clasa6/capitolul5/5_8_4_Poza1_Experiment_CircuitAmpermetru.jpg" />
+
+
+
+<br></br>
+<br></br>
+
+
+
+
+
+## V.9. Măsuri de protecție împotriva electrocutării.
+
+
+Din păcate, corpul omenesc este conductor electric. 
+
+Este suficient ca două puncte ale corpului să intre în contact cu două puncte ale circuitului electric pentru ca să aibă loc un accident, numit **electrocutare**, când se poate opri fie respiraţia, fie circulaţia sângelui (sau ambele efecte).
+
+
+:::important Definiție
+
+**Electrocutarea** este accidentul produs la trecerea curentului electric de intensitate mare prin corpul omenesc.
+
+
+:::
+
+
+Tensiunile bateriilor cu care ai lucrat la experimente (1,5V-9V) sunt inofensive pentru corpul omenesc.
+
+:::warning Atenție
+
+**Tensiunile periculoase pentru corpul omenesc încep de la valoarea de 24V (locuri umede) şi 50V (aer uscat).**
+
+:::
+
+
+**Poate fi considerat nepericulos curentul alternativ a cărui intensitate este mai mică de 20 mA şi curentul continuu a cărui intensitate este mai mică de 50 mA.**
+ 
+
+:::note Observaţie
+
+Deoarece toate aparatele electrocasnice funcţionează doar dacă sunt conectate la o priză electrică, ai fi tentat să afirmi că priza este o sursă electrică. 
+
+Dar, reamintindu-ne că sursa electrică este dispozitivul care produce curent electric, ne dăm seama că acest lucru nu se întâmplă la priză, ea fiind un dispozitiv intermediar între consumatorii electrici şi generatoarele electrice de la diverse centrale electrice.
+
+La instalaţiile electrocasnice există două tipuri de prize:
+
+- priza simplă a cărei soclu are 2 borne;
+
+- priza cu împământare care are două borne şi o bornă  legată la pământ (împământarea).
+
+
+
+
+<Img src="fizica/clasa6/capitolul5/5_9_Poza1_PrizaSimplaSiCuImpamantare.jpg" />
+
+
+
+Cele două borne tip mamă ale unei prize nu sunt identice. Pentru a le distinge fără pericol, electricienii utilizează o şurubelniţă specială de tensiune. Când şurubelniţa specială de tensiune introdusă într-o bornă tip mamă se aprinde înseamnă că aceea este borna numită fază, iar în cazul când nu se aprinde, aceea este borna numită nul. Între cele două borne tip mamă (între fază şi nul) există o tensiune eficace de 220V, la fel între fază şi împământare.
+
+<Img src="fizica/clasa6/capitolul5/5_9_Poza2_BornePriza.jpg" />
+
+
+Priza cu împământare, cu toate că nu joacă un rol indispensabil în funcţionarea aparatelor, are un rol foarte important în securitatea din domeniul electricităţii. Fără aceasta, la producerea accidentală a unui scurtcircuit, atingând carcasa metalică a unui aparat electric ar exista riscul electrocutării.
+
+<Img src="fizica/clasa6/capitolul5/5_9_Poza3_PrizaSimplaSiCuImpamantare.jpg" />
+
+
+Aparatele electrice se leagă la priză cu ajutorul ștecărului, care pătrunde în orificiile prizei.
+
+
+<Img src="fizica/clasa6/capitolul5/5_9_Poza4_StecarInPriza.jpg" />
+
+
+Cablul ștecărului are două fire, astefel încât dela una din bornele prizei, prin unul din fire, pleacă curentul electric spre aparatul electric, trece prin aparat și se întoarce la priză prin celălalt fir al cablului pentru a se închide circuitul electric.
+
+<Img src="fizica/clasa6/capitolul5/5_9_Poza5_SchemaAlimentareCurentAlternativ.jpg" />
+
+
+
+
+:::
+
+
+
+<br></br>
+<br></br>
+
+
+
+#### Pentru a-ţi  asigura propria securitate, ai grijă la următoarele reguli de protecţie:
+
+:::warning Pericol de electrocutare
+
+1. Să nu introduci vreun obiect conductor în una din bornele prizei (poate fi chiar faza) pentru a nu exista riscul trecerii curentului electric prin corpul tău.
+
+<Img src="fizica/clasa6/capitolul5/5_9_Poza6_NuIntroduceObiecteAscutiteInPriza.jpg" />
+
+
+:::
+
+<br></br>
+
+
+:::warning Pericol de electrocutare
+
+2. Să nu utilizezi niciodată vreun aparat electric în locuri umede (sala de baie) şi să nu atingi aparate electrice prin care circulă curent, dacă eşti ud pe mână;
+
+<Img src="fizica/clasa6/capitolul5/5_9_Poza7_NuUtilizaAparateElectriceInBaie.jpg" />
+
+
+:::
+
+<br></br>
+
+
+
+:::warning Pericol de electrocutare
+
+3. Să nu repari (demontezi) vreun aparat electric înainte de a-l debranşa de la priză  şi să nu atingi fire electrice neprotejate (fără izolaţie);
+
+<Img src="fizica/clasa6/capitolul5/5_9_Poza8_NuReparaObiecteAflateSubTensiune.jpg" />
+
+
+:::
+
+<br></br>
+
+
+:::warning Pericol de electrocutare
+
+4. Când scoţi un aparat electric din priză, nu-l trage de cordon, ci ţine o mână pe soclul prizei şi cu cealaltă trage fişa cordonului de alimentare;
+
+<Img src="fizica/clasa6/capitolul5/5_9_Poza9_NuTrageDeCordonulDeAlimentareCandScotiCevaDinPriza.jpg" />
+
+
+:::
+
+<br></br>
+
+
+
+:::warning Pericol de electrocutare
+
+5. Nu pune în funcţiune la o priză prea multe aparate electrice (apar supracurenţi cu pericol de încălzire puternică a fişelor electrice).
+
+<Img src="fizica/clasa6/capitolul5/5_9_Poza10_NuAlimentaInAceeasiPrizaMultiConsumatori.jpg" />
+
+
+:::
+
+
+
+:::warning Pericol de electrocutare
+
+6. Nu atinge prize, întrerupătoare care sunt deteriorate ( crăpate, rupte, arse ) sau care nu sunt bine fixate în perete.
+
+
+
+
+<Img src="fizica/clasa6/capitolul5/5_9_Poza11_PrizaArsa.jpg" />
+
+
+
+:::
+
+
+:::warning Pericol de electrocutare
+
+7. Nu atinge părțile neizolate ale cablurilor electrice și nu folosi aparate care au cablurile neizolate sau crăpate.
+
+<Img src="fizica/clasa6/capitolul5/5_9_Poza12_CabluDeteriorat.jpg" />
+
+
+:::
+
+
+:::warning Pericol de electrocutare
+
+8. Nu atingeți și nu înălțați zmeie în apropierea cablurilor electrice aeriene ale stâlpilor de electricitate, tramvaielor, trenurilor, etc.
+
+<Img src="fizica/clasa6/capitolul5/5_9_Poza13_CabluriElectriceAeriene.jpg" />
+
+
+:::
+
+
+:::warning Pericol de electrocutare
+
+9. Nu atingeți cablurile electrice aeriene căzute de pe stâlpi.
+
+<Img src="fizica/clasa6/capitolul5/5_9_Poza14_CabluriElectriceAerieneCazuteLaPamant.jpg" />
+
+
+:::
+
+
+
+
+:::warning Pericol de electrocutare
+
+
+10. Incendiile electrice nu se sting cu apă, ci cu o pătură uscată, cu nisip sau extinctor cu dioxid de carbon.  
+
+<Img src="fizica/clasa6/capitolul5/5_9_Poza11bis_IncendiuLaOPrizaElectrica.jpg" />
+
+
+:::
+
+
+
+
+
+<br></br>
 
 
 

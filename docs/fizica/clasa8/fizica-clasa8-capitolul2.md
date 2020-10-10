@@ -1052,7 +1052,7 @@ b)	Ionii, în lichide și gaze.
 
 :::important Componentele unui circuit electric
 
-**1)	Generatoare electrice (surse electrice)** sunt dispozitive care au rolul de a produce și de a menține curentul electric printr-un circuit.
+**1)	Generatoarele electrice (surse electrice)** sunt dispozitive care au rolul de a produce și de a menține curentul electric printr-un circuit.
 
 Clasificarea generatoarelor după felul curentului produs:
 
@@ -1361,7 +1361,7 @@ Priza cu împământare, cu toate că nu joacă un rol indispensabil în funcţi
 
 ### II.2.2. Tensiunea electrică. Tensiunea electromotoare.
 
-Generatoare electrice (surse electrice ) sunt dispozitive care au rolul de a produce și de a menține curentul electric printr-un circuit, adică asigură deplasarea purtătorilor de sarcină electrică prin circuit. Ele efectuează un lucru mecanic asupra acestor purtători pentru a-i deplasa.
+Generatoarele electrice (sursele electrice ) sunt dispozitive care au rolul de a produce și de a menține curentul electric printr-un circuit, adică asigură deplasarea purtătorilor de sarcină electrică prin circuit. Ele efectuează un lucru mecanic asupra acestor purtători pentru a-i deplasa.
 
 
 :::important Definiție
@@ -4583,7 +4583,7 @@ Este suficient ca două puncte ale corpului să intre în contact cu două punct
 
 Tensiunile bateriilor cu care ai lucrat la experimente (1,5V-9V) sunt inofensive pentru corpul omenesc.
 
-**Tensiunea periculoase pentru corpul omenesc încep de la valoarea de 24V (locuri umede) şi 50V (aer uscat).** 
+**Tensiunile periculoase pentru corpul omenesc încep de la valoarea de 24V (locuri umede) şi 50V (aer uscat).** 
 
 
 
