@@ -573,6 +573,13 @@ _Cristalele încep să se dizolve în apă, punând în evidență  formarea cur
 <br></br>
 
 
+<Video src="https://www.youtube.com/embed/OSpLxDW64n0" />
+
+
+<br></br>
+
+
+
 :::tip Experiment
 
 **9.** Cine rotește spirala de hârtie ?
