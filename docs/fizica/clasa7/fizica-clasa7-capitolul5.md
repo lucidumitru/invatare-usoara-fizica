@@ -737,3 +737,411 @@ Apa nu cade din pahar, deoarece  presiunea aerului  exercitată de jos în sus e
 :::
 
 
+<br></br>
+
+_**Experimentul lui Torricelli:**_
+
+Primul fizician care a determinat valoarea presiunii atmosferice (în anul 1643) a fost **Evangelista Torricelli (1608-1647)**, elev al lui **Galilei**. Până la **Galileo Galilei** se știa că aerul atmosferic apasă asupra corpurilor de pe Pământ, însă nimeni nu știa ce valoare are. **Galileo Galilei** fiind aproape de sfârşitul vieţii l-a rugat pe **Torricelli** să rezolve această problemă. 
+
+
+:::important
+
+Torricelli a construit primul barometru și a măsurat pentru prima oară valoarea presiunii atmosferice.
+
+- Torricelli a umplut cu mercur un tub de sticlă lung de un metru,foarte subțire și închis la un capăt pe care l-a răsturnat într-un vas cu mercur.
+
+- A observat că numai o mică parte din  mercur (Hg) s-a vărsat în vas.
+
+- A măsurat înălțimea coloanei de mercur rămasă în tub, notată 
+
+**h<sub>colHg</sub> = 76cm = 0,76m**
+
+<Img src="fizica/clasa7/capitolul5/5_3_Poza3_DesenExperimentulLuiToricelli.jpg" />
+
+
+- Pentru a calcula presiune atmosferică a aplicat formula presiunii hidrostatice a coloanei de mercur rămasă în tub.
+
+- La același nivel într-un lichid, presiunea este aceeași, adică p<sub>A</sub> = p<sub>B</sub>.
+
+p<sub>A</sub> = presiunea atmosferică, notată cu p<sub>0</sub>
+
+p<sub>B</sub> = presiunea hidrostatică a coloanei de mercur din tub= ρ<sub>Hg</sub> ∙ g ∙ h<sub>colHg</sub>
+
+p<sub>C</sub> = presiunea vidului = 0
+
+**p<sub>0</sub> = ρ<sub>Hg</sub> ∙ g ∙ h<sub>colHg</sub> = 13600 ∙ 9,8 ∙ 0,76 = 101.325 Pa**
+
+**Aceasta este valoarea presiunii atmosferice.**
+
+
+
+:::
+
+
+
+
+**Presiunea atmosferică variază tot timpul și depinde de doi factori:**
+
+**1) Altitudinea** cu cât este mai mare, cu atât presiunea atmosferică scade deoarece aerul se rarefiează (adică scade concentrația moleculelor de oxigen și azot). La altitudinea 0 (nivelul mării) , p0 =101325Pa. 
+
+
+:::caution Aplicații
+
+
+  
+Pe Vârful Everest , cel mai înalt punct de pe Pământ,  cu o altitudine de 8848 m deasupra nivelului mării, presiunea atmosferică  este aproximativ o treime din cea de la nivelul mării, adică p~33800Pa.
+
+Variaţia presiunii atmosferice cu altitudinea (scăderea presiunii  atmosferice cu creşterea înălţimii) a fost demonstrată de fizicianul francez Blaise Pascal (1623-1662). El a arătat că ascensiunea lichidelor în spaţiu vidat datorită presiunii atmosferice (adică înălţimea coloanei de lichid) se micşorează dacă experienţa se efectuează la înălţimi mari (pe un munte).
+
+Pe baza dependenței dintre altitudine și presiunea atmosferică sunt construite **altimetrele**, folosite la  bordul avioanelor, care de fapt sunt niște barometre etalonate direct în metri. Ele măsoară altitudinea (înălțimea față de suprafața Pământului).
+
+
+<Img src="fizica/clasa7/capitolul5/5_3_Poza4_Altimetru.jpg" />
+
+
+:::
+
+
+
+
+**2)	Starea vremii** (ploi, temperatura aerului, vânturi, etc).
+
+
+
+
+:::caution Aplicații
+
+Aerul circulă din zonele cu presiune ridicată (numite anticicloni) spre cele cu presiuni scăzute (numite cicloni). Cu toate că în zonele de înaltă presiune, aerul este mai rece şi mai umed, meteorologii prevestesc acolo un timp frumos, cu cer senin, deoarece vântul împinge norii spre zonele din jur cu presiune mai mică. Deci, _cerul senin, fără nori ameninţători şi aerul uscat sunt prevestite de creşterea presiunii atmosferice_. Vânturile puternice sunt anunţate de situaţia în care zonele de presiune ridicată sunt foarte apropiate de cele cu presiune scăzută.
+
+
+<Img src="fizica/clasa7/capitolul5/5_3_Poza5_HartaMeteo.jpg" />
+
+:::
+
+
+
+:::important
+
+
+Datorită variației continue a presiunii atmosferice, s-a impus alegerea unei presiuni de referință, numită presiune atmosferică normală, notată cu p<sub>0</sub>.
+ 
+p<sub>0</sub> = 101325 Pa = 1atm = 760mmHg (ea se măsoară la nivelul mării, la 0°).
+
+
+
+:::
+
+
+
+:::caution Aplicații
+
+Voi simțiți apăsarea aerului atmosferic? Răspunsul este NU. De ce nu simțim apăsarea aerului? Corpul nostru are o presiune interioară (dată în mod deosebit de lichidele din noi : apă, sânge, etc) care o egalează pe cea exterioară, a aerului.
+
+Dar ce s-ar întâmlpa cu noi dacă am ieși în spațiu cosmic, unde este vid și presiunea este zero? La presiune = 0, apa nu mai fierbe la 100°C, ci la 0°C și în căteva secunde sângele nostru ar începe să fiarbă și am muri. Iată de ce cosmonauții când ies în spațiu cosmic folosesc costume speciale de cosmonauți care sunt presurizate (au în interior niște tuburi cu apă) și care înlocuiesc apăsarea aerului.
+
+
+<Img src="fizica/clasa7/capitolul5/5_3_Poza6_CostumAstronaut.jpg" />
+
+
+Pe Venus, temperatura la suprafață ajunge până la 450 de grade Celsius, iar presiunea atmosferica este uriașă, de 92 de ori mai mare decât cea a Pământului. Acolo apăsarea atmosferei (compusă din 96,5% dioxid de carbon, 3,5% azot) ne-ar strivi pur și simplu.
+
+
+<Img src="fizica/clasa7/capitolul5/5_3_Poza7_PlanetaVenus.jpg" />
+
+
+Un experiment celebru pentru evidențiere presiunii atmosferice a fost efectuat în 1650 de către Otto von Guericke care a folosit două semisfere unite etanș și vidate în interior. Oamenii au încercat să desprindă semisferele asupra cărora apăsa aerul atmosferic, dar nu au reușit. Pentru a despărți cele două semisfere au fost înhămați câte opt cai de fiecare parte. Semisferele  se găsesc și azi la Muzeul german din München.
+
+<Img src="fizica/clasa7/capitolul5/5_3_Poza8_ExperimentPresiuneAtmosferica.jpg" />
+
+
+:::
+
+
+
+
+
+## V.4. Legea lui Pascal
+
+
+:::tip Experiment
+
+**9.** Legea lui Pascal
+
+:::
+
+
+
+
+
+
+
+<br></br>
+
+**Materiale necesare:** vase comunicante, apă, ulei.
+ 
+
+
+
+**Descrierea experimentului:** 
+
+- Pune apă într-unul din vasele comunicante.
+ 
+- Adaugă ulei în vasul din mijloc. 
+
+- Ce observi ?
+
+
+:::note Observaţie
+
+Apa din celelalte vase îşi modifică nivelul și îl egalează pe cel din mijloc, cu apă și ulei. 
+
+:::
+
+
+**Concluzia experimentului:**
+
+Presiunea coloanei de ulei determină o presiune exterioară (uleiul este nemiscibil cu apa) asupra apei din vasul din mijloc, care este transmisă în toată masa (cantitatea) apei şi în toate direcţiile (Legea lui Pascal). 
+
+<br></br>
+
+
+:::important Definiție
+
+**Enunțul legii lui Pascal:** 
+
+**Presiunea exterioară exercitată asupra unui fluid se transmite în toate direcțiile și în toată masa fluidului.**
+
+:::
+
+
+<br></br>
+
+
+:::caution Aplicațiile legii lui Pascal: Presa hidraulică si pompele
+
+**I. Presa hidraulică**
+
+Presa hidraulică este formată din doi cilindrii cu lichid (ulei), de secțiuni diferite, prevăzuți cu câte un piston fiecare și care comunică în partea de jos. 
+
+
+<Img src="fizica/clasa7/capitolul5/5_4_Poza1_DesenSchemaPresa.jpg" />
+
+
+
+
+Omul apasă asupra pistonului mic prin intermediul unei pârghii.
+ 
+Presiunea exercitată de pistonul mic este transmisă integral de lichid pistonului mare, care urcă.
+ 
+**Principiul de funcționare al presei:**
+ 
+De câte ori aria transversală a cilindrului mare (S<sub>2</sub>) este mai mare decât aria cilindrului mic (S<sub>1</sub>), de atâtea ori și forța transmisă de lichid pistonului mare (F<sub>2</sub>) este mai mare decât forța cu care omul acționează asupra pistonului mic (F<sub>1</sub>). Deci, dacă dorim ca presa să ne amplifice forța noastră F<sub>1</sub> de 10 ori, adică F<sub>2</sub> = 10F<sub>1</sub>, atunci alegem o presă astfel încât aria cilindrului mare să fie de 10 ori mai mare decât aria cilindrului mic.
+
+
+<Img src="fizica/clasa7/capitolul5/5_4_Poza2_FormulaCalculPresaHidraulica.jpg" />
+
+
+
+
+
+
+:::
+
+
+
+
+
+<br></br>
+
+:::tip Experiment
+
+**10.** Presa hidraulică
+
+:::
+
+
+<Video src="https://www.youtube.com/embed/EJq_MAr8L9o" />
+
+
+<br></br>
+
+**Materiale necesare:** două seringi de secțiuni diferite, tub de legătură.
+
+ 
+**Descrierea experimentului:** 
+
+
+- Umple cu lichid seringa mică și conectează printr-un tub seringa mică cu o altă seringă mai mare.
+ 
+- Apasă pe pistonul mic. 
+
+- Ce observi?
+
+ 
+
+:::note Observaţie
+
+Pistonul mare urcă atunci când apăsăm pe pistonul mic.   
+
+:::
+
+
+**Concluzia experimentului:**
+
+Presiunea exterioară exercitată de noi asupra pistonului mic este transmisă de lichid pistonului mare. 
+
+
+
+<br></br>
+
+:::caution Utilizările presei hidraulice
+
+- Sfărâmarea rocilor dure
+
+- Obținerea uleiului prin presarea semințelor
+
+- Ștanțarea obiectelor metalice
+
+- Elevatorul (cricul) hidraulic
+
+- Frâna de picior de la mașină
+
+- Presarea paielor și a materialelor reciclabile în baloți
+
+- Tăierea foilor de tablă
+
+- Scaunele stomatologice sau de la frizerii
+
+- Excavatorul
+
+- Sistemele de servodirecție și servofrână
+
+	
+
+:::
+
+
+
+
+
+:::caution Aplicațiile legii lui Pascal: Presa hidraulică si pompele
+
+**II. Pompele** sunt folosite pentru comprimarea gazelor și asigurarea circulației lichidelor. Pompele de vid evacuează aerul dintr-o incintă.
+
+Pompele hidrofor sunt utilizate pentru alimentarea cu apa în sistemele casnice pentru transferul lichidelor și golirea rezervoarelor, la grădinărit sau pot fi conectate la vase de hidrofor. Pompele hidraulice deplasează un lichid de la presiunea inferioară din aval (de exemplu un nivel hidraulic inferior), la presiunea superioară din amonte (de exemplu un nivel hidraulic superior). Diferența de presiune pe care o învinge pompa, exprimată de obicei în metri de coloană de apă constituie înălțimea de ridicare a pompei, care este mai mare decât diferența dintre presiunile din amonte și aval, datorită pierderilor din pompă și conductele sale.
+
+
+
+**Corpul omenesc are două pompe:** 
+
+- **inima** (care pompează sângele) și 
+
+- **plămânii** (care pompează aerul).
+
+
+
+:::
+
+
+
+
+:::caution Utilizările presei hidraulice
+
+
+- Pompă de injecție (la motoare cu ardere internă)
+
+- Umflarea cauciucurilor și a saltelelor
+
+- Compresor frigider sau aer condiționat
+
+- Stropirea pomilor si irigații
+
+- Zugrăvire
+
+- Mulgătoare mecanice
+
+- Pulverizatoarele de la sprayuri (aerul comprimat presează lichidul să iasă)
+
+- Pompa de benzină
+
+
+
+:::
+
+
+<br></br>
+<br></br>
+
+
+
+
+## V.5. Legea lui Arhimede
+
+
+
+:::tip Experiment
+
+**11.** Forța apei
+
+:::
+
+
+<Video src="https://www.youtube.com/embed/H6DGg-wd9zo" />
+
+
+
+
+<br></br>
+
+**Materiale necesare:** balon, ață.
+ 
+
+
+
+**Descrierea experimentului (Partea 1):** 
+
+- Ține de o sfoară un balon (punguță de plastic) umplut cu apă. 
+
+- Ce observi ?
+
+
+
+:::note Observaţie (Partea 1)
+
+Sfoara  stă întinsă.
+
+:::
+
+
+
+**Descrierea experimentului (Partea 2):** 
+
+- Cufundă-l într-un vas cu apă. 
+
+- Ce observi ?
+
+
+
+:::note Observaţie (Partea 2)
+
+Sfoara nu mai este întinsă ca în aer.
+
+:::
+
+
+
+
+
+**Concluzia experimentului:**
+
+Asupra balonului cufundat în apă acționează o forță verticală , de jos în sus care face ca sfoara să nu mai stea întinsă.
+
+Rezultanta forțelor de presiune hidrostatică exercitate de către lichid asupra corpului cufundat în el se numește forță arhimedică, notată FA, cu o direcție verticală, de jos în sus.
+ 
+
+<br></br>
+
+
+
+
+

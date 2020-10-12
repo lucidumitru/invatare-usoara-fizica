@@ -1095,25 +1095,31 @@ Mensura trebuie să stea pe o suprafață orizontală (pe masă). Suprafața lib
 
 
 
-### II.2.5.1 Aplică ce ai învăţat în legătură cu Determinarea indirectă a volumului.
+### II.2.5.1 Aplică ce ai învăţat.
 
-:::caution Temă
 
-**1.** Determină volumul corpului din imaginea următoare, știind că în primul cilindru este pusă numai apă, iar în al doilea s-a adăugat în apă din primul cilindru, corpul al cărui volum trebuie să îl determini.
+:::caution Problemă model
+
+**3.** Determină volumul corpului din imaginea următoare, știind că în primul cilindru este pusă numai apă, iar în al doilea s-a adăugat în apă din primul cilindru, corpul al cărui volum trebuie să îl determini.
 
 <Img src="fizica/clasa6/capitolul2/2_250_7_Tema1_DeterminaVolumulCorpului.jpg" />
+
+#### Rezolvare:
+
+
+
+<Video src="https://www.youtube.com/embed/gCzaWwkHmMg" />
+
+
 
 :::
 
 
 
 
-
-
-
 :::caution Temă
 
-**2.** Un cub are latura de 5dm, iar un paralelipiped are următoarele dimensiuni 800mm; 0,04hm și 0,3 dam. Care dintre cele două corpuri are volumul mai mare ?
+**1.** Un cub are latura de 5dm, iar un paralelipiped are următoarele dimensiuni 800mm; 0,04hm și 0,3 dam. Care dintre cele două corpuri are volumul mai mare ?
 
 
 :::
