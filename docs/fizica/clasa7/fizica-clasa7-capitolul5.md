@@ -1144,4 +1144,244 @@ Rezultanta forțelor de presiune hidrostatică exercitate de către lichid asupr
 
 
 
+:::tip Experiment
+
+**12.** Determinarea forței arhimedice cu ajutorul dinamometrului
+
+:::
+
+
+<Video src="https://www.youtube.com/embed/EO7NYZ_wxp0" />
+
+
+
+
+<br></br>
+
+**Materiale necesare:** vas cu apă, o greutate cu cârlig, dinamometru.
+ 
+
+
+
+**Descrierea experimentului:** 
+
+- Suspendă un corp de cârligul dinamometrului și măsoară greutatea acestuia (G  = 2 N).
+
+- Cufundă corpul într-un vas cu apă, ținut în continuare de cârligul dinamometrului și  citește indicațiile acestuia. Observă că dinamometrul indică o forță mai mică, numită greutate aparentă (G<sub>ap</sub> = 1,7 N).
+
+
+
+
+**Concluzia experimentului:**
+
+Forţa arhimedică (F<sub>A</sub>) este egală cu diferenţa dintre greutatea acestuia (determinată în aer,G) şi “greutatea aparentă” a corpului când este cufundat în lichid (G<sub>ap</sub>), adică:
+	
+F<sub>A</sub> = G – G<sub>ap</sub> = m • g – m<sub>ap</sub> • g = (m – m<sub>ap</sub>) • g
+
+F<sub>A</sub> = 2N - 1,7N = 0,3 N
+
+ 
+
+<br></br>
+
+
+
+
+:::tip Experiment
+
+**13.** Determinarea forței arhimedice cu ajutorul balanței
+
+:::
+
+
+<Video src="https://www.youtube.com/embed/KHgcdM711Do" />
+
+
+
+
+<br></br>
+
+**Materiale necesare:** vas cu apă, cilindrii lui Arhimede, balanță, mase marcate, pipetă.      
+ 
+
+
+
+**Descrierea experimentului:** 
+
+- Leagă cilindrii lui Arhimede unul de altul, cu cel plin (metalic) jos de un taler al balanței și echilibrează balanța punând mase marcate pe celălalt taler.
+
+- Introdu numai cilindrul plin într-un vas cu apă și observă  că balanța se dezechilibrează.
+
+- Cu ajutorul unei pipete umple cilindrul gol și observă că balanța se echilibrează.
+
+
+
+
+**Concluzia experimentului:**
+
+Asupra cilindrului plin din apă acționează forța arhimedică în sus care dezechilibrează balanța. 
+
+La echilibrarea balanței, forța arhimedică este egală cu greutatea volumului de lichid introdus în cilindrul gol, care are același volum cu cilindrul plin. 
+
+Deci, forța arhimedică este egală cu greutatea volumului de lichid dezlocuit de corp.
+ 
+
+<br></br>
+
+
+
+:::important Definiție
+
+**Enunțul legii lui Arhimede:** 
+
+**Un corp cufundat într-un fluid este împins de forţă ce acţionează pe verticală, de jos în sus, numită forţă  arhimedică (F<sub>A</sub>),  egală cu greutatea volumului de fluid dezlocuit de corp.** 
+
+**Conform legii lui Arhimede, forţa cu care lichidul apasă de jos în sus asupra corpului cufundat este egală cu greutatea volumului de lichid dezlocuit de corp, adică :**
+
+**F<sub>A</sub> = G<sub>lichid dezlocuit</sub> = m<sub>L</sub> • g = ρ<sub>L</sub> • V<sub>Ldezlocuit</sub> • g = ρ<sub>L</sub> • V<sub>c</sub> • g**
+
+**Volumul corpului (V<sub>c</sub>) = Volumul lichidului dezlocuit (V<sub>Ldez</sub> )** 
+
+:::
+
+
+:::important
+
+**Din formula forței arhimedice observăm că aceasta depinde direct proporțional numai de doi factori:**
+ 
+**1) Densitatea lichidului cu cât este mai mare, cu atât F<sub>A</sub> este și ea mai mare.**
+
+**2) Volumul corpului (volumul de lichid dezlocuit de corp) cu cât este mai mare, cu atât F<sub>A</sub> este și ea mai mare.**
+
+
+
+:::
+
+
+<br></br>
+
+
+
+:::tip Experiment
+
+**14.** Dependența forței arhimedice de densitatea lichidului
+
+:::
+
+
+<Video src="https://www.youtube.com/embed/eyFkscxIcT8" />
+
+
+
+
+<br></br>
+
+**Materiale necesare:** vas cu apă, vas cu mercur, șurăb (cui)
+ 
+
+:::warning Atenție
+
+Atenție! Mercurul este extrem de toxic ! Nu îl atinge și nu inspira vaporii săi !     
+
+:::
+
+
+
+**Descrierea experimentului (Partea 1):** 
+
+- Pune un șurub într-un vas cu apă. 
+
+- Ce observi ?
+
+
+
+:::note Observaţie (Partea 1)
+
+Șurubul se scufundă în apă.
+
+:::
+
+
+
+**Descrierea experimentului (Partea 2):** 
+
+- Pune același șurub într-un vas cu mercur.
+
+- Ce observi ?
+
+
+
+:::note Observaţie (Partea 2)
+
+Șurubul  plutește în mercur.
+
+:::
+
+
+
+
+
+**Concluzia experimentului:**
+
+Șurubul plutește în mercur deoarece mercurul are densitatea mult mai mare decât apa și forța arhimedică din partea mercurului este mai mare ca cea din partea apei. 
+
+<br></br>
+
+:::caution Temă
+
+1. Ce se întâmplă cu un vapor când trece din Dunăre în Marea Neagră ?
+
+:::
+
+
+
+
+
+<br></br>
+
+
+
+:::tip Experiment
+
+**15.** Dependența forței arhimedice de volumul corpului
+
+:::
+
+
+<Video src="https://www.youtube.com/embed/tFGQgdzc5aA" />
+
+
+
+
+<br></br>
+
+**Materiale necesare:** sârmă de aluminiu, vas cu apă, cutie de aluminiu care să aibă aceeași masă cu sârma de aluminiu
+ 
+
+
+**Descrierea experimentului:** 
+
+- Ia o sârmă de aluminiu care sa aibă aceeași masă (deci și greutate) cu o cutie de aluminiu astfel încât cutia să aibă  volumul mai mare decât sârma.
+
+- Cufundă-le pe rând într-un vas cu apă.
+
+- Ce observi ?
+
+
+
+:::note Observaţie
+
+Sârma se scufundă , iar cutia plutește.
+
+:::
+
+
+
+
+
+**Concluzia experimentului:**
+
+Cu cât volumul unui corp este mai mare, el dezlocuie un volum de lichid mai mare și forța arhimedică este mai mare. 
+
+<br></br>
 

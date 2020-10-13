@@ -747,13 +747,13 @@ v2 = 100km/h, direcție ce face un unghi de 30° cu orizontala, în sus.
 
 #### Rezolvare:
 
-d1 = 20km, direcție orizontală, spre dreapta
+d<sub>1</sub> = 20km, direcție orizontală, spre dreapta
 
-d1 = 40km, direcție verticală, în jos
+d<sub>2</sub> = 40km, direcție verticală, în jos
 
-d1 = 80km, direcție orizontală, spre stânga
+d<sub>3</sub> = 80km, direcție orizontală, spre stânga
 
-d1 = 60km, direcție verticală, în sus
+d<sub>4</sub> = 60km, direcție verticală, în sus
 
 
 <Img src="fizica/clasa7/capitolul1/1_5_Poza8_AdunareaVectorilorNecoliniariNeconcurenti.jpg" />
@@ -761,8 +761,10 @@ d1 = 60km, direcție verticală, în sus
 
 **Etalon:** 1cm = 10 km.
 
-- Reprezentăm primul vector deplasare d1. Al II-lea vector îi punem punctul de aplicație în vârful primului, ș.a.m.d. până reprezentăm toți cei patru vectori.
+- Reprezentăm primul vector deplasare d<sub>1</sub>. Al II-lea vector îi punem punctul de aplicație în vârful primului, ș.a.m.d. până reprezentăm toți cei patru vectori.
+
 - Vectorul rezultant este segmentul care se obține prin unirea originii(0) cu vârful ultimului vector, având vârful în vârful ultimului vector.
+
 - Valoarea vectorului rezultant o obținem prin măsurarea segmentului său cu rigla și apoi înmulțim cu etalonul dat : d = 6,3 ∙ 10 = 63 km. Deci, biciclistul se află la o distanță de 63km față de punctul de plecare, după toată cursa.
 
 <Img src="fizica/clasa7/capitolul1/1_5_Poza9_RegulaPoligonului.jpg" />
