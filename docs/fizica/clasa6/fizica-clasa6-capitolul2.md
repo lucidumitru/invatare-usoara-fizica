@@ -1039,6 +1039,15 @@ Mensura trebuie să stea pe o suprafață orizontală (pe masă). Suprafața lib
 <Img src="fizica/clasa6/capitolul2/2_250_1_PozaParaleliped.jpg" />
 
 
+<br></br>
+
+<Video src="https://www.youtube.com/embed/FkAIjQBbYgk" />
+
+
+
+
+
+
 
 - Pentru **cub** avem formula  volumului :  V = ℓ <sup>3</sup>. **Cubul** este paralelipipedul dreptunghic cu toate muchiile egale. Fețele unui cub au formă de pătrat și sunt congruente.
 

@@ -531,9 +531,8 @@ Presiunea unui lichid dintr-un vas nu depinde de forma și dimensiunile vasului.
 
 **“În două sau mai multe vase comunicante, lichidul urcă la același nivel.”** 
 
-<Img src="fizica/clasa7/capitolul5/5_2_Poza5_LegeaVaselorComunicante.jpg" />
 
-
+<Video src="https://www.youtube.com/embed/HcYe726wDQE" />
 
 
 :::
@@ -869,7 +868,7 @@ Un experiment celebru pentru evidențiere presiunii atmosferice a fost efectuat 
 
 :::
 
-
+<Video src="https://www.youtube.com/embed/zS1Qi-0H_mI" />
 
 
 
@@ -1384,4 +1383,187 @@ Sârma se scufundă , iar cutia plutește.
 Cu cât volumul unui corp este mai mare, el dezlocuie un volum de lichid mai mare și forța arhimedică este mai mare. 
 
 <br></br>
+
+
+
+:::important **Cazurile particulare ale legii lui Arhimede:**
+
+**a) Când densitatea corpului (ρ<sub>c</sub>) este mai mică decât densitatea  lichidului (ρ<sub>l</sub>), corpul plutește.** 
+
+**F<sub>A</sub> > G** (greutatea corpului)  și apare o forță rezultantă, care acționează asupra corpului pe verticală, în sus, numită forță ascensională (F<sub>a</sub>) care determină ieșirea corpului parțial din lichid.
+
+**F<sub>a</sub> = F<sub>A</sub> - G**
+
+**Porțiunea scufundată dezlocuie un volum de lichid egală cu greutatea corpului.**
+
+
+<Img src="fizica/clasa7/capitolul5/5_5_Poza1_FormulaCazParticularLegeaLuiArhimede.jpg" />
+
+
+
+:::
+
+
+:::caution Aplicații ale cazurilor particulare ale legii lui Arhimede
+
+Plutirea vapoarelor, buștenilor, icebergurilor.
+
+<Img src="fizica/clasa7/capitolul5/5_5_Poza2_AplicatiiCazParticularLegeaLuiArhimede.jpg" />
+
+
+
+:::
+
+
+
+
+:::important **Cazurile particulare ale legii lui Arhimede:**
+
+**b) Când densitatea corpului (ρc) este egală cu densitatea lichidului(ρl) , corpul este în echilibru în interiorul lichidului.**
+
+
+**|FA| = |G|	=>	ρ<sub>l</sub> ∙ V<sub>c</sub> ∙ g = ρ<sub>c</sub> ∙ V<sub>c</sub> ∙ g**	
+
+
+
+:::
+
+
+:::caution Aplicații ale cazurilor particulare ale legii lui Arhimede
+
+Plutirea baloanelor sau a submarinului în apă.
+
+
+<Img src="fizica/clasa7/capitolul5/5_5_Poza3_AplicatiiCazParticular2LegeaLuiArhimede.jpg" />
+
+
+:::
+
+
+
+:::important **Cazurile particulare ale legii lui Arhimede:**
+
+**c) Când densitatea corpului (ρ<sub>c</sub>) este mai mare decât densitatea lichidului(ρl), corpul se scufundă (se duce pe fundul vasului).**
+
+
+F<sub>A</sub> < G  și apare o forță rezultantă, care acționează asupra corpului pe verticală, în jos, numită  greutate aparentă:
+ 
+G<sub>ap</sub> = G - F<sub>A</sub>
+
+<Img src="fizica/clasa7/capitolul5/5_5_Poza4_AplicatiiCazParticular3LegeaLuiArhimede.jpg" />
+
+
+
+:::
+
+
+:::important Reține
+
+**Forța arhimedică, F<sub>A</sub>:**
+
+**- Are direcție verticală, în sus și punctul de aplicație în centrul de greutate al volumului de lichid dezlocuit.**
+
+**- Egală în modul cu greutatea fluidului dezlocuit.**
+
+**- Nu depinde de greutatea și forma corpului, de adâncimea de imersiune, de înălțimea lichidului din vas**
+
+
+
+:::
+
+
+
+:::caution Aplicaţiile legii lui Arhimede la fluide
+
+**1) Densimetrul** este un instrument de măsură pentru densitatea  lichidelor. Scala este invers gradată astfel încât pe verticală în sus , scad gradațiile deoarece densimetrul se cufundă mai  mult în lichidele cu densități mai mici. El pătrunde în lichid până când greutatea lichidului dezlocuit devine egală cu greutatea sa proprie. Pentru a-și păstra o poziție verticală când este cufundat în lichid, greutatea sa este concentrată spre fundul densimetrului, unde se găsesc niște bile de plumb sau oțel. Densitatea lichidului se citește la nivelul suprafeței libere a lichidului , pe scala gradată. 
+
+<Img src="fizica/clasa7/capitolul5/5_5_Poza5_PozaDensimetru.jpg" />
+
+
+
+**Utilizările densimetrului:**
+
+- În stațiile de service auto, la verificarea:
+ 
+  - densității antigelului
+  
+  - densității soluției de acid sulfuric din acumulatorul mașinii.Pentru o baterie încărcată densitatea acidului este 1,3g/cm3, iar descărcată are 1,15g/cm3.
+
+
+<Img src="fizica/clasa7/capitolul5/5_5_Poza6_DensimetruBaterieAuto.jpg" />
+
+
+- În medicină se verifică densitatea sângelui (1,04-1,06g/cm3) și a urinei(1,2g/cm3). 
+
+<Img src="fizica/clasa7/capitolul5/5_5_Poza7_DensimetruDensitateSange.jpg" />
+
+- Conținutul de grăsime al laptelui.
+
+<Img src="fizica/clasa7/capitolul5/5_5_Poza8_DensimetruGrasimeLapte.jpg" />
+
+- Conținutul de alcool al băuturilor alcoolice prin măsurarea gradelor alcoolice.
+
+<Img src="fizica/clasa7/capitolul5/5_5_Poza9_DensimetruAlcool.jpg" />
+
+:::
+
+
+:::caution Aplicaţiile legii lui Arhimede la fluide
+
+**2) Icebergurile:** blocuri de gheaţă provenite din gheaţa polară care au densitatea mai mică ca a apei de mare plutesc pe apă.
+
+<Img src="fizica/clasa7/capitolul5/5_5_Poza10_Iceberg.jpg" />
+
+:::
+
+
+
+:::caution Aplicaţiile legii lui Arhimede la fluide
+
+**3) Bărcile, vapoarele, plutele** sunt astfel construite, încât să poată dezlocui o cantitate cât mai mare de apă, pentru a putea transporta o greutate cât mai mare.  Linia de plutire indică până unde se pot afunda vasele când sunt încărcate.
+
+<Img src="fizica/clasa7/capitolul5/5_5_Poza11_Vapor.jpg" />
+
+:::
+
+
+:::caution Aplicaţiile legii lui Arhimede la fluide
+
+**4) Submarinul** este un vas care pluteşte la suprafaţa apei,  dar se poate deplasa şi sub apă. Pereţii submarinului  sunt dublii. Ei cuprind încăperi (compartimente) care pot fi umplute cu apă. Odată cu pătrunderea apei în aceste compartimente, greutatea submarinului creşte şi vasul se cufundă. El se ridică la suprafaţă prin evacuarea apei din aceste încăperi.
+
+<Img src="fizica/clasa7/capitolul5/5_5_Poza12_Submarin.jpg" />
+
+:::
+
+
+
+
+:::caution Aplicaţiile legii lui Arhimede la fluide
+
+**5) Batiscaful** este un submarin de dimensiuni  mai mici, format dintr-o  cabină sferică  din oţel aliat cu titan  pentru echipaj şi un corp central ce conţine motorul şi rezervoarele de combustibil. El se poate scufunda până la adâncimi mult mai  mari ca submarinul, chiar până în Groapa Marianelor, din Oceanul Pacific cu o adâncime de 11022m. 
+
+
+Scufundarea facuta de James Cameron in 2012 cu submarinul Deepsea Challenger Cae poate coborî cu 150 metri/minutin si cu forma de torpila  lung de 7 metri a durat in  total sapte ore, dintre care trei ore au fost la 10.900 metri adancime. 
+
+Cameron a lucrat șapte ani la proiect și a devenit al treilea om care ajunge în cel mai adânc punct din oceanele Terrei. Primii doi au ajuns acum 52 de ani: elvețianul Jacques Piccard și americanul Don Walsh.
+
+
+<Img src="fizica/clasa7/capitolul5/5_5_Poza13_Batiscaf.jpg" />
+
+
+
+:::
+
+
+
+:::caution Aplicaţiile legii lui Arhimede la fluide
+
+**6) Aerostatul (baloanele)** sunt constituite pe baza legii lui Arhimede la gaze.  El este format dintr-un balon din pânză cauciucată plin cu un gaz uşor (H2 sau He sau aer cald) şi o cabină (nacelă) care este prinsă prin frânghii de balon şi  unde se află şi aparatele de măsură. În secolul al XVII-lea, fraţii Montgolfier  au construit primul balon din hârtie impregnată, umplut cu aer cald.
+
+
+<Img src="fizica/clasa7/capitolul5/5_5_Poza14_Aerostat.jpg" />
+
+
+:::
+
 
