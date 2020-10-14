@@ -169,15 +169,15 @@ Află cele trei presiuni exercitate de corp asupra unei suprafețe.
 
 - Scriem datele problemei și le transformăm în SI.
 
-m = 400g = 0,4 kg
+  - m = 400g = 0,4 kg
 
-G = mg = 0,4 ∙ 10 = 4 N
+  - G = mg = 0,4 ∙ 10 = 4 N
 
-L = 0,003hm = 0,3m
+  - L = 0,003hm = 0,3m
 
-l = 15cm = 0,15m
+  - l = 15cm = 0,15m
 
-h = 100mm = 0,1m.
+  - h = 100mm = 0,1m.
 
 
 - Aplicăm formula presiunii și înlocuim datele problemei:
@@ -202,10 +202,9 @@ h = 100mm = 0,1m.
 
 - Scriem datele problemei și le transformăm în SI
 
+  - F = 600 N
 
-F = 600 N
-
-S = 2cm<sup>2</sup> = 2/10000 m<sup>2</sup> 
+  - S = 2cm<sup>2</sup> = 2/10000 m<sup>2</sup> 
 
 - Calculăm modulul forței normale asupra peretelui
 
@@ -271,7 +270,7 @@ N = reacțiunea normală a fundului vasului
 
 :::important
 
-**Formula presiunii hidrostatice: p = ρgh**, unde
+**Formula presiunii hidrostatice: p = ρ ∙ g ∙ h**, unde
 
 ρ = densitatea lichidului
 
@@ -302,7 +301,7 @@ Cu cât denivelarea lichidului în tubul U este mai mare, cu atât presiunea hid
 
 De exemplu pentru apă (ρ = 1000kg/m<sup>3</sup>), diferența de presiune este de aproximativ 10 Pa pentru fiecare diferență de nivel de 1mm (0,001 m) dintre cele 2 ramuri. Am luat g ~ 10 N/kg.
 
-Δp = ρgh= 1000 ∙ 10 ∙ 0,001 = 10 Pa.
+Δp = ρ ∙ g ∙ h= 1000 ∙ 10 ∙ 0,001 = 10 Pa.
 
 
 
@@ -465,7 +464,7 @@ Să considerăm un lichid aflat în echilibru și să îl delimităm mental cu u
 
 G + F<sub>1</sub> = F<sub>2</sub>
 
-Deoarece G = ρ ∙ S ∙ g ∙ Δh ,  F<sub>1</sub> = p<sub>1</sub>S,  F<sub>2</sub> = p<sub>2</sub>S  => Δp = ρ ∙ g ∙ Δh 
+Deoarece G = ρ ∙ S ∙ g ∙ Δh ,  F<sub>1</sub> = p<sub>1</sub> ∙ S,  F<sub>2</sub> = p<sub>2</sub> ∙ S  => Δp = ρ ∙ g ∙ Δh 
 
 
 :::
@@ -520,7 +519,7 @@ Apa curge din sticla mică în sticla mare deoarece presiune apei din sticla mic
 Curgerea din A în B va avea loc până la egalizarea nivelului din cele 2 sticle, când și presiunea va fi aceeași.
 
 
-Presiunea unui lichid dintr-un vas nu depinde de forma și dimensiunile vasului.
+**Presiunea unui lichid dintr-un vas nu depinde de forma și dimensiunile vasului.**
 
 
 
@@ -781,14 +780,14 @@ p<sub>C</sub> = presiunea vidului = 0
 
 **Presiunea atmosferică variază tot timpul și depinde de doi factori:**
 
-**1) Altitudinea** cu cât este mai mare, cu atât presiunea atmosferică scade deoarece aerul se rarefiează (adică scade concentrația moleculelor de oxigen și azot). La altitudinea 0 (nivelul mării) , p0 =101325Pa. 
+**1) Altitudinea** cu cât este mai mare, cu atât presiunea atmosferică scade deoarece aerul se rarefiează (adică scade concentrația moleculelor de oxigen și azot). La altitudinea 0 (nivelul mării), p<sub>0</sub> = 101.325Pa. 
 
 
 :::caution Aplicații
 
 
   
-Pe Vârful Everest , cel mai înalt punct de pe Pământ,  cu o altitudine de 8848 m deasupra nivelului mării, presiunea atmosferică  este aproximativ o treime din cea de la nivelul mării, adică p~33800Pa.
+Pe Vârful Everest, cel mai înalt punct de pe Pământ,  cu o altitudine de 8848 m deasupra nivelului mării, presiunea atmosferică  este aproximativ o treime din cea de la nivelul mării, adică p ~ 33.800Pa.
 
 Variaţia presiunii atmosferice cu altitudinea (scăderea presiunii  atmosferice cu creşterea înălţimii) a fost demonstrată de fizicianul francez Blaise Pascal (1623-1662). El a arătat că ascensiunea lichidelor în spaţiu vidat datorită presiunii atmosferice (adică înălţimea coloanei de lichid) se micşorează dacă experienţa se efectuează la înălţimi mari (pe un munte).
 
@@ -824,7 +823,7 @@ Aerul circulă din zonele cu presiune ridicată (numite anticicloni) spre cele c
 
 Datorită variației continue a presiunii atmosferice, s-a impus alegerea unei presiuni de referință, numită presiune atmosferică normală, notată cu p<sub>0</sub>.
  
-p<sub>0</sub> = 101325 Pa = 1atm = 760mmHg (ea se măsoară la nivelul mării, la 0°).
+p<sub>0</sub> = 101.325 Pa = 1atm = 760mmHg (ea se măsoară la nivelul mării, la 0°).
 
 
 
@@ -997,25 +996,44 @@ Presiunea exterioară exercitată de noi asupra pistonului mic este transmisă d
 
 - Sfărâmarea rocilor dure
 
+<Img src="fizica/clasa7/capitolul5/5_4_Poza3_Concasor.jpg" />
+
+
 - Obținerea uleiului prin presarea semințelor
+
+<Img src="fizica/clasa7/capitolul5/5_4_Poza4_PresaUlei.jpg" />
 
 - Ștanțarea obiectelor metalice
 
+<Img src="fizica/clasa7/capitolul5/5_4_Poza5_MasinaDeStantat.jpg" />
+
 - Elevatorul (cricul) hidraulic
+
+<Img src="fizica/clasa7/capitolul5/5_4_Poza5_CricHidraulic.jpg" />
 
 - Frâna de picior de la mașină
 
+<Img src="fizica/clasa7/capitolul5/5_4_Poza6_FranaDePicior.jpg" />
+
 - Presarea paielor și a materialelor reciclabile în baloți
+
+<Img src="fizica/clasa7/capitolul5/5_4_Poza7_PresareaPaielor.jpg" />
 
 - Tăierea foilor de tablă
 
+<Img src="fizica/clasa7/capitolul5/5_4_Poza8_PresaDeTaiatTabla.jpg" />
+
 - Scaunele stomatologice sau de la frizerii
+
+<Img src="fizica/clasa7/capitolul5/5_4_Poza9_ScaunStomatologic.jpg" />
 
 - Excavatorul
 
+<Img src="fizica/clasa7/capitolul5/5_4_Poza10_Excavator.jpg" />
+
 - Sistemele de servodirecție și servofrână
 
-	
+<Img src="fizica/clasa7/capitolul5/5_4_Poza11_ServoDirectie.jpg" />
 
 :::
 
@@ -1049,21 +1067,36 @@ Pompele hidrofor sunt utilizate pentru alimentarea cu apa în sistemele casnice 
 
 - Pompă de injecție (la motoare cu ardere internă)
 
+<Img src="fizica/clasa7/capitolul5/5_4_Poza11bis_PompaInjectie.jpg" />
+
+
 - Umflarea cauciucurilor și a saltelelor
+
+<Img src="fizica/clasa7/capitolul5/5_4_Poza13_PompaCauciucuri.jpg" />
 
 - Compresor frigider sau aer condiționat
 
+<Img src="fizica/clasa7/capitolul5/5_4_Poza12_CompresorFrigider.jpg" />
+
 - Stropirea pomilor si irigații
+
+<Img src="fizica/clasa7/capitolul5/5_4_Poza14_PompaStropirePomi.jpg" />
 
 - Zugrăvire
 
+<Img src="fizica/clasa7/capitolul5/5_4_Poza15_PompaZugravire.jpg" />
+
 - Mulgătoare mecanice
+
+<Img src="fizica/clasa7/capitolul5/5_4_Poza16_PompaMulsVaca.jpg" />
 
 - Pulverizatoarele de la sprayuri (aerul comprimat presează lichidul să iasă)
 
+<Img src="fizica/clasa7/capitolul5/5_4_Poza17_Pulverizatoare.jpg" />
+
 - Pompa de benzină
 
-
+<Img src="fizica/clasa7/capitolul5/5_4_Poza18_PompaDeBenzina.jpg" />
 
 :::
 
