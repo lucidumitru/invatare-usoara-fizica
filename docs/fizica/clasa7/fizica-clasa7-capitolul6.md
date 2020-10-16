@@ -714,7 +714,7 @@ Mach (pronunție "mac") este o unitate de măsură folosită în aerodinamică p
 
 
 
-::
+:::
 
 
 
@@ -758,9 +758,6 @@ Bariera sunetului a fost depăşită pentru prima dată în 1947 de pilotul în 
 - Transformăm întăi viteza în m/s și apoi în Mach, cu regula de trei simplă.
 
 <Img src="fizica/clasa7/capitolul6/6_4_2_Poza4_RezolvareProblemaModel2.jpg" />
-
-
-
 
 :::
 
@@ -811,14 +808,24 @@ Dacă distanța până la obstacolul reflectant este mai mică de 17 m, sunetul 
 
 - Ecolocația constă în orientarea animalelor cu ajutorul ecoului (reflexiei sunetului).  Unele animale folosesc ecoul pentru detectarea locației și navigație, cum ar fi cetaceele (delfini și balene) și liliecii. 
 
+<Img src="fizica/clasa7/capitolul6/6_4_3_Poza2_Ecolocatia.jpg" />
+
 
 - Sonarul este un dispozitiv folosit de vase maritime pentru a determina cu ajutorul reflexiei ultrasunetului (US) adâncimea apei, bancurile de pești, găsirea epavelor, detectarea icebergurilor.
+
+<Img src="fizica/clasa7/capitolul6/6_4_3_Poza3_Sonarul.jpg" />
 
 - Ecograful dă imagini ale unor organe pe baza reflexiei ultrasunetelor. Ecografia implică utilizarea unui transductor mic (sonda) și gel pentru a expune organismul la undele sonore de înaltă frecvență. Ecoul ultrasunetelor pe un anumit organ este transformat în semnale electrice care alcătuiesc o imagine pe un ecran.
 
   - Ecografia tridimensionala 3D, cu ajutorul computerului se realizează vizualizarea volumetrică  a structurilor anatomice. Ecografia 4D înseamnă 3D în mișcare.
 
+
+<Img src="fizica/clasa7/capitolul6/6_4_3_Poza4_Ecograful.jpg" />
+
+
   - În tehnică se utilizează pentru punerea în evidenţă a defectelor pieselor metalice numită defectoscopia ultrasonoră.
+
+<Img src="fizica/clasa7/capitolul6/6_4_3_Poza5_Defectoscop.jpg" />
 
 
 :::
@@ -839,7 +846,9 @@ v = 1450m/s
 
 #### Rezolvare
 
-λ = v ∙ T = v/υ = 1450/50 = 29 m
+
+<Img src="fizica/clasa7/capitolul6/6_4_3_Poza6_RezolvareProblemaModel3.jpg" />
+
 
 :::
 
@@ -859,10 +868,8 @@ v = 340m/s
 
 #### Rezolvare
 
+<Img src="fizica/clasa7/capitolul6/6_4_3_Poza7_RezolvareProblemaModel4.jpg" />
 
-λ = v ∙ T = v/υ
-
-υ = v/λ = 340/(3/1000) = 340/1 ∙1000/3 = 113.333,33 Hz
    
 Noi nu auzim acest sunet emis de liliac, deoarece are frecvența mai mare de 20.000Hz, fiind un ultrasunet.
 
