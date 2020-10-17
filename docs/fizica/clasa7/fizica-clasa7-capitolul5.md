@@ -1501,6 +1501,9 @@ G<sub>ap</sub> = G - F<sub>A</sub>
 **- Nu depinde de greutatea și forma corpului, de adâncimea de imersiune, de înălțimea lichidului din vas**
 
 
+<Video src="https://www.youtube.com/embed/HV1IXK-od4o" />
+
+
 
 :::
 
