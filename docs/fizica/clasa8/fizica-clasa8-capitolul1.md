@@ -1563,7 +1563,7 @@ Fenomenele care au loc cu schimbarea stării de agregare se studiază pe perechi
 
 :::important Definiţie
 
-**Topirea** este fenomenul de trecere unei substanțe din stare solidă în stare lichidă, prin încălzire . 
+**Topirea** este fenomenul de trecere a unei substanțe din stare solidă în stare lichidă, prin încălzire . 
 
 :::
 
@@ -1731,11 +1731,13 @@ Apa, la înghețare (solidificare), și-a mărit volumul (anomalia apei).
 :::
 
 
+:::important
+
 #### Vaporizarea poate avea loc în două moduri :
 - **Evaporarea** este vaporizarea care are loc doar la suprafața lichidului.
 - **Fierberea** este vaporizarea care are loc în toată masa lichidului și începe odată cu apariția primului clocot. 
 
-
+:::
 
 
 
