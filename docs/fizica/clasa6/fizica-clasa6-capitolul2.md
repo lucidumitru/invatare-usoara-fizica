@@ -8,6 +8,11 @@ import Img from '@site/src/components/Img'
 import Video from '@site/src/components/Video'
 
 
+import Logo1 from '@site/static/fizica/clasa6/capitolul2/2_11_70_1_UnitateaMasuraALungimii_equation_vme_27072020_212521.svg';
+import Logo2 from '@site/static/fizica/clasa6/capitolul2/2_11_70_2_UnitateaMasuraATimpului_equation_vme_27072020_213229.svg';
+
+
+
 ## II.1. Mărimi fizice. Fenomene fizice.
 
 
@@ -271,7 +276,7 @@ La nivel internațional s-a convenit să existe un sistem unic de mărimi și un
 #### Pentru a exprima faptul că unitatea de măsură a lungimii în SI este metrul vom scrie: 
 
 
-<Img src="fizica/clasa6/capitolul2/2_11_70_1_UnitateaMasuraALungimii_equation_vme_27072020_212521.svg" />
+<Logo1 title="Logo1" className="logo" class='svg-responsive3'/>
 
 
 
@@ -279,8 +284,9 @@ La nivel internațional s-a convenit să existe un sistem unic de mărimi și un
 
 #### Pentru a exprima faptul că unitatea de măsură a timpului în SI este secunda vom scrie:
  
- 
-<Img src="fizica/clasa6/capitolul2/2_11_70_2_UnitateaMasuraATimpului_equation_vme_27072020_213229.svg" />
+<Logo2 title="Logo2" className="logo" class='svg-responsive3'/>
+
+
 
 și se citește **unitatea de măsură pentru timp în Sistemul Internațional este secunda**.
 
@@ -357,33 +363,34 @@ Nu uitați, când avem un număr înpărțit la 10, 100, 1000, ș.a.m.d., se mut
 :::
 
 
+:::caution Exemple de fenomene fizice:
 
-#### Exemple de fenomene fizice:
-- **fierberea** apei (apa își schimbă starea de agregare, din lichidă în gazoasă);
+- **Fierberea** apei (apa își schimbă starea de agregare, din lichidă în gazoasă);
 
 <Img src="fizica/clasa6/capitolul2/2_100_2_1_FierbereaApei.jpg" />
 
 
-- **mișcarea** corpurilor (schimbarea poziției unui corp față de altul);
+- **Mișcarea** corpurilor (schimbarea poziției unui corp față de altul);
 
 <Img src="fizica/clasa6/capitolul2/2_100_2_2_OameniInMiscare.jpg" />
 
-- **topirea** gheții (apa trece din starea solidă în starea lichidă);
+- **Topirea** gheții (apa trece din starea solidă în starea lichidă);
 
 <Img src="fizica/clasa6/capitolul2/2_100_2_3_PaharApaCuGheata_vers2.jpg" />
 
-- **îndulcirea** apei prin amestecarea cu zahăr (apa își schimbă gustul);
+- **Îndulcirea** apei prin amestecarea cu zahăr (apa își schimbă gustul);
 
 <Img src="fizica/clasa6/capitolul2/2_100_2_4_IndulcireaApei.jpg" />
 
-- **aprinderea** becului (filamentul se încălzește);
+- **Aprinderea** becului (filamentul se încălzește);
 
 <Img src="fizica/clasa6/capitolul2/2_100_2_5_BecAprins.jpg" />
 
-- **întinderea** unui arc, etc.
+- **Întinderea** unui arc, etc.
 
 <Img src="fizica/clasa6/capitolul2/2_100_2_6_ResortIntins.jpg" />
 
+:::
 
 
 ### II.1.3. Aplică ce ai învăţat în legătură cu Mărimile fizice şi Fenomenele fizice.
@@ -413,7 +420,7 @@ c)	0,4 cs = ? s
 
 **3.** Ce fenomene fizice sunt redate în următoarele imagini (completează spațiile libere) ?
 
-:::
+
 
 
 
@@ -439,7 +446,7 @@ c)	0,4 cs = ? s
 
 <Img src="fizica/clasa6/capitolul2/2_133_4_AtractiaDintreDoiMagneti.jpg" />
 
-
+:::
 
 
 
@@ -751,7 +758,7 @@ Rezultatul real al ariei frunzei : S = S<sub>medie</sub> ± ΔS<sub>medie</sub> 
 
 **Concluzia experimentului:**
 
-Aria reală a frunzei este : S = S<sub>medie</sub> ± ΔS<sub>medie</sub> = 14,58 cm<sup>2</sup> ±  0,11cm<sup>2</sup>.
+Aria reală a frunzei este : **S = S<sub>medie</sub> ± ΔS<sub>medie</sub> = 14,58 cm<sup>2</sup> ±  0,11cm<sup>2</sup>**.
 
 
 
@@ -764,23 +771,23 @@ Aria reală a frunzei este : S = S<sub>medie</sub> ± ΔS<sub>medie</sub> = 14,5
 
 #### Măsurarea ariei prin metode indirecte, în cazul suprafețelor cu formă geometrică regulată, se face prin măsurarea dimensiunilor liniare și utilizând formule de calcul:
 
-- Pentru un **dreptunghi** (Dreptunghiul reprezintă un caz particular de paralelogram, care are toate unghiurile drepte), se măsoară  lungimea dreptunghiului  ( L = AB = CD )  și lățimea dreptunghiului ( l = AD = BC ) și apoi aplicăm formula de calcul: S = L ∙ l.
+- Pentru un **dreptunghi** (Dreptunghiul reprezintă un caz particular de paralelogram, care are toate unghiurile drepte), se măsoară  lungimea dreptunghiului  **(L = AB = CD)**  și lățimea dreptunghiului **(l = AD = BC)** și apoi aplicăm formula de calcul: **S = L ∙ l.**
 
 <Img src="fizica/clasa6/capitolul2/2_230_1_PozaDreptunghi.jpg" />
 
-- Pentru un **pătrat** (Pătratul reprezintă un caz particular de dreptunghi, care are toate unghiurile drepte și toate cele patru laturi egale, notate cu l = latura pătratului = AB = BC = CD = AD )  se măsoară  latura acestuia și apoi aplicăm formula de calcul: S = l<sup>2</sup>.
+- Pentru un **pătrat** (Pătratul reprezintă un caz particular de dreptunghi, care are toate unghiurile drepte și toate cele patru laturi egale, notate cu **l = latura pătratului = AB = BC = CD = AD**)  se măsoară  latura acestuia și apoi aplicăm formula de calcul: **S = l<sup>2</sup>.**
 
 <Img src="fizica/clasa6/capitolul2/2_230_2_PozaPatrat.jpg" />
 
 
-- Pentru un **triunghi oarecare** (Triunghiul reprezintă un poligon format din trei laturi care se întâlnesc două câte două, formând trei unghiuri interne) se măsoară o latură a acestuia (a) și înălțimea ei  (h) și apoi aplicăm formula de calcul:
+- Pentru un **triunghi oarecare** (Triunghiul reprezintă un poligon format din trei laturi care se întâlnesc două câte două, formând trei unghiuri interne) se măsoară o **latură a acestuia (a)** și **înălțimea ei (h)** și apoi aplicăm formula de calcul:
 
 
 <Img src="fizica/clasa6/capitolul2/2_230_3_FormulaTriunghi.jpg" />
 
 <Img src="fizica/clasa6/capitolul2/2_230_3_PozaTriunghi.jpg" />
 
-- Pentru un paralelogram (Paralelogramul reprezintă un patrulater care are laturile opuse paralele și egale) se măsoară lungimea paralelogramului ( b = L = AB = CD )  și înălțimea paralelogramului ( h = AF ) și apoi aplicăm formula de calcul: S = b ∙ h.
+- Pentru un paralelogram (Paralelogramul reprezintă un patrulater care are laturile opuse paralele și egale) se măsoară **lungimea paralelogramului (b = L = AB = CD)**  și **înălțimea paralelogramului (h = AF)** și apoi aplicăm formula de calcul: **S = b ∙ h.**
 
 
 <Img src="fizica/clasa6/capitolul2/2_230_4_PozaParalelogram.jpg" />
@@ -996,7 +1003,7 @@ Iată cum se realizează aceste tranformări din multiplii și submultiplii m<su
  
 **3.** Introducem corpul în apa din cilindru. Nivelul lichidului a crescut. Noul volum citit îl vom nota  V<sub>2</sub> = 39ml.
  
-**4**. Volumul corpului reprezintă diferența dintre V<sub>2</sub> (volum apă+corp) și V<sub>1</sub> (volumul  apei), adică : V<sub>corp</sub> = V<sub>2</sub> – V<sub>1</sub>.
+**4**. Volumul corpului reprezintă diferența dintre V<sub>2</sub> (volum apă+corp) și V<sub>1</sub> (volumul  apei), adică : **V<sub>corp</sub> = V<sub>2</sub> – V<sub>1</sub>.**
 
 
 <Img src="fizica/clasa6/capitolul2/2_240_4_Experiment3_Poza2.jpg" />
@@ -1017,7 +1024,7 @@ Mensura trebuie să stea pe o suprafață orizontală (pe masă). Suprafața lib
 **Concluzia experimentului:**
 
 
-**Volumul corpului** reprezintă diferența dintre V<sub>2</sub> (volum apă+corp) și V<sub>1</sub> (volumul  apei), adică : V<sub>corp</sub> = V<sub>2</sub> – V<sub>1</sub>.
+**Volumul corpului** reprezintă diferența dintre V<sub>2</sub> (volum apă+corp) și V<sub>1</sub> (volumul  apei), adică : **V<sub>corp</sub> = V<sub>2</sub> – V<sub>1</sub>.**
 
 
 **V<sub>corp</sub>** = 39 ml – 35 ml = 4 ml.
@@ -1034,7 +1041,7 @@ Mensura trebuie să stea pe o suprafață orizontală (pe masă). Suprafața lib
 
 #### Măsurarea volumului prin metode indirecte, în cazul unor corpuri cu formă geometrică regulată, se face prin măsurarea dimensiunilor liniare și utilizarea formulelor de calcul (în clasa a VIIIa vei învăța și pentru alte corpuri geometrice formule de volum):
 
-- Pentru **paralelipiped** avem formula volumului :   V = S <sub>baza</sub> ∙ h =  L ∙ l ∙ h
+- Pentru **paralelipiped** avem formula volumului :   **V = S <sub>baza</sub> ∙ h =  L ∙ l ∙ h**
 
 <Img src="fizica/clasa6/capitolul2/2_250_1_PozaParaleliped.jpg" />
 
@@ -1208,7 +1215,7 @@ Dacă folosești cronometrul electronic de la telefon, care măsoară și sutimi
 
 - Repetă operația de cel puțin 3 ori, dându-i lui n diferite valori.
 
-- Calculează perioada (T) = timpul în care corpul efectuează o oscilație completă, adică timpul în care pendulul a urcat în cealaltă parte și a revenit la poziția inițială (dus-întors). Dacă într-un timp t se efectuează n oscilații complete, atunci perioada (T) se calculează din relația: T = t/n 
+- Calculează perioada (T) = timpul în care corpul efectuează o oscilație completă, adică timpul în care pendulul a urcat în cealaltă parte și a revenit la poziția inițială (dus-întors). Dacă într-un timp t se efectuează n oscilații complete, atunci perioada (T) se calculează din relația: 
 
 
 <Img src="fizica/clasa6/capitolul2/2_260_2_Experiment4_3Calcule.jpg" />
