@@ -1002,11 +1002,15 @@ Iată cum se realizează aceste tranformări din multiplii și submultiplii m<su
 
  
 **3.** Introducem corpul în apa din cilindru. Nivelul lichidului a crescut. Noul volum citit îl vom nota  V<sub>2</sub> = 39ml.
+
+
+<Img src="fizica/clasa6/capitolul2/2_240_4_Experiment3_Poza2.jpg" />
+
  
 **4**. Volumul corpului reprezintă diferența dintre V<sub>2</sub> (volum apă+corp) și V<sub>1</sub> (volumul  apei), adică : **V<sub>corp</sub> = V<sub>2</sub> – V<sub>1</sub>.**
 
 
-<Img src="fizica/clasa6/capitolul2/2_240_4_Experiment3_Poza2.jpg" />
+
 
 
 

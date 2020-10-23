@@ -1015,95 +1015,88 @@ Inerția unui corp se manifestă doar când asupra lui acționează un alt corp,
 :::caution Aplicarea în viața de zi cu zi a noțiunii de inerție
 
 **1.** Când suntem în mijloacele de transport în comun, este obligatoriu să ne ținem de bare, pentru a nu cădea
-  
-:::
-
-
 
 <Img src="fizica/clasa6/capitolul3/3_2_1_Poza1_AplicatiiInertie.jpg" />
 
+ 
 
-
-:::caution Aplicarea în viața de zi cu zi a noțiunii de inerție
 
 **2.** În autoturisme, trebuie să purtăm  centura de siguranță și scaunele auto pentru copii, deoarece la o oprire bruscă a mașinii, datorită inerției, ne putem lovi de obiectele din fața scaunului (parbriz sau banchetele din față).
   
-:::
+
 
 
 <Img src="fizica/clasa6/capitolul3/3_2_1_Poza2_AplicatiiInertie.jpg" />
 
 
 
-:::caution Aplicarea în viața de zi cu zi a noțiunii de inerție
+
 
 **3.**  Pasagerii dintr-un vehicul, în curbă, sunt aruncați spre exterior, datorită inerției, tinzând să-și mențină mișcarea rectilinie.
   
-:::
+
 
 <Img src="fizica/clasa6/capitolul3/3_2_1_Poza3_AplicatiiInertie.jpg" />
 
 
 
-:::caution Aplicarea în viața de zi cu zi a noțiunii de inerție
+
 
 **4.**  În spațiul cosmic, unde nu există aer și nici gravitație (nicio interacțiune cu alte corpuri), astronauții sunt în stare de imponderabilitate, datorită inerției.
   
-:::
+
 
 <Img src="fizica/clasa6/capitolul3/3_2_1_Poza4_AplicatiiInertie.jpg" />
 
 
 
-:::caution Aplicarea în viața de zi cu zi a noțiunii de inerție
+
 
 **5.**  Când te afli pe bicicletă pe un drum drept, nu trebuie să pedalezi continuu, datorită inerției, bicicleta mai merge singură o porțiune de drum.
   
-:::
+
 
 
 <Img src="fizica/clasa6/capitolul3/3_2_1_Poza5_AplicatiiInertie.jpg" />
 
 
-:::caution Aplicarea în viața de zi cu zi a noțiunii de inerție
 
 **6.** În sălile de atletism, lângă linia de sosire sunt puse saltele, deoarece  atleții, datorită inerției, nu se pot opri brusc după linia de sosire.
   
-:::
 
 
 <Img src="fizica/clasa6/capitolul3/3_2_1_Poza6_AplicatiiInertie.jpg" />
 
 
-:::caution Aplicarea în viața de zi cu zi a noțiunii de inerție
+
 
 **7.** Praful din haine sau covoare poate fi scos prin scuturare sau batere cu un obiect dur . Când lovim covorul cu bătătorul, praful rămâne în urma covorului, datorită inerției și așa iese din covor.
   
-:::
+
 
 <Img src="fizica/clasa6/capitolul3/3_2_1_Poza7_AplicatiiInertie.jpg" />
 
 
 
-:::caution Aplicarea în viața de zi cu zi a noțiunii de inerție
+
 
 **8.** Separarea mierii din fagure se realizează într-un separator manual, care pune în rotație fagurele cu ajutorul unei manivele. Mierea, datorită proprietății de inerție, va tinde să rămână în urma fagurelui fixat într-o sită metalică și astfel, ea se separă de ceara din fagure.  
   
-:::
+
 
 <Img src="fizica/clasa6/capitolul3/3_2_1_Poza8_AplicatiiInertie.jpg" />
 
 
 
-:::caution Aplicarea în viața de zi cu zi a noțiunii de inerție
+
 
 **9.** Rufele puse în mașina de spălat sunt stoarse în cuva metalică cu găurele, prin rotirea rapidă a cuvei (800- 1400 rotații pe minut) . Rufele ude tin să-și păstreze mișcarea rectilinie și uniformă, dar sunt obligate să se rotească datorită cuvei. Apa poate să iasă prin orificiile mici ale cuvei, dar rufele nu.  
   
-:::
+
 
 <Img src="fizica/clasa6/capitolul3/3_2_1_Poza9_AplicatiiInertie.jpg" />
 
-
+:::
 
 <br></br>
 <br></br>
@@ -1954,11 +1947,14 @@ _Piesa principală a dinamometrului este un resort ce se deformează elastic. Ma
 
 **2) Forța este o mărime fizică** care se caracterizează prin **mărime, direcție, sens și punct de aplicație.** Ea se reprezintă printr-un segment de dreaptă mărginit de un punct și o săgeată.
 
+<Img src="fizica/clasa6/capitolul3/3_3_2_Poza2_PozaForta.jpg" />
+
+
 
 :::
 
 
-<Img src="fizica/clasa6/capitolul3/3_3_2_Poza2_PozaForta.jpg" />
+
 
 
 
@@ -1984,6 +1980,16 @@ De ce când lași liber un corp și nu mai este susținut de mâna ta, de o mas�
 :::
 
 
+:::important
+
+Forța de greutate (notată cu G) acționează întotdeauna pe direcție verticală direcția firului cu plumb), cu sensul în jos.
+
+
+<Img src="fizica/clasa6/capitolul3/3_3_2_Poza2bis_ReprezentareGraficaGreutate.jpg" />
+
+
+
+:::
 
 :::caution Importanța forței de greutate
 
