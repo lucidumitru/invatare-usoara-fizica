@@ -989,7 +989,7 @@ Iată cum se realizează aceste tranformări din multiplii și submultiplii m<su
 
 **1.** Prima etapă trebuie să determinăm volumul unei diviziuni = 1 div = volumul minim dintre două linii consecutive.  Privește cu atenție mensura și găsește  unitate de măsură a cilindrului folosit. Cum procedăm? 
 
-- Privește cu atenție gradațiile cilindrului și scade două gradații consecutive (una după alta) : 50 ml - 40 ml = 10 ml
+- Privește cu atenție gradațiile cilindrului și scade două gradații consecutive (una după alta): 50 ml - 40 ml = 10 ml
 - Numără câte diviziuni sunt între aceste notații : 10 diviziuni = 10 ml
 - Cu regula de trei simplă, aflăm ce volum are o diviziune :
 
@@ -1060,7 +1060,7 @@ Mensura trebuie să stea pe o suprafață orizontală (pe masă). Suprafața lib
 
 
 
-- Pentru **cub** avem formula  volumului :  V = ℓ <sup>3</sup>. **Cubul** este paralelipipedul dreptunghic cu toate muchiile egale. Fețele unui cub au formă de pătrat și sunt congruente.
+- Pentru **cub** avem formula  volumului:  **V = ℓ <sup>3</sup>**. **Cubul** este paralelipipedul dreptunghic cu toate muchiile egale. Fețele unui cub au formă de pătrat și sunt congruente.
 
 
 <Img src="fizica/clasa6/capitolul2/2_250_2_PozaCub.jpg" />
