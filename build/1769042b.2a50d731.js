@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{64:function(a){a.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/invatare-usoara-fizica/blog/welcome"},{"title":"Hello","permalink":"/invatare-usoara-fizica/blog/hello-world"},{"title":"Hola","permalink":"/invatare-usoara-fizica/blog/hola"}]}')}}]);
