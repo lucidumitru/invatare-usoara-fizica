@@ -5,4 +5,4 @@ sidebar_label: IV.Energia şi viaţa
 tags: fizica clasa8 invatare usoara capitolul4 energia şi viaţa
 ---
 
-**În curând...**
+**În curând.**
