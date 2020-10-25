@@ -949,7 +949,7 @@ c) Jupiter (g<sub>Jupiter</sub> = g ∙ 2,5 N/kg)
 
 
 
-### II.4.2. Forța de apăsare normală (N)
+### II.4.2. Forța de apăsare normală (N')
 
 
 #### De ce cad numai corpurile lăsate libere ? De ce un corp poate sta nemișcat pe masă ?
@@ -1084,7 +1084,7 @@ Reacțiunea normală din partea podelei este mare.
 
 
 
-### II.4.3. Forța de apăsare normală (F<sub>f</sub>)
+### II.4.3. Forța de frecare (F<sub>f</sub>)
 
 
 

@@ -38,11 +38,31 @@
 
 .img-responsive2 {
     display: block;
-    width: 50%;
+    width: 100%;
     height: auto;
     margin: 30px auto;
     cursor: zoom-in;
 }
+
+.img-responsive3 {
+    display: inline;
+    width: 15%;
+    height: auto;
+    margin: -20px auto;
+    cursor: zoom-in;
+}
+
+
+/* Pentru poze aliniate la stanga     */
+.img-responsive4 {
+    display: inline-block;
+    width: 100%;
+    height: auto;
+    margin: 0px auto;
+    cursor: zoom-in;
+}
+
+
 
 
 
