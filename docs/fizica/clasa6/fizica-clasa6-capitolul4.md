@@ -385,13 +385,6 @@ La aceeași variație de temperatură, unele corpuri se dilată mai mult, altele
 
 Variația relativă a lungimii unei bare, 
 
-1280 x 200
-
-<Img className="img-responsive2" src="fizica/clasa6/capitolul4/4_2_1_1_Poza1_VariatiaReatiaALungimiiUneiBare_vers2.jpg" /> 
-
-
-1000 x 200
-
 <Img className="img-responsive2" src="fizica/clasa6/capitolul4/4_2_1_1_Poza1_VariatiaReatiaALungimiiUneiBare_vers3.jpg" />
 
 este direct proporțională cu variația temperaturii, Δt.
@@ -399,11 +392,6 @@ este direct proporțională cu variația temperaturii, Δt.
 
 Constanta de proporționalitate dintre cele două variații este chiar coeficientul de dilatare termică liniară .
 
-<Img className="img-responsive2" src="fizica/clasa6/capitolul4/4_2_1_1_Poza2_ConstantaDeProportionalitate_vers2.jpg" />
-
-
-
-1000 x 250 
 
 <Img className="img-responsive2" src="fizica/clasa6/capitolul4/4_2_1_1_Poza2_ConstantaDeProportionalitate_vers3.jpg" />
 
@@ -418,23 +406,6 @@ l<sub>0</sub> = lungimea barei înainte de încălzire
 
 Δt = variația temperaturii barei
 
-1280 x 650
-
-<Img className="img-responsive2" src="fizica/clasa6/capitolul4/4_2_1_1_Poza3_DesenConstantaDeProportionalitate_vers2.jpg" />
-
-
-850 x 650
-
-
-<Img className="img-responsive2" src="fizica/clasa6/capitolul4/4_2_1_1_Poza3_DesenConstantaDeProportionalitate_vers3.jpg" />
-
-
-1000 x 1000
-
-<Img className="img-responsive2" src="fizica/clasa6/capitolul4/4_2_1_1_Poza3_DesenConstantaDeProportionalitate_vers4.jpg" />
-
-
-1000 x 650
 
 <Img className="img-responsive2" src="fizica/clasa6/capitolul4/4_2_1_1_Poza3_DesenConstantaDeProportionalitate_vers5.jpg" />
 
