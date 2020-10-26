@@ -25,11 +25,11 @@ Natura este formată din corpuri. Banca, tabla, cartea, caietul, pietrele, Păm�
 Omul percepe corpurile din natură cu ajutorul simțurilor sale, datorită proprietăților (însușirilor) pe care acestea le au.
 
 
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_11_1_SimturileOmului.jpg" />
 
 
-
-<Img src="fizica/clasa6/capitolul2/2_11_1_Vazul_Mirosul_Pipaitul_Gustul_Auzul.jpg" />
-
+<br></br>
+<br></br>
 
 **Vedem**  culoarea corpurilor, starea lor de agregare, forma lor, transparența, etc.  
 
@@ -70,7 +70,7 @@ Corpurile se deosebesc unele de altele prin anumite proprietăți care le sunt c
 - transparentă (vedem prin ea);
 - ia forma vasului, etc.
 
-<Img src="fizica/clasa6/capitolul2/2_11_2_PaharCuApa.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_11_2_PaharCuApa.jpg" />
 
 
 #### Laptele dintr-un pahar este:
@@ -81,7 +81,7 @@ Corpurile se deosebesc unele de altele prin anumite proprietăți care le sunt c
 - opac (nu vedem prin el);
 - ia forma vasului.
 
-<Img src="fizica/clasa6/capitolul2/2_11_3_PaharCuLapte.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_11_3_PaharCuLapte.jpg" />
 
 
 ### II.1.1.3. Proprietăţi generale.
@@ -145,7 +145,7 @@ De asemenea, **apa** dintr-o sticlă denumeşte un **corp** (forma sticlei), iar
 <br></br>
 
 
-<Img src="fizica/clasa6/capitolul2/2_11_33_1_StarileDeAgregare.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_11_33_1_StarileDeAgregare.jpg" />
 
 
 ### II.1.1.4. Clasificarea şi ordonarea.
@@ -181,9 +181,9 @@ Pentru a înțelege noțiunea de mărime fizică , mai întâi trebuie să clari
 #### Exemple de ordonări:
 - La ora de sport, elevii unei clase se ordonează în ordine crescătoare după înălţime.
 - Dacă am dori să ordonăm cele 3 corpuri din imaginea de la stările de agregare: cub de gheață, apa dintr-o cană și fumul de locomotivă nu o vom putea face, întrucât nu vom găsi niciun criteriu de ordonare, fiindcă ele nu au nicio proprietate comună după care am putea să le aranjăm crescător.
-- Privește cele trei pahare cilindrice. După ce criterii ai putea să le ordonezi?  <Img src="fizica/clasa6/capitolul2/2_11_40_1_3Pahare.jpg" />
-  - Dacă le-ai _ordona după înălțime_ (notată cu h) ai obține  aranjarea în ordine  crescătoare exact ca în  imaginea de mai jos: ```h1 < h2 < h3```. <Img src="fizica/clasa6/capitolul2/2_11_40_2_3PahareOrdonateDupaInaltime.jpg" />
-  - Dacă le-ai _ordona după  diametrul_ (notat cu D) ai obține  aranjarea în ordine  crescătoare exact ca în imaginea de mai jos: ```D1 < D2 < D3``` (**diametrul unui cerc** reprezintă orice segment care are ca extremități două puncte de pe cerc și trece prin centrul cercului).   <Img src="fizica/clasa6/capitolul2/2_11_40_3_3PahareOrdonateDupaDiametru.jpg" />
+- Privește cele trei pahare cilindrice. După ce criterii ai putea să le ordonezi?  <Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_11_40_1_3Pahare.jpg" />
+  - Dacă le-ai _ordona după înălțime_ (notată cu h) ai obține  aranjarea în ordine  crescătoare exact ca în  imaginea de mai jos: ```h1 < h2 < h3```. <Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_11_40_2_3PahareOrdonateDupaInaltime.jpg" />
+  - Dacă le-ai _ordona după  diametrul_ (notat cu D) ai obține  aranjarea în ordine  crescătoare exact ca în imaginea de mai jos: ```D1 < D2 < D3``` (**diametrul unui cerc** reprezintă orice segment care are ca extremități două puncte de pe cerc și trece prin centrul cercului).   <Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_11_40_3_3PahareOrdonateDupaDiametru.jpg" />
 
 
 
@@ -276,19 +276,18 @@ La nivel internațional s-a convenit să existe un sistem unic de mărimi și un
 #### Pentru a exprima faptul că unitatea de măsură a lungimii în SI este metrul vom scrie: 
 
 
-<Logo1 title="Logo1" className="logo" class='svg-responsive3'/>
-
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_11_70_1_UnitateaDeMasuraALungimii.jpg" />
 
 
 și se citește **unitatea de măsură pentru lungime în Sistemul Internațional este metrul**.
 
 #### Pentru a exprima faptul că unitatea de măsură a timpului în SI este secunda vom scrie:
  
-<Logo2 title="Logo2" className="logo" class='svg-responsive3'/>
+ 
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_11_70_1_UnitateaDeMasuraATimpului.jpg" /> 
 
 
-
-și se citește **unitatea de măsură pentru timp în Sistemul Internațional este secunda**.
+și se citește **unitatea de măsură pentru timp în Sistemul Internațional este metrul**.
 
 
 
@@ -304,14 +303,14 @@ Pe parcursul studiului fizicii vei învăța multe mărimi fizice și unitățil
 
 **Multiplii unităților de măsură** - sunt mai mari decât unitatea respectivă de câte ori arată valoarea lor:
 
-<Img src="fizica/clasa6/capitolul2/2_11_90_1_MultipliiUnitatilorMasura.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_11_90_1_MultipliiUnitatilorMasura.jpg" />
 
 
 ### II.1.1.9. Submultiplii unităților de măsură. 
 
 **Submultiplii unităților de măsură** - sunt mai mici decât unitatea respectivă de câte ori arată valoarea lor:
 
-<Img src="fizica/clasa6/capitolul2/2_11_90_2_SubmultipliiUnitatilorMasura.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_11_90_2_SubmultipliiUnitatilorMasura.jpg" />
 
 
 :::note Observaţie
@@ -320,20 +319,33 @@ Când avem de transformat dintr-un submultiplu sau multiplu în unitatea de baz�
 
 Nu uitați, când avem un număr înmulțit cu 10, 100, 1000, ș.a.m.d., se mută virgula numărului spre dreapta peste atâtea cifre câte zerouri avem.
 
+:::
+
+
 **Exemplu:**
 0,7∙1000, mutăm virgula spre dreapta peste 3 cifre și în locurile libere punem zero.
 
-<Img src="fizica/clasa6/capitolul2/2_11_90_3_MutareVirgulaSpreDreapta.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_11_90_3_MutareVirgulaSpreDreapta.jpg" />
+
+
+<br></br>
+<br></br>
+
+
+:::note Observaţie
 
 Nu uitați, când avem un număr înpărțit la 10, 100, 1000, ș.a.m.d., se mută virgula numărului spre stânga peste atâtea cifre câte zerouri avem.
+
+:::
+
+
 
 **Exemplu:**
 43/1000 mutăm virgula spre stânga peste 3 cifre și în locurile libere punem zero.
 
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_11_90_4_MutareVirgulaSpreStanga.jpg" />
 
-<Img src="fizica/clasa6/capitolul2/2_11_90_4_MutareVirgulaSpreStanga.jpg" />
-
-:::
+<br></br>
 
 
 ### II.1.1.10. Caracterizarea unei mărimi fizice.
@@ -367,28 +379,57 @@ Nu uitați, când avem un număr înpărțit la 10, 100, 1000, ș.a.m.d., se mut
 
 - **Fierberea** apei (apa își schimbă starea de agregare, din lichidă în gazoasă);
 
-<Img src="fizica/clasa6/capitolul2/2_100_2_1_FierbereaApei.jpg" />
+
+
+
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_100_2_1_FierbereaApei.jpg" />
+
+
 
 
 - **Mișcarea** corpurilor (schimbarea poziției unui corp față de altul);
 
-<Img src="fizica/clasa6/capitolul2/2_100_2_2_OameniInMiscare.jpg" />
+
+
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_100_2_2_OameniInMiscare.jpg" />
+
+
+
 
 - **Topirea** gheții (apa trece din starea solidă în starea lichidă);
 
-<Img src="fizica/clasa6/capitolul2/2_100_2_3_PaharApaCuGheata_vers2.jpg" />
+
+
+
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_100_2_3_PaharApaCuGheata_vers2.jpg" />
+
+
+
 
 - **Îndulcirea** apei prin amestecarea cu zahăr (apa își schimbă gustul);
 
-<Img src="fizica/clasa6/capitolul2/2_100_2_4_IndulcireaApei.jpg" />
+
+
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_100_2_4_IndulcireaApei.jpg" />
+
+
+
 
 - **Aprinderea** becului (filamentul se încălzește);
 
-<Img src="fizica/clasa6/capitolul2/2_100_2_5_BecAprins.jpg" />
+
+
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_100_2_5_BecAprins.jpg" />
+
+
+
 
 - **Întinderea** unui arc, etc.
 
-<Img src="fizica/clasa6/capitolul2/2_100_2_6_ResortIntins.jpg" />
+
+
+
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_100_2_6_ResortIntins.jpg" />
 
 :::
 
@@ -426,25 +467,25 @@ c)	0,4 cs = ? s
 
 #### II.1.3.3.1.  .................. unui balon
 
-<Img src="fizica/clasa6/capitolul2/2_133_1_UmflareaUnuiBalon.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_133_1_UmflareaUnuiBalon.jpg" />
 
 
 
 #### II.1.3.3.2.  .................. unui arc
 
 
-<Img src="fizica/clasa6/capitolul2/2_133_2_ComprimareaUnuiArc.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_133_2_ComprimareaUnuiArc.jpg" />
 
 
 
 #### II.1.3.3.3.  .................. apei din pahar
 
-<Img src="fizica/clasa6/capitolul2/2_133_3_ColorareaApeiDinPahar.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_133_3_ColorareaApeiDinPahar.jpg" />
 
 
 #### II.1.3.3.4.  .................. dintre doi magneţi
 
-<Img src="fizica/clasa6/capitolul2/2_133_4_AtractiaDintreDoiMagneti.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_133_4_AtractiaDintreDoiMagneti.jpg" />
 
 :::
 
@@ -472,7 +513,7 @@ c)	0,4 cs = ? s
 
 Încă din cele mai vechi timpuri, omul a măsurat diferite lungimi folosind ca unităţi de măsură pasul, cotul, palma etc.
 
-<Img src="fizica/clasa6/capitolul2/2_210_1_MetrulEtalon.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_210_1_MetrulEtalon.jpg" />
 
 
 
@@ -480,11 +521,14 @@ c)	0,4 cs = ? s
 
 #### Instrumente folosite pentru măsurarea lungimilor:
 
-<Img src="fizica/clasa6/capitolul2/2_210_2_InstrumentePentruMasurareaLungimii.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_210_2_InstrumentePentruMasurareaLungimii.jpg" />
 
 #### Măsurarea distanţei cu rigla:
 
-<Img src="fizica/clasa6/capitolul2/2_210_3_RegulaDeMasurareAUneiLungimi.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_210_3_RegulaDeMasurareAUneiLungimi.jpg" />
+
+<br></br>
+<br></br>
 
 
 **Măsurarea distanțelor pe cale indirectă** se poate face pentru obiectele la care nu putem ajunge, pentru terenurile accidentate, mlăștinoase sau cele acoperite cu apă.
@@ -494,7 +538,7 @@ Unele procedee folosite pentru măsurarea indirectă a lungimilor sunt procedee 
 
 ### II.2.1.1. Dimensiunile unui corp în spaţiu.
 
-<Img src="fizica/clasa6/capitolul2/2_210_4_DimensiunileUnuiCorp.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_210_4_DimensiunileUnuiCorp.jpg" />
 
 
 ### II.2.1.2. Eroarea de măsură.
@@ -548,8 +592,10 @@ Existența unor erori de măsură în cazul determinărilor experimentale este n
 - Completează următorul tabel de date experimentale: tu vei trece determinările tale și vei urma pașii după modelul meu. Rezultatul tău nu trebuie să fie la fel cu al meu!
 
 
-<Img src="fizica/clasa6/capitolul2/2_210_5_TabelExperiment1.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_210_5_TabelExperiment1.jpg" />
 
+<br></br>
+<br></br>
 
 
 - Prelucrează datelor experimentale.
@@ -588,7 +634,7 @@ Pentru exemplul nostru: L = 25,9 cm ± 0,06 cm.
 
 - A calculat lm = lungimea medie, adică media aritmetică a celor patru lungimi măsurate. Valoarea 1,2m este mult diferită,  se taie și nu se ia în calculul lungimii medie, fiind o eroare grosolană.
 
-<Img src="fizica/clasa6/capitolul2/2_210_6_ProblemaModel1.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_210_6_ProblemaModel1.jpg" />
  
 
 - A calculat pentru fiecare măsurătoare Δ l = eroarea absolută, care se calculează prin diferența lungimii măsurate și lungimea medie (cea mare minus cea mai mică); Δ l = l1 – lm sau Δ l = lm – l1.
@@ -604,7 +650,7 @@ Pentru exemplul nostru: L = 25,9 cm ± 0,06 cm.
 
 - A calculat Δlm = eroarea medie absolută, care se calculează făcând media aritmetică a celor patru erori absolute.
 
-<Img src="fizica/clasa6/capitolul2/2_210_7_ProblemaModel1.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_210_7_ProblemaModel1.jpg" />
 
 - Florin a scris rezultatul determinării, folosind același număr de zecimale pentru toate numerele (valorile cu două zecimale, prin rotunjire).
 
@@ -705,7 +751,7 @@ Iată cum se realizează aceste transformări din multiplii și submultiplii m<s
 #### Exemple de transformări din multiplii și submultiplii m<sup>2</sup> în m<sup>2</sup>:
 
 
-<Img src="fizica/clasa6/capitolul2/2_220_1_ExempleTransformariArie.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_220_1_ExempleTransformariArie.jpg" />
 
 
 Măsurarea directă a ariei se face folosind **hârtia milimetrică**. Pe aceasta, sunt trasate linii verticale și orizontale subțiri, care delimitează pătrate cu latura de 1 mm și cu suprafața de 1 mm<sup>2</sup> și linii mai groase, care delimitează pătrate cu latura de 1 cm și cu suprafața de 1 cm<sup>2</sup>.
@@ -735,10 +781,8 @@ Măsurarea directă a ariei se face folosind **hârtia milimetrică**. Pe aceast
 - Pentru calcularea ariei frunzei (S), aplică formula : S =n∙Su , unde n = nr.pătrățele și Su = aria unității alese (ori 1cm<sup>2</sup> - cele mari, ori 0,25cm<sup>2</sup> - cele mai mici).
 - Trasează conturul frunzei pe altă hârtie milimetrică și repetă operațiile de mai sus, astfel încât să ai cel puțin trei valori ale ariei frunzei alese de tine.
 
-<Img src="fizica/clasa6/capitolul2/2_220_2_PozaExperimentArie.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_220_2_PozaExperimentArie.jpg" />
 
-
-<Img src="fizica/clasa6/capitolul2/2_220_3_Tabel1_ExperimentArie.jpg" />
 
 
 - Completează tabelul de date experimentale și prelucrează datele din tabel.
@@ -753,7 +797,7 @@ Rezultatul real al ariei frunzei : S = S<sub>medie</sub> ± ΔS<sub>medie</sub> 
 
 
 
-<Img src="fizica/clasa6/capitolul2/2_220_4_Tabel2_ExperimentArie.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_220_3_Tabel1_ExperimentArie.jpg" />
 
 
 **Concluzia experimentului:**
@@ -771,26 +815,26 @@ Aria reală a frunzei este : **S = S<sub>medie</sub> ± ΔS<sub>medie</sub> = 14
 
 #### Măsurarea ariei prin metode indirecte, în cazul suprafețelor cu formă geometrică regulată, se face prin măsurarea dimensiunilor liniare și utilizând formule de calcul:
 
-- Pentru un **dreptunghi** (Dreptunghiul reprezintă un caz particular de paralelogram, care are toate unghiurile drepte), se măsoară  lungimea dreptunghiului  **(L = AB = CD)**  și lățimea dreptunghiului **(l = AD = BC)** și apoi aplicăm formula de calcul: **S = L ∙ l.**
+- Pentru un **dreptunghi** (Dreptunghiul reprezintă un caz particular de paralelogram, care are toate unghiurile drepte), se măsoară  lungimea dreptunghiului  **(L = AB = CD)**  și lățimea dreptunghiului **(l = AD = BC)** și apoi aplicăm formula de calcul: 
 
-<Img src="fizica/clasa6/capitolul2/2_230_1_PozaDreptunghi.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_230_1_PozaDreptunghi.jpg" />
 
-- Pentru un **pătrat** (Pătratul reprezintă un caz particular de dreptunghi, care are toate unghiurile drepte și toate cele patru laturi egale, notate cu **l = latura pătratului = AB = BC = CD = AD**)  se măsoară  latura acestuia și apoi aplicăm formula de calcul: **S = l<sup>2</sup>.**
+- Pentru un **pătrat** (Pătratul reprezintă un caz particular de dreptunghi, care are toate unghiurile drepte și toate cele patru laturi egale, notate cu **l = latura pătratului = AB = BC = CD = AD**)  se măsoară  latura acestuia și apoi aplicăm formula de calcul:
 
-<Img src="fizica/clasa6/capitolul2/2_230_2_PozaPatrat.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_230_2_PozaPatrat.jpg" />
 
 
 - Pentru un **triunghi oarecare** (Triunghiul reprezintă un poligon format din trei laturi care se întâlnesc două câte două, formând trei unghiuri interne) se măsoară o **latură a acestuia (a)** și **înălțimea ei (h)** și apoi aplicăm formula de calcul:
 
 
-<Img src="fizica/clasa6/capitolul2/2_230_3_FormulaTriunghi.jpg" />
-
-<Img src="fizica/clasa6/capitolul2/2_230_3_PozaTriunghi.jpg" />
-
-- Pentru un paralelogram (Paralelogramul reprezintă un patrulater care are laturile opuse paralele și egale) se măsoară **lungimea paralelogramului (b = L = AB = CD)**  și **înălțimea paralelogramului (h = AF)** și apoi aplicăm formula de calcul: **S = b ∙ h.**
 
 
-<Img src="fizica/clasa6/capitolul2/2_230_4_PozaParalelogram.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_230_3_PozaTriunghi.jpg" />
+
+- Pentru un paralelogram (Paralelogramul reprezintă un patrulater care are laturile opuse paralele și egale) se măsoară **lungimea paralelogramului (b = L = AB = CD)**  și **înălțimea paralelogramului (h = AF)** și apoi aplicăm formula de calcul:
+
+
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_230_4_PozaParalelogram.jpg" />
 
 
 :::note Observaţie
@@ -812,12 +856,12 @@ Unități de măsură pentru aria suprafețelor de teren în agricultură folosi
 
 - Notăm datele problemei și facem transformările mărimilor date în SI:
 
-<Img src="fizica/clasa6/capitolul2/2_230_5_ProblemaModelArie_Poza1.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_230_5_ProblemaModelArie_Poza1.jpg" />
 
 
 - Aplicăm formula de calcul a ariei unui dreptunghi și înlocuim datele problemei. Întotdeauna să adaugi la rezultatul obținut unitatea de măsură.
 
-<Img src="fizica/clasa6/capitolul2/2_230_6_ProblemaModelArie_Poza2.jpg" /> 
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_230_6_ProblemaModelArie_Poza2.jpg" /> 
 
 
 
@@ -835,11 +879,11 @@ Unități de măsură pentru aria suprafețelor de teren în agricultură folosi
 
 - Notăm datele problemei și facem transformările mărimilor date în SI:
 
-<Img src="fizica/clasa6/capitolul2/2_230_7_ProblemaModel2Arie_Poza1.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_230_7_ProblemaModel2Arie_Poza1.jpg" />
 
 - Aplicăm formula de calcul a ariei unui triunghi  și înlocuim datele problemei. Întotdeauna să adaugi la rezultatul obținut unitatea de măsură m<sup>2</sup>.
 
-<Img src="fizica/clasa6/capitolul2/2_230_8_ProblemaModel2Arie_Poza2.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_230_8_ProblemaModel2Arie_Poza2.jpg" />
 
 
 :::
@@ -854,12 +898,12 @@ Unități de măsură pentru aria suprafețelor de teren în agricultură folosi
 
 - Notăm datele problemei și facem transformările mărimilor date în SI:
 
-<Img src="fizica/clasa6/capitolul2/2_230_9_ProblemaModel3Arie_Poza1.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_230_9_ProblemaModel3Arie_Poza1.jpg" />
 
 
 - Aplicăm formula de calcul a ariei unui dreptunghi și înlocuim datele problemei. Întotdeauna să adaugi la rezultatul obținut unitatea de măsură. 
 
-<Img src="fizica/clasa6/capitolul2/2_230_10_ProblemaModel3Arie_Poza2.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_230_10_ProblemaModel3Arie_Poza2.jpg" />
 
 
 :::
@@ -897,7 +941,7 @@ b) 4,9 dam<sup>2</sup> = ? m<sup>2</sup>
 
 **3.** Determină aria următorului contur: 
 
-<Img src="fizica/clasa6/capitolul2/2_230_11_Tema3_DeterminaAriaUrmatoruluiContur.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_230_11_Tema3_DeterminaAriaUrmatoruluiContur.jpg" />
 
 :::
 
@@ -956,7 +1000,7 @@ Iată cum se realizează aceste tranformări din multiplii și submultiplii m<su
 #### Exemple de transformări din multiplii și submultiplii m<sup>3</sup> sau ai litrului (L) în m<sup>3</sup>:
 
 
-<Img src="fizica/clasa6/capitolul2/2_240_1_ExempleTransformariVolum.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_240_1_ExempleTransformariVolum.jpg" />
 
 
 #### Pentru a realiza calcule cu transformări trebuie să cunoașteți valorile multiplilor și submultiplilor.
@@ -993,18 +1037,18 @@ Iată cum se realizează aceste tranformări din multiplii și submultiplii m<su
 - Numără câte diviziuni sunt între aceste notații : 10 diviziuni = 10 ml
 - Cu regula de trei simplă, aflăm ce volum are o diviziune :
 
-<Img src="fizica/clasa6/capitolul2/2_240_2_Experiment3_Regula3Simpla.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_240_2_Experiment3_Regula3Simpla.jpg" />
 
 
 **2.** Punem apă în cilindru și îi măsurăm volumul, notat cu V<sub>1</sub> = 35ml. 
 
-<Img src="fizica/clasa6/capitolul2/2_240_3_Experiment3_Poza1.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_240_3_Experiment3_Poza1.jpg" />
 
  
 **3.** Introducem corpul în apa din cilindru. Nivelul lichidului a crescut. Noul volum citit îl vom nota  V<sub>2</sub> = 39ml.
 
 
-<Img src="fizica/clasa6/capitolul2/2_240_4_Experiment3_Poza2.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_240_4_Experiment3_Poza2.jpg" />
 
  
 **4**. Volumul corpului reprezintă diferența dintre V<sub>2</sub> (volum apă+corp) și V<sub>1</sub> (volumul  apei), adică : **V<sub>corp</sub> = V<sub>2</sub> – V<sub>1</sub>.**
