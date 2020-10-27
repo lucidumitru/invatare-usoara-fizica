@@ -1089,7 +1089,7 @@ Mensura trebuie să stea pe o suprafață orizontală (pe masă). Suprafața lib
 
 #### Măsurarea volumului prin metode indirecte, în cazul unor corpuri cu formă geometrică regulată, se face prin măsurarea dimensiunilor liniare și utilizarea formulelor de calcul (în clasa a VIIIa vei învăța și pentru alte corpuri geometrice formule de volum):
 
-- Pentru **paralelipiped** avem formula volumului :   **V = S <sub>baza</sub> ∙ h =  L ∙ l ∙ h**
+- Pentru **paralelipiped** avem formula volumului:  
 
 <Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_250_1_PozaParaleliped.jpg" />
 
@@ -1100,15 +1100,18 @@ Mensura trebuie să stea pe o suprafață orizontală (pe masă). Suprafața lib
 
 
 
+<br></br>
+<br></br>
 
 
 
-
-- Pentru **cub** avem formula  volumului:  **V = ℓ <sup>3</sup>**. **Cubul** este paralelipipedul dreptunghic cu toate muchiile egale. Fețele unui cub au formă de pătrat și sunt congruente.
+- Pentru **cub** avem formula  volumului: 
 
 
 <Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_250_2_PozaCub.jpg" />
 
+
+**Cubul** este paralelipipedul dreptunghic cu toate muchiile egale. Fețele unui cub au formă de pătrat și sunt congruente.
 
 
 :::caution Problemă model
@@ -1301,11 +1304,11 @@ Dacă vi se pare prea complicat, puteți să plecați de la 20:30 până la 21 =
 
 - Pentru a afla numai durata filmului scădem:
 
-<Img src="fizica/clasa6/capitolul2/2_260_4_ProblemaModel1_Formula1.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_260_4_ProblemaModel1_Formula1.jpg" />
 
 - Pentru a afla durata în ore transformăm 18min în h cu regula de 3 simplă:
 
-<Img src="fizica/clasa6/capitolul2/2_260_5_ProblemaModel1_Regula3Simpla.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_260_5_ProblemaModel1_Regula3Simpla.jpg" />
 
 
 
@@ -1356,13 +1359,9 @@ d) 4,6hs =460s
 **3.** Mihai a realizat experimentul nr 4 pentru a măsura perioada de oscilație a unui pendul. El a cronometrat durata în care pendulul a efectuat de fiecare dată câte 10 oscilații și le-a notat în următorul tabel :
 
 
-<Img src="fizica/clasa6/capitolul2/2_261_1_TabelTema3.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_261_1_TabelTema3.jpg" />
 
 Calculează valoarea reală a perioadei pendulului din experimentul lui Mihai.
 
 :::
-
-
-
-.
 
