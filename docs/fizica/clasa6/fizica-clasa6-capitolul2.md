@@ -1278,7 +1278,7 @@ Dacă folosești cronometrul electronic de la telefon, care măsoară și sutimi
 
 **Concluzia experimentului:**
 - Scrie rezultatul măsurătorilor: T = T<sub>mediu</sub> ± ΔT<sub>mediu</sub> = 1,73 ± 0,03(s)
-...
+
 
 <br></br>
 <br></br>
@@ -1364,5 +1364,5 @@ Calculează valoarea reală a perioadei pendulului din experimentul lui Mihai.
 
 
 
-
+.
 
