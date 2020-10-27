@@ -1091,7 +1091,7 @@ Mensura trebuie să stea pe o suprafață orizontală (pe masă). Suprafața lib
 
 - Pentru **paralelipiped** avem formula volumului :   **V = S <sub>baza</sub> ∙ h =  L ∙ l ∙ h**
 
-<Img src="fizica/clasa6/capitolul2/2_250_1_PozaParaleliped.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_250_1_PozaParaleliped.jpg" />
 
 
 <br></br>
@@ -1107,7 +1107,7 @@ Mensura trebuie să stea pe o suprafață orizontală (pe masă). Suprafața lib
 - Pentru **cub** avem formula  volumului:  **V = ℓ <sup>3</sup>**. **Cubul** este paralelipipedul dreptunghic cu toate muchiile egale. Fețele unui cub au formă de pătrat și sunt congruente.
 
 
-<Img src="fizica/clasa6/capitolul2/2_250_2_PozaCub.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_250_2_PozaCub.jpg" />
 
 
 
@@ -1120,12 +1120,12 @@ Mensura trebuie să stea pe o suprafață orizontală (pe masă). Suprafața lib
 - Notăm datele problemei și facem transformările mărimilor date în SI:
 
 
-<Img src="fizica/clasa6/capitolul2/2_250_3_ProblemaModelVolum_Poza1.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_250_3_ProblemaModelVolum_Poza1.jpg" />
 
 
 - Aerul fiind gaz ocupă tot volumul camerei. Aplicăm formula de calcul a volumului unui paralelipiped și înlocuim datele problemei. Întotdeauna să adaugi la rezultatul obținut unitatea de măsură.
 
-<Img src="fizica/clasa6/capitolul2/2_250_4_ProblemaModelVolum_Poza2.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_250_4_ProblemaModelVolum_Poza2.jpg" />
 
 
 :::
@@ -1140,12 +1140,12 @@ Mensura trebuie să stea pe o suprafață orizontală (pe masă). Suprafața lib
 - Notăm datele problemei și facem transformările mărimilor date în SI:
 
 
-<Img src="fizica/clasa6/capitolul2/2_250_5_ProblemaModel2Volum_Poza1.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_250_5_ProblemaModel2Volum_Poza1.jpg" />
 
 
 - Împărțim volumul cafetierei la volumul ceștii:
 
-<Img src="fizica/clasa6/capitolul2/2_250_6_ProblemaModel2Volum_Poza2.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_250_6_ProblemaModel2Volum_Poza2.jpg" />
 
 
   
@@ -1166,7 +1166,7 @@ Mensura trebuie să stea pe o suprafață orizontală (pe masă). Suprafața lib
 
 **3.** Determină volumul corpului din imaginea următoare, știind că în primul cilindru este pusă numai apă, iar în al doilea s-a adăugat în apă din primul cilindru, corpul al cărui volum trebuie să îl determini.
 
-<Img src="fizica/clasa6/capitolul2/2_250_7_Tema1_DeterminaVolumulCorpului.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_250_7_Tema1_DeterminaVolumulCorpului.jpg" />
 
 #### Rezolvare:
 
@@ -1266,11 +1266,11 @@ Dacă folosești cronometrul electronic de la telefon, care măsoară și sutimi
 - Calculează perioada (T) = timpul în care corpul efectuează o oscilație completă, adică timpul în care pendulul a urcat în cealaltă parte și a revenit la poziția inițială (dus-întors). Dacă într-un timp t se efectuează n oscilații complete, atunci perioada (T) se calculează din relația: 
 
 
-<Img src="fizica/clasa6/capitolul2/2_260_2_Experiment4_3Calcule.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_260_2_Experiment4_3Calcule.jpg" />
 
 - Completează un tabel de date experimentale de forma celui de mai jos.
 
-<Img src="fizica/clasa6/capitolul2/2_260_3_Experiment4_Tabel.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_260_3_Experiment4_Tabel.jpg" />
 
 
 

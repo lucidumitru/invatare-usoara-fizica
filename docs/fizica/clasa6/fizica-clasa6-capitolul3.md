@@ -89,12 +89,15 @@ De exemplu: ești în laboratorul de fizică, în bancă, la ora de fizică. În
 Dacă îți alegi ca reper: banca, peretele, tabla, etc. ești în stare de repaus, deoarece față de aceste repere, nu îți schimbi distanța.
 
 Dacă îți alegi ca reper: un călător de pe stradă, o pasăre care zboară pe la fereastra,  Soarele, Luna, etc. ești în stare de mișcare, deoarece față de aceste repere, îți schimbi distanța.
+
+
+:::
+ 
+:::important 
  
 **Spunem că mișcarea și repausul sunt _stări relative_, deoarece ele depind de reperul ales. Deci, putem fi într-un anumit moment de timp, atât în mișcare, cât și în repaus, în funcție de reperul ales.**
 
 Însă, nu putem spune despre un corp că este și în mișcare și în repaus, la un anumit moment și față de același reper.
-
-
 
 :::
 
@@ -216,8 +219,8 @@ Traiectoria este curbilinie :
 
 Pentru a calcula distanța parcursă de un mobil, trebuie să stabilești un punct de referință, numit origine.
 
-- Dacă originea este chiar în reper, notăm cu O ( adică,  x0 = 0 m). 
-- Dacă originea  nu este chiar în reper, notăm cu un alt punct, A (de exemplu,  x1 = 20 km față de reper). 
+- Dacă originea este chiar în reper, notăm cu O ( adică,  x<sub>0</sub> = 0 m). 
+- Dacă originea  nu este chiar în reper, notăm cu un alt punct, A (de exemplu,  x<sub>1</sub> = 20 km față de reper). 
 
 
 
@@ -235,6 +238,7 @@ Pentru a calcula distanța parcursă de un mobil, trebuie să stabilești un pun
 **Distanța (notată cu d sau cu Δx)** parcursă de un mobil este lungimea drumului străbătut de corp, față de un reper.
 
 **d = Δx = x<sub>2</sub> – x<sub>1</sub>**, dacă x<sub>2</sub> > x<sub>1</sub> (mobilul se depărtează de reper)
+
 **d = Δx = x<sub>1</sub> – x<sub>2</sub>**, dacă x<sub>1</sub> > x<sub>2</sub> (mobilul se apropie de reper)
   
 
@@ -256,7 +260,10 @@ Distanța este întotdeauna pozitivă, deci scădem, poziția mai mare minus poz
 **Durata mișcării (notată cu Δt sau t)** reprezintă intervalul de timp în care mobilul a parcurs o anumită distanță .
 
 **Δt = t<sub>2</sub> – t<sub>1</sub>** 
-t<sub>1</sub> = momentul începerii mișcării și t<sub>2</sub> = momentul la care se  încheie mișcarea.
+
+t<sub>1</sub> = momentul începerii mișcării și 
+
+t<sub>2</sub> = momentul la care se  încheie mișcarea.
   
 
 :::
