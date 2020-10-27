@@ -441,7 +441,11 @@ _Piesa principală a dinamometrului este un resort ce se deformează elastic. Ma
 
 :::
 
-<Img src="fizica/clasa7/capitolul2/2_2_Poza1_PozaConstructiaDinamometru.jpg" />
+
+
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_2_Poza1_PozaConstructiaDinamometru_vers2.jpg" />
+
+
 
 
 :::important
@@ -788,7 +792,7 @@ De ce când lași liber un corp și nu mai este susținut de mâna ta, de o mas�
 - Măsoară cu un dinamometru greutățile mai multor corpuri a căror masă o cunoști.
 - Calculează pentru fiecare corp raportul G/m. Trece datele în următorul tabel:
  
-<Img src="fizica/clasa7/capitolul2/2_4_1_Poza2_PozaTabelExperiment8.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_1_Poza2_PozaTabelExperiment8.jpg" />
 
 
 :::note Observaţie
@@ -941,13 +945,13 @@ c) Jupiter (g<sub>Jupiter</sub> = g ∙ 2,5 N/kg)
 
 - Notăm datele problemei și le transformăm în SI:
 
-<Img src="fizica/clasa7/capitolul2/2_4_1_Poza2_DateleProblemeiModel2.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_1_Poza2_DateleProblemeiModel2.jpg" />
 
 
 
 - Efectuăm calculele pentru cele trei situaţii:
 
-<Img src="fizica/clasa7/capitolul2/2_4_1_Poza3_RezolvareaProblemeiModel2.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_1_Poza3_RezolvareaProblemeiModel2.jpg" />
 
 :::
 
@@ -1019,8 +1023,9 @@ Corpul acționează asupra mesei cu o _forță de apăsare normală_ (perpendicu
  
 :::
 
-<Img src="fizica/clasa7/capitolul2/2_4_2_Poza1_FortaDeApasareNormala.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_2_Poza1_FortaDeApasareNormala.jpg" />
 
+<br></br>
 
 
 :::note Observaţie
@@ -1047,7 +1052,7 @@ Corpul acționează asupra mesei cu o _forță de apăsare normală_ (perpendicu
 
 **I.	Când mopul este tras:**
 
-<Img src="fizica/clasa7/capitolul2/2_4_2_Poza2_ReprezentareGrafica_ProblemaModel3.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_2_Poza2_ReprezentareGrafica_ProblemaModel3.jpg" />
 
 
 Pe axa O<sub>x</sub>: F<sub>x</sub> și F<sub>f</sub> , dacă mopul este tras uniform, ele vor fi egale în modul.
@@ -1059,7 +1064,7 @@ Reacțiunea normală din partea podelei este mică.
 
 **II.	Când mopul este împins :**
 
-<Img src="fizica/clasa7/capitolul2/2_4_2_Poza3_ReprezentareGrafica2_ProblemaModel3.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_2_Poza3_ReprezentareGrafica2_ProblemaModel3.jpg" />
 
 
 
@@ -1116,8 +1121,10 @@ Reacțiunea normală din partea podelei este mare.
 :::
 
 
-<Img src="fizica/clasa7/capitolul2/2_4_3_Poza1_PozaFortaFrecare.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_3_Poza1_PozaFortaFrecare.jpg" />
 
+
+<br></br>
 
 
 :::caution Importanța forței de greutate
@@ -1310,18 +1317,18 @@ Când un corp se mișcă uniform pe o suprafață, forța de tracțiune ( F) est
 |F<sub>f</sub>| = |F| =  |G<sub>pahar</sub>| = m<sub>pahar</sub> ∙ g (G<sub>pahar</sub> este greutatea monedelor din pahar și dă valoarea forței de tracțiune)
 
 
-<Img src="fizica/clasa7/capitolul2/2_4_3_Poza1_Calcule1_Experimentul13.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_3_Poza1_Calcule1_Experimentul13.jpg" />
 
 
 
 Forța de apăsare normală (N) este egală cu greutatea monedelor din cutie (G<sub>cutie</sub>) : 
 
-<Img src="fizica/clasa7/capitolul2/2_4_3_Poza2_Calcule2_Experimentul13.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_3_Poza2_Calcule2_Experimentul13.jpg" />
 
 Scriem legea frecării : **F<sub>f</sub> = μ ∙ N** 
 
 
-<Img src="fizica/clasa7/capitolul2/2_4_3_Poza3_Calcule3_Experimentul13.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_3_Poza3_Calcule3_Experimentul13.jpg" />
 
 
 
@@ -1535,22 +1542,27 @@ Forța de frecare la rostogolire este mai mică decât forța de frecare la alun
 
 #### Privește următoarele imagini  și observă cum sunt realizate interacțiunile dintre corpuri: 
 
-
-<Img src="fizica/clasa7/capitolul2/2_4_4_Poza1_Macara.jpg" />
-
 #### Macaraua ridică greutăți prin intermediul unor fire.
 
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_4_Poza1_Macara.jpg" />
 
-<Img src="fizica/clasa7/capitolul2/2_4_4_Poza2_PodSuspendatPeCabluri.jpg" />
+
+<br></br>
 
 
 #### Podul este susținut cu ajutorul unor cabluri și bare de oțel.
 
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_4_Poza2_PodSuspendatPeCabluri.jpg" />
 
-<Img src="fizica/clasa7/capitolul2/2_4_4_Poza3_SanieTrasaDeCaini.jpg" />
 
+<br></br>
 
 #### Câinii trag de firele legate de sanie.
+
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_4_Poza3_SanieTrasaDeCaini.jpg" />
+
+
+
 
 
 <br></br>
@@ -1636,7 +1648,7 @@ Tensiunea din firul ce leagă dinamometrul de corp reprezintă reacțiunea forț
 
 4) Desenează forțele care apar la tragerea unui corp prin intermediul unui fir.
 
-<Img src="fizica/clasa7/capitolul2/2_4_4_Poza4_SchemaProblemaModel4.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_4_Poza4_SchemaProblemaModel4.jpg" />
 
 #### Rezolvare:
 
@@ -1681,13 +1693,13 @@ Un resort alungit sau comprimat este deformat elastic, cu o anumită forță, nu
 
 1)	Aerul are proprietăți elastice, fiind folosit la pneurile roților pentru amortizarea șocurilor sau la diferite obiecte pneumatice (saltele, mingii, baloane, etc.)
 
-<Img src="fizica/clasa7/capitolul2/2_4_5_Poza1_ImportantaForteiElastice_Pneuri.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_5_Poza1_ImportantaForteiElastice_Pneuri.jpg" />
 
 
 2)	Arcurile (resorturile)  sunt folosite pentru  pentru amortizarea șocurilor și vibrațiilor (suspensii de autovehicole , pentru acumulare de energie (arcuri de ceas, rulouri, arcuri de supape), exercitarea unei forţe elastice permanente (cuplaje de siguranţă , reglarea sau limitarea forţelor sau a debitelor (prese, cuplaje de siguranţă, robinete de reglare etc.).
 
 
-<Img src="fizica/clasa7/capitolul2/2_4_5_Poza2_ImportantaForteiElastice_Resorturi.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_5_Poza2_ImportantaForteiElastice_Resorturi.jpg" />
 
 
 #### Resorturile se găsesc în construcția multor obiecte :
