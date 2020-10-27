@@ -12,7 +12,7 @@ import Video from '@site/src/components/Video'
 
 ## Recapitulare Mărimi Fizice Clasa a VII-a
 
-<Img src="fizica/clasa8/capitolul1/0_Poza1_TabelRecapitulareClasa7.jpg" />
+<Img className="img-responsive4" src="fizica/clasa8/capitolul1/0_Poza1_TabelRecapitulareClasa7_vers2.jpg" />
 
 
 <br></br>
@@ -157,11 +157,11 @@ Cerneala picurată în apa caldă se amestecă foarte repede cu apa.
 - Pune borcanul mic cu apa rece în borcanul mai mare cu apa caldă și în fiecare pune câte un termometru. Pornește cronometrul.
 - Urmăreşte indicaţiile termometrului până când acesta rămâne la aceeaşi temperatură, pe care o notezi cu T<sub>e</sub> = ......... °C. Trece temperaturile celor două ape în următorul tabel:
 
-<Img src="fizica/clasa8/capitolul1/1_2_Poza1_Experiment3_Tabel.jpg" />
+<Img className="img-responsive4" src="fizica/clasa8/capitolul1/1_2_Poza1_Experiment3_Tabel.jpg" />
 
 - Realizează graficul dependenței temperaturilor apei reci, respectiv calde în funcție de timp.
 
-<Img src="fizica/clasa8/capitolul1/1_2_Poza2_Experiment3_Grafic.jpg" />
+<Img className="img-responsive4" src="fizica/clasa8/capitolul1/1_2_Poza2_Experiment3_Grafic.jpg" />
 
 
 
@@ -185,7 +185,7 @@ Două corpuri cu temperaturi diferite, puse în contact termic, după un anumit 
 
 În 1848, fizicianul britanic **William Thomson (lord Kelvin)** a propus o scară de temperatură care să nu depindă de nicio substanță, numită **scară absolută**, care a fost aleasă ca **unitate de măsură în Sistemul Internațional**. Scara Kelvin nu are temperaturi negative.
 
-**[ T ] <sub>SI</sub> = K (Kelvin)**
+**[T]<sub>SI</sub> = K (Kelvin)**
 
 _La temperatura de zero absolut (0 Kelvin= - 273°C), mișcarea termică încetează._ 
 
@@ -196,7 +196,7 @@ _La temperatura de zero absolut (0 Kelvin= - 273°C), mișcarea termică încete
 
 Relația dintre scara Kelvin și scara Celsius:
 
-<Img src="fizica/clasa8/capitolul1/1_2_Poza3_Experiment3_FormulaKelvin_Celsius.jpg" />
+<Img className="img-responsive4" src="fizica/clasa8/capitolul1/1_2_Poza3_Experiment3_FormulaKelvin_Celsius.jpg" />
 
 
 
@@ -213,7 +213,7 @@ Scara Fahrenheit a fost propusă în 1724 de către fizicianul **Daniel Gabriel 
 Relația de transformare între scara Celsius t(°C) și Fahrenheit  tF (°F):
 
 
-<Img src="fizica/clasa8/capitolul1/1_2_Poza4_Experiment3_FormulaGradeFahrenheit.jpg" />
+<Img className="img-responsive4" src="fizica/clasa8/capitolul1/1_2_Poza4_Experiment3_FormulaGradeFahrenheit.jpg" />
 
 
 :::caution Problemă model
@@ -223,7 +223,7 @@ Relația de transformare între scara Celsius t(°C) și Fahrenheit  tF (°F):
 
 #### Rezolvare:
 
-<Img src="fizica/clasa8/capitolul1/1_2_Poza5_ProblemaModel1.jpg" />
+<Img className="img-responsive4" src="fizica/clasa8/capitolul1/1_2_Poza5_ProblemaModel1.jpg" />
 
 :::
 
@@ -595,7 +595,7 @@ _Cristalele încep să se dizolve în apă, punând în evidență  formarea cur
 **Descrierea experimentului:** 
 - Desenează o spirală pe foaie și decupeaz-o cu foafecele.
 
-<Img src="fizica/clasa8/capitolul1/1_4_2_Poza1_Experiment9_PozaSpirala.jpg" />
+<Img className="img-responsive4" src="fizica/clasa8/capitolul1/1_4_2_Poza1_Experiment9_PozaSpirala.jpg" />
 
 
 
@@ -639,7 +639,8 @@ Cum este îndreptată flacăra lumânării : spre interiorul camerei sau spre ex
 
 **Răspuns corect:** spre interior.
 
-<Img src="fizica/clasa8/capitolul1/1_4_2_Poza2_ProblemaModel1.jpg" />
+<Img className="img-responsive4" src="fizica/clasa8/capitolul1/1_4_2_Poza2_ProblemaModel1.jpg" />
+
 
 :::
 
@@ -653,7 +654,8 @@ Cum este îndreptată flacăra lumânării : spre interiorul camerei sau spre ex
 
 **Răspuns corect:** spre exterior.
 
-<Img src="fizica/clasa8/capitolul1/1_4_2_Poza3_ProblemaModel2.jpg" />
+<Img className="img-responsive4" src="fizica/clasa8/capitolul1/1_4_2_Poza3_ProblemaModel2.jpg" />
+
 
 
 :::
@@ -809,7 +811,7 @@ _Apa din flaconul negru are temperatura mai mare decât cea din flaconul alb._
 **1.** Privește imaginea următoare și descoperă formele de propagare ale căldurii.
 
 
-<Img src="fizica/clasa8/capitolul1/1_4_3_Poza1_Experiment11_PozaIbric.jpg" />
+<Img className="img-responsive4" src="fizica/clasa8/capitolul1/1_4_3_Poza1_Experiment11_PozaIbric.jpg" />
 
 
 - Ibricul cu apă se încălzește de la flacăra aragazului prin ……………………
@@ -850,7 +852,8 @@ Invenția motorului cu ardere internă cu piston, în patru timpi, cu aprindere 
 Cuvântul _motor_ provine din limba latina și înseamnă “care produce miscare”.
 
 
-<Img src="fizica/clasa8/capitolul1/1_5_0_Poza1_Motorul-Termic.jpg" />
+<Img className="img-responsive4" src="fizica/clasa8/capitolul1/1_5_0_Poza1_Motorul-Termic.jpg" />
+
 
 
 
@@ -861,7 +864,7 @@ Cuvântul _motor_ provine din limba latina și înseamnă “care produce miscar
 :::
 
 
-<Img src="fizica/clasa8/capitolul1/1_5_0_Poza2_FormulaRandamentuluiMotoruluiTermic.jpg" />
+<Img className="img-responsive4" src="fizica/clasa8/capitolul1/1_5_0_Poza2_FormulaRandamentuluiMotoruluiTermic.jpg" />
 
 
 :::note Observaţie
@@ -1033,7 +1036,7 @@ Coeficienții calorici reprezintă mărimile fizice care caracterizează schimbu
 
 **Căldura specifică** este o constantă de material și o găsim în tabelul cu constante de la sfârșitul acestui capitol.
 
-<Img src="fizica/clasa8/capitolul1/1_6_1_Poza1_FormulaCalduriiSpecifice.jpg" />
+<Img className="img-responsive4" src="fizica/clasa8/capitolul1/1_6_1_Poza1_FormulaCalduriiSpecifice.jpg" />
 
 
 
@@ -1041,7 +1044,7 @@ Coeficienții calorici reprezintă mărimile fizice care caracterizează schimbu
 
 _Căldurile specifice pot avea valori diferite pentru aceași substanță dacă aceasta se găsește în stări de agregare diferite._
 
-c<sub>apă</sub> ≠ c<sub>gheaţă</sub>
+**c<sub>apă</sub> ≠ c<sub>gheaţă</sub>**
 
 :::
 
@@ -1058,7 +1061,7 @@ c<sub>apă</sub> ≠ c<sub>gheaţă</sub>
 
 **Căldura specifică** este o constantă de material și o găsim în tabelul cu constante de la sfârșitul acestui capitol.
 
-<Img src="fizica/clasa8/capitolul1/1_6_2_Poza1_FormulaCapacitatiiCalorice.jpg" />
+<Img className="img-responsive4" src="fizica/clasa8/capitolul1/1_6_2_Poza1_FormulaCapacitatiiCalorice.jpg" />
 
 
 
@@ -1120,29 +1123,30 @@ _Apa rece va  primi căldură, iar cilindrul de cupru este corpul cald, care ced
 - Neglijăm capacitatea calorică a calorimetrului, pentru simplificarea calculelor.
 - **Δt<sub>1</sub> =  t<sub>e</sub> – t<sub>1</sub>** = variația (creșterea) temperaturii apei (scădem temperatura finală din cea inițială).
 - **Δt<sub>2</sub> = t<sub>2</sub> – t<sub>e</sub>** = variația (scăderea) temperaturii cilindrului (scădem temperatura inițială din cea finală , astfel încât variația temperaturii să fie tot timpul pozitivă).
+
 - Scriem ecuația calorimetrică : **Q<sub>cedată</sub> = Q<sub>primită</sub>**
 
+  - **Q<sub>primită</sub> = m<sub>1</sub> ∙ c<sub>1</sub> ∙ Δt<sub>1</sub> =  m<sub>1</sub> ∙ c<sub>1</sub> ∙ (t<sub>e</sub> – t<sub>1</sub>)** 
 
-Q<sub>primită</sub> = m<sub>1</sub> ∙ c<sub>1</sub> ∙ Δt<sub>1</sub> =  m<sub>1</sub> ∙ c<sub>1</sub> ∙ (t<sub>e</sub> – t<sub>1</sub>) 
+  - **Q<sub>cedată</sub> = m<sub>2</sub> ∙ c<sub>2</sub> ∙ Δt<sub>2</sub> = m<sub>2</sub> ∙ c<sub>2</sub> ∙ (t<sub>2</sub> – t<sub>e</sub>)**
 
-Q<sub>cedată</sub> = m<sub>2</sub> ∙ c<sub>2</sub> ∙ Δt<sub>2</sub> = m<sub>2</sub> ∙ c<sub>2</sub> ∙ (t<sub>2</sub> – t<sub>e</sub>)
-
-m<sub>1</sub> ∙ c<sub>1</sub> ∙ (t<sub>e</sub> – t<sub>1</sub>) =  m<sub>2</sub> ∙ c<sub>2</sub> ∙ (t<sub>2</sub> – t<sub>e</sub>)
+  - **m<sub>1</sub> ∙ c<sub>1</sub> ∙ (t<sub>e</sub> – t<sub>1</sub>) =  m<sub>2</sub> ∙ c<sub>2</sub> ∙ (t<sub>2</sub> – t<sub>e</sub>)**
 
 
 - Obţinem formula pentru determinarea căldurii specifice a cuprului: 
 
 
-<Img src="fizica/clasa8/capitolul1/1_6_2_Poza2_FormulaCalduraSpecificaCupru.jpg" />
+<Img className="img-responsive4" src="fizica/clasa8/capitolul1/1_6_2_Poza2_FormulaCalduraSpecificaCupru.jpg" />
 
 - Înlocuim în formulă valorile din experimentul nostru:
 
-<Img src="fizica/clasa8/capitolul1/1_6_2_Poza3_FormulaCalduraSpecificaCupruCuValori.jpg" />
+<Img className="img-responsive4" src="fizica/clasa8/capitolul1/1_6_2_Poza3_FormulaCalduraSpecificaCupruCuValori.jpg" />
 
 
 
 
-
+<br></br>
+<br></br>
 
 
 **Concluzia experimentului:**
@@ -1298,7 +1302,7 @@ Comparăm cu căldura specifică a cuprului din tabel (385 J/kg∙K) și observ�
 
 
 
-<Img src="fizica/clasa8/capitolul1/1_6_2_Poza4_GraficProblemaModel3.jpg" />
+<Img className="img-responsive4" src="fizica/clasa8/capitolul1/1_6_2_Poza4_GraficProblemaModel3.jpg" />
 
 
 - Care sunt temperaturile inițiale ale celor două corpuri  și care este corpul rece, respectiv cald?
@@ -1541,18 +1545,19 @@ La **gaze** forțele de atracție dintre particule sunt foarte mici (neglijabile
 
 :::
 
-<Img src="fizica/clasa8/capitolul1/1_7_0_Poza1_Experiment17_SolideLichideGaze.jpg" />
+<Img className="img-responsive4" src="fizica/clasa8/capitolul1/1_7_0_Poza1_Experiment17_SolideLichideGaze.jpg" />
 
 
 <br></br>
-
+<br></br>
+<br></br>
 
 
 ## I.8. Transformări de stări de agregare.
 
 În următoarea schemă sunt definite toate cele șase fenomene care au loc cu schimbarea stării de agregare:
 
-<Img src="fizica/clasa8/capitolul1/1_8_0_Poza1_SchemaSchimbareStariDeAgregare.jpg" />
+<Img className="img-responsive4" src="fizica/clasa8/capitolul1/1_8_0_Poza1_SchemaSchimbareStariDeAgregare.jpg" />
 
 
 Fenomenele care au loc cu schimbarea stării de agregare se studiază pe perechi, fiecare pereche având două fenomene opuse.
@@ -1640,7 +1645,11 @@ La unele substanțe (apa, fonta, bismutul), _temperatura de topire scade la cre�
 Presiunea mare exercitată de lamele ascuțite ale patinelor și pe care se distribuie greutatea patinatorilor, face ca gheața să se topească. Apa de sub lame facilitează alunecarea patinelor. 
 
 
-<Img src="fizica/clasa8/capitolul1/1_8_1_Poza1_Observatia1LaLegea1ATopirii.jpg" />
+
+
+
+<Img className="img-responsive4" src="fizica/clasa8/capitolul1/1_8_1_Poza1_Observatia1LaLegea1ATopirii_vers2.jpg" />
+
 
 
 
@@ -2000,7 +2009,7 @@ Atenţie când lucrezi cu surse de foc!  Fă experimentul numai în prezenţa un
 
 
 
-<Img src="fizica/clasa8/capitolul1/1_8_2_Poza1_Experimentul22_Tabel.jpg" />
+<Img className="img-responsive4" src="fizica/clasa8/capitolul1/1_8_2_Poza1_Experimentul22_Tabel.jpg" />
 
 
 - Ce observi ?
@@ -2014,7 +2023,10 @@ _Apa începe să fiarbă la 100°C. Pe parcursul fierberii, temperatura apei ră
 - Reprezintă graficul dependenței temperaturii în funcție de timp.
 
 
-<Img src="fizica/clasa8/capitolul1/1_8_2_Poza2_Experimentul22_Grafic.jpg" />
+
+<Img className="img-responsive4" src="fizica/clasa8/capitolul1/1_8_2_Poza2_Experimentul22_Grafic_vers2.jpg" />
+
+
 
 - Fenomenele corespunzătoare fiecărui segment sunt :
 
@@ -2037,14 +2049,19 @@ Observație: Temperaturile de fierbere din tabelul cu constantele de material su
 
 :::
 
+<br></br>
+
 **Oala sub presiune**
 
-<Img src="fizica/clasa8/capitolul1/1_8_2_Poza3_Experimentul22_OalaSubPresiune.jpg" />
+<Img className="img-responsive4" src="fizica/clasa8/capitolul1/1_8_2_Poza3_Experimentul22_OalaSubPresiune.jpg" />
 
+
+
+<br></br>
 
 **Autoclava**
 
-<Img src="fizica/clasa8/capitolul1/1_8_2_Poza4_Experimentul22_Autoclava.jpg" />
+<Img className="img-responsive4" src="fizica/clasa8/capitolul1/1_8_2_Poza4_Experimentul22_Autoclava.jpg" />
 
 
 
@@ -2539,15 +2556,18 @@ Căldura cedată de un combustibil, prin arderea sa, este direct proporțională
 Fiecare combustibil este caracterizat de o constantă de material, numită putere calorică (notată cu q), pe care o luăm din tabelul următor.
 
 
-<Img src="fizica/clasa8/capitolul1/1_10_Poza1_TabelCuPuteriCalorice.jpg" />
+<Img className="img-responsive4" src="fizica/clasa8/capitolul1/1_10_Poza1_TabelCuPuteriCalorice.jpg" />
 
 
 
 :::important
 
 **Căldura degajată de un combustibil prin ardere** depinde de masa combustibilului ( m ) și de puterea calorică a combustibilului ( q) și are următoarea formulă :
+
 Q = m ∙ q
+
 m = masa (cantitatea) de combustibil ars (kg)
+
 q = puterea calorică a combustibilului (kJ/kg).
 
 
@@ -2578,7 +2598,7 @@ q = puterea calorică a combustibilului (kJ/kg).
     
 
 
-<Img src="fizica/clasa8/capitolul1/1_10_Poza2_Ecuatia1ProblemaExperimentala1.jpg" /> 
+<Img className="img-responsive4" src="fizica/clasa8/capitolul1/1_10_Poza2_Ecuatia1ProblemaExperimentala1.jpg" /> 
 
 
 
@@ -2597,7 +2617,7 @@ q = puterea calorică a combustibilului (kJ/kg).
   - q<sub>2</sub> = ?
 
   
-<Img src="fizica/clasa8/capitolul1/1_10_Poza3_Ecuatia2ProblemaExperimentala1.jpg" />
+<Img className="img-responsive4" src="fizica/clasa8/capitolul1/1_10_Poza3_Ecuatia2ProblemaExperimentala1.jpg" />
 
  
 Compar valoarea obținută experimental cu puterea calorică a alcoolului din tabel 23855 KJ/kg și observ că valoarea mea depășește valoarea din tabel (datorită erorilor de măsură).
@@ -2631,7 +2651,7 @@ Compar valoarea obținută experimental cu puterea calorică a alcoolului din ta
 
 - Scriem formula randamentului  și a căldurii degajată de combustibil :
 
-<Img src="fizica/clasa8/capitolul1/1_10_Poza4_Ecuatia1ProblemaExperimentala2.jpg" />
+<Img className="img-responsive4" src="fizica/clasa8/capitolul1/1_10_Poza4_Ecuatia1ProblemaExperimentala2.jpg" />
 
 
 
@@ -2651,6 +2671,6 @@ Compar valoarea obținută experimental cu puterea calorică a alcoolului din ta
 
 
 
-<Img src="fizica/clasa8/capitolul1/1_11_Poza1_TabelCuConstanteDeMaterial.jpg" />
+<Img className="img-responsive4" src="fizica/clasa8/capitolul1/1_11_Poza1_TabelCuConstanteDeMaterial.jpg" />
 
 
