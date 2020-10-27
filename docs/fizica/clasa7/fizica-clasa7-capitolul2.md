@@ -452,7 +452,7 @@ _Piesa principală a dinamometrului este un resort ce se deformează elastic. Ma
 :::
 
 
-<Img src="fizica/clasa7/capitolul2/2_2_Poza2_PozaForta.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_2_Poza2_PozaForta.jpg" />
 
 
 
@@ -534,14 +534,14 @@ Datorită greutății, bila coboară accelerat. După ce ajunge la fundul vasulu
 #### Ecuația vectorială este:
 
 
-<Img src="fizica/clasa7/capitolul2/2_3_2_Poza1_EcuatiaVectorialaPrincipiulFundamentalMecanica.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_3_2_Poza1_EcuatiaVectorialaPrincipiulFundamentalMecanica.jpg" />
 
 
 
 Aplicând principiul fundamental al mecanicii clasice pentru deplasarea unui corp sub acțiunea greutății, se obține relația dintre greutate, masă și accelerația gravitațională: 
 
 
-<Img src="fizica/clasa7/capitolul2/2_3_2_Poza2_EcuatiaVectorialaPrincipiulFundamentalMecanica_Greutate.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_3_2_Poza2_EcuatiaVectorialaPrincipiulFundamentalMecanica_Greutate.jpg" />
 
 
 
@@ -619,7 +619,10 @@ Dacă acționăm asupra unui corp de masă _m_ cu o forță _F_, atunci corpul s
 
 :::note Observaţie
 
-F<sub>2</sub> = F<sub>1</sub>
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_3_3_Poza0_EcuatiaVectorialaExperiment7.jpg" />
+
+Cele două forțe au aceeași direcție, dar sens opus.
+
 
 :::
 
@@ -653,8 +656,12 @@ Cele două forțe sunt egale în modul, cu acceași direcție și sensuri opuse.
 
 „Dacă un corp acționează asupra altui corp cu o forță numită acțiune (F<sub>1</sub>), atunci și cel de- al doilea corp va acționa asupra primului corp cu o altă forță numită reacțiune (F<sub>2</sub>), care are același modul și aceeași direcție cu acțiunea, dar sens opus“.  
 
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_3_3_Poza0_EcuatiaVectorialaPrincipiulActiuniiSiReactiunii.jpg" />
 
 :::
+
+
+
 
 
 #### Forțele acțiune și reacțiune sunt forțe pereche.
@@ -667,7 +674,7 @@ Cele două forțe sunt egale în modul, cu acceași direcție și sensuri opuse.
 :::
 
 
-<Img src="fizica/clasa7/capitolul2/2_3_3_Poza1_Exemplul1_PtrPrincipiulActiuniiSiReactiunii.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_3_3_Poza1_Exemplul1_PtrPrincipiulActiuniiSiReactiunii.jpg" />
 
 
 :::caution Exemple care ilustrează Principiul acțiunii și reacțiunii
@@ -676,7 +683,7 @@ Cele două forțe sunt egale în modul, cu acceași direcție și sensuri opuse.
 
 :::
 
-<Img src="fizica/clasa7/capitolul2/2_3_3_Poza2_Exemplul2_PtrPrincipiulActiuniiSiReactiunii.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_3_3_Poza2_Exemplul2_PtrPrincipiulActiuniiSiReactiunii.jpg" />
 
 
 :::caution Exemple care ilustrează Principiul acțiunii și reacțiunii
@@ -685,7 +692,7 @@ Cele două forțe sunt egale în modul, cu acceași direcție și sensuri opuse.
 
 :::
 
-<Img src="fizica/clasa7/capitolul2/2_3_3_Poza3_Exemplul3_PtrPrincipiulActiuniiSiReactiunii.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_3_3_Poza3_Exemplul3_PtrPrincipiulActiuniiSiReactiunii.jpg" />
 
 
 :::caution Exemple care ilustrează Principiul acțiunii și reacțiunii
@@ -694,7 +701,7 @@ Cele două forțe sunt egale în modul, cu acceași direcție și sensuri opuse.
 
 :::
 
-<Img src="fizica/clasa7/capitolul2/2_3_3_Poza4_Exemplul4_PtrPrincipiulActiuniiSiReactiunii.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_3_3_Poza4_Exemplul4_PtrPrincipiulActiuniiSiReactiunii.jpg" />
 
 
 
@@ -727,7 +734,7 @@ De ce când lași liber un corp și nu mai este susținut de mâna ta, de o mas�
 
 **Forța de greutate (notată cu G) acționează întotdeauna pe direcție verticală a locului respectiv (direcția firului cu plumb), cu sensul în jos ( spre centrul Pământului). Are ca punct de aplicație centrul de greutate al corpului (C).**
 
-<Img src="fizica/clasa7/capitolul2/2_4_1_Poza1_FortaDeGreutate.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_1_Poza1_FortaDeGreutate.jpg" />
 
 
 
