@@ -1585,6 +1585,7 @@ Forța de frecare la rostogolire este mai mică decât forța de frecare la alun
 <Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_4_Poza2_PodSuspendatPeCabluri.jpg" />
 
 
+
 <br></br>
 
 #### Câinii trag de firele legate de sanie.
@@ -1721,15 +1722,18 @@ Un resort alungit sau comprimat este deformat elastic, cu o anumită forță, nu
 
 :::caution Importanța forței elastice care apare în corpurile elastice :
 
-1)	Aerul are proprietăți elastice, fiind folosit la pneurile roților pentru amortizarea șocurilor sau la diferite obiecte pneumatice (saltele, mingii, baloane, etc.)
+1)	**Aerul** are proprietăți elastice, fiind folosit la pneurile roților pentru amortizarea șocurilor sau la diferite obiecte pneumatice (saltele, mingii, baloane, etc.)
 
 <Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_5_Poza1_ImportantaForteiElastice_Pneuri.jpg" />
 
 
-2)	Arcurile (resorturile)  sunt folosite pentru  pentru amortizarea șocurilor și vibrațiilor (suspensii de autovehicole , pentru acumulare de energie (arcuri de ceas, rulouri, arcuri de supape), exercitarea unei forţe elastice permanente (cuplaje de siguranţă , reglarea sau limitarea forţelor sau a debitelor (prese, cuplaje de siguranţă, robinete de reglare etc.).
+<br></br>
+
+2)	**Arcurile (resorturile)** sunt folosite pentru pentru amortizarea șocurilor și vibrațiilor (suspensii de autovehicole , pentru acumulare de energie (arcuri de ceas, rulouri, arcuri de supape), exercitarea unei forţe elastice permanente (cuplaje de siguranţă , reglarea sau limitarea forţelor sau a debitelor (prese, cuplaje de siguranţă, robinete de reglare etc.).
 
 
-<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_5_Poza2_ImportantaForteiElastice_Resorturi.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_5_Poza2_ImportantaForteiElastice_Resorturi_vers3.jpg" />
+
 
 
 #### Resorturile se găsesc în construcția multor obiecte :
@@ -1759,17 +1763,19 @@ Un resort alungit sau comprimat este deformat elastic, cu o anumită forță, nu
 - Şaua bicicletei sau motocicletei este aşezată pe arcuri, pentru atenuarea zdruncinărilor în timpul mersului
 
 
-3)	Arc cu săgeți sau arbaletă pentru vânătoare.
+<br></br>
 
+3)	**Arc cu săgeți sau arbaletă pentru vânătoare.**
 
 <Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_5_Poza3_ImportantaForteiElastice_ArcCuSageti_vers3.jpg" />
 
 
 
 <br></br>
+<br></br>
 
 
-4)	Coardă elastică în bungee jumping
+4)	**Coarda elastică** în bungee jumping
 
 <Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_5_Poza4_ImportantaForteiElastice_BungeeJumping.jpg" />
 
@@ -2422,5 +2428,8 @@ Dacă forța de frecare la alunecare se poate neglija, se poate observa că for�
 
 
 :::
+
+
+
 
 

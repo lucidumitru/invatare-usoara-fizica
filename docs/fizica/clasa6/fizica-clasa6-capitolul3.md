@@ -860,7 +860,7 @@ Observăm că în intervale de timp egale (de 4s), fata parcurge distanțe din c
 
 :::tip Experiment
 
-**1.** De ce moneda cade în pahar ?
+**1.** Inerția unei monede
 
 :::
 
@@ -912,7 +912,7 @@ Când tragi de carton, schimbi  starea de repaus în care se afla moneda. Moneda
 
 :::tip Experiment
 
-**2.** Ou crud sau ou fiert ?
+**2.** Inerția unui ou
 
 :::
 
@@ -954,7 +954,7 @@ Oul crud are inerția mai mare decât cel fiert, deoarece se opune mai mult la s
 
 :::tip Experiment
 
-**3.** Inerția și autobuzul.
+**3.** Inerția autobuzului
 
 :::
 
@@ -1303,7 +1303,7 @@ Prin cântărire ca balanţa sau cântarul obţinem masa corpului.
 
 :::tip Experiment
 
-**6.** Un raport constant.	
+**6.** Densitatea, o constantă de material	
 
 :::
 
@@ -1450,7 +1450,7 @@ Raportul dintre masa și volumul corpului reprezintă densitatea corpului.
 
 :::tip Experiment distractiv
 
-**7bis.** Stratificarea lichidelor
+**7bis.** Stratificarea lichidelor după densitate
 
 :::
 
@@ -1525,7 +1525,7 @@ Raportul dintre masa și volumul corpului reprezintă densitatea corpului.
 
 :::tip Experiment
 
-**8.** Interacțiuni de la distanță.
+**8.** Interacțiuni de la distanță
 
 :::
 
@@ -1630,7 +1630,7 @@ Efectele interacțiunii sunt de două feluri:
 
 :::tip Experiment
 
-**9.** Efectul dinamic al interacțiunii.
+**9.** Efectul dinamic al interacțiunii
 
 :::
 
@@ -2080,9 +2080,30 @@ Raportul dintre greutatea unui corp și masa lui se numește **accelerație grav
 #### Caracterizarea forței de greutate ca mărime fizică:
 
 #### •	Simbol: G
-#### •	Formulă de calcul: G = m∙g, unde m = masa corpului(în kg) și g = accelerația gravitațională a Pământului de 9,8 N/kg.
-#### •	Unitatea de măsură în Sistemul Internațional: [G]<sub>SI</sub> = N (Newton)
-#### •	Instrumente de măsură: dinamometru.
+#### •	Formulă de calcul: 
+
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_3_1_Poza2bis_FormulaGreutatii.jpg" />
+
+unde m = masa corpului(în kg) și 
+
+g = accelerația gravitațională a Pământului de 9,8 N/kg.
+
+
+<br></br>
+
+#### •	Unitatea de măsură în Sistemul Internațional: 
+
+
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_3_1_Poza2bis2_UnitateaDeMasuraAGreutatii.jpg" />
+
+<br></br>
+<br></br>
+
+
+#### •	Instrumente de măsură: 
+
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/2_4_1_Poza2bis3_InstrumentDeMasuraAGreutatii.jpg" />
+
 :::
 
 
@@ -2140,7 +2161,7 @@ m = ?
 
 :::tip Experiment
 
-**14.** Mișcarea bilei pe diferite suprafețe
+**14.** Forța de frecare și felul suprafeței
 
 :::
 
@@ -2255,13 +2276,13 @@ Un resort alungit sau comprimat este deformat elastic, cu o anumită forță, nu
 
 1)	Aerul are proprietăți elastice, fiind folosit la pneurile roților pentru amortizarea șocurilor sau la diferite obiecte pneumatice (saltele, mingii, baloane, etc.)
 
-<Img src="fizica/clasa6/capitolul3/3_3_3_3_Poza1_ImportantaForteiElastice_Pneuri.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_3_3_3_Poza1_ImportantaForteiElastice_Pneuri.jpg" />
 
 
 2)	Arcurile (resorturile)  sunt folosite pentru  pentru amortizarea șocurilor și vibrațiilor (suspensii de autovehicole , pentru acumulare de energie (arcuri de ceas, rulouri, arcuri de supape), exercitarea unei forţe elastice permanente (cuplaje de siguranţă , reglarea sau limitarea forţelor sau a debitelor (prese, cuplaje de siguranţă, robinete de reglare etc.).
 
 
-<Img src="fizica/clasa6/capitolul3/3_3_3_3_Poza2_ImportantaForteiElastice_Resorturi.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_3_3_3_Poza2_ImportantaForteiElastice_Resorturi.jpg" />
 
 
 #### Resorturile se găsesc în construcția multor obiecte :
@@ -2293,12 +2314,12 @@ Un resort alungit sau comprimat este deformat elastic, cu o anumită forță, nu
 
 3)	Arc cu săgeți sau arbaletă pentru vânătoare.
 
-<Img src="fizica/clasa6/capitolul3/3_3_3_3_Poza3_ImportantaForteiElastice_ArcCuSageti.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_3_3_3_Poza3_ImportantaForteiElastice_ArcCuSageti.jpg" />
 
 
 4)	Coardă elastică în bungee jumping
 
-<Img src="fizica/clasa6/capitolul3/3_3_3_3_Poza4_ImportantaForteiElastice_BungeeJumping.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_3_3_3_Poza4_ImportantaForteiElastice_BungeeJumping.jpg" />
 
 
 :::
@@ -2386,7 +2407,7 @@ Legea deformării elastice ne arată că forța deformatoare (F) este egală în
 
 :::caution Problemă model
 
-11) Un resort are lungimea inițială de 6cm și când este deformat are 10 cm. Știind  că resortul are 40 N /m, determină:
+11) Un resort are lungimea inițială de 6cm și când este deformat are 10 cm. Știind că resortul are 40 N /m, determină:
 
 a)	Forța deformatoare.
 
@@ -2406,7 +2427,7 @@ d)	Reprezintă cele două forțe ce acționează asupra resortului .
 
 
 
-a) Scriem legea deformării elastice : |F| = |F<sub>e</sub> | = k ∙ ΔL
+a) Scriem legea deformării elastice: |F| = |F<sub>e</sub>| = k ∙ ΔL
 
 
 <Img src="fizica/clasa6/capitolul3/3_3_3_3_Poza7_RezolvarePunctulAProblemaModel11.jpg" />
@@ -2433,6 +2454,14 @@ Forța elastică (F<sub>e</sub>) o desenăm un segment cu săgeată orientat în
 
 <br></br>
 <br></br>
+<br></br>
+
+
+
+#### REȚINE
+
+
+
 
 
 
