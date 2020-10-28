@@ -1617,9 +1617,9 @@ _Gheața începe să se topească la 0°C. Pe parcursul topirii (de la apariția
 :::
 
 
-#### Legile topirii / solificării:
 
-:::important Definiţie
+
+:::important Legile topirii / solificării:
 
 **I.** Fiecare substanță începe să se topească (să se solidifice) la o anumită temperatură, numită **temperatură de topire (notată cu T<sub>t</sub> )**,  care este o constantă de material (o luăm din tabel). 
 
@@ -1631,9 +1631,8 @@ _Gheața începe să se topească la 0°C. Pe parcursul topirii (de la apariția
 :::
 
 
-#### Observații la legea I a topirii / solidificării:
 
-:::note Observaţie
+:::note Observații la legea I a topirii / solidificării
 
 **1.** Temperaturile de topire ale substanțelor din tabelul cu constante de material sunt pentru _presiuni normale_. Pentru marea majoritatea substanțelor, la creșterea presiunii, crește și temperatura de topire.  
 
@@ -1657,14 +1656,14 @@ Presiunea mare exercitată de lamele ascuțite ale patinelor și pe care se dist
 
 
 
-:::note Observaţie
+:::note Observații la legea I a topirii / solidificării
 
 **2.** Există anumite substanțe numite amorfe (care nu au structură cristalină- exemple: ceara, sticla, smoala, cauciucuri, mase plastice), care nu au un punct fix de topire, ele topindu-se într-un anumit interval de temperatură. 
 
 :::
 
 
-:::note Observaţie
+:::note Observații la legea I a topirii / solidificării
 
 **3.** În timpul topirii (respectiv a solidificării) volumul substanței se modifica astfel: majoritatea substanțelor își măresc volumul la topire și și-l micșorează la solidificare. Excepții avem la apa, fonta și bismutul, care își măresc volumul la solidificarere (aceasta este anomalia apei).  
 
@@ -1672,9 +1671,9 @@ Presiunea mare exercitată de lamele ascuțite ale patinelor și pe care se dist
 
 
 
-#### Legile topirii / solificării:
 
-:::important Definiţie
+
+:::important Legile topirii / solificării
 
 **II.** **Pe parcursul topirii unei substanțe** (de la apariția primei picături până la topirea ultimului cristal), temperatura de topire rămâne constantă, dacă presiunea ramâne constantă. 
 
@@ -2034,9 +2033,9 @@ _Apa începe să fiarbă la 100°C. Pe parcursul fierberii, temperatura apei ră
   - DE reprezintă fierberea apei
 
 
-#### Legile fierberii:
 
-:::important Definiţie
+
+:::important Legile fierberii:
 
 **I.** Fiecare lichid începe să fiarbă la o anumită temperatură numită temperatură de fierbere, T<sub>f</sub>  care este o constantă de material (tabel).
 
@@ -2070,9 +2069,9 @@ Observație: Temperaturile de fierbere din tabelul cu constantele de material su
 
 
 
-#### Legile fierberii:
 
-:::important Definiţie
+
+:::important Legile fierberii
 
 **II.** Pe parcursul fierberii unui lichid (de la primul clocot până la vaporizarea completă) **temperatura de fierbere este constantă, la aceeași presiune.**
 

@@ -790,6 +790,7 @@ De ce când lași liber un corp și nu mai este susținut de mâna ta, de o mas�
 **Descrierea experimentului:** 
 
 - Măsoară cu un dinamometru greutățile mai multor corpuri a căror masă o cunoști.
+
 - Calculează pentru fiecare corp raportul G/m. Trece datele în următorul tabel:
  
 <Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_1_Poza2_PozaTabelExperiment8.jpg" />
@@ -825,9 +826,30 @@ Raportul dintre greutatea unui corp și masa lui se numește **accelerație grav
 #### Caracterizarea forței de greutate ca mărime fizică:
 
 #### •	Simbol: G
-#### •	Formulă de calcul: G = m∙g, unde m = masa corpului(în kg) și g = accelerația gravitațională a Pământului de 9,8 N/kg.
-#### •	Unitatea de măsură în Sistemul Internațional: [G]<sub>SI</sub> = N (Newton)
-#### •	Instrumente de măsură: dinamometru.
+#### •	Formulă de calcul: 
+
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_1_Poza2bis_FormulaGreutatii.jpg" />
+
+unde m = masa corpului(în kg) și 
+
+g = accelerația gravitațională a Pământului de 9,8 N/kg.
+
+
+<br></br>
+
+#### •	Unitatea de măsură în Sistemul Internațional: 
+
+
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_1_Poza2bis2_UnitateaDeMasuraAGreutatii.jpg" />
+
+<br></br>
+<br></br>
+
+
+#### •	Instrumente de măsură: 
+
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_1_Poza2bis3_InstrumentDeMasuraAGreutatii.jpg" />
+
 :::
 
 
@@ -852,6 +874,7 @@ Raportul dintre greutatea unui corp și masa lui se numește **accelerație grav
 **Descrierea experimentului:** 
 
 - Pregătește o tavă în care să pui făină (pesmet).
+
 - Ridică ambele mingii la aceeași înălțime deasupra tăvii și dă-le drumul în același timp . Care minge atinge prima solul ? Cum sunt urmele lăsate în făină de cele două mingii ?
 
 
@@ -890,14 +913,21 @@ a) Orice planetă sau stea exercită o forță de atracție asupra corpurilor af
 b) Greutatea este o forță care se manifestă la distanță prin intermediul câmpului gravitațional din jurul Pământului.
 
 
+:::
+
+
+:::important
+
 c)	Accelerația gravitațională (implicit și greutatea corpului) suferă mici variații pe Pământ în funcție de altitudine și latitudine.
 
-- Cu cât altitudinea crește, cu atât și accelerația gravitațională scade, deoarece ne îndepărtăm de centru Pământului ( centrul atracției gravitaționale).
+- Cu cât altitudinea crește, cu atât accelerația gravitațională scade, deoarece ne îndepărtăm de centrul Pământului (centrul atracției gravitaționale).
 
 - Accelerația gravitațională mai depinde și de latitudine, datorită faptului că Terra nu este o sferă perfectă, ci una turtită la poli și bombată la ecuator. Prin urmare , polii (nord și sud) sunt mai aproape de centrul Pământului decât ecuatorul și accelerația gravitațională la poli este mai mare decât cea la ecuator.
 
 
-g<sub>Pol</sub> ≅ 9,83 m/s2   și  g<sub>Ecuator</sub> ≅ 9,78 m/s2.
+**g<sub>Pol</sub> ≅ 9,83 m/s<sup>2</sup>**   și  
+
+**g<sub>Ecuator</sub> ≅ 9,78 m/s<sup>2</sup>**.
 
 
 
@@ -1731,12 +1761,17 @@ Un resort alungit sau comprimat este deformat elastic, cu o anumită forță, nu
 
 3)	Arc cu săgeți sau arbaletă pentru vânătoare.
 
-<Img src="fizica/clasa7/capitolul2/2_4_5_Poza3_ImportantaForteiElastice_ArcCuSageti.jpg" />
+
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_5_Poza3_ImportantaForteiElastice_ArcCuSageti_vers3.jpg" />
+
+
+
+<br></br>
 
 
 4)	Coardă elastică în bungee jumping
 
-<Img src="fizica/clasa7/capitolul2/2_4_5_Poza4_ImportantaForteiElastice_BungeeJumping.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_5_Poza4_ImportantaForteiElastice_BungeeJumping.jpg" />
 
 
 :::
