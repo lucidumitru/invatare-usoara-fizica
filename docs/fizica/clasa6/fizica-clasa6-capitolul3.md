@@ -342,6 +342,12 @@ t<sub>2</sub> = momentul la care se  încheie mișcarea.
 
 
 
+<Video src="https://www.youtube.com/embed/30TtBvVVFCQ" />
+
+
+
+
+
 
 :::note Observaţie
 
@@ -2458,7 +2464,7 @@ Forța elastică (F<sub>e</sub>) o desenăm un segment cu săgeată orientat în
 
 
 
-#### REȚINE
+
 
 
 
