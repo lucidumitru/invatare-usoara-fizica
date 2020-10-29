@@ -274,7 +274,7 @@ t<sub>2</sub> = momentul la care se  încheie mișcarea.
 
 :::caution Problemă model
 
-3) Un biciclist pleacă de la kilometrul 20 la ora 12:00 și ajunge la kilometrul 60, la ora 13:30. Ce distanță a parcurs biciclistul și cât a durat mișcarea?
+1) Un biciclist pleacă de la kilometrul 20 la ora 12:00 și ajunge la kilometrul 60, la ora 13:30. Ce distanță a parcurs biciclistul și cât a durat mișcarea?
 
 
 #### Scriem datele problemei:
@@ -342,7 +342,7 @@ t<sub>2</sub> = momentul la care se  încheie mișcarea.
 
 
 
-<Video src="https://www.youtube.com/embed/30TtBvVVFCQ" />
+
 
 
 
@@ -375,35 +375,6 @@ c)	Viteza are pe lângă valoare numerică și **orientare, adică direcție și
 Fata din imagine se deplasează cu o viteză de 1,2m/s, pe direcție orizontală, sensul spre dreapta. Indicând valoarea numerică (1,2), unitatea de măsură (m/s), direcția (orizontală) și sensul (spre dreapta), am caracterizat complet viteza fetei.
 
 
-
-:::
-
-
-
-
-
-
-:::caution Problemă model
-
-4) Diana locuiește la o distanță D = 2 km față de școală. Într-o zi, ea aplecat de acasă la ora 7:10. După ce parcurge un sfert din distanță, realizează că și-a uitat proiectul la fizică și se întoarce să îl ia. La ora 7:50 ajunge la școală. Să se determine viteza medie a Dianei, în m/s, km/h.
-
-
-
-
-#### Scriem datele problemei:
-
-- D = 2km = 2000m
-
-- t<sub>1</sub> = 7:10
-
-- t<sub>2</sub> = 7:50
-
-
-
-<Img src="fizica/clasa6/capitolul3/3_1_3_Poza5_CalculProblemaModel.jpg" /> 
-
-
-Dacă poți reține, o viteză exprimată în m/s poate fi transformată în km/h, prin înmulțirea valorii ei cu **3,6.**
 
 :::
 
@@ -450,6 +421,45 @@ Dacă poți reține, o viteză exprimată în m/s poate fi transformată în km/
 
 
 :::
+
+
+
+
+<Video src="https://www.youtube.com/embed/30TtBvVVFCQ" />
+
+
+
+<br></br>
+
+
+
+
+
+:::caution Problemă model
+
+1) Diana locuiește la o distanță D = 2 km față de școală. Într-o zi, ea aplecat de acasă la ora 7:10. După ce parcurge un sfert din distanță, realizează că și-a uitat proiectul la fizică și se întoarce să îl ia. La ora 7:50 ajunge la școală. Să se determine viteza medie a Dianei, în m/s, km/h.
+
+#### Scriem datele problemei:
+
+- D = 2km = 2000m
+
+- t<sub>1</sub> = 7:10
+
+- t<sub>2</sub> = 7:50
+
+
+
+<Img src="fizica/clasa6/capitolul3/3_1_3_Poza5_CalculProblemaModel.jpg" /> 
+
+
+Dacă poți reține, o viteză exprimată în m/s poate fi transformată în km/h, prin înmulțirea valorii ei cu **3,6.**
+
+:::
+
+
+
+
+
 
 
 
@@ -544,22 +554,22 @@ x = x<sub>0</sub> - v ∙ (t - t<sub>0</sub>) când mobilul se apropie de reper.
 
 :::caution Problemă model
 
-5) Antrenorul Luizei a cronometrat mișcarea ei pe pista de 100m și a trecut datele mișcării în următorul tabel.
+1) Antrenorul Luizei a cronometrat mișcarea ei pe pista de 100m și a trecut datele mișcării în următorul tabel.
 
 <Img src="fizica/clasa6/capitolul3/3_1_4a_Poza2_TabelProblemaModel1.jpg" />
 
 
-1)	Ce fel de mișcare are Luiza ?
-2)	Calculează viteza medie.
-3)	Determină legea mișcării.
+a)	Ce fel de mișcare are Luiza ?
+b)	Calculează viteza medie.
+c)	Determină legea mișcării.
 
 #### Rezolvare:
 
 
-1) Observăm în tabel faptul că, Luiza parcurge distanțe egale (25 m) în intervale de timp egale ( 3s).  Deci, Luiza are o mișcare rectilinie și uniformă. Atenție, dacă corpul are viteză constantă, obligatoriu traiectoria este rectilinie. În mișcarea curbilinie și în cea de rotație, viteza nu poate fi constantă. 
+a) Observăm în tabel faptul că, Luiza parcurge distanțe egale (25 m) în intervale de timp egale ( 3s).  Deci, Luiza are o mișcare rectilinie și uniformă. Atenție, dacă corpul are viteză constantă, obligatoriu traiectoria este rectilinie. În mișcarea curbilinie și în cea de rotație, viteza nu poate fi constantă. 
 
 
-2)
+b)
 
 <Img src="fizica/clasa6/capitolul3/3_1_4a_Poza3_Ecuatia1ProblemaModel1.jpg" />
 
@@ -567,7 +577,7 @@ x = x<sub>0</sub> - v ∙ (t - t<sub>0</sub>) când mobilul se apropie de reper.
 Când viteza ne dă cu perioadă, este bine să lucrăm cu fracție ireductibilă (25/3).
 
 
-3)	Înlocuim în legea mișcării pe x<sub>0</sub>, v și pe t<sub>0</sub> :
+c)	Înlocuim în legea mișcării pe x<sub>0</sub>, v și pe t<sub>0</sub> :
 
 
 <Img src="fizica/clasa6/capitolul3/3_1_4a_Poza4_Ecuatia2ProblemaModel1.jpg" />
@@ -655,7 +665,7 @@ Folosind graficul mișcării putem afla mai multe informații referitoare la mod
 
 :::caution Problemă model
 
-6) Graficul mișcării unui mobil este reprezentat în figura următoare : 
+2) Graficul mișcării unui mobil este reprezentat în figura următoare : 
 
 <Img src="fizica/clasa6/capitolul3/3_1_4b_Poza2_GraficulMiscariiProblemaModel.jpg" />
 
@@ -823,7 +833,7 @@ Cel mai cunoscut exemplu de **mișcarea rectilinie uniform accelerată** este c�
 
 :::caution Problemă model
 
-7) Privește cu atenție datele despre mișcarea fetei. Cum determinăm tipul mișcării ei ? 
+1) Privește cu atenție datele despre mișcarea fetei. Cum determinăm tipul mișcării ei ? 
 
 Observăm că în intervale de timp egale (de 4s), fata parcurge distanțe din ce în ce mai mari. Dacă calculăm vitezele pe fiecare porțiune, acestea cresc. Vitezele cresc cu valori egale ( Δv =1 m/s) în intervale de timp egale ( Δt = 4s). Cum accelerația este raportul dintre variația vitezei pe intervalul de timp, rezultă că mișcarea este rectilinie uniform accelerată.
 
@@ -836,7 +846,7 @@ Observăm că în intervale de timp egale (de 4s), fata parcurge distanțe din c
 
 :::caution Problemă model
 
-8) Pentru a intra într-o depășire, o mașină care se deplasează cu o viteză de 54 km/h, accelerează cu 4 m/s2 . La ce viteză ajunge mașina după 5 s ?
+2) Pentru a intra într-o depășire, o mașină care se deplasează cu o viteză de 54 km/h, accelerează cu 4 m/s2 . La ce viteză ajunge mașina după 5 s ?
 
 
 - Notăm datele problemei  și le transformăm în SI:
@@ -1199,7 +1209,7 @@ Masa unui corp arată și cantitatea de materie conținută de corp. Atenție! �
 
 :::caution Problemă model
 
-9) O minge de tenis de câmp și una de baschet se mișcă cu aceeași viteză. Pe care o oprești mai ușor ?
+1) O minge de tenis de câmp și una de baschet se mișcă cu aceeași viteză. Pe care o oprești mai ușor ?
 
 
 #### Rezolvare:
@@ -1469,7 +1479,7 @@ Raportul dintre masa și volumul corpului reprezintă densitatea corpului.
 
 :::caution Problemă model
 
-9) Cât cântărește un litru de ulei alimentar ? Din tabel luăm densitatea uleiului.
+1) Cât cântărește un litru de ulei alimentar ? Din tabel luăm densitatea uleiului.
 
 
 #### Rezolvare:
@@ -1478,13 +1488,13 @@ Raportul dintre masa și volumul corpului reprezintă densitatea corpului.
 
 - Notăm datele problemei și le transformăm în SI:
 
-<Img src="fizica/clasa6/capitolul3/3_2_4_Poza5_DateleProblemeiModel9.jpg" />
+<Img src="fizica/clasa6/capitolul3/3_2_4_Poza5_DateleProblemeiModel1.jpg" />
 
 
 - Scriem formula densității și scoatem necunoscuta:
 
 
-<Img src="fizica/clasa6/capitolul3/3_2_4_Poza6_RezolvareaProblemeiModel9.jpg" />
+<Img src="fizica/clasa6/capitolul3/3_2_4_Poza6_RezolvareaProblemeiModel1.jpg" />
 
 
 
@@ -1824,7 +1834,7 @@ Deformările în care corpul nu mai revine la forma inițială sunt deformări p
 <br></br>
 
 
-### III.3.2. Forţa, măsură a interacţiunii. Unitate de măsură pentru forță.   Dinamometrul.
+### III.3.2. Forţa, măsură a interacţiunii. Unitate de măsură pentru forță. Dinamometrul.
 
 
 :::tip Experiment
@@ -1944,7 +1954,7 @@ F = 0,2 N.
 
 :::important
 
-**1)	Dinamometrul seamănă cu un cântar de mână, dar mărimea fizică pe care o măsoară nu este masa în kg, ci forța în Newton (N).**
+**1) Dinamometrul seamănă cu un cântar de mână, dar mărimea fizică pe care o măsoară nu este masa în kg, ci forța în Newton (N).**
  
 Este adevărat că și cântarul măsoară greutatea corpului suspendat de el, însă la cântar gradațiile sunt transformate în unități de masă ( grame, kilograme).
 
@@ -2127,7 +2137,7 @@ Deci, dacă am călători pe alte planete, acestea ne-ar atrage cu diferite for�
 
 :::caution Problemă model
 
-10) Cât cântărește un corp cu o greutate de 1kN ?
+1) Cât cântărește un corp cu o greutate de 1kN ?
 
 
 #### Rezolvare:
@@ -2146,7 +2156,7 @@ m = ?
 - Scriem formula greutății și scotem necunoscuta :
 
 
-<Img src="fizica/clasa6/capitolul3/3_3_3_1_Poza2_PozaRezolvareProblemaModel10.jpg" />
+<Img src="fizica/clasa6/capitolul3/3_3_3_1_Poza2_PozaRezolvareProblemaModel1.jpg" />
 
 
 
@@ -2429,14 +2439,14 @@ d)	Reprezintă cele două forțe ce acționează asupra resortului .
 
 - Notăm datele problemei și le transformăm în SI:
 
-<Img src="fizica/clasa6/capitolul3/3_3_3_3_Poza6_DateleInitialeProblemaModel11.jpg" />
+<Img src="fizica/clasa6/capitolul3/3_3_3_3_Poza6_DateleInitialeProblemaModel2.jpg" />
 
 
 
 a) Scriem legea deformării elastice: |F| = |F<sub>e</sub>| = k ∙ ΔL
 
 
-<Img src="fizica/clasa6/capitolul3/3_3_3_3_Poza7_RezolvarePunctulAProblemaModel11.jpg" />
+<Img src="fizica/clasa6/capitolul3/3_3_3_3_Poza7_RezolvarePunctulAProblemaModel2.jpg" />
 
 
 b) Forța elastică (Fe) este egală în modul cu forța deformatoare (F).

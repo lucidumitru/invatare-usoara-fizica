@@ -2418,7 +2418,7 @@ m = masa substanței (în kg)
 
 
  
-## I.10. Călduri latente.
+## I.10. Combustibilii.
 
 
 :::important Definiţie
