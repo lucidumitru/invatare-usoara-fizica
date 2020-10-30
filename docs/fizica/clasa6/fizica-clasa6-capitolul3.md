@@ -381,35 +381,66 @@ Fata din imagine se deplasează cu o viteză de 1,2m/s, pe direcție orizontală
 
 :::note Recorduri minime și maxime de viteze
 
-- Melcul are o viteză de 1,5 cm/min (0,0009 km/h).
+<br></br>
+
+- **Melcul are o viteză de 1,5 cm/min (0,0009 km/h).**
 
 <Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_3_Poza6_VitezaMelc.jpg" />
 
-- Viteza unui atlet jamaican pe pista de 100m este de 9,58 m/s (34,5 km/h).
+
+<br></br>
+<br></br>
+
+
+- **Viteza unui atlet jamaican pe pista de 100m este de 9,58 m/s (34,5 km/h).**
 
 <Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_3_Poza7_VitezaAlergator.jpg" />
 
-- Peștele evantai poate atinge o viteză de 110 km/h.
+
+<br></br>
+<br></br>
+
+
+- **Peștele evantai poate atinge o viteză de 110 km/h.**
 
 <Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_3_Poza8_VitezaPesteEvantai.jpg" />
 
-- Ghepardul poate atinge o viteză de 113 km/h.
+
+<br></br>
+<br></br>
+
+
+- **Ghepardul poate atinge o viteză de 113 km/h.**
 
 <Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_3_Poza8bis_VitezaGhepard.jpg" />
 
-- Șoimul călător deține recordul în lumea păsărilor cu o viteză de 320 km/h.
 
+<br></br>
+<br></br>
+
+- **Șoimul călător deține recordul în lumea păsărilor cu o viteză de 320 km/h.**
 
 <Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_3_Poza9_VitezaSoimCalator.jpg" />
 
-- Un tren japonez cu levitație magnetică a atins o viteză record de 603 km/h.
+<br></br>
+<br></br>
 
-<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_3_Poza10_VitezaTrenCuLevitatieMagnetica.jpg" />
+- **Un tren japonez cu levitație magnetică a atins o viteză record de 603 km/h.**
 
 
-- X-15, un avion de luptă deține recordul pentru cel mai rapid avion care poate fi condus de om, atingând o viteză de 6,7 Mach (8200 km/h).
+
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_3_Poza10_VitezaTrenCuLevitatieMagnetica_vers2.jpg" />
+
+
+<br></br>
+<br></br>
+
+- **X-15, un avion de luptă deține recordul pentru cel mai rapid avion care poate fi condus de om, atingând o viteză de 6,7 Mach (8200 km/h).**
 
 <Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_3_Poza11_VitezaAvionX15.jpg" />
+
+<br></br>
+<br></br>
 
 - **Recordul absolut în domeniul vitezelor îl deține lumina, cu cea mai mare viteză de 300.000 km/s (1.080.000.000 km/h).**
 
@@ -508,7 +539,7 @@ v<sub>m</sub> = ? m/s, km/h
 
 :::caution Problemă model
 
-3) Transformă vitezele următoare în m/s :
+3) Transformă vitezele următoare în m/s:
 
 <Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_3_Poza15bis_Cerinta_ProblemaModel3.jpg" />
 
@@ -655,9 +686,7 @@ Pentru a determina legea mișcării rectilinii uniforme, plecăm de la formula  
 
 **Legea mișcării rectilinii uniforme:** 
 
-x = x<sub>0</sub> + v ∙ (t - t<sub>0</sub>)  când mobilul se depărtează de reper
-
-x = x<sub>0</sub> - v ∙ (t - t<sub>0</sub>) când mobilul se apropie de reper.
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_4a_Poza1bis_LegeaMiscariiRectiliniiUniformePeAlbastru.jpg" />
 
 :::
 
@@ -673,8 +702,11 @@ x = x<sub>0</sub> - v ∙ (t - t<sub>0</sub>) când mobilul se apropie de reper.
 
 
 a)	Ce fel de mișcare are Luiza ?
+
 b)	Calculează viteza medie.
+
 c)	Determină legea mișcării.
+
 
 #### Rezolvare:
 
@@ -971,15 +1003,245 @@ Observăm că în intervale de timp egale (de 4s), fata parcurge distanțe din c
 <Video src="https://www.youtube.com/embed/DHe-GVJcZ6Q" />
 
 
+<br></br>
+
 
 - Notăm datele problemei  și le transformăm în SI:
 
 <Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_6_Poza2_DateleProblemeiModel2.jpg" />
 
+
+<br></br>
+<br></br>
+
 - Scriem formula accelerației și scoatem necunoscuta, v<sub>2</sub>:
 
 
 <Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_6_Poza3_RezolvareaProblemaModel2.jpg" />
+
+:::
+
+
+
+<br></br>
+<br></br>
+
+
+
+### III.1.7. Sinteză recapitulativă  - Mișcare și Repaus 
+
+
+:::important
+
+
+
+**Un corp este în stare de mișcare** atunci când corpul își schimbă poziția (sau distanța) față de reperul ales. 
+
+
+
+**Un corp este în stare de repaus** atunci când corpul nu își schimbă poziția (sau distanța) față de reperul ales. 
+
+
+#### Caracterizarea vitezei medii ca mărime fizică:
+
+#### •	Simbol: v<sub>m</sub> sau v
+#### •	Formula de calcul:
+
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_3_Poza1_FormulaDeCalcul.jpg" />
+
+#### •	Unitatea de măsură în Sistemul Internațional:
+
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_3_Poza2_UnitateDeMasura.jpg" />
+
+#### •	Instrumente de măsură: vitezometrul, aflat la bordul tuturor mașinilor.
+
+
+ 
+#### A)	Clasificarea mișcării după traiectorie:
+
+- Mișcare rectilinie, în care traiectoria este o linie dreaptă.
+
+- Mișcare curbilinie, în care traiectoria este o linie curbă.
+
+- Mișcare de rotație, în care traiectoria este un cerc.
+
+
+
+#### B)	Clasificarea mișcării după viteză: 
+
+- Mișcare uniformă, în care viteza este constantă (nu i se schimbă valoarea).
+
+- Mișcare variat accelerată, în care viteza crește.
+
+- Mișcare variat frânată, în care viteza scade.
+
+
+
+
+
+
+**În mișcarea rectilinie uniformă:**
+
+**- Mobilul parcurge distanțe egale în intervale de timp egale.**
+
+**- Viteza momentană este egală cu viteza medie.**
+
+
+**Viteza își păstrează valoarea numerică, direcția și sensul mișcării.**
+
+
+**Legea mișcării rectilinii uniforme:** 
+
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_4a_Poza1bis_LegeaMiscariiRectiliniiUniformePeAlbastru.jpg" />
+
+
+_Folosind graficul mișcării putem afla mai multe informații referitoare la modul în care se deplasează un mobil:_
+
+- graficul mișcării rectilinii și uniforme este o dreaptă.
+
+- dacă mobilul este în repaus, graficul mișcării este o dreaptă orizontală.
+
+- pentru a desena graficul mișcării este suficient să reprezentăm minim două puncte, care unite, vor determina dreapta graficului.
+
+- dreapta care reprezintă mișcarea rectilinie și uniformă este mai înclinată (formează un unghi mai mare cu orizontala) atunci când viteza este mai mare.
+
+
+:::
+
+
+
+
+:::caution Problemă model
+
+În următorul tabel se dau datele mișcării a două mobile M<sub>1</sub> și M<sub>2</sub>.
+
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_7_Poza1_TabelProblemaModel.jpg" />
+
+
+a) Determină pozițiile mobilului M2, știind legea de mișcare x<sub>M2</sub> = 30 + 12∙ t
+
+b) Realizează graficele mișcării celor două mobile.
+
+**Etaloane:**
+
+1cm = 30 m
+
+1cm = 5s
+
+
+c) Care este poziția celor două mobile la t = 20 s ?
+
+d) Determină viteza medie a celor două mobile.
+
+e) Scrie legea de mișcare pentru mobilul M1.
+
+
+
+#### Rezolvare:
+
+<Video src="https://www.youtube.com/embed/7EvS-3eY7Qw" />
+
+<br></br>
+
+a) x<sub>M2</sub> = 30 + 12 ∙ t
+
+x<sub>0M2</sub> = 30 + 12 ∙ 0 = 30 m
+
+x<sub>1M2</sub> = 30 + 12 ∙ 5 = 90 m
+
+x<sub>2M2</sub> = 30 + 12 ∙ 30 = 390 m
+
+x<sub>3M2</sub> = 30 + 12 ∙ 40 = 510 m
+
+
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_7_Poza2_TabelProblemaModel_Completat.jpg" />
+
+
+<br></br>
+<br></br>
+
+b)	Graficul de mișcare al celor două mobile:
+
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_7_Poza3_GraficMiscare.jpg" />
+
+
+<br></br>
+<br></br>
+
+
+c) Pentru M<sub>1</sub>: la t = 20 s avem poziția x = 120 m.
+
+Pentru M<sub>2</sub>: la t = 20 s avem poziția x = 270 m.
+
+
+d)
+
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_7_Poza4_RezolvareLiteraD.jpg" />
+
+
+<br></br>
+<br></br>
+
+
+e) x<sub>M1</sub> = x<sub>0</sub> + v(t – t<sub>0</sub>) = 0 + 6 ∙ t = 6t
+
+:::
+
+
+
+
+
+
+:::important
+
+ 
+**Accelerația medie (a<sub>medie</sub> sau a<sub>m</sub>) este mărimea fizică egală cu raportul dintre variația vitezei (creșterea sau scăderea ei) și durata în care s-a produs această variație.   
+ 
+
+
+
+
+#### Caracterizarea accelerației ca mărime fizică:
+
+#### •	Simbol: a<sub>m</sub> sau a
+#### •	Formula de calcul:
+
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_5_Poza3_FormulaCalculAcceleratieMedie.jpg" />
+
+#### •	Unitatea de măsură în Sistemul Internațional:
+
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_5_Poza4_UnitateDeMasuraAAcceleratieiMedii.jpg" />
+
+#### •	Instrumente de măsură: accelerometrul.
+
+
+
+
+
+
+**Mișcarea rectilinie uniform variată** este mișcarea unui mobil pe o traiectorie rectilinie și cu accelerație constantă.
+ 
+
+
+
+
+
+#### În mișcarea rectilinie uniform accelerată:
+
+- Mobilul parcurge distanțe din ce în ce mai mari, în intervale de timp egale.
+
+- Accelerația momentană  este egală cu accelerația  medie, fiind constante.
+
+- Accelerația și viteza au aceeași direcție și sens, ca și cel al mișcării.
+
+
+ 
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_6_Poza1_MiscareRectilinieUniformVariata.jpg" />
+
+
+
+
+
 
 :::
 
@@ -1162,7 +1424,7 @@ Inerția unui corp se manifestă doar când asupra lui acționează un alt corp,
 
 **1.** Când suntem în mijloacele de transport în comun, este obligatoriu să ne ținem de bare, pentru a nu cădea
 
-<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_2_1_Poza1_AplicatiiInertie.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_2_1_Poza1_AplicatiiInertie_InteriorAutobuz.jpg" />
 
  
 
@@ -1172,7 +1434,7 @@ Inerția unui corp se manifestă doar când asupra lui acționează un alt corp,
 
 
 
-<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_2_1_Poza2_AplicatiiInertie.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_2_1_Poza2_AplicatiiInertie_CenturaDeSiguranta.jpg" />
 
 
 
@@ -1182,7 +1444,7 @@ Inerția unui corp se manifestă doar când asupra lui acționează un alt corp,
   
 
 
-<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_2_1_Poza3_AplicatiiInertie.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_2_1_Poza3_AplicatiiInertie_SoseaInCurba.jpg" />
 
 
 
@@ -1192,7 +1454,7 @@ Inerția unui corp se manifestă doar când asupra lui acționează un alt corp,
   
 
 
-<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_2_1_Poza4_AplicatiiInertie.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_2_1_Poza4_AplicatiiInertie_AstronautPeOrbita.jpg" />
 
 
 
@@ -1203,7 +1465,7 @@ Inerția unui corp se manifestă doar când asupra lui acționează un alt corp,
 
 
 
-<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_2_1_Poza5_AplicatiiInertie.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_2_1_Poza5_AplicatiiInertie_Bicicleta.jpg" />
 
 
 
@@ -1211,7 +1473,7 @@ Inerția unui corp se manifestă doar când asupra lui acționează un alt corp,
   
 
 
-<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_2_1_Poza6_AplicatiiInertie.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_2_1_Poza6_AplicatiiInertie_PistaAtletism.jpg" />
 
 
 
@@ -1220,7 +1482,7 @@ Inerția unui corp se manifestă doar când asupra lui acționează un alt corp,
   
 
 
-<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_2_1_Poza7_AplicatiiInertie.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_2_1_Poza7_AplicatiiInertie_BatutCovoare.jpg" />
 
 
 
@@ -1230,7 +1492,7 @@ Inerția unui corp se manifestă doar când asupra lui acționează un alt corp,
   
 
 
-<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_2_1_Poza8_AplicatiiInertie.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_2_1_Poza8_AplicatiiInertie_CentrifugaApicola.jpg" />
 
 
 
@@ -1240,7 +1502,7 @@ Inerția unui corp se manifestă doar când asupra lui acționează un alt corp,
   
 
 
-<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_2_1_Poza9_AplicatiiInertie.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_2_1_Poza9_AplicatiiInertie_CuvaMasinaDeSpalat.jpg" />
 
 :::
 
