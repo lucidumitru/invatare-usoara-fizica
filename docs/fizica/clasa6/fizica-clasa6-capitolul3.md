@@ -64,7 +64,7 @@ Sistemul format dintr-un reper și un ceas se numește **sistem de referință.*
 :::
 
 
-<Img src="fizica/clasa6/capitolul3/3_1_1_Poza1_PozaKilometrulZeroBucuresti.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_1_Poza1_PozaKilometrulZeroBucuresti.jpg" />
 
 
 :::important Definiţie
@@ -127,7 +127,7 @@ De exemplu, eu în mașină sunt în repaus față de ea. Dar, mașina se mișc�
 
 **1. Traiectorie rectilinie** este o linie dreaptă.
 
-<Img src="fizica/clasa6/capitolul3/3_1_1_Poza2_TraiectoriaRectilinie.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_1_Poza2_TraiectoriaRectilinie.jpg" />
 
 #### Exemple: 
 - Traiectoria mașinii față de sol;
@@ -140,7 +140,7 @@ De exemplu, eu în mașină sunt în repaus față de ea. Dar, mașina se mișc�
 
 **2. Traiectorie curbilinie** este o linie curbă.
 
-<Img src="fizica/clasa6/capitolul3/3_1_1_Poza3_TraiectoriaCurbilinie.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_1_Poza3_TraiectoriaCurbilinie.jpg" />
 
 #### Exemple:
 - Traiectoria unei mingii aruncate față de sol;
@@ -151,7 +151,7 @@ De exemplu, eu în mașină sunt în repaus față de ea. Dar, mașina se mișc�
 
 **3. Traiectorie circulară** este un cerc.
 
-<Img src="fizica/clasa6/capitolul3/3_1_1_Poza4_TraiectoriaCirculara.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_1_Poza4_TraiectoriaCirculara.jpg" />
 
 
 
@@ -196,14 +196,14 @@ a)	axul (centrul) roții.
 
 Traiectoria este circulară (cerc):
 
-<Img src="fizica/clasa6/capitolul3/3_1_1_Poza4_TraiectoriaCirculara.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_1_Poza4_TraiectoriaCirculara.jpg" />
 
 
 b)	sol (Pământ).
 
 Traiectoria este curbilinie :
 
-<Img src="fizica/clasa6/capitolul3/3_1_1_Poza5_ProblemaModel2TraiectorieCurbilinie.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_1_Poza5_ProblemaModel2TraiectorieCurbilinie.jpg" />
 
 
 :::
@@ -289,7 +289,7 @@ t<sub>2</sub> = momentul la care se  încheie mișcarea.
 
 
 
-<Img src="fizica/clasa6/capitolul3/3_1_2_Poza1_ProblemaModel1Traiectorie.jpg" /> 
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_2_Poza1_ProblemaModel1Traiectorie.jpg" /> 
 
 
 #### Aplicăm formula distanței și a duratei mișcării și înlocuim datele problemei:
@@ -327,21 +327,18 @@ t<sub>2</sub> = momentul la care se  încheie mișcarea.
 #### •	Simbol: v<sub>m</sub> sau v
 #### •	Formula de calcul:
 
-<Img src="fizica/clasa6/capitolul3/3_1_3_Poza1_FormulaDeCalcul.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_3_Poza1_FormulaDeCalcul.jpg" />
 
 
 
 
 #### •	Unitatea de măsură în Sistemul Internațional:
 
-<Img src="fizica/clasa6/capitolul3/3_1_3_Poza2_UnitateDeMasura.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_3_Poza2_UnitateDeMasura.jpg" />
 
 #### •	Instrumente de măsură: vitezometrul, aflat la bordul tuturor mașinilor.
 
 :::
-
-
-
 
 
 
@@ -354,7 +351,7 @@ t<sub>2</sub> = momentul la care se  încheie mișcarea.
 a)	**Viteza momentană** este viteza mobilului la un anumit moment, indicată de vitezometru.
 
 
-<Img src="fizica/clasa6/capitolul3/3_1_3_Poza3_Vitezometru.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_3_Poza3_Vitezometru.jpg" />
 
 
 De exemplu, o mașină merge cu o viteză medie de 70km/h. Asta nu înseamnă că, tot drumul mașina a avut această viteză. Vitezometrul poate a indicat chiar și 140km/h  sau 20km/h.
@@ -369,7 +366,7 @@ c)	Viteza are pe lângă valoare numerică și **orientare, adică direcție și
 
 **Sensul vitezei** se reprezintă printr-o săgeată.
 
-<Img src="fizica/clasa6/capitolul3/3_1_3_Poza4_DirectiaSiSensulVitezei.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_3_Poza4_DirectiaSiSensulVitezei.jpg" />
 
 
 Fata din imagine se deplasează cu o viteză de 1,2m/s, pe direcție orizontală, sensul spre dreapta. Indicând valoarea numerică (1,2), unitatea de măsură (m/s), direcția (orizontală) și sensul (spre dreapta), am caracterizat complet viteza fetei.
@@ -386,38 +383,38 @@ Fata din imagine se deplasează cu o viteză de 1,2m/s, pe direcție orizontală
 
 - Melcul are o viteză de 1,5 cm/min (0,0009 km/h).
 
-<Img src="fizica/clasa6/capitolul3/3_1_3_Poza6_VitezaMelc.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_3_Poza6_VitezaMelc.jpg" />
 
 - Viteza unui atlet jamaican pe pista de 100m este de 9,58 m/s (34,5 km/h).
 
-<Img src="fizica/clasa6/capitolul3/3_1_3_Poza7_VitezaAlergator.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_3_Poza7_VitezaAlergator.jpg" />
 
 - Peștele evantai poate atinge o viteză de 110 km/h.
 
-<Img src="fizica/clasa6/capitolul3/3_1_3_Poza8_VitezaPesteEvantai.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_3_Poza8_VitezaPesteEvantai.jpg" />
 
 - Ghepardul poate atinge o viteză de 113 km/h.
 
-<Img src="fizica/clasa6/capitolul3/3_1_3_Poza8bis_VitezaGhepard.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_3_Poza8bis_VitezaGhepard.jpg" />
 
 - Șoimul călător deține recordul în lumea păsărilor cu o viteză de 320 km/h.
 
 
-<Img src="fizica/clasa6/capitolul3/3_1_3_Poza9_VitezaSoimCalator.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_3_Poza9_VitezaSoimCalator.jpg" />
 
 - Un tren japonez cu levitație magnetică a atins o viteză record de 603 km/h.
 
-<Img src="fizica/clasa6/capitolul3/3_1_3_Poza10_VitezaTrenCuLevitatieMagnetica.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_3_Poza10_VitezaTrenCuLevitatieMagnetica.jpg" />
 
 
 - X-15, un avion de luptă deține recordul pentru cel mai rapid avion care poate fi condus de om, atingând o viteză de 6,7 Mach (8200 km/h).
 
-<Img src="fizica/clasa6/capitolul3/3_1_3_Poza11_VitezaAvionX15.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_3_Poza11_VitezaAvionX15.jpg" />
 
 - **Recordul absolut în domeniul vitezelor îl deține lumina, cu cea mai mare viteză de 300.000 km/s (1.080.000.000 km/h).**
 
 
-<Img src="fizica/clasa6/capitolul3/3_1_3_Poza12_VitezaLuminii.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_3_Poza12_VitezaLuminii.jpg" />
 
 
 :::
@@ -425,7 +422,7 @@ Fata din imagine se deplasează cu o viteză de 1,2m/s, pe direcție orizontală
 
 
 
-<Video src="https://www.youtube.com/embed/30TtBvVVFCQ" />
+
 
 
 
@@ -437,7 +434,104 @@ Fata din imagine se deplasează cu o viteză de 1,2m/s, pe direcție orizontală
 
 :::caution Problemă model
 
-1) Diana locuiește la o distanță D = 2 km față de școală. Într-o zi, ea aplecat de acasă la ora 7:10. După ce parcurge un sfert din distanță, realizează că și-a uitat proiectul la fizică și se întoarce să îl ia. La ora 7:50 ajunge la școală. Să se determine viteza medie a Dianei, în m/s, km/h.
+1) Un mobil pleacă de la borna  kilometrică 100 la ora 10:15 și ajunge la borna kilometrică 275 la ora 11:50. Cu ce viteză medie s-a deplasat mobilul, în m/s ?
+
+#### Scriem datele problemei:
+
+x<sub>1</sub> = 100 km
+
+t<sub>1</sub> = 10:15
+
+x<sub>2</sub> = 275 km
+
+t<sub>2</sub> = 11:50
+
+v<sub>m</sub> = ? m/s
+
+
+
+#### Rezolvare:
+
+
+<Video src="https://www.youtube.com/embed/30TtBvVVFCQ" />
+
+<br></br>
+
+- Scriem formula vitezei medii, calculăm distanța parcursă și durata mișcării în SI și înlocuim în formulă:
+
+
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_3_Poza13_RezolvareProblemaModel1.jpg" />
+
+
+
+:::
+
+
+
+:::caution Problemă model
+
+2) Un șofer pleacă de la borna kilometrică 240 la ora 10:50 și ajunge la borna kilometrică 80 la ora 11:40. Cu ce viteză medie a mers șoferul, în m/s și în km/h ?
+
+
+#### Scriem datele problemei:
+
+x<sub>1</sub> = 240 km
+
+t<sub>1</sub> = 10:50
+
+x<sub>2</sub> = 80 km
+
+t<sub>2</sub> = 11:40
+
+v<sub>m</sub> = ? m/s, km/h
+
+
+#### Rezolvare:
+
+<Video src="https://www.youtube.com/embed/3_nB2Gc09CY" />
+
+- Scriem formula vitezei medii, calculăm distanța parcursă și durata mișcării în SI și înlocuim în formulă:
+
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_3_Poza14_RezolvarePartea1_ProblemaModel2.jpg" />
+
+
+- Transformăm viteza din m/s în km/h:
+
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_3_Poza15_RezolvarePartea2_ProblemaModel2.jpg" />
+
+
+
+
+
+:::
+
+
+:::caution Problemă model
+
+3) Transformă vitezele următoare în m/s :
+
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_3_Poza15bis_Cerinta_ProblemaModel3.jpg" />
+
+#### Rezolvare:
+
+<Video src="https://www.youtube.com/embed/k3psd01JLng" />
+
+
+<br></br>
+
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_3_Poza16_Rezolvare_ProblemaModel3.jpg" />
+
+
+
+
+
+
+:::
+
+
+:::caution Problemă model
+
+4) Diana locuiește la o distanță D = 2 km față de școală. Într-o zi, ea aplecat de acasă la ora 7:10. După ce parcurge un sfert din distanță, realizează că și-a uitat proiectul la fizică și se întoarce să îl ia. La ora 7:50 ajunge la școală. Să se determine viteza medie a Dianei, în m/s, km/h.
 
 #### Scriem datele problemei:
 
@@ -449,7 +543,7 @@ Fata din imagine se deplasează cu o viteză de 1,2m/s, pe direcție orizontală
 
 
 
-<Img src="fizica/clasa6/capitolul3/3_1_3_Poza5_CalculProblemaModel.jpg" /> 
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_3_Poza5_CalculProblemaModel.jpg" /> 
 
 
 Dacă poți reține, o viteză exprimată în m/s poate fi transformată în km/h, prin înmulțirea valorii ei cu **3,6.**
@@ -459,6 +553,24 @@ Dacă poți reține, o viteză exprimată în m/s poate fi transformată în km/
 
 
 
+:::caution Temă
+
+1)	Miruna pleacă din Sinaia, oraș situat la 120 km de kilometrul zero din București, la ora 12:55 și ajunge la 10 km de București la ora 13:50. Ce viteză medie a avut ?
+
+:::
+
+
+
+:::caution Temă
+
+2)	Transformă următoarele viteze în m/s ?
+
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_3_Poza17_Tema2.jpg" />
+
+
+
+
+:::
 
 
 
@@ -466,7 +578,7 @@ Dacă poți reține, o viteză exprimată în m/s poate fi transformată în km/
 
 :::caution Temă
 
-Cum să îți măsori viteza de alergare pe o pistă de 100m? 
+3) Cum să îți măsori viteza de alergare pe o pistă de 100m? 
 
 - Poți să rogi profesorul de sport sau un coleg să te cronometreze, când alergi două ture de sală ( după o încălzire în prealabil făcută, ca să nu riști vreo întindere musculară).  
 
@@ -535,7 +647,7 @@ Cum să îți măsori viteza de alergare pe o pistă de 100m?
 Pentru a determina legea mișcării rectilinii uniforme, plecăm de la formula  vitezei, notând cu x<sub>0</sub> = poziția inițială , cu x = poziția finală, cu t<sub>0</sub> = momentul inițial  și cu  t = momentul final.  
 
 
-<Img src="fizica/clasa6/capitolul3/3_1_4a_Poza1_LegeaMiscariiRectiliniiUniforme.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_4a_Poza1_LegeaMiscariiRectiliniiUniforme.jpg" />
 
 
 
@@ -556,7 +668,8 @@ x = x<sub>0</sub> - v ∙ (t - t<sub>0</sub>) când mobilul se apropie de reper.
 
 1) Antrenorul Luizei a cronometrat mișcarea ei pe pista de 100m și a trecut datele mișcării în următorul tabel.
 
-<Img src="fizica/clasa6/capitolul3/3_1_4a_Poza2_TabelProblemaModel1.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_4a_Poza2_TabelProblemaModel1.jpg" />
+
 
 
 a)	Ce fel de mișcare are Luiza ?
@@ -565,13 +678,17 @@ c)	Determină legea mișcării.
 
 #### Rezolvare:
 
+<Video src="https://www.youtube.com/embed/YI0tJ_5CG3A" />
+
+
+
 
 a) Observăm în tabel faptul că, Luiza parcurge distanțe egale (25 m) în intervale de timp egale ( 3s).  Deci, Luiza are o mișcare rectilinie și uniformă. Atenție, dacă corpul are viteză constantă, obligatoriu traiectoria este rectilinie. În mișcarea curbilinie și în cea de rotație, viteza nu poate fi constantă. 
 
 
 b)
 
-<Img src="fizica/clasa6/capitolul3/3_1_4a_Poza3_Ecuatia1ProblemaModel1.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_4a_Poza3_Ecuatia1ProblemaModel1.jpg" />
 
 
 Când viteza ne dă cu perioadă, este bine să lucrăm cu fracție ireductibilă (25/3).
@@ -580,7 +697,7 @@ Când viteza ne dă cu perioadă, este bine să lucrăm cu fracție ireductibil�
 c)	Înlocuim în legea mișcării pe x<sub>0</sub>, v și pe t<sub>0</sub> :
 
 
-<Img src="fizica/clasa6/capitolul3/3_1_4a_Poza4_Ecuatia2ProblemaModel1.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_4a_Poza4_Ecuatia2ProblemaModel1.jpg" />
 
 
 :::
@@ -601,7 +718,7 @@ c)	Înlocuim în legea mișcării pe x<sub>0</sub>, v și pe t<sub>0</sub> :
 #### 1) Se realizează un tabel cu datele mișcării (pozițiile și momentele de timp corespunzătoare acestora).
 
 
-<Img src="fizica/clasa6/capitolul3/3_1_4b_Poza1_TabelGraficulMiscarii.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_4b_Poza1_TabelGraficulMiscarii.jpg" />
 
 
 
@@ -667,7 +784,7 @@ Folosind graficul mișcării putem afla mai multe informații referitoare la mod
 
 2) Graficul mișcării unui mobil este reprezentat în figura următoare : 
 
-<Img src="fizica/clasa6/capitolul3/3_1_4b_Poza2_GraficulMiscariiProblemaModel.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_4b_Poza2_GraficulMiscariiProblemaModel.jpg" />
 
 
 a)	Care  sunt pozițiile mobilului la momentele: t<sub>1</sub> = 0, respectiv t<sub>2</sub> = 2h ?
@@ -697,13 +814,13 @@ d)	În reper , poziția 0 km, avem timpul de 4 h. Din origine, mergem  pe orizon
 
 e)	Scriem formula vitezei :
 
-<Img src="fizica/clasa6/capitolul3/3_1_4b_Poza3_Ecuatia1ProblemaModel.jpg" />
+<Img className="img-responsive4"  src="fizica/clasa6/capitolul3/3_1_4b_Poza3_Ecuatia1ProblemaModel.jpg" />
 
 La calculul distanței, scădem x<sub>1</sub> - x<sub>2</sub>, deoarece x<sub>1</sub> > x<sub>2</sub> (distanța este tot timpul pozitivă).
 
 La calculul timpului, scădem t<sub>2</sub> - t<sub>1</sub>, deoarece t<sub>2</sub> > t<sub>1</sub> (timpul este pozitiv).
 
-<Img src="fizica/clasa6/capitolul3/3_1_4b_Poza4_Ecuatia2ProblemaModel.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_4b_Poza4_Ecuatia2ProblemaModel.jpg" />
 
 :::
 
@@ -734,7 +851,7 @@ Mișcarea rectilinie uniformă este posibilă în viața de zi cu zi, numai pe p
 
 #### Iată cum arată pozițiile unui mobil la intervale de timp egale în mișcarea accelerată:
 
-<Img src="fizica/clasa6/capitolul3/3_1_5_Poza1_PozitiiMobilLaMiscareaAccelerata.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_5_Poza1_PozitiiMobilLaMiscareaAccelerata.jpg" />
 
 
 **La pornire,** mobilul are o mișcare accelerată, deoarece viteza lui crește de la zero.
@@ -744,7 +861,7 @@ Mișcarea rectilinie uniformă este posibilă în viața de zi cu zi, numai pe p
 #### Iată cum arată pozițiile unui mobil la intervale de timp egale în mișcarea frânată:
 
 
-<Img src="fizica/clasa6/capitolul3/3_1_5_Poza2_PozitiiMobilLaMiscareaFranata.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_5_Poza2_PozitiiMobilLaMiscareaFranata.jpg" />
 
 
 **La oprire,** mobilul are o mișcare frânată, deoarece viteza lui scade până la zero.
@@ -769,11 +886,11 @@ Mișcarea rectilinie uniformă este posibilă în viața de zi cu zi, numai pe p
 #### •	Simbol: a<sub>m</sub> sau a
 #### •	Formula de calcul:
 
-<Img src="fizica/clasa6/capitolul3/3_1_5_Poza3_FormulaCalculAcceleratieMedie.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_5_Poza3_FormulaCalculAcceleratieMedie.jpg" />
 
 #### •	Unitatea de măsură în Sistemul Internațional:
 
-<Img src="fizica/clasa6/capitolul3/3_1_5_Poza4_UnitateDeMasuraAAcceleratieiMedii.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_5_Poza4_UnitateDeMasuraAAcceleratieiMedii.jpg" />
 
 #### •	Instrumente de măsură: accelerometrul.
 
@@ -816,7 +933,7 @@ Mișcarea rectilinie uniformă este posibilă în viața de zi cu zi, numai pe p
 :::
 
 
-<Img src="fizica/clasa6/capitolul3/3_1_6_Poza1_MiscareRectilinieUniformVariata.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_6_Poza1_MiscareRectilinieUniformVariata.jpg" />
 
 
 
@@ -838,7 +955,7 @@ Cel mai cunoscut exemplu de **mișcarea rectilinie uniform accelerată** este c�
 Observăm că în intervale de timp egale (de 4s), fata parcurge distanțe din ce în ce mai mari. Dacă calculăm vitezele pe fiecare porțiune, acestea cresc. Vitezele cresc cu valori egale ( Δv =1 m/s) în intervale de timp egale ( Δt = 4s). Cum accelerația este raportul dintre variația vitezei pe intervalul de timp, rezultă că mișcarea este rectilinie uniform accelerată.
 
 
-<Img src="fizica/clasa6/capitolul3/3_1_6_Poza1_RezolvareaProblemaModel1.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_6_Poza1_RezolvareaProblemaModel1.jpg" />
 
 :::
 
@@ -849,14 +966,20 @@ Observăm că în intervale de timp egale (de 4s), fata parcurge distanțe din c
 2) Pentru a intra într-o depășire, o mașină care se deplasează cu o viteză de 54 km/h, accelerează cu 4 m/s2 . La ce viteză ajunge mașina după 5 s ?
 
 
+#### Rezolvare:
+
+<Video src="https://www.youtube.com/embed/DHe-GVJcZ6Q" />
+
+
+
 - Notăm datele problemei  și le transformăm în SI:
 
-<Img src="fizica/clasa6/capitolul3/3_1_6_Poza2_DateleProblemeiModel2.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_6_Poza2_DateleProblemeiModel2.jpg" />
 
 - Scriem formula accelerației și scoatem necunoscuta, v<sub>2</sub>:
 
 
-<Img src="fizica/clasa6/capitolul3/3_1_6_Poza3_RezolvareaProblemaModel2.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_6_Poza3_RezolvareaProblemaModel2.jpg" />
 
 :::
 
@@ -1039,7 +1162,7 @@ Inerția unui corp se manifestă doar când asupra lui acționează un alt corp,
 
 **1.** Când suntem în mijloacele de transport în comun, este obligatoriu să ne ținem de bare, pentru a nu cădea
 
-<Img src="fizica/clasa6/capitolul3/3_2_1_Poza1_AplicatiiInertie.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_2_1_Poza1_AplicatiiInertie.jpg" />
 
  
 
@@ -1049,7 +1172,7 @@ Inerția unui corp se manifestă doar când asupra lui acționează un alt corp,
 
 
 
-<Img src="fizica/clasa6/capitolul3/3_2_1_Poza2_AplicatiiInertie.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_2_1_Poza2_AplicatiiInertie.jpg" />
 
 
 
@@ -1059,7 +1182,7 @@ Inerția unui corp se manifestă doar când asupra lui acționează un alt corp,
   
 
 
-<Img src="fizica/clasa6/capitolul3/3_2_1_Poza3_AplicatiiInertie.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_2_1_Poza3_AplicatiiInertie.jpg" />
 
 
 
@@ -1069,7 +1192,7 @@ Inerția unui corp se manifestă doar când asupra lui acționează un alt corp,
   
 
 
-<Img src="fizica/clasa6/capitolul3/3_2_1_Poza4_AplicatiiInertie.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_2_1_Poza4_AplicatiiInertie.jpg" />
 
 
 
@@ -1080,7 +1203,7 @@ Inerția unui corp se manifestă doar când asupra lui acționează un alt corp,
 
 
 
-<Img src="fizica/clasa6/capitolul3/3_2_1_Poza5_AplicatiiInertie.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_2_1_Poza5_AplicatiiInertie.jpg" />
 
 
 
@@ -1088,7 +1211,7 @@ Inerția unui corp se manifestă doar când asupra lui acționează un alt corp,
   
 
 
-<Img src="fizica/clasa6/capitolul3/3_2_1_Poza6_AplicatiiInertie.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_2_1_Poza6_AplicatiiInertie.jpg" />
 
 
 
@@ -1097,7 +1220,7 @@ Inerția unui corp se manifestă doar când asupra lui acționează un alt corp,
   
 
 
-<Img src="fizica/clasa6/capitolul3/3_2_1_Poza7_AplicatiiInertie.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_2_1_Poza7_AplicatiiInertie.jpg" />
 
 
 
@@ -1107,7 +1230,7 @@ Inerția unui corp se manifestă doar când asupra lui acționează un alt corp,
   
 
 
-<Img src="fizica/clasa6/capitolul3/3_2_1_Poza8_AplicatiiInertie.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_2_1_Poza8_AplicatiiInertie.jpg" />
 
 
 
@@ -1117,7 +1240,7 @@ Inerția unui corp se manifestă doar când asupra lui acționează un alt corp,
   
 
 
-<Img src="fizica/clasa6/capitolul3/3_2_1_Poza9_AplicatiiInertie.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_2_1_Poza9_AplicatiiInertie.jpg" />
 
 :::
 
@@ -1243,14 +1366,14 @@ Masa unui corp se determină prin cântărire:
 
 - cu ajutorul balanţei
 
-<Img src="fizica/clasa6/capitolul3/3_2_3_Poza1_PozaBalanta.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_2_3_Poza1_PozaBalanta.jpg" />
 
 
 
   
 - sau cu ajutorul cântarului.
 
-<Img src="fizica/clasa6/capitolul3/3_2_3_Poza2_PozaCantar.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_2_3_Poza2_PozaCantar.jpg" />
 
 
 
@@ -1359,7 +1482,7 @@ Observăm că deși, masa și volumul apei din pahar se modifică, raportul lor 
 
 Prin cântărire ca balanţa sau cântarul obţinem masa corpului.
 
-<Img src="fizica/clasa6/capitolul3/3_2_4_Poza1_FormulaDensitatii.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_2_4_Poza1_FormulaDensitatii.jpg" />
 
 
 
@@ -1380,13 +1503,13 @@ Prin cântărire ca balanţa sau cântarul obţinem masa corpului.
 #### •	Formulă de calcul:
 
 
-<Img src="fizica/clasa6/capitolul3/3_2_4_Poza2_FormulaDeCalculADensitatii.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_2_4_Poza2_FormulaDeCalculADensitatii.jpg" />
 
 
 #### •	Unitatea de măsură în Sistemul Internațional: 
 
 
-<Img src="fizica/clasa6/capitolul3/3_2_4_Poza3_UnitateaDeMasuraADensitatii.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_2_4_Poza3_UnitateaDeMasuraADensitatii.jpg" />
 
 
 #### •	Instrumente de măsură: densimetru (numai pentru lichide).
@@ -1457,7 +1580,7 @@ Raportul dintre masa și volumul corpului reprezintă densitatea corpului.
 **Concluzia experimentului:**
 
 
-<Img src="fizica/clasa6/capitolul3/3_2_4_Poza4_CalculExperimentul7.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_2_4_Poza4_CalculExperimentul7.jpg" />
 
 
 
@@ -1488,13 +1611,13 @@ Raportul dintre masa și volumul corpului reprezintă densitatea corpului.
 
 - Notăm datele problemei și le transformăm în SI:
 
-<Img src="fizica/clasa6/capitolul3/3_2_4_Poza5_DateleProblemeiModel1.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_2_4_Poza5_DateleProblemeiModel1.jpg" />
 
 
 - Scriem formula densității și scoatem necunoscuta:
 
 
-<Img src="fizica/clasa6/capitolul3/3_2_4_Poza6_RezolvareaProblemeiModel1.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_2_4_Poza6_RezolvareaProblemeiModel1.jpg" />
 
 
 
@@ -1518,7 +1641,7 @@ Raportul dintre masa și volumul corpului reprezintă densitatea corpului.
 
 
 
-<Img src="fizica/clasa6/capitolul3/3_3_1_Poza1_PozaCuUnCorpAgatatDeUnResort.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_3_1_Poza1_PozaCuUnCorpAgatatDeUnResort.jpg" />
 
 
 
@@ -1963,14 +2086,14 @@ _Piesa principală a dinamometrului este un resort ce se deformează elastic. Ma
 
 :::
 
-<Img src="fizica/clasa6/capitolul3/3_3_2_PozaConstructiaDinamometru.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_3_2_PozaConstructiaDinamometru.jpg" />
 
 
 :::important
 
 **2) Forța este o mărime fizică** care se caracterizează prin **mărime, direcție, sens și punct de aplicație.** Ea se reprezintă printr-un segment de dreaptă mărginit de un punct și o săgeată.
 
-<Img src="fizica/clasa6/capitolul3/3_3_2_Poza2_PozaForta.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_3_2_Poza2_PozaForta.jpg" />
 
 
 
@@ -2008,7 +2131,7 @@ De ce când lași liber un corp și nu mai este susținut de mâna ta, de o mas�
 Forța de greutate (notată cu G) acționează întotdeauna pe direcție verticală direcția firului cu plumb), cu sensul în jos.
 
 
-<Img src="fizica/clasa6/capitolul3/3_3_2_Poza2bis_ReprezentareGraficaGreutate.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_3_2_Poza2bis_ReprezentareGraficaGreutate.jpg" />
 
 
 
@@ -2063,7 +2186,7 @@ Forța de greutate (notată cu G) acționează întotdeauna pe direcție vertica
 - Măsoară cu un dinamometru greutățile mai multor corpuri a căror masă o cunoști.
 - Calculează pentru fiecare corp raportul G/m. Trece datele în următorul tabel:
  
-<Img src="fizica/clasa6/capitolul3/3_3_3_1_Poza1_PozaTabelExperiment13.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_3_3_1_Poza1_PozaTabelExperiment13.jpg" />
 
 
 :::note Observaţie
@@ -2156,7 +2279,7 @@ m = ?
 - Scriem formula greutății și scotem necunoscuta :
 
 
-<Img src="fizica/clasa6/capitolul3/3_3_3_1_Poza2_PozaRezolvareProblemaModel1.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_3_3_1_Poza2_PozaRezolvareProblemaModel1.jpg" />
 
 
 
@@ -2266,7 +2389,7 @@ _Are direcția_ suprafeței de contact dintre cele două corpuri și _sensul_ op
 
 :::
 
-<Img src="fizica/clasa6/capitolul3/3_3_3_2_Poza1_PozaFortaFrecare.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_3_3_2_Poza1_PozaFortaFrecare.jpg" />
 
 
 
@@ -2384,7 +2507,7 @@ Greutatea corpului suspendat este forța deformatoare,  egală în modul cu for�
  
 
  
-<Img src="fizica/clasa6/capitolul3/3_3_3_3_Poza5_TabelExperiment15.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_3_3_3_Poza5_TabelExperiment15.jpg" />
 
 
 :::note Observaţie
@@ -2439,14 +2562,14 @@ d)	Reprezintă cele două forțe ce acționează asupra resortului .
 
 - Notăm datele problemei și le transformăm în SI:
 
-<Img src="fizica/clasa6/capitolul3/3_3_3_3_Poza6_DateleInitialeProblemaModel2.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_3_3_3_Poza6_DateleInitialeProblemaModel2.jpg" />
 
 
 
 a) Scriem legea deformării elastice: |F| = |F<sub>e</sub>| = k ∙ ΔL
 
 
-<Img src="fizica/clasa6/capitolul3/3_3_3_3_Poza7_RezolvarePunctulAProblemaModel2.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_3_3_3_Poza7_RezolvarePunctulAProblemaModel2.jpg" />
 
 
 b) Forța elastică (Fe) este egală în modul cu forța deformatoare (F).
@@ -2461,7 +2584,7 @@ d)	Forța deformatoare (F) o desenăm un segment cu săgeată orientat spre drea
 Forța elastică (F<sub>e</sub>) o desenăm un segment cu săgeată orientat în sens opus forței deformatoare (spre stânga), deoarece ea readuce la forma inițială resortul.
 
 
-<Img src="fizica/clasa6/capitolul3/3_3_3_3_Poza8_fortaDeformatoareSiFortaElastica.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_3_3_3_Poza8_fortaDeformatoareSiFortaElastica.jpg" />
 
 :::
 
