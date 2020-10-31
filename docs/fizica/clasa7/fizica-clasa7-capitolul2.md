@@ -930,6 +930,11 @@ c)	Accelerația gravitațională (implicit și greutatea corpului) suferă mici 
 **g<sub>Ecuator</sub> ≅ 9,78 m/s<sup>2</sup>**.
 
 
+<br></br>
+
+<Video src="https://www.youtube.com/embed/0wL5a8v6sh4" />
+
+<br></br>
 
 :::
 
@@ -953,9 +958,27 @@ Ecuatorul față de poli, este mai departe de centrul Pământului și scade acc
 În concluzie, **cel mai bun loc pentru lansarea unei rachete este la ecuator, pe vârful unui munte cât mai înalt.**
 
 
+<br></br>
+
+<Video src="https://www.youtube.com/embed/dNf89eqnYw8" />
+
+<br></br>
+
+
 
 :::
 
+
+
+
+
+
+
+<br></br>
+
+<Video src="https://www.youtube.com/embed/u5t-aiP5DT4" />
+
+<br></br>
 
 
 
