@@ -693,7 +693,7 @@ Pentru compunerea vectorilor necoliniari (care nu au aceeași direcție) se apli
 
 
 - Se desenează ce doi vectori astfel încât să aibă același punct de aplicație.
-- Cu segmentele celor 2 vectori, se formează un paralelogram (patrulater cu laturile paralele și egale ).
+- Cu segmentele celor 2 vectori, se formează un paralelogram (patrulater cu laturile opuse paralele și egale ).
 - Se trasează diagonala paralelogramului care are punct comun cu cei doi vectori. Acest segment reprezintă vectorul rezultant , care se notează și i se pune săgeată în capăt.
 - Cu rigla măsurăm segmentul vectorului rezultant și cu regula de trei simplă, aflăm valoarea lui numerică.
 
@@ -737,7 +737,7 @@ v2 = 100km/h, direcție ce face un unghi de 30° cu orizontala, în sus.
 - Se desenează primul vector.
 - Al doilea vector se desenează cu originea în vârful primului vector, păstrându-i direcția.
 - Al treilea vector se desenează cu originea în vârful celui de-al doilea vector, păstrându-i direcția ș.a.m.d. până reprezentăm toți vectorii.
-- Vectorul rezultant este segmentul care se obține prin unirea originii (0) cu vârful ultimului vector, având vârful în vârful ultimului vector.
+- Vectorul rezultant este segmentul care se obține prin unirea originii primului vector (0) cu vârful ultimului vector, având vârful în vârful ultimului vector.
 - Valoarea vectorului rezultant o obținem prin măsurarea segmentului său cu rigla și apoi înmulțim cu etalonul dat (ales).
 
 

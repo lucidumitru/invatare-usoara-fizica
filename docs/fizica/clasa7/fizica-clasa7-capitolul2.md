@@ -2004,7 +2004,7 @@ b)
 
 :::tip Experiment
 
-**19.** Determinarea constantei elastice a unui elastic ( Legea lui Hooke )
+**19.** Determinarea constantei elastice a unui elastic (Legea lui Hooke)
 
 :::
 
@@ -2034,7 +2034,7 @@ b)
 
 #### Pentru Elasticul nr. 1:
 
-<Img src="fizica/clasa7/capitolul2/2_4_5_Poza6_Elasticulnr1_Experiment19.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_5_Poza6_Elasticulnr1_Experiment19.jpg" />
 
 
 
@@ -2043,7 +2043,7 @@ b)
 #### Pentru Elasticul nr. 2:
 
 
-<Img src="fizica/clasa7/capitolul2/2_4_5_Poza7_Elasticulnr2_Experiment19.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_5_Poza7_Elasticulnr2_Experiment19.jpg" />
 
 
 :::note Observaţie
@@ -2062,7 +2062,7 @@ Constanta elastică este invers proporțională cu lungimea inițială a corpulu
 #### Pentru Elasticul nr. 3:
 
 
-<Img src="fizica/clasa7/capitolul2/2_4_5_Poza8_Elasticulnr3_Experiment19.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_5_Poza8_Elasticulnr3_Experiment19.jpg" />
 
 
 
@@ -2084,14 +2084,16 @@ Constanta elastică este direct proporțională cu secțiunea transversală a co
 **Legea lui Hooke reprezintă dependența constantei elastice ( k ) de caracteristicile corpului elastic (resort, elastic, lamelă de oțel, etc.):**
 
 
-<Img src="fizica/clasa7/capitolul2/2_4_5_Poza9_EcuatiaLegiiLuiHooke.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_5_Poza9_EcuatiaLegiiLuiHooke.jpg" />
 
 
 - constanta de elasticitate k variază invers proporțional cu lungimea elasticului în stare nedeformată l<sub>0</sub> .
 
 - constanta de elasticitate k variază direct proporțional cu aria secțiunii transversale a resortului S .
 
-- constanta de elasticitate, k, depinde de natura materialului din care este realizat corpul elastic prin modulul de elasticitate E ( modulul lui Young), o constantă de material . De exemplu, cauciucul are E = 0,1 GN/m2, iar aluminiul are E = 70 GN/m2 .
+- constanta de elasticitate, k, depinde de natura materialului din care este realizat corpul elastic prin modulul de elasticitate E ( modulul lui Young), o constantă de material. 
+
+De exemplu, cauciucul are E = 0,1 GN/m2, iar aluminiul are E = 70 GN/m2 .
  
 :::
 
@@ -2111,7 +2113,7 @@ Constanta elastică este direct proporțională cu secțiunea transversală a co
 
 
 - Se desenează ce doi vectori astfel încât să aibă același punct de aplicație.
-- Cu segmentele celor 2 vectori, se formează un paralelogram (patrulater cu laturile paralele și egale ).
+- Cu segmentele celor 2 vectori, se formează un paralelogram (patrulater cu laturile opuse paralele și egale).
 - Se trasează diagonala paralelogramului care are punct comun cu cei doi vectori. Acest segment reprezintă vectorul rezultant , care se notează și i se pune săgeată în capăt.
 - Cu rigla măsurăm segmentul vectorului rezultant și cu regula de trei simplă, aflăm valoarea lui numerică.
 
@@ -2133,7 +2135,7 @@ Constanta elastică este direct proporțională cu secțiunea transversală a co
 - Se desenează primul vector.
 - Al doilea vector se desenează cu originea în vârful primului vector, păstrându-i direcția.
 - Al treilea vector se desenează cu originea în vârful celui de-al doilea vector, păstrându-i direcția ș.a.m.d. până reprezentăm toți vectorii.
-- _Vectorul rezultant_ este segmentul care se obține prin unirea originii (0) cu vârful ultimului vector, având vârful în vârful ultimului vector.
+- _Vectorul rezultant_ este segmentul care se obține prin unirea originii primului vector (0) cu vârful ultimului vector, având vârful în vârful ultimului vector.
 - Valoarea vectorului rezultant o obținem prin măsurarea segmentului său cu rigla și apoi înmulțim cu etalonul dat (ales).
 
 
