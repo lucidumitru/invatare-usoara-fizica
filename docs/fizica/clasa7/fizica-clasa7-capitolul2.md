@@ -974,7 +974,7 @@ Ecuatorul față de poli, este mai departe de centrul Pământului și scade acc
 
 
 
-<br></br>
+
 
 <Video src="https://www.youtube.com/embed/u5t-aiP5DT4" />
 
@@ -1849,7 +1849,7 @@ Greutatea corpului suspendat este forța deformatoare,  egală în modul cu for�
  
 
  
-<Img src="fizica/clasa7/capitolul2/2_4_5_Poza5_TabelExperiment18.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_5_Poza5_TabelExperiment18.jpg" />
 
 
 :::note Observaţie
@@ -1887,8 +1887,118 @@ Legea deformării elastice ne arată că forța deformatoare (F) este egală în
 
 
 <br></br>
+
+
+:::caution Problemă model
+
+1)	Un resort are lungimea inițială de 8 cm, iar deformat are lungimea de 3 cm. Știind forța elastică de 400 N, se cere :
+
+a)	Constanta eleastică a resortului.
+
+b)	Tipul deformării.
+
+c)	Reprezentarea forței deformatoare și a forței elastice folosind ca etalon 
+
+1 cm = 200 N.
+
+
+#### Rezolvare
+
+
+
+
+- Scriem datele problemei:
+
+l<sub>1</sub> = 8 cm
+
+l<sub>2</sub> = 3 cm
+
+F<sub>e</sub> = 400 N
+
+a)	Scriem legea deformării elastice, calculăm deformarea Δl și scoatem necunoscuta k:
+
+
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_5_Poza5bis_RezolvareProblemaModel1.jpg" />
+
+b) Tipul deformării: alungire, deoarece l<sub>2</sub> < l<sub>1</sub>.
+
+
+
+c)	1 cm = 200 N
+
+400 : 200 = 2cm au segmentele cele două forțe, egale în modul dar de sens opus.
+
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_5_Poza5bis2_DesenForteProblemaModel1.jpg" />
+
 <br></br>
 
+<Video src="https://www.youtube.com/embed/zrDhDLzIfk0" />
+
+
+
+:::
+
+
+
+
+
+<br></br>
+
+
+
+
+:::caution Problemă model
+
+2)	Un resort este deformat cu 5 dm de o forță de 3000 N.
+ 
+a)	Cât este forța care deformează același resort cu 900 mm ?
+ 
+b)	Reprezintă graficul deformării în funcție de forța deformatoare, folosind ca etaloane :
+
+  - pentru axa forței 1cm = 1000 N și 
+  
+  - pentru axa deformării 1cm = 0,1 m.
+
+
+
+#### Rezolvare
+
+
+- Scriem datele problemei  și le transformăm în SI:
+
+
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_5_Poza5bis3_DateleProblemeiProblemaModel2.jpg" />
+
+a) Scriem legea deformării elastice pentru prima forță deformatoare și scoatem necunoscuta k:
+
+
+
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_5_Poza5bis4_RezolvareLitAProblemaModel2.jpg" />
+
+
+
+Scriem legea deformării elastice pentru a doua forță deformatoare și scoatem necunoscuta F<sub>2</sub>:
+
+
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_5_Poza5bis5_RezolvareLitAPart2ProblemaModel2.jpg" />
+
+
+
+b) 
+
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_5_Poza5bis6_graficProblemaModel2.jpg" />
+
+
+
+<br></br>
+
+<Video src="https://www.youtube.com/embed/d2euTrSJOC0" />
+
+
+:::
+
+
+<br></br>
 
 
 
