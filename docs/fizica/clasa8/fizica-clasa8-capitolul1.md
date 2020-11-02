@@ -2408,7 +2408,7 @@ m = masa substanței (în kg)
   - Q<sub>1</sub> + Q<sub>2</sub> + Q<sub>3</sub> + Q<sub>4</sub> = 4180 + 33.400 + 41.850 + 226.000 = 305.430 J
 
 
-
+<Video src="https://www.youtube.com/embed/MEo-YKvMIQA" />
   
 :::
 
