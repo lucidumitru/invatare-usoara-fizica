@@ -892,7 +892,7 @@ Unități de măsură pentru aria suprafețelor de teren în agricultură folosi
 
 :::caution Problemă model
 
-**3.** Un triunghi oarecare are o latură de 0,008km și înălțimea corespunzătoare a acestei laturi este de 670cm. Află aria suprafeței acestui triunghi.  
+**3.** Podeaua unei încăperi este acoperită cu plăci de gresie pătrate , cu dimensiunea de 40cm. Dacă pe lungimea camerei numărați 10 plăci de gresie și pe lățime numărați 8 plăci,  ce arie are suprafața podelei ?  
 
 #### Rezolvare:
 
