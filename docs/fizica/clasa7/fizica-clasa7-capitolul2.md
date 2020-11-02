@@ -1575,7 +1575,7 @@ Forța de frecare la rostogolire este mai mică decât forța de frecare la alun
 
 
 
-:::note Observaţie
+:::important
 
 În cazul mecanismelor care conţin piese în mişcare una faţă de alta, frecarea dintre acestea determină încălzirea pieselor şi, în timp, uzarea lor. Pentru **a micşora această frecare nedorită**, se folosesc două metode:
 
