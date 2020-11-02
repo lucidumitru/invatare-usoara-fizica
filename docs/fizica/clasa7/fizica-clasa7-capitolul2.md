@@ -443,7 +443,7 @@ _Piesa principală a dinamometrului este un resort ce se deformează elastic. Ma
 
 
 
-<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_2_Poza1_PozaConstructiaDinamometru_vers2.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_2_Poza1_PozaConstructiaDinamometru.jpg" />
 
 
 
@@ -675,39 +675,43 @@ Cele două forțe sunt egale în modul, cu acceași direcție și sensuri opuse.
 
 1. Când te lovești din neatenție de un obiect, simți imediat reacțiunea din partea acestuia, chiar dacă tu l-ai lovit.
 
-:::
-
-
 <Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_3_3_Poza1_Exemplul1_PtrPrincipiulActiuniiSiReactiunii.jpg" />
 
 
-:::caution Exemple care ilustrează Principiul acțiunii și reacțiunii
+<br></br>
+<br></br>
+
+
+
 
 2. Când lași liber un corp, acesta cade datorită forței de atracție a Pământului (acțiunea) asupra sa. Însă și Pământul este atras de corp (reacțiunea), cu o altă forță egală în modul și sens opus cu acțiunea, dar efectul acesteia este insesizabil datorită masei enorme a Pământului.
 
-:::
 
 <Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_3_3_Poza2_Exemplul2_PtrPrincipiulActiuniiSiReactiunii.jpg" />
 
 
-:::caution Exemple care ilustrează Principiul acțiunii și reacțiunii
+
+<br></br>
+<br></br>
+
 
 3. Când ești într-o barcă, împingi cu vâsla apa în sensul opus celui în care dorești să te deplasezi (acțiunea), iar apa pune în mișcare barca (reacțiunea). Cele două forțe au punctele de aplicație pe corpuri diferite și acționează pe aceeași direcție, însă în sens opus.
 
-:::
 
 <Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_3_3_Poza3_Exemplul3_PtrPrincipiulActiuniiSiReactiunii.jpg" />
 
 
-:::caution Exemple care ilustrează Principiul acțiunii și reacțiunii
+<br></br>
+<br></br>
+
 
 4. Cum interacționează mingea cu racordajul rachetei, când lovești cu racheta mingea  de tenis ? Mingea acționează asupra racordajului (acțiunea) având ca efect deformarea elastică a acestuia. Racordajul acționează asupra mingiei ( reacțiunea), având ca efect mișcarea mingiei. Cele două forțe au punctele de aplicație pe corpuri diferite și acționează pe aceeași direcție, însă în sens opus.
 
-:::
+
 
 <Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_3_3_Poza4_Exemplul4_PtrPrincipiulActiuniiSiReactiunii.jpg" />
 
-
+:::
 
 
 
@@ -1180,7 +1184,7 @@ Reacțiunea normală din partea podelei este mare.
 <br></br>
 
 
-:::caution Importanța forței de greutate
+:::caution Importanța forței de frecare
 
 
 1) Mersul, pornirea și oprirea corpurilor pe diferite suprafețe
@@ -1880,7 +1884,7 @@ Cu cât greutatea corpului suspendat crește, cu atât crește și alungirea res
  
 **Legea deformării elastice : |F| = |F<sub>e</sub> | = k ∙ ΔL** 
 
-Legea deformării elastice ne arată că forța deformatoare (F) este egală în modul cu forța elastică (F<sub>e</sub>), fiind direct proporțională cu deformarea resortului (ΔL).  Fiecare resort are o anumită constantă elastică (k), care se determină experimental.
+**Legea deformării elastice ne arată că forța deformatoare (F) este egală în modul cu forța elastică (F<sub>e</sub>), fiind direct proporțională cu deformarea resortului (ΔL).  Fiecare resort are o anumită constantă elastică (k), care se determină experimental.**
 
 
 :::
@@ -2156,14 +2160,14 @@ De exemplu, cauciucul are E = 0,1 GN/m2, iar aluminiul are E = 70 GN/m2 .
 
 **- Scriem ecuația vectorială:**
 
-<Img src="fizica/clasa7/capitolul2/2_7_Poza1_EcuatiaVectoriala.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_7_Poza1_EcuatiaVectoriala.jpg" />
 
 **- Scriem ecuația scalară:**
 
-<Img src="fizica/clasa7/capitolul2/2_7_Poza2_EcuatiaScalara.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_7_Poza2_EcuatiaScalara.jpg" />
 
 
-<Img src="fizica/clasa7/capitolul2/2_7_Poza3_ReprezentareGrafica.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_7_Poza3_ReprezentareGrafica.jpg" />
 
 
 
@@ -2192,7 +2196,7 @@ Putem afla cele două forțe prin metoda grafică.
 500N:100N = 5cm : segmentul forței F și o desenăm. Din vârful vectorului  F se duc perpendiculare pe cele două direcții O<sub>x</sub> și O<sub>y</sub>. Măsurăm cu rigla segmentele vectorilor componenți și înmulțim cu etalonul pentru a le afla valorile.
 
 
-<Img src="fizica/clasa7/capitolul2/2_7_Poza4_ReprezentareGraficaProblemaModel5.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_7_Poza4_ReprezentareGraficaProblemaModel5.jpg" />
 
 
 
@@ -2202,13 +2206,13 @@ Fy = 4∙100 = 400N
 
 - Scriem ecuația vectorială : 
 
-<Img src="fizica/clasa7/capitolul2/2_7_Poza1_EcuatiaVectoriala.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_7_Poza1_EcuatiaVectoriala.jpg" />
 
 - Verificăm cu teorema lui Pitagora:
 
 - Scriem ecuația scalară:
 
-<Img src="fizica/clasa7/capitolul2/2_7_Poza2_EcuatiaScalara.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_7_Poza2_EcuatiaScalara.jpg" />
 
 
 500<sup>2</sup> =300<sup>2</sup> + 400<sup>2</sup>
@@ -2241,14 +2245,14 @@ Fy = 4∙100 = 400N
 
 **- Scriem ecuația vectorială:**
 
-<Img src="fizica/clasa7/capitolul2/2_8_Poza1_EcuatiaVectoriala.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_8_Poza1_EcuatiaVectoriala.jpg" />
 
 **- Scriem ecuația scalară:**
 
-<Img src="fizica/clasa7/capitolul2/2_8_Poza2_EcuatiaScalara.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_8_Poza2_EcuatiaScalara.jpg" />
 
 
-<Img src="fizica/clasa7/capitolul2/2_8_Poza3_ReprezentareGrafica.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_8_Poza3_ReprezentareGrafica.jpg" />
 
 
 
@@ -2330,7 +2334,7 @@ Un corp se poate mișca uniform, chiar dacă asupra sa acționează mai multe fo
 
 **Pe direcția verticală ( O<sub>y</sub> ) : |G| = |F<sub>y</sub> + N|  =>	R<sub>y</sub> = G – F<sub>y</sub> – N = 0**
 
-<Img src="fizica/clasa7/capitolul2/2_9_Poza1_ReprezentareGrafica.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_9_Poza1_ReprezentareGrafica.jpg" />
 
 
 
@@ -2408,28 +2412,28 @@ Cu cât înălțimea planului înclinat, implicit și unghiul acestuia, este mai
 #### Elementele unui plan înclinat :
 
 
-<Img src="fizica/clasa7/capitolul2/2_10_Poza1_ElementelePlanuluiInclinat.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_10_Poza1_ElementelePlanuluiInclinat.jpg" />
 
 
 :::caution Exemple de plane înclinate:
 
 1. Toate scările.
 
-<Img src="fizica/clasa7/capitolul2/2_10_Poza2_Exemple_PlaneInclinate_Scarile.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_10_Poza2_Exemple_PlaneInclinate_Scarile.jpg" />
 
 2.  Drumurile în pantă (șoselele sunt șerpuite pentru ca înclinația pe diferite segmente să nu fie prea mare și astfel să poată fi urcate ușor).
 
-<Img src="fizica/clasa7/capitolul2/2_10_Poza3_Exemple_PlaneInclinate_SoseleSerpuite.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_10_Poza3_Exemple_PlaneInclinate_SoseleSerpuite.jpg" />
 
 
 3. Rampe înclinate pentru accesul persoanalor cu dizabilități în diferite instituții
 
-<Img src="fizica/clasa7/capitolul2/2_10_Poza4_Exemple_PlaneInclinate_RampeInclinate.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_10_Poza4_Exemple_PlaneInclinate_RampeInclinate.jpg" />
 
 
 4. Funiculare.
 
-<Img src="fizica/clasa7/capitolul2/2_10_Poza5_Exemple_PlaneInclinate_Funiculare.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_10_Poza5_Exemple_PlaneInclinate_Funiculare.jpg" />
 
 
 
@@ -2466,12 +2470,12 @@ Cu cât înălțimea planului înclinat, implicit și unghiul acestuia, este mai
 
 - Greutatea este suma vectorială a acestor două forțe, G<sub>t</sub>  și G<sub>n</sub>.
 
-<Img src="fizica/clasa7/capitolul2/2_10_1_Poza1_SumaVectorialGreutati.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_10_1_Poza1_SumaVectorialGreutati.jpg" />
 
 
 - Modulele celor trei forțe sunt legate prin relația 
 
-<Img src="fizica/clasa7/capitolul2/2_10_1_Poza2_Pitagora.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_10_1_Poza2_Pitagora.jpg" />
 
 conform teoremei lui Pitagora aplicată în triunghiul dreptunghic format de cele trei forțe.
 
@@ -2479,7 +2483,7 @@ conform teoremei lui Pitagora aplicată în triunghiul dreptunghic format de cel
 
 - Planul înclinat este reprezentat printr un triunghi dreptunghic care este asemenea cu triunghiul dreptunghic format de greutate și componentele sale. Din asemănarea triunghiurilor precizate se găsesc relațiile: 
 
-<Img src="fizica/clasa7/capitolul2/2_10_1_Poza3_AsemanareTriunghiuri.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_10_1_Poza3_AsemanareTriunghiuri.jpg" />
 
 
 
@@ -2524,12 +2528,12 @@ conform teoremei lui Pitagora aplicată în triunghiul dreptunghic format de cel
 
 - Greutatea este suma vectorială a acestor două forțe, G<sub>t</sub>  și G<sub>n</sub>.
 
-<Img src="fizica/clasa7/capitolul2/2_10_1_Poza1_SumaVectorialGreutati.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_10_1_Poza1_SumaVectorialGreutati.jpg" />
 
 
 - Modulele celor trei forțe sunt legate prin relația 
 
-<Img src="fizica/clasa7/capitolul2/2_10_1_Poza2_Pitagora.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_10_1_Poza2_Pitagora.jpg" />
 
 conform teoremei lui Pitagora aplicată în triunghiul dreptunghic format de cele trei forțe.
 
@@ -2537,7 +2541,7 @@ conform teoremei lui Pitagora aplicată în triunghiul dreptunghic format de cel
 
 - Planul înclinat este reprezentat printr un triunghi dreptunghic care este asemenea cu triunghiul dreptunghic format de greutate și componentele sale. Din asemănarea triunghiurilor precizate se găsesc relațiile: 
 
-<Img src="fizica/clasa7/capitolul2/2_10_1_Poza3_AsemanareTriunghiuri.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_10_1_Poza3_AsemanareTriunghiuri.jpg" />
 
 
 
@@ -2551,7 +2555,7 @@ conform teoremei lui Pitagora aplicată în triunghiul dreptunghic format de cel
 
 Forța de tracțiune, necesară pentru ridicarea corpului în mișcare uniformă pe planul înclinat, se obține din condiția de echilibru:
 
-<Img src="fizica/clasa7/capitolul2/2_10_2_Poza1_LegeaPlanuluiInclinat.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_10_2_Poza1_LegeaPlanuluiInclinat.jpg" />
 
 :::
 
@@ -2559,12 +2563,296 @@ Forța de tracțiune, necesară pentru ridicarea corpului în mișcare uniformă
 
 Dacă forța de frecare la alunecare se poate neglija, se poate observa că forța devine
 
-<Img src="fizica/clasa7/capitolul2/2_10_2_Poza2_LegeaPlanuluiInclinatFaraFrecare.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_10_2_Poza2_LegeaPlanuluiInclinatFaraFrecare.jpg" />
 
 
 :::
 
 
+
+
+
+<br></br>
+<br></br>
+
+
+
+
+
+
+
+## II.11. Sinteză recapitulativă - Interacțiuni mecanice
+
+
+:::important
+
+
+
+ 
+**Forța de greutate (pe scurt greutate, forță gravitațională, gravitație)** este forța cu care Pământul atrage un corp. 
+ 
+
+#### Caracterizarea forței de greutate ca mărime fizică:
+
+#### •	Simbol: G
+#### •	Formulă de calcul: 
+
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_1_Poza2bis_FormulaGreutatii.jpg" />
+
+unde m = masa corpului(în kg) și 
+
+g = accelerația gravitațională a Pământului de 9,8 N/kg.
+
+
+<br></br>
+
+#### •	Unitatea de măsură în Sistemul Internațional: 
+
+
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_1_Poza2bis2_UnitateaDeMasuraAGreutatii.jpg" />
+
+<br></br>
+<br></br>
+
+
+#### •	Instrumente de măsură: 
+
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_1_Poza2bis3_InstrumentDeMasuraAGreutatii.jpg" />
+
+
+
+
+La lansarea rachetei trebuie învinsă forța de greutate exercitată de către Pământ, care atrage racheta. 
+
+Este de preferat să alegem vârful unui munte cât mai înalt, deoarece ne îndepărtăm de centrul Pământului și scade accelerația gravitațională, și implicit forța de atracție a Pământului asupra rachetei.
+
+Ecuatorul față de poli, este mai departe de centrul Pământului și scade accelerația gravitațională, și implicit forța de atracție a Pământului asupra rachetei.
+
+În concluzie, **cel mai bun loc pentru lansarea unei rachete este la ecuator, pe vârful unui munte cât mai înalt.**
+
+
+**Tensiunea din fir ( T )** reprezintă forța de reacțiune  a firului inextensibil (care nu se alungește) la forță de întindere exercitată asupra lui.
+
+
+
+
+ 
+**Forța de frecare ( F<sub>f</sub> )  este forța care apare la suprafața de contact dintre două corpuri ce alunecă unul peste celălalt și se opune mișcării unui corp față de celălalt.** 
+ 
+ 
+:::
+
+
+
+
+
+:::note Observaţie
+
+1)	Forța de frecare apare din cauza asperităților suprafețelor aflate în contact. Ea depinde de natura suprafețelor aflate în contact și este cu atât mai mare cu cât apăsarea exercitată de corp pe suprafață este mai mare.
+
+**_Are direcția_** suprafeței de contact dintre cele două corpuri și **_sensul_** opus vitezei corpului.
+
+**2)	Când un corp se deplasează pe o suprafață, cu viteză constantă ( mișcare rectilinie și uniformă), forța de tracțiune F (care deplasează corpul) este egală, dar de sens opus cu forța de frecare F<sub>f</sub> .**
+
+
+:::
+
+
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_3_Poza1_PozaFortaFrecare.jpg" />
+
+
+<br></br>
+
+
+
+
+:::important 
+ 
+**Legea frecării:**
+ 
+Modulul forței de frecare la alunecare este direct proporțional cu modulul forței normale de apăsare pe suprafața de contact și are expresia matematică: **F<sub>f</sub> = μ ∙ N** , unde μ este coeficientul de frecare la alunecare. Acest coeficient este o constantă adimensională, care exprimă dependența forței de frecare la alunecare de felul în care sunt prelucrate (șlefuite) suprafețele de contact ale corpurilor ce alunecă unul peste celălalt.
+
+
+În cazul mecanismelor care conţin piese în mişcare una faţă de alta, frecarea dintre acestea determină încălzirea pieselor şi, în timp, uzarea lor. Pentru **a micşora această frecare nedorită**, se folosesc două metode:
+
+- Ungerea pieselor în mişcare ale unei maşini cu lubrifianţi (ulei de mecanisme, vaselină) .
+- Folosirea rulmenţilor, formaţi din bile care se rostogolesc unele peste altele. Cum rostogolirea produce mai puţină frecare decât alunecarea, aceştia reduc considerabil frecarea. Roţile automobilelor, ale bicicletelor, motocicletelor etc. sunt montate pe rulmenţi. Lagărele cu rulmenţi sunt utilizate şi la motoarele electrice, la strunguri, la axele vagoanelor, la axul pe care se fixează elicea avioanelor etc., adică oriunde trebuie să fie micşorată forţa de frecare.
+
+
+
+**Forța elastică (notată Fe)** este forța care apare în interiorul unui corp deformat elastic și readuce corpul la forma inițială, fiind egală, dar de sens opus cu forța deformatoare (F).
+
+
+**Constanta elastică a unui resort (k)** este egală cu raportul dintre forța elastică (F<sub>e</sub>)  și deformarea resortului (ΔL).
+
+[k]<sub>SI</sub> = N/m 
+ 
+ 
+
+
+
+
+ 
+**Legea deformării elastice : |F| = |F<sub>e</sub> | = k ∙ ΔL** 
+
+**Legea deformării elastice ne arată că forța deformatoare (F) este egală în modul cu forța elastică (F<sub>e</sub>), fiind direct proporțională cu deformarea resortului (ΔL).  Fiecare resort are o anumită constantă elastică (k), care se determină experimental.**
+
+
+
+
+**Principiul inerției:** 
+
+„Orice corp își păstrează starea de repaus sau de mișcare uniformă rectilinie în care se află, cu condiția ca nicio forță să nu acționeze asupra corpului “ 
+
+
+**Principiul fundamental al mecanicii clasice:** 
+
+„Dacă asupra unui corp de masă m acționează o forță F, atunci corpul se va deplasa cu o accelerație a, care are direcția și sensul forței“. 
+
+
+
+
+
+#### Ecuația vectorială este:
+
+
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_3_2_Poza1_EcuatiaVectorialaPrincipiulFundamentalMecanica.jpg" />
+
+
+
+
+
+
+**Principiul acțiunii și reacțiunii:** 
+
+„Dacă un corp acționează asupra altui corp cu o forță numită acțiune (F<sub>1</sub>), atunci și cel de- al doilea corp va acționa asupra primului corp cu o altă forță numită reacțiune (F<sub>2</sub>), care are același modul și aceeași direcție cu acțiunea, dar sens opus“.  
+
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_3_3_Poza0_EcuatiaVectorialaPrincipiulActiuniiSiReactiunii.jpg" />
+
+
+
+<br></br>
+<br></br>
+
+
+**Exemplificări ale Principiului acțiunii și reacțiunii:**
+
+**a) Un corp și suprafața pe care se sprijină**
+
+**Forța de apăsare normală (N')** este forța cu care un corp acționează asupra unei suprafețe cu care este în contact.
+
+**Reacțiunea normală (N)** este forța cu care suprafața acționează asupra corpului aflat pe ea .
+
+
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_2_Poza1_FortaDeApasareNormala.jpg" />
+
+
+<br></br>
+<br></br>
+
+
+
+**b) Un corp și Pământ**
+
+Forța de greutate ( G) este forța cu care Pământul atrage corpul.
+
+G' este forța cu care corpul atrage Pământul.
+
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_11_Poza1_CorpulAtrasDePamant.jpg" />
+
+
+<br></br>
+<br></br>
+
+
+**c) Un corp și un fir inextensibil de care este suspendat**
+
+Forța de apăsare a corpului (F) este forța cu care corpul acționează asupra firului (ea este egală cu greutatea corpului).
+
+Tensiunea în fir (T) este forța cu care firul acționează asupra corpului suspendat pe el.
+
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_11_Poza2_CorpulSuspendatDeUnFir.jpg" />
+
+
+
+<br></br>
+<br></br>
+
+**d) Un corp și un resort de care este suspendat**
+
+Forța de apăsare a corpului (F) este forța cu care corpul acționează asupra resortului (ea este egală cu greutatea corpului).
+
+Forța elastică(Fe) este forța cu care resortul acționează asupra corpului suspendat pe el.
+
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_11_Poza3_CorpulSuspendatDeUnResort.jpg" />
+
+
+<br></br>
+<br></br>
+
+
+**MIȘCAREA UNUI CORP SUB ACȚIUNE UNEI FORȚE OBLICE :**
+
+
+**Pe direcția orizontală ( O<sub>x</sub> ) : |F<sub>x</sub> | = |F<sub>f</sub>| 	=>	R<sub>x</sub> = F<sub>x</sub> - F<sub>f</sub> = 0**
+
+**Pe direcția verticală ( O<sub>y</sub> ) : |G| = |F<sub>y</sub> + N|  =>	R<sub>y</sub> = G – F<sub>y</sub> – N = 0**
+
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_9_Poza1_ReprezentareGrafica.jpg" />
+
+
+
+<br></br>
+<br></br>
+
+
+**COBORÂREA LIBERĂ A UNUI CORP PE UN PLAN ÎNCLINAT :**
+
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_11_Poza4_EcuatieCoborareLiberaCorpPeUnPlanInclinat.jpg" />
+
+
+Corpul lăsat liber pe planul înclinat coboară uniform atunci când 
+
+
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_11_Poza5_Ecuatie2CoborareLiberaCorpPeUnPlanInclinat.jpg" />
+
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_11_Poza6_GraficCoborareLiberaCorpPeUnPlanInclinat.jpg" />
+
+
+
+
+<br></br>
+<br></br>
+
+
+**URCAREA UNIFORMĂ A UNUI CORP PE UN PLAN ÎNCLINAT :**
+
+Planul înclinat este reprezentat printr un triunghi dreptunghic care este asemenea cu triunghiul dreptunghic format de greutate și componentele sale. Din asemănarea triunghiurilor precizate se găsesc relațiile: 
+
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_11_Poza7_EcuatieUrcareLiberaCorpPeUnPlanInclinat.jpg" />
+
+
+Corpul urcă uniform pe planul înclinat atunci când 
+
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_11_Poza8_Ecuatie2UrcareLiberaCorpPeUnPlanInclinat.jpg" />
+
+Forța de tracțiune, necesară pentru ridicarea corpului în mișcare uniformă pe planul înclinat, se obține din condiția de echilibru:
+
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_11_Poza9_EcuatieConditiaDeEchilibru.jpg" />
+
+Dacă forța de frecare la alunecare se poate neglija, se poate observa că forța devine 
+
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_11_Poza10_Ecuatie2ConditiaDeEchilibru.jpg" />
+
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_11_Poza11_GraficUrcareCorpPeUnPlanInclinat.jpg" />
+
+
+
+
+:::
+
+
+ 
 
 
 
