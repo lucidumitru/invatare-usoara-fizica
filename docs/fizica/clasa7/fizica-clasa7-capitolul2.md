@@ -1027,7 +1027,7 @@ c) Jupiter (g<sub>Jupiter</sub> = g ∙ 2,5 N/kg)
 
 :::tip Experiment
 
-**10.** De ce nu cade un corp de pe masă ?
+**10.** Reacţiunea normală
 
 :::
 
@@ -1495,7 +1495,7 @@ Modulul forței de frecare la alunecare este direct proporțional cu modulul for
 
 :::tip Experiment
 
-**15.** Întrecerea colilor
+**15.** Rezistenţa aerului 
 
 :::
 

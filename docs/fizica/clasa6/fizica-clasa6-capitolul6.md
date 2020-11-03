@@ -719,7 +719,7 @@ Datorită propagării rectilinii a luminii, când în calea luminii așezăm un 
 
 :::tip Experiment
 
-**5.** Eclipsa totală de Soare
+**5.** Eclipsa de Soare
 :::
 
 
@@ -822,7 +822,7 @@ Pentru a observa cu ochiul liber o eclipsă de Soare este nevoie de un filtru so
 
 :::tip Experiment
 
-**6.** Eclipsa totală de Lună
+**6.** Eclipsa de Lună
 :::
 
 
@@ -1192,7 +1192,7 @@ Caracterizarea imaginii ( A'B' ) obiectului în oglinda plană :
 
 :::tip Experiment
 
-**8.** Construirea unui periscop
+**8.** Cum construim un periscop
 
 :::
 

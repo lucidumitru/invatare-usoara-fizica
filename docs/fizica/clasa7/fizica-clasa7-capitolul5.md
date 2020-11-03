@@ -315,7 +315,7 @@ De exemplu pentru apă (ρ = 1000kg/m<sup>3</sup>), diferența de presiune este 
 
 :::tip Experiment
 
-**2.** La același nivel, presiunea hidrostatică este aceeași.
+**2.** La același nivel, presiunea hidrostatică este aceeași
 
 :::
 
@@ -395,7 +395,7 @@ Jetul de apă de la fundul sticlei are lungime  mai mare decât cele  de deasupr
 
 :::tip Experiment
 
-**4.** Măsurarea presiunii hidrostatice cu ajutorul manometrului  cu lichid 
+**4.** Măsurarea presiunii hidrostatice cu manometrul
 
 :::
 
@@ -1113,7 +1113,7 @@ Pompele hidrofor sunt utilizate pentru alimentarea cu apa în sistemele casnice 
 
 :::tip Experiment
 
-**11.** Forța apei
+**11.** Forța arhimedică a apei
 
 :::
 

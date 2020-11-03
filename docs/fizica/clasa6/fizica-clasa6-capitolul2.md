@@ -490,6 +490,9 @@ c)	0,4 cs = ? s
 :::
 
 
+<br></br>
+<br></br>
+
 
 
 ## II.2. Determinarea valorii unei mărimi fizice.
@@ -1194,7 +1197,8 @@ Mensura trebuie să stea pe o suprafață orizontală (pe masă). Suprafața lib
 
 
 
-
+<br></br>
+<br></br>
 
 
 

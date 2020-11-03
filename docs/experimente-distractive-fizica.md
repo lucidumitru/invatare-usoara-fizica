@@ -68,7 +68,7 @@ import Video from '@site/src/components/Video'
 
 :::tip Experiment
 
-**5.** Stratificarea lichidelor
+**5.** Stratificarea lichidelor după densitate
 
 :::
 
@@ -110,7 +110,7 @@ import Video from '@site/src/components/Video'
 
 :::tip Experiment
 
-**8.** Apa care nu se amestecă!
+**8.** Stratificarea termică pe baza densităţii
 
 :::
 
@@ -255,7 +255,7 @@ import Video from '@site/src/components/Video'
 
 :::tip Experiment
 
-**19.** Balonul cu apă pus în flacără face bum sau nu?
+**19.** Căldura specifică a apei
 
 :::
 
@@ -283,7 +283,7 @@ import Video from '@site/src/components/Video'
 
 :::tip Experiment
 
-**21.** Anestezia locală sau cum poţi scăpa de durerea de cap fără medicamente
+**21.** Anestezia locală 
 
 :::
 
@@ -312,7 +312,7 @@ import Video from '@site/src/components/Video'
 
 :::tip Experiment
 
-**23.** Cine roteşte spirala?
+**23.** Curenţii de aer
 
 :::
 
@@ -326,7 +326,7 @@ import Video from '@site/src/components/Video'
 
 :::tip Experiment
 
-**24.** Focul rece?
+**24.** Focul rece!
 
 :::
 

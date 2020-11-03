@@ -153,7 +153,7 @@ _Observarea și măsurarea_ sunt activități fundamentale în fizică. Pornind 
 
 :::tip Experiment
 
-**1.** Determinarea densității unui magnet.
+**1.** Cum se determină densitatea unui magnet
 
 :::
 

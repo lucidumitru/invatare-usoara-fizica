@@ -22,7 +22,7 @@ import Video from '@site/src/components/Video'
 
 :::tip Experiment
 
-**1.** Dansul particulelor.
+**1.** Mişcarea browniană
 
 :::
 
@@ -99,7 +99,7 @@ Fenomenul de difuzie apare în toate stările de agregare ale corpurilor, fiind 
 
 :::tip Experiment
 
-**2.** Difuzia depinde de temperatură.
+**2.** Difuzia depinde de temperatură
 
 :::
 
@@ -142,7 +142,7 @@ Cerneala picurată în apa caldă se amestecă foarte repede cu apa.
 
 :::tip Experiment
 
-**3.** Echilibrul termic.
+**3.** Echilibrul termic
 
 :::
 
@@ -349,7 +349,7 @@ Prin bagheta de metal, căldura trece foarte  repede de la  un capătul încălz
 
 :::tip Experiment
 
-**5.** Toate solidele sunt conductoare?
+**5.** Conductoare şi izolatoare termice
 
 :::
 
@@ -414,7 +414,7 @@ După ce ne-am convins că dintre solide, numai metalele sunt conductoare, urmea
 
 :::tip Experiment
 
-**6.** Conduce apa căldura?
+**6.** Apa este izolatoare termică
 
 :::
 
@@ -465,7 +465,7 @@ _După puţin timp, apa de la suprafaţă începe să fiarbă, în timp  ce în 
 
 :::tip Experiment
 
-**7.** Conduce aerul căldura?
+**7.** Aerul este izolator termic
 
 :::
 
@@ -582,7 +582,7 @@ _Cristalele încep să se dizolve în apă, punând în evidență  formarea cur
 
 :::tip Experiment
 
-**9.** Cine rotește spirala de hârtie ?
+**9.** Curenţii de aer
 
 :::
 
@@ -750,7 +750,7 @@ Soarele este principala sursă de radiație termică pe Pământ. Prin urmare, r
 
 :::tip Experiment
 
-**11.** Radiația termică și culorile.
+**11.** Radiația termică și culorile
 
 :::
 
@@ -1078,7 +1078,7 @@ _Căldurile specifice pot avea valori diferite pentru aceași substanță dacă 
 
 :::tip Experiment
 
-**13.** Calcularea căldurii specifice a unui corp solid.
+**13.** Calcularea căldurii specifice a unui corp solid
 
 
 :::
@@ -1751,7 +1751,7 @@ Apa, la înghețare (solidificare), și-a mărit volumul (anomalia apei).
 
 :::tip Experiment
 
-**20.** Cum putem grăbi evaporarea ?
+**20.** Cum grăbim evaporarea ?
 
 :::
 
@@ -1893,7 +1893,7 @@ Cu cât temperatura unui lichid este mai mare, cu atât el se evaporă mai reped
 
 :::tip Experiment
 
-**21.** Anestezia locală.
+**21.** Anestezia locală
 
 :::
 
@@ -2086,7 +2086,7 @@ Observație: Temperaturile de fierbere din tabelul cu constantele de material su
 
 :::tip Experiment
 
-**23.** Poate apa să fiarbă la temperaturi mai mari de 100°C ?
+**23.** Fierberea apei sub presiune
 
 :::
 
@@ -2190,7 +2190,7 @@ Pe vârful Everest (8848 m) apa fierbe la 69 °C. În vid (presiune atmosferică
 
 :::tip Experiment
 
-**25.** Apa de nicăieri.
+**25.** Condensarea apei
 
 :::
 
@@ -2258,7 +2258,7 @@ Substanțe ca naftalina, camforul, acidul benzoic, iodul și altele au proprieta
 
 :::tip Experiment
 
-**26.** Cum poți obţine naftalină sub formă de ace.
+**26.** Sublimarea naftalinei
 
 :::
 

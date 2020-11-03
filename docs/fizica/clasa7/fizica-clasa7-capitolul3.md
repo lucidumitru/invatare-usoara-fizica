@@ -627,7 +627,7 @@ De unde își ia omul energie ? Hrana este principala sursă de energie a tuturo
 
 :::tip Experiment
 
-**3.** Au energie corpurile în mișcare ?
+**3.** Energia cinetică
 
 :::
 
@@ -892,7 +892,7 @@ Energia cinetică a unui corp în mișcare, cu o anumită viteză se calculează
 
 :::tip Experiment
 
-**4.** Au energie corpurile aflate la înălțime ?
+**4.** Energia potențială gravitațională
 
 :::
 
@@ -1114,7 +1114,7 @@ E<sub>pg</sub> = m ∙ g ∙ h = 30.000 ∙ 10 ∙ 10.000 = 3.000.000.000 J
 
 :::tip Experiment
 
-**5.** Au energie corpurile deformate elastic ?
+**5.** Energia potențială elastică
 
 :::
 
@@ -1462,7 +1462,7 @@ Care este tipul energiei mecanice ilustrată în următoarele imagini?
 
 :::tip Experiment
 
-**7.** O sticlă care face bungee-jumping 
+**7.** Conservarea energiei mecanice
 
 :::
 

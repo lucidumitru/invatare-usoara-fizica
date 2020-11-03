@@ -183,7 +183,7 @@ Privește imaginile următoare și scrie în dreptul fiecăreia felul corpului (
 
 :::tip Experiment
 
-**1.** Lumina albă și curcubeul
+**1.** Dispersia luminii și curcubeul
 
 :::
 
@@ -995,7 +995,7 @@ Oglinzile telescoapelor trebuiau realizate cu o precizie de șlefuire de 1/20 di
 
 :::tip Experiment
 
-**9.** Construirea unui periscop
+**9.** Cum construim un periscop
 
 :::
 

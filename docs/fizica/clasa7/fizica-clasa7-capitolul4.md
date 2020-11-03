@@ -278,7 +278,7 @@ Mișcarea de rotație are două sensuri :
 
 :::tip Experiment
 
-**1.** Orice forță rotește un disc ?
+**1.** Momentul forţei
 
 :::
 
@@ -426,7 +426,7 @@ Deoarece b<sub>F</sub> = 0, atunci și M<sub>F</sub> = 0 ( momentul forței este
 
 :::tip Experiment
 
-**2.** Cum se rotește un disc cu mai multe forțe ?
+**2.** Echilibrul de rotaţie
 
 :::
 
@@ -1864,7 +1864,7 @@ Stabilitatea unui corp aşezat este cu atât mai mare, cu cât baza de sprijin e
 
 :::tip Experiment
 
-**14.** O roată care nu se rostogoleşte
+**14.** Stabilitatea unui corp sprijinit
 
 :::
 
@@ -1933,7 +1933,7 @@ Stabilitatea unui corp aşezat este cu atât mai mare, cu cât centrul de greuta
 
 :::tip Experiment
 
-**15.** Echilibrul unei bile.
+**15.** Tipuri de echilibru mecanic
 
 
 :::

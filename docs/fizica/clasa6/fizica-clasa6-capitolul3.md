@@ -2850,7 +2850,11 @@ Cu cât greutatea corpului suspendat crește, cu atât crește și alungirea res
 
 :::important
  
-**Legea deformării elastice : |F| = |F<sub>e</sub> | = k ∙ ΔL** 
+**Legea deformării elastice:** 
+
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_3_3_3_Poza5bis_LegeaDeformariiElastice.jpg" />
+
+ 
 
 Legea deformării elastice ne arată că forța deformatoare (F) este egală în modul cu forța elastică (F<sub>e</sub>), fiind direct proporțională cu deformarea resortului (ΔL).  Fiecare resort are o anumită constantă elastică (k), care se determină experimental.
 
@@ -2860,7 +2864,7 @@ Legea deformării elastice ne arată că forța deformatoare (F) este egală în
 
 :::caution Problemă model
 
-11) Un resort are lungimea inițială de 6cm și când este deformat are 10 cm. Știind că resortul are 40 N /m, determină:
+1) Un resort are lungimea inițială de 6cm și când este deformat are 10 cm. Știind că resortul are 40 N /m, determină:
 
 a)	Forța deformatoare.
 
@@ -2901,35 +2905,3 @@ Forța elastică (F<sub>e</sub>) o desenăm un segment cu săgeată orientat în
 <Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_3_3_3_Poza8_fortaDeformatoareSiFortaElastica.jpg" />
 
 :::
-
-
-
-
-<br></br>
-<br></br>
-<br></br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

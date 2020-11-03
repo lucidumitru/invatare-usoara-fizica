@@ -990,7 +990,7 @@ _Gheața începe să se topească la 0°C. Pe parcursul topirii (de la apariția
 
 :::tip Experiment
 
-**12.** De ce o sticlă umplută cu apă, la cogelator, dă pe dinafară?
+**12.** Anomalia apei!
 
 :::
 
@@ -1130,7 +1130,7 @@ _Apa începe să fiarbă la 100°C. Pe parcursul fierberii, temperatura apei ră
 
 :::tip Experiment
 
-**14.** Apa de nicăieri.
+**14.** Condensarea apei
 
 :::
 
@@ -1198,7 +1198,7 @@ Substanțe ca naftalina, camforul, acidul benzoic, iodul și altele au proprieta
 
 :::tip Experiment
 
-**15.** Cum poți obţine naftalină sub formă de ace.
+**15.** Sublimarea naftalinei
 
 :::
 
