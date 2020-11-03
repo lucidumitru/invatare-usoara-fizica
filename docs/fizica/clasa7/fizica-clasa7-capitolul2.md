@@ -1077,8 +1077,21 @@ Corpul acționează asupra mesei cu o _forță de apăsare normală_ (perpendicu
  
 **Reacțiunea normală (N)** este forța cu care suprafața acționează asupra corpului aflat pe ea (atât în repaus, cât și în mișcare). 
  
- 
+
 :::
+
+
+:::important
+
+
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_2_Poza0_EcuatiaVectorialaFortaDeApasareNormala.jpg" />
+
+:::
+
+
+
+
+
 
 <Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_2_Poza1_FortaDeApasareNormala.jpg" />
 
@@ -1159,7 +1172,7 @@ Reacțiunea normală din partea podelei este mare.
 
 :::important Definiţie
  
-**Forța de frecare ( F<sub>f</sub> )  este forța care apare la suprafața de contact dintre două corpuri ce alunecă unul peste celălalt și se opune mișcării unui corp față de celălalt.** 
+**Forța de frecare ( F<sub>f</sub> )  este forța care apare la suprafața de contact dintre două corpuri care se mișcă unul față de altul și se opune mișcării unui corp față de celălalt.** 
  
  
 :::
@@ -1176,6 +1189,22 @@ Reacțiunea normală din partea podelei este mare.
 
 
 :::
+
+
+:::important 
+
+
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_3_Poza0_EcuatiaVectorialFortaDeFrecare.jpg" />
+
+:::
+
+
+
+
+
+
+
+
 
 
 <Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_3_Poza1_PozaFortaFrecare.jpg" />
@@ -2657,6 +2686,12 @@ Ecuatorul față de poli, este mai departe de centrul Pământului și scade acc
 
 :::
 
+:::important
+
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_3_Poza0_EcuatiaVectorialFortaDeFrecare.jpg" />
+
+:::
+
 
 <Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_3_Poza1_PozaFortaFrecare.jpg" />
 
@@ -2742,6 +2777,14 @@ Modulul forței de frecare la alunecare este direct proporțional cu modulul for
 **Forța de apăsare normală (N')** este forța cu care un corp acționează asupra unei suprafețe cu care este în contact.
 
 **Reacțiunea normală (N)** este forța cu care suprafața acționează asupra corpului aflat pe ea .
+
+
+
+
+
+
+
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_2_Poza0_EcuatiaVectorialaFortaDeApasareNormala.jpg" />
 
 
 <Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_2_Poza1_FortaDeApasareNormala.jpg" />
