@@ -636,7 +636,7 @@ Dacă poți reține, o viteză exprimată în m/s poate fi transformată în km/
 
 - Mișcare curbilinie, în care traiectoria este o linie curbă.
 
-- Mișcare de rotație, în care traiectoria este un cerc.
+- Mișcare de rotație, în care traiectoria este un cerc sau un arc de cerc.
 
 
 
@@ -734,6 +734,27 @@ c)	Înlocuim în legea mișcării pe x<sub>0</sub>, v și pe t<sub>0</sub> :
 
 :::
 
+
+
+
+:::caution Temă
+
+1) În următorul tabel sunt trecute datele mișcării unui mobil.
+
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_4a_Poza5_TabelTema1.jpg" />
+
+**Se cere:**
+
+a) Ce fel de mișcare are mobilul ? De ce ?
+
+b) Calculează viteza medie.
+
+c) Determină legea mișcării.
+
+
+
+
+:::
 
 
 <br></br>
@@ -858,6 +879,37 @@ La calculul timpului, scădem t<sub>2</sub> - t<sub>1</sub>, deoarece t<sub>2</s
 
 
 <Video src="https://www.youtube.com/embed/r0HcxgJlXCY" />
+
+
+<br></br>
+
+
+
+:::caution Temă
+
+1) În următorul tabel sunt trecute datele mișcării unui mobil.
+
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_4b_Poza5_TabelTema1.jpg" />
+
+**Se cere:**
+
+a) Știind  legea mișcării acestui mobil : x = 10 + 5 ∙ t, determină pozițiile mobilului corespunzătoare timpilor din tabel.
+
+b) Reprezintă graficul mișcării, folosind ca etaloane 
+  - 1cm = 10 m
+  - 1cm = 4s.
+
+c) Determină pe grafic poziția mobilului la t = 8s.
+
+d) Calculează viteza medie.
+
+e) Ce fel de mișcare are mobilul ? De ce ?
+
+
+
+
+:::
+
 
 
 <br></br>
