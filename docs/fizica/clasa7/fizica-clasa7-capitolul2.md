@@ -1486,7 +1486,7 @@ Modulul forței de frecare la alunecare este direct proporțional cu modulul for
 <Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_3_Poza4_FormulaLegeaFrecarii.jpg" />
  
 
-unde μ este coeficientul de frecare la alunecare. Acest coeficient este o constantă adimensională, care exprimă dependența forței de frecare la alunecare de felul în care sunt prelucrate (șlefuite) suprafețele de contact ale corpurilor ce alunecă unul peste celălalt.
+unde μ (_litera grecească miu_) este coeficientul de frecare la alunecare. Acest coeficient este o constantă adimensională, care exprimă dependența forței de frecare la alunecare de felul în care sunt prelucrate (șlefuite) suprafețele de contact ale corpurilor ce alunecă unul peste celălalt.
 
 iar N este forța de apăsare normală. 
 

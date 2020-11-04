@@ -1059,8 +1059,6 @@ _Căldurile specifice pot avea valori diferite pentru aceași substanță dacă 
 :::
 
 
-**Căldura specifică** este o constantă de material și o găsim în tabelul cu constante de la sfârșitul acestui capitol.
-
 <Img className="img-responsive4" src="fizica/clasa8/capitolul1/1_6_2_Poza1_FormulaCapacitatiiCalorice.jpg" />
 
 
@@ -1326,6 +1324,236 @@ Comparăm cu căldura specifică a cuprului din tabel (385 J/kg∙K) și observ�
 
 
 <br></br>
+
+<br></br>
+
+<br></br>
+
+
+
+
+
+
+### I.6.3. Sinteză recapitulativă - Fenomene termice Partea I
+
+
+
+:::important
+
+
+
+**Agitația termică** este **mişcarea** dezordonată şi continuă a particulelor unei substanţe (atomi sau molecule).
+
+
+_Creșterea temperaturii conduce la o creștere a vitezei de mișcare a moleculelor și de aceea a căpătat numele de agitație termică._
+
+ 
+
+**Difuzia** este fenomenul de **pătrundere** a moleculelor unui corp printre moleculele altui corp, fără intervenţia unei forţe exterioare (de la sine).
+
+
+
+**Temperatura** este o _mărime fizică de stare_, care descrie starea termică a unui corp la un anumit moment de timp,  _măsurată cu termometru_.
+
+Scara Kelvin (absolută) nu are temperaturi negative.
+
+**[T]<sub>SI</sub> = K (Kelvin)**
+
+
+
+
+
+
+
+**Căldura (simbolul Q)** este o mărime fizică care măsoară energia transferată, numai prin mișcarea dezordonată a moleculelor dintre două corpuri aflate în contact termic. 
+
+
+
+Fiind un transfer de energie, are aceeaşi unitate de măsură în Sistemul Internațional, ca și energia și lucrul mecanic: 
+
+**[ Q ] <sub>SI</sub> =  J(Joule).**
+
+
+
+
+**Căldura** este o _mărime de proces_, adică ea măsoară transferul de energie dintre două stări termice diferite, care are loc într-un interval de timp.  
+
+
+Căldura se transmite (propagă) de la un corp la altul prin trei forme: conducție, convecție și radiație termică. 
+
+
+
+<br></br>
+<br></br>
+
+
+**Conducţia termică (termoconductibilitatea)** reprezintă propagarea căldurii prin metale, din aproape în aproape, de la capătul încălzit spre cel neîncălzit, fără deplasare de substanţă.
+
+
+
+
+Dintre solide, numai metalele sunt bune conductoare de căldură, numindu-se **termoconductoare sau conductoare termice**.  
+
+
+
+
+Celelalte solide (de exemplu: sticla, plasticul, cauciucul, lemnul, ebonita, porţelanul etc.) sunt corpuri rău conductoare de căldură (termoconductibilitate redusă) numindu-se **termoizolatoare sau izolatoare termice.**
+
+
+<br></br>
+<br></br>
+ 
+
+**Convecția termică** (denumire ce înseamnă „ transport”) este propagarea căldurii în **lichide și gaze**, prin formarea curenților de convecție, adică cu deplasare de substanță.  
+
+
+
+#### Explicația formării curenţilor de apă:
+
+- Stratul de apă de la fundul vasului, fiind direct în flacără, se încălzeşte şi se dilată, mărindu-şi volumul. Deoarece, densitatea unui corp este invers proporţională cu volumul acestuia (ρ = m/V), densitatea apei de la fundul vasului se micşorează astfel încât, devenind mai uşoară,  ea va urca la suprafaţă.  Apa de la suprafaţă, fiind rece, are densitatea mai mare şi va coborî. 
+- Procesul se repetă până la încălzirea uniformă a apei. În toate lichidele și gazele, căldura se propagă prin curenţi, adică prin **convecţie**.
+
+
+<br></br>
+<br></br>
+
+ 
+
+**Radiaţia termică (numită și radiație infraroșie)** este propagarea căldurii de către corpurile calde, în linie dreaptă, prin raze (radiaţie însemnând prin raze).  
+
+
+
+
+
+
+Soarele este principala sursă de radiație termică pe Pământ. Prin urmare, radiația se propagă și în vid. Radiația infraroșie este un tip de radiație electromagnetică ca și lumina, undele radio, radiația ultavioletă, razele X sau microundele. Lumina infraroșie este invizibilă ochiului uman, însă oamenii o pot simți ca și căldură. 
+
+
+Radiaţiile solare sunt absorbite de către corpurile negre aproape în totalitate, pe când cele albe împrăştie circa 50% din radiaţiile ce cad pe ele.
+ 
+Iarna trebuie să purtăm haine de culoare închisă, deoarece ele  absorb radiaţia solară, fiind  călduroase.
+
+Vara trebuie să purtăm haine de culoare deschisă, deoarece ele reflectă radiația solară, fiind răcoroase.
+
+
+
+<br></br>
+<br></br>
+
+
+**Motorul termic** este un sistem care transformă căldura primită, prin arderea unui combustibilul (benzina, motorina, gazul metan, etc.) în lucru mecanic.   
+
+
+
+
+**Randamentul motorului termic ( η )** este o mărime fizică egală cu raportul dintre lucrul mecanic efectuat de motor (L) și căldura primită (Q).   
+
+
+
+
+<Img className="img-responsive4" src="fizica/clasa8/capitolul1/1_5_0_Poza2_FormulaRandamentuluiMotoruluiTermic.jpg" />
+
+
+
+Randamentul este o mărime adimensională (nu are unitate de măsură, deoarece J/J , se simplifică) și se exprimă sub formă de procente.  
+
+
+
+
+ 
+
+**Căldura primită/ cedată de un corp(Q) în procesul de încălzire/ răcire are următoarea formulă:**
+
+**Q = m ∙ c ∙ ΔT**
+
+m = masa corpului	
+
+c = căldura specifică (constantă de material, specifică fiecărei substanțe)
+
+ΔT = variația temperaturii corpului (adică, cu cât crește/ scade temperatura lui)
+   
+
+
+
+
+
+
+ 
+Coeficienții calorici reprezintă mărimile fizice care caracterizează schimbul de căldură dintre sistemele termodinamice. 
+
+
+
+
+#### Printre cei mai importanți avem:
+- Căldura specifică (c);
+- Capacitatea calorică (C). 
+
+
+<br></br>
+
+
+**Căldura specifică(c)**  reprezintă mărimea fizică ce caracterizează căldura absorbită /cedată de 1kg de substanță pentru a-și mări /micșora temperatura cu un grad. 
+
+
+**Căldura specifică** este o constantă de material și o găsim în tabelul cu constante de la sfârșitul acestui capitol.
+
+<Img className="img-responsive4" src="fizica/clasa8/capitolul1/1_6_1_Poza1_FormulaCalduriiSpecifice.jpg" />
+
+
+_Căldurile specifice pot avea valori diferite pentru aceași substanță dacă aceasta se găsește în stări de agregare diferite._
+
+**c<sub>apă</sub> ≠ c<sub>gheaţă</sub>**
+
+
+<br></br>
+
+
+**Capacitatea calorică (C)** – reprezintă mărimea fizică ce caracterizează cantitatea de căldură necesară sistemului termodinamic pentru a-și varia temperatura cu un grad. 
+
+
+<Img className="img-responsive4" src="fizica/clasa8/capitolul1/1_6_2_Poza1_FormulaCapacitatiiCalorice.jpg" />
+
+
+
+
+:::
+
+
+
+
+<br></br>
+
+:::caution **SUBIECTE TEST I - FENOMENE TERMICE**
+
+
+
+**TEST la clasa a VIII a - Varianta I / II**
+
+1)	Definește agitația termică/ difuzia. -1p
+
+2)	Caracterizează căldura / temperatura ca mărime fizică (formulă, unitate de măsură, instrument de măsură).-1p
+
+3)	Definește conducția termică / convecția termică.-1p
+
+4)	Definește radiația termică / Explică formarea curenților de apă la încălzirea apei .-1p
+
+5)	Explică două experimente din acest subcapitol - 2p
+
+6)	Problemă cu schimb de căldură dintre două corpuri puse într-un calorimetru până ajung la echilibru termic. – 2p
+
+Oficiu – 2p
+
+:::
+
+
+
+
+<br></br>
+<br></br>
+
+
+
+
 
 
 ## I.7. Stările de agregare ale corpurilor
@@ -1720,6 +1948,18 @@ _Apa înghețată a dat pe dinafară._
 **Concluzia experimentului:**
 
 Apa, la înghețare (solidificare), și-a mărit volumul (anomalia apei). 
+
+
+
+:::note Observație
+
+Apa are un comportament diferit între 0°C – 4 °C ( numită anomalia apei). 
+
+În acest interval, volumul ei scade, densitatea creşte ( la + 4 °C, având densitatea maximă ). 
+
+Deci, pe fundul lacurilor există apă  la + 4 °C,  ce face posibilă viaţa subacvatică.
+
+:::
 
 
 
@@ -2249,7 +2489,7 @@ Apa apărută de nicăieri s-a format prin condensarea vaporilor de apă din cam
 
 :::note Observaţie
 
-Substanțe ca naftalina, camforul, acidul benzoic, iodul și altele au proprietatea de a trece din stare solidă direct în stare de vapori. Și tungstenul din filamentul becului sublimează lent ducând la subțierea filamentului și în final la arderea lui.  
+Substanțe ca naftalina, camforul, acidul benzoic, iodul, gheaţa și altele au proprietatea de a trece din stare solidă direct în stare de vapori. Și tungstenul din filamentul becului sublimează lent ducând la subțierea filamentului și în final la arderea lui.  
 
 :::
 
@@ -2387,19 +2627,19 @@ m = masa substanței (în kg)
 
 - Scriem fenomenele suferite de gheață și aplicăm formulele corespunzătoare pentru căldura absorbită, în fiecare caz:
 
-**1.** Încălzirea gheții de la (-20)°C până la 0°C: 
+- **a)** Încălzirea gheții de la (-20)°C până la 0°C: 
 
   - Q<sub>1</sub> = m ∙ c<sub>g</sub> ∙ ΔT = 0,1 ∙ 2090 ∙ [0 - (-20)] = 0,1 ∙ 2090 ∙ 20 = 4180 J
 
-**2.** Topirea gheții  la T = ct. = 0°C: fiind fenomen cu schimbare de stare de agregare aplicăm formula căldurii latente:
+- **b)** Topirea gheții  la T = ct. = 0°C: fiind fenomen cu schimbare de stare de agregare aplicăm formula căldurii latente:
 
   - Q<sub>2</sub> = Q<sub>latentă topire</sub> = m • ʌ<sub>t</sub> = 0,1 ∙ 334.000 = 33.400 J
 
-**3.** Încălzirea apei de la 0°C până la 100°C: 
+- **c)** Încălzirea apei de la 0°C până la 100°C: 
 
   - Q<sub>3</sub> = m ∙ c<sub>a</sub> ∙ ΔT = 0,1 ∙ 4185 ∙ (100 - 0) = 0,1 ∙ 4185 ∙ 100 = 41.850 J
 
-**4.** Fierberea (vaporizarea) apei  la T = ct. = 100°C: fiind fenomen cu schimbare de stare de agregare aplicăm formula căldurii latente:
+- **d)** Fierberea (vaporizarea) apei  la T = ct. = 100°C: fiind fenomen cu schimbare de stare de agregare aplicăm formula căldurii latente:
 
   - Q<sub>4</sub> = Q<sub>latentă vaporizare</sub> = m • ʌ<sub>v</sub> = 0,1 ∙ 2.260.000 = 226.000 J
 
@@ -2415,6 +2655,68 @@ m = masa substanței (în kg)
 
 
 
+:::caution Problemă model
+
+**2.** Ce căldură cedează 500g de aluminiu de la temperatura de 800 °C până la temperatura de 500 °C ? 
+
+Se dau:
+  
+c<sub>Al</sub> = 880 J/kgK, 
+
+ʌ<sub>t</sub> = 400.000 J/kg,
+
+T<sub>t</sub> = 660°C .
+
+
+#### Rezolvare:
+
+- Scriem datele problemei:
+
+m = 500g = 0,5kg
+
+T<sub>1</sub> = 800°C
+
+T<sub>t</sub> = T<sub>s</sub> = 660°C
+
+c<sub>Al</sub> = 880 J/kgK,
+
+ʌ<sub>t</sub> = 400.000 J/kg
+
+T<sub>2</sub> = 500°C
+
+
+- Scriem fenomenele suferite de aluminiu și aplicăm formulele corespunzătoare pentru căldura cedată , în fiecare caz :
+
+- **a)** Răcirea aluminiului lichid de la 800°C până la 660°C : 
+  - Q<sub>1</sub> = m ∙ c<sub>Al</sub> ∙ ΔT = 0,5 ∙ 880 ∙(800-660) = 0,5 ∙ 880 ∙ 140 = 6.160 J
+
+- **b)** Solidificarea aluminiului lichid la T<sub>s</sub> = T<sub>t</sub> = constantă = 660°C : fiind fenomen cu schimbare de stare de agregare aplicăm formula căldurii latente :
+
+  - Q<sub>2</sub> = Q<sub>latentă topire</sub> = m • ʌ<sub>t</sub> = 0,5 ∙ 400.000 = 200.000 J
+
+
+- **c)** Răcirea aluminiului solid de la 660°C până la 500°C : 
+
+  - Q<sub>3</sub> = m ∙ c<sub>Al</sub> ∙ ΔT = 0,5 ∙ 880 ∙ (660-500) = 0,5 ∙ 880 ∙ 160 = 70.400 J
+
+
+- Adunăm toate căldurile cedate de aluminiu 
+
+  - Q<sub>cedată</sub> =  Q<sub>1</sub> + Q<sub>2</sub> + Q<sub>3</sub> = 6.160 + 200.000 + 70.400 = 276.560 J
+
+<br></br>
+
+
+<Video src="https://www.youtube.com/embed/ZYe21mSe0-c" />
+
+
+:::
+
+
+
+
+<br></br>
+<br></br>
 
 
  
@@ -2427,19 +2729,24 @@ m = masa substanței (în kg)
 
 :::
 
-
-#### A. Clasificarea combustibililor după starea lor de agregare:
-
-- **combustibili solizi**: cărbuni (huilă, antracit, lignit, turbă,etc.), lemn.
-- **combustibili lichizi**: petrol (țiței), benzină, motorină, kerosen, alcool.
-- **combustibili gazoși**: hidrogen, gaz metan, gaz etan, gaz propan, gaz butan.
+#### Clasificarea combustibililor:
 
 
-#### B. Clasificarea combustibililor după provenienţă:
 
-- **combustibili naturali**: țiței, cărbuni, lemn, gaz metan (gaz natural).
-- **combustibili artificiali**: benzină, motorină, kerosen, alcool, propan, butan.
 
+
+<Img className="img-responsive4" src="fizica/clasa8/capitolul1/1_10_Poza0_CombustibiliiDupaStareaLorDeAgregare.jpg" />
+
+<br></br>
+
+<br></br>
+
+
+<Img className="img-responsive4" src="fizica/clasa8/capitolul1/1_10_Poza0bis_CombustibiliiDupaProvenienta.jpg" />
+
+
+<br></br>
+<br></br>
 
 
 
@@ -2662,10 +2969,325 @@ Compar valoarea obținută experimental cu puterea calorică a alcoolului din ta
 
 
 <br></br>
+<br></br>
 
 
 
-## I.11. Tabel cu constante fizice (de material).
+## I.11. Sinteză recapitulativă - Fenomene termice Partea II
+
+
+:::important
+
+Stările de agregare ale corpurilor(substanțelor) sunt:
+
+- Starea solidă
+
+- Starea lichidă
+
+- Starea gazoasă
+
+**Corpurile solide** au formă proprie (bine determinată) și volum propriu.  Nu curg.
+
+La **solide** forțele de atracție dintre particule sunt foarte mari și distanțele dintre particule sunt foarte mici. Solidele cristaline au atomii (ionii) așezați ordonat într-o anumită formă, numită rețea cristalină. Ei execută numai mișcări de oscilație în jurul unor poziții fixe, numite nodurile rețelei. Atomii solidului  sunt lipiți și de aceea nu se mișcă unii față de alții și se atrag considerabil . Iată de ce solidele au și formă și volum proprii, sunt incompresibile (dacă atomii sunt lipiți, nu avem cum să mai micșorăm distanța dintre ei).
+
+**Lichidele**  au volum propriu (bine determinat) , dar nu au formă proprie (iau forma vasului în care sunt puse). Curg (sunt fluide).
+
+La **lichide** forțele de atracție dintre particule sunt mai mici ca la solide și distanțele dintre particule sunt puțin mai mari ca la solide. Moleculele execută atât mișcări de oscilație , cât și de translație . Moleculele  se mișcă unele față de altele și se atrag puțin . Iată de ce lichidele nu au formă , dar au volum propriu, sunt incompresibile.
+
+**Gazele** nu au nici formă proprie (iau forma vasului în care sunt puse) și nici volum propriu (ocupă tot volumul pus la dispoziție). Curg (sunt fluide).
+
+La **gaze** forțele de atracție dintre particule sunt foarte mici (neglijabile) și distanțele dintre particule sunt foarte mari . Moleculele execută atât mișcări de rotație , cât și de translație . Moleculele  se mișcă mult unele față de altele (au loc suficient) și nu se atrag. Iată de ce gazele nu au formă , nu au volum propriu și sunt compresibile.
+
+
+<Img className="img-responsive4" src="fizica/clasa8/capitolul1/1_7_0_Poza1_Experiment17_SolideLichideGaze.jpg" />
+
+
+<br></br>
+<br></br>
+
+
+
+**Transformări de stări de agregare**
+
+În următoarea schemă sunt definite toate cele șase fenomene care au loc cu schimbarea stării de agregare :
+
+<Img className="img-responsive4" src="fizica/clasa8/capitolul1/1_8_0_Poza1_SchemaSchimbareStariDeAgregare.jpg" />
+
+
+
+Fenomenele care au loc cu schimbarea stării de agregare se studiază pe perechi, fiecare pereche având două fenomene opuse.
+
+
+
+
+**Topirea** este fenomenul de trecere a unei substanțe din stare solidă în stare lichidă, prin încălzire . 
+
+
+**Solidificarea** este fenomenul invers topirii și constă în trecerea unei substanțe din stare lichidă în stare solidă, prin răcire. 
+
+
+**Legile topirii / solidificării:**
+
+
+
+
+**I.** Fiecare substanță începe să se topească (să se solidifice) la o anumită temperatură, numită **temperatură de topire (notată cu T<sub>t</sub> )**,  care este o constantă de material (o luăm din tabel). 
+
+**Temperatura de topire** a unei substanțe coincide cu **temperatura de solidificare** (T<sub>s</sub>).
+   
+**T<sub>t</sub> = T<sub>s</sub> = constantă de material**
+ 
+
+
+
+
+
+**Observații la legea I a topirii / solidificării**
+
+  - **1.** Temperaturile de topire ale substanțelor din tabelul cu constante de material sunt pentru _presiuni normale_. Pentru marea majoritatea substanțelor, la creșterea presiunii, crește și temperatura de topire.  
+
+  - La unele substanțe (apa, fonta, bismutul), _temperatura de topire scade la creșterea presiunii_. 
+
+
+  - **2.** Există anumite substanțe numite amorfe (care nu au structură cristalină- exemple: ceara, sticla, smoala, cauciucuri, mase plastice), care nu au un punct fix de topire, ele topindu-se într-un anumit interval de temperatură. 
+
+  - **3.** În timpul topirii (respectiv a solidificării) volumul substanței se modifica astfel: majoritatea substanțelor își măresc volumul la topire și și-l micșorează la solidificare. Excepții avem la apa, fonta și bismutul, care își măresc volumul la solidificarere (aceasta este anomalia apei).  
+
+
+
+
+**II.** **Pe parcursul topirii unei substanțe** (de la apariția primei picături până la topirea ultimului cristal), temperatura de topire rămâne constantă, dacă presiunea ramâne constantă. 
+
+
+
+<br></br>
+<br></br>
+
+**Vaporizarea și condensarea**
+
+**Vaporizarea** este fenomenul de trecere a unei substanțe din stare lichidă în stare  gazoasă (vapori), prin încălzire. 
+
+**Condensarea** este fenomenul de trecere a unei substanțe din stare gazoasă în stare lichidă, prin răcire. Este fenomenul invers al vaporizării. 
+
+
+
+
+
+#### Vaporizarea poate avea loc în două moduri :
+a) **Evaporarea** este vaporizarea care are loc doar la suprafața lichidului.
+
+b) **Fierberea** este vaporizarea care are loc în toată masa lichidului și începe odată cu apariția primului clocot.
+ 
+
+
+#### Factorii ce influențează viteza de evaporare  a unui lichid sunt:
+
+- **Natura substanței**: unele substanțe (acetona, eterul, benzina, alcoolul etc.), numite lichide volatile se evaporă foarte repede, altele se evaporă mai încet (apa, uleiul).
+ 
+- **Gura vasului (suprafața de evaporare)**: cu cât este mai mare, evaporarea are loc mai repede.
+
+- **Zvântarea (suflarea)**  grăbește evaporarea, prin înlăturarea vaporilor de deasupra lichidului.
+
+- **Temperatura** cu cât este mai mare, cu atât evaporarea are loc mai repede.
+
+
+**Aplicaţiile evaporării în viaţa cotidiană**
+
+  - **1)** De ce ne răcorește ventilatorul? Elicea ventilatorului îndepărtează vaporii de apă din jurul corpului nostru, crescând astfel viteza de evaporare a transpirației noastre, care absorbe căldură la evaporare și ne dă senzația de răcorire.
+
+
+  - **2)** De ce când ieșim din apă, avem senzație de frig?  Când ieșim din apă, are loc evaporarea apei care absorbe căldură de pe corpul nostru și determină scăderea temperaturii corpului.
+  
+
+  - **3)** Principiul anesteziei locale : pe o zonă a corpului se aplică un lichid volatil (ex lidocaină) . La evaporare absoarbe căldură, zona se răcește și nervii locali nu mai transmit durerea la creier.
+
+
+  - **4)** Când suportăm mai bine canicula verii, când aerul este uscat sau umed?  Omul suportă mai ușor canicula când aerul este uscat (nu este saturat cu vapori de apă) întrucât transpirația de pe noi se poate evapora mai ușor, absoarbe căldură la evaporare și ne răcorește.
+  
+  
+<br></br>
+<br></br>
+  
+
+**Legile fierberii:**
+
+
+**I.** Fiecare lichid începe să fiarbă la o anumită temperatură numită temperatură de fierbere, T<sub>f</sub>  care este o constantă de material (tabel).
+
+
+_Observație:_ Temperaturile de fierbere din tabelul cu constantele de material sunt pentru presiuni normale. La creșterea presiunii, temperatura de fierbere crește. Astfel, dacă fierbem apa în vase ermetic închise, ea nu va mai fierbe la 100°C, ci la 120-140°C. Pe această proprietate se bazează fierberea rapidă a legumelor tari în **oalele sub presiune** (oale minune) și sterilizarea instrumentelor medicale în **autoclave**.  
+
+
+**II.** Pe parcursul fierberii unui lichid (de la primul clocot până la vaporizarea completă) **temperatura de fierbere este constantă, la aceeași presiune.**
+
+
+<br></br>
+<br></br>
+
+
+**Sublimarea și desublimarea**
+
+
+
+**Sublimarea** este fenomenul de transformare a unei substanțe din stare solidă direct în stare gazoasă, prin încălzire.
+
+
+**Desublimarea** este fenomenul invers al sublimării, de transformare a unei substanțe din stare gazoasă (de vapori) direct în stare solidă, prin răcire.
+
+
+
+
+_Observație:_ Substanțe ca naftalina, camforul, acidul benzoic, iodul, gheaţa și altele au proprietatea de a trece din stare solidă direct în stare de vapori. Și tungstenul din filamentul becului sublimează lent ducând la subțierea filamentului și în final la arderea lui.  
+
+
+
+Privește cu atenție graficul dependenței temperaturii apei în funcție de timp. Ce fenomene corespund fiecărei porțiuni ale graficului.
+
+
+
+<Img className="img-responsive4" src="fizica/clasa8/capitolul1/1_8_2_Poza2_Experimentul22_Grafic_vers2.jpg" />
+
+
+
+- Fenomenele corespunzătoare fiecărui segment sunt :
+
+  - **AB, BC, CD**  reprezintă **evaporarea apei,** deoarece apa are o temperatură inferioară temperaturii ei de fierbere (100°C).  
+  
+  - **DE** reprezintă **fierberea apei,** deoarece apa a ajuns la temperatura ei de fierbere (100°C)  și pe parcursul fierberii temperatura ei este constantă.
+
+
+<br></br>
+<br></br>
+
+
+**Călduri latente**
+
+
+Trecerea substanței dintr-o stare de agregare în alta se face cu absorbție sau cedare de căldură.
+
+Căldura absorbită sau cedată de o substanță pe parcursul unui fenomen cu schimbarea stării de agregare, care determină numai variația energiei potențiale a moleculelor se numește **căldură latentă**.
+
+
+
+Ca să înțelegem noțiunea de căldură latentă, trebuie să vedem ce se întâmplă în interiorul substanței, care se transformă dintr-o stare de agregare în alta. Am ales topirea.
+
+
+#### Explicația topirii unei substanțe: 
+
+În stare solidă particulele au energie potențială  minimă și distanțe intermoleculare foarte mici. Topirea se produce la temperatură constantă și prin urmare, energia cinetică este constantă (energia cinetică –de mișcare a particulelor –este funcție de temperatură).  Atunci ce face solidul cu căldura absorbită, dacă temperatura lui nu se modifică? Ei bine, căldura absorbită duce numai la creșterea energiei potențiale a moleculelor, care va conduce la creșterea distanțelor intermoleculare și trecerea solidului în lichid.
+
+**Q<sub>latentă</sub> = m • ʌ**
+
+Q<sub>latentă</sub> = căldura latentă, adică căldura absorbită (cedată) de o substanță pe parcursul schimbării stării de agregare (în Joule = J )
+
+m = masa substanței (în kg) 
+
+ʌ = căldura latentă specifică (constantă de material și o luăm din tabel).  Se măsoară în J / kg. Se notează cu litera grecească lambda (ʌ) .
+
+
+**Observații:**
+
+**a)** Căldurile latente specifice sunt  de două feluri: de topire  = ʌ<sub>t</sub>  și de vaporizare (fierbere) = ʌ<sub>v</sub>.
+
+**b)** Pentru aceeași substanță: 
+
+**ʌ<sub>t</sub>  = ʌ<sub>s</sub>**  și  
+
+**ʌ<sub>v</sub>  = ʌ<sub>c</sub>**  dar,
+  
+**ʌ<sub>t</sub>  ≠ ʌ<sub>v</sub>**.
+  
+
+
+
+
+#### De  exemplu pentru apă: 
+  - avem căldura latentă specifică de topire : ʌ<sub>t</sub> =334.000 J/kg 
+  - avem căldura latentă specifică de vaporizare : ʌ<sub>v</sub> = 2.260.000 J/kg
+
+
+
+<br></br>
+<br></br>
+
+
+
+**Combustibili**
+
+
+
+**Combustibilii** sunt substanțe care degajă căldură, prin arderea lor.
+
+Clasificarea combustibililor :
+
+
+<Img className="img-responsive4" src="fizica/clasa8/capitolul1/1_10_Poza0_CombustibiliiDupaStareaLorDeAgregare.jpg" />
+
+<br></br>
+
+<br></br>
+
+
+<Img className="img-responsive4" src="fizica/clasa8/capitolul1/1_10_Poza0bis_CombustibiliiDupaProvenienta.jpg" />
+
+
+<br></br>
+<br></br>
+
+
+
+
+**Căldura degajată de un combustibil prin ardere** depinde de masa combustibilului ( m ) și de puterea calorică a combustibilului ( q) și are următoarea formulă :
+
+Q = m ∙ q
+
+m = masa (cantitatea) de combustibil ars (kg)
+
+q = puterea calorică a combustibilului (kJ/kg).
+
+:::
+
+<br></br>
+<br></br>
+
+:::caution SUBIECTE TEST II - FENOMENE TERMICE
+
+**TEST la clasa a VIII a - PARTEA a 2 a – Varianta I / II**
+
+
+1)	Clasificarea combustibililor după proveniență / stare de agregare -1p
+
+2)	Caracterizează starea solidă/lichidă/gazoasă.-1p
+
+3)	Definește fenomenele care au loc cu schimbarea stării de agregare.-1p
+
+4)	Enunță legile topirii / fierberii și observațiile acestora.-2p
+
+5)	Se dă un grafic al creșterii/scăderii temperaturii unei substanțe în funcție de timp și se cere interpretarea fenomenelor suferite de acea substanță pe diferite porțiuni ale graficului.-1p
+
+6)	Problemă cu călduri latente - 2p
+
+Din oficiu- 2p
+
+
+:::
+
+
+
+
+
+
+
+
+<br></br>
+<br></br>
+
+
+
+
+
+
+## I.12. Tabel cu constante fizice (de material).
 
 
 
