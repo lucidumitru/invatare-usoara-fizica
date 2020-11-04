@@ -51,7 +51,7 @@ _Câmpul electric_ se află în jurul oricărui corp electrizat sau circuit elec
 
 <br></br>
 
-**Materiale necesare:**: magnet, busolă (ac magnetic), corp, riglă de plastic, bucată de bumbac.
+**Materiale necesare:** magnet, busolă (ac magnetic), corp, riglă de plastic, bucată de bumbac.
 
 **Descrierea experimentului:** 
 
@@ -158,7 +158,7 @@ Efectele interacțiunii sunt de două feluri:
 
 <br></br>
 
-**Materiale necesare:**: magnet, mașinuță de plastic cu un magnet în interior.
+**Materiale necesare:** magnet, mașinuță de plastic cu un magnet în interior.
  
 
 
@@ -230,7 +230,7 @@ Avem efect dinamic când corpul porneşte / opreşte, accelerează / frânează 
 
 <br></br>
 
-**Materiale necesare:**: arc (resort), foarfecă, hârtie, burete, balon, clește, fistic în coajă.
+**Materiale necesare:** arc (resort), foarfecă, hârtie, burete, balon, clește, fistic în coajă.
  
 
 
@@ -403,7 +403,7 @@ Forțele care apar în interacțiunile de la distanță sunt **forțe de acțiun
 
 <br></br>
 
-**Materiale necesare:**: dinamometru, corp cu cârlig.
+**Materiale necesare:** dinamometru, corp cu cârlig.
  
 
 
@@ -484,7 +484,7 @@ _Piesa principală a dinamometrului este un resort ce se deformează elastic. Ma
 
 <br></br>
 
-**Materiale necesare:**: bol (castronel), bilă.
+**Materiale necesare:** bol (castronel), bilă.
  
 
 
@@ -561,7 +561,7 @@ Aplicând principiul fundamental al mecanicii clasice pentru deplasarea unui cor
 
 <br></br>
 
-**Materiale necesare:**: o mașinuță (bilă).
+**Materiale necesare:** o mașinuță (bilă).
  
 
 
@@ -609,7 +609,7 @@ Dacă acționăm asupra unui corp de masă _m_ cu o forță _F_, atunci corpul s
 
 <br></br>
 
-**Materiale necesare:**: două dinamometre, un suport.
+**Materiale necesare:** două dinamometre, un suport.
  
 
 
@@ -787,7 +787,7 @@ De ce când lași liber un corp și nu mai este susținut de mâna ta, de o mas�
 
 <br></br>
 
-**Materiale necesare:**: dinamometru, corp cu cârlig și discuri crestate.
+**Materiale necesare:** dinamometru, corp cu cârlig și discuri crestate.
 
 
 
@@ -1037,7 +1037,7 @@ c) Jupiter (g<sub>Jupiter</sub> = g ∙ 2,5 N/kg)
 
 <br></br>
 
-**Materiale necesare:**: corp, masă.
+**Materiale necesare:** corp, masă.
 
 
 
@@ -1256,7 +1256,7 @@ Reacțiunea normală din partea podelei este mare.
 
 <br></br>
 
-**Materiale necesare:**: cutiuță de carton (de la chibrituri), fir, pahar de plastic, mochetă, monede.
+**Materiale necesare:** cutiuță de carton (de la chibrituri), fir, pahar de plastic, mochetă, monede.
 
 
 
@@ -1317,7 +1317,7 @@ Dependența forței de frecare de gradul de șlefuire al suprafeței pe care alu
 
 <br></br>
 
-**Materiale necesare:**: cutiuță de carton ( de la chibrituri), fir, pahar de plastic,  monede.
+**Materiale necesare:** cutiuță de carton ( de la chibrituri), fir, pahar de plastic,  monede.
 
 
 
@@ -1366,7 +1366,7 @@ Forța de frecare, care apare la alunecarea unui corp este direct proporțional�
 
 <br></br>
 
-**Materiale necesare:**:  cutiuță de carton ( de la chibrituri), fir, pahar de plastic,  monede.
+**Materiale necesare:**  cutiuță de carton ( de la chibrituri), fir, pahar de plastic,  monede.
 
 
 
@@ -1439,7 +1439,7 @@ Deci, coeficientul de frecare la alunecare al cartonului (cutia) pe pal melamina
 
 <br></br>
 
-**Materiale necesare:**:  2 cutiuțe de carton ( de la chibrituri) diferite ca mărime, fir, pahar de plastic,  monede
+**Materiale necesare:**  2 cutiuțe de carton ( de la chibrituri) diferite ca mărime, fir, pahar de plastic,  monede
 
 
 
@@ -1480,7 +1480,17 @@ Forța de frecare, care apare la alunecarea unui corp nu depinde de aria suprafa
  
 **Legea frecării:**
  
-Modulul forței de frecare la alunecare este direct proporțional cu modulul forței normale de apăsare pe suprafața de contact și are expresia matematică: **F<sub>f</sub> = μ ∙ N** , unde μ este coeficientul de frecare la alunecare. Acest coeficient este o constantă adimensională, care exprimă dependența forței de frecare la alunecare de felul în care sunt prelucrate (șlefuite) suprafețele de contact ale corpurilor ce alunecă unul peste celălalt.
+Modulul forței de frecare la alunecare este direct proporțional cu modulul forței de apăsare normală (N) pe suprafața de contact și are expresia matematică:
+ 
+ 
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_3_Poza4_FormulaLegeaFrecarii.jpg" />
+ 
+
+unde μ este coeficientul de frecare la alunecare. Acest coeficient este o constantă adimensională, care exprimă dependența forței de frecare la alunecare de felul în care sunt prelucrate (șlefuite) suprafețele de contact ale corpurilor ce alunecă unul peste celălalt.
+
+iar N este forța de apăsare normală. 
+
+
 
 :::
 
@@ -1505,7 +1515,7 @@ Modulul forței de frecare la alunecare este direct proporțional cu modulul for
 
 <br></br>
 
-**Materiale necesare:**:  două coli de hârtie identice
+**Materiale necesare:**  două coli de hârtie identice
 
 
 
@@ -1609,10 +1619,17 @@ Forța de frecare la rostogolire este mai mică decât forța de frecare la alun
 În cazul mecanismelor care conţin piese în mişcare una faţă de alta, frecarea dintre acestea determină încălzirea pieselor şi, în timp, uzarea lor. Pentru **a micşora această frecare nedorită**, se folosesc două metode:
 
 - Ungerea pieselor în mişcare ale unei maşini cu lubrifianţi (ulei de mecanisme, vaselină) .
-- Folosirea rulmenţilor, formaţi din bile care se rostogolesc unele peste altele. Cum rostogolirea produce mai puţină frecare decât alunecarea, aceştia reduc considerabil frecarea. Roţile automobilelor, ale bicicletelor, motocicletelor etc. sunt montate pe rulmenţi. Lagărele cu rulmenţi sunt utilizate şi la motoarele electrice, la strunguri, la axele vagoanelor, la axul pe care se fixează elicea avioanelor etc., adică oriunde trebuie să fie micşorată forţa de frecare.
+- Folosirea rulmenţilor, formaţi din bile care se rostogolesc unele peste altele, deoarece forţa de frecare la rostogolire este mai mică decât forţa de frecare la alunecare, aceştia reduc considerabil frecarea. 
+
+
 
 :::
 
+#### Exemple:
+
+- Roţile automobilelor, ale bicicletelor, motocicletelor etc. sunt montate pe rulmenţi. 
+
+- Lagărele cu rulmenţi sunt utilizate şi la motoarele electrice, la strunguri, la axele vagoanelor, la axul pe care se fixează elicea avioanelor etc., adică oriunde trebuie să fie micşorată forţa de frecare.
 
 
 <br></br>
@@ -1712,6 +1729,18 @@ Tensiunea din firul ce leagă dinamometrul de corp reprezintă reacțiunea forț
 
 
 
+Forța de apăsare a corpului (F) este forța cu care corpul acționează asupra firului (ea este egală cu greutatea corpului).
+
+Tensiunea în fir (T) este forța cu care firul acționează asupra corpului suspendat pe el.
+
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_11_Poza2_CorpulSuspendatDeUnFir.jpg" />
+
+
+
+
+
+
+
 :::note Observaţie
 
 - **În orice secțiune a unui fir întins de o forță acționează două forțe egale în modul, dar opuse ca sens, acțiunea și reacțiunea, cu care o parte a firului acționează asupra celeilalte părți. Oricare dintre aceste forțe se numește tensiune în fir.**
@@ -1726,6 +1755,16 @@ Tensiunea din firul ce leagă dinamometrul de corp reprezintă reacțiunea forț
 
 
 :::
+
+
+
+
+
+
+
+
+
+
 
 
 
