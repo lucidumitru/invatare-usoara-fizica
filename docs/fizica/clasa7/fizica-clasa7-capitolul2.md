@@ -1721,7 +1721,7 @@ Tensiunea din firul ce leagă dinamometrul de corp reprezintă reacțiunea forț
 
 :::important Definiţie
  
-**Tensiunea din fir ( T )** reprezintă forța de reacțiune  a firului inextensibil (care nu se alungește) la forță de întindere exercitată asupra lui. 
+**Tensiunea din fir ( T )** reprezintă forța de reacțiune  a firului inextensibil (care nu se alungește) la forța exercitată asupra lui. 
  
  
 :::
