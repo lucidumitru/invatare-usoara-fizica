@@ -2720,7 +2720,7 @@ T<sub>2</sub> = 500°C
 
 
  
-## I.10. Combustibilii.
+## I.10. Combustibili.
 
 
 :::important Definiţie
@@ -2874,7 +2874,7 @@ Q = m ∙ q
 
 m = masa (cantitatea) de combustibil ars (kg)
 
-q = puterea calorică a combustibilului (kJ/kg).
+q = puterea calorică a combustibilului (J/kg).
 
 
 :::
@@ -3243,7 +3243,7 @@ Q = m ∙ q
 
 m = masa (cantitatea) de combustibil ars (kg)
 
-q = puterea calorică a combustibilului (kJ/kg).
+q = puterea calorică a combustibilului (J/kg).
 
 :::
 
@@ -3263,7 +3263,7 @@ q = puterea calorică a combustibilului (kJ/kg).
 
 4)	Enunță legile topirii / fierberii și observațiile acestora.-2p
 
-5)	Se dă un grafic al creșterii/scăderii temperaturii unei substanțe în funcție de timp și se cere interpretarea fenomenelor suferite de acea substanță pe diferite porțiuni ale graficului.-1p
+5)	Se dă un grafic al variației temperaturii unei substanțe în funcție de timp și se cere interpretarea fenomenelor suferite de acea substanță pe diferite porțiuni ale graficului / Aplicațiile evaporării.-1p
 
 6)	Problemă cu călduri latente - 2p
 
