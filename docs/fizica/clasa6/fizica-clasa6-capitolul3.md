@@ -955,7 +955,7 @@ Mișcarea rectilinie uniformă este posibilă în viața de zi cu zi, numai pe p
 
 :::important Definiţie
  
-**Accelerația medie (a<sub>medie</sub> sau a<sub>m</sub>) este mărimea fizică egală cu raportul dintre variația vitezei (creșterea sau scăderea ei) și durata în care s-a produs această variație.   
+**Accelerația medie (a<sub>medie</sub> sau a<sub>m</sub>)** este mărimea fizică egală cu raportul dintre variația vitezei (creșterea sau scăderea ei) și durata în care s-a produs această variație.   
  
 :::
 
@@ -1089,9 +1089,12 @@ Observăm că în intervale de timp egale (de 4s), fata parcurge distanțe din c
 
 **Un corp este în stare de mișcare** atunci când corpul își schimbă poziția (sau distanța) față de reperul ales. 
 
-
-
 **Un corp este în stare de repaus** atunci când corpul nu își schimbă poziția (sau distanța) față de reperul ales. 
+
+
+
+<br></br>
+
 
 
 #### Caracterizarea vitezei medii ca mărime fizică:
@@ -1106,6 +1109,9 @@ Observăm că în intervale de timp egale (de 4s), fata parcurge distanțe din c
 <Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_3_Poza2_UnitateDeMasura.jpg" />
 
 #### •	Instrumente de măsură: vitezometrul, aflat la bordul tuturor mașinilor.
+
+
+<br></br>
 
 
  
@@ -1128,7 +1134,7 @@ Observăm că în intervale de timp egale (de 4s), fata parcurge distanțe din c
 - Mișcare variat frânată, în care viteza scade.
 
 
-
+<br></br>
 
 
 
@@ -1139,7 +1145,10 @@ Observăm că în intervale de timp egale (de 4s), fata parcurge distanțe din c
 **- Viteza momentană este egală cu viteza medie.**
 
 
-**Viteza își păstrează valoarea numerică, direcția și sensul mișcării.**
+**- Viteza își păstrează valoarea numerică, direcția și sensul mișcării.**
+
+
+<br></br>
 
 
 **Legea mișcării rectilinii uniforme:** 
@@ -1247,7 +1256,7 @@ e) x<sub>M1</sub> = x<sub>0</sub> + v(t – t<sub>0</sub>) = 0 + 6 ∙ t = 6t
 :::important
 
  
-**Accelerația medie (a<sub>medie</sub> sau a<sub>m</sub>) este mărimea fizică egală cu raportul dintre variația vitezei (creșterea sau scăderea ei) și durata în care s-a produs această variație.   
+**Accelerația medie (a<sub>medie</sub> sau a<sub>m</sub>)** este mărimea fizică egală cu raportul dintre variația vitezei (creșterea sau scăderea ei) și durata în care s-a produs această variație.   
  
 
 
@@ -1268,14 +1277,12 @@ e) x<sub>M1</sub> = x<sub>0</sub> + v(t – t<sub>0</sub>) = 0 + 6 ∙ t = 6t
 
 
 
+<br></br>
 
 
 
 **Mișcarea rectilinie uniform variată** este mișcarea unui mobil pe o traiectorie rectilinie și cu accelerație constantă.
  
-
-
-
 
 
 #### În mișcarea rectilinie uniform accelerată:
@@ -2555,7 +2562,7 @@ g = accelerația gravitațională a Pământului de 9,8 N/kg.
 
 #### •	Instrumente de măsură: 
 
-<Img className="img-responsive4" src="fizica/clasa6/capitolul3/2_4_1_Poza2bis3_InstrumentDeMasuraAGreutatii.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_3_1_Poza2bis3_InstrumentDeMasuraAGreutatii.jpg" />
 
 :::
 
@@ -2882,20 +2889,26 @@ d)	Reprezintă cele două forțe ce acționează asupra resortului .
 
 <Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_3_3_3_Poza6_DateleInitialeProblemaModel2.jpg" />
 
-
+<br></br>
+<br></br>
 
 a) Scriem legea deformării elastice: |F| = |F<sub>e</sub>| = k ∙ ΔL
 
-
 <Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_3_3_3_Poza7_RezolvarePunctulAProblemaModel2.jpg" />
+
+<br></br>
+<br></br>
 
 
 b) Forța elastică (Fe) este egală în modul cu forța deformatoare (F).
 
 |F<sub>e</sub>| = |F| = 1,6 N.
 
+<br></br>
 
 c)	Resortul este alungit, deoarece lungimea lui creşte când este deformat.
+
+<br></br>
 
 d)	Forța deformatoare (F) o desenăm un segment cu săgeată orientat spre dreapta, deoarece ea alungeşte resortul.
 

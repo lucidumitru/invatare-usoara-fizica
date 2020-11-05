@@ -111,31 +111,47 @@ Instrumentul de măsură pentru temperatură se numește termometru.
 
 **- Termometru de laborator cu mercur**
 
-<Img src="fizica/clasa6/capitolul4/4_1_1_Poza1_TermometruDeLaborator.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul4/4_1_1_Poza1_TermometruDeLaborator.jpg" />
 
 
+<br></br>
+<br></br>
 
 **- Termometru medical(cu mercur)**
 
-<Img src="fizica/clasa6/capitolul4/4_1_1_Poza2_TermometruMedical.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul4/4_1_1_Poza2_TermometruMedical.jpg" />
+
+
+<br></br>
+<br></br>
 
 **- Termometru medical digital (cu componentă electrică sensibilă la căldură)**
 
-<Img src="fizica/clasa6/capitolul4/4_1_1_Poza3_TermometruMedicalDigital.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul4/4_1_1_Poza3_TermometruMedicalDigital.jpg" />
 
+
+<br></br>
+<br></br>
 
 **- Termometru de exterior**
 
-<Img src="fizica/clasa6/capitolul4/4_1_1_Poza4_TermometruExterior.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul4/4_1_1_Poza4_TermometruExterior.jpg" />
 
+
+<br></br>
+<br></br>
 
 **- Termometru de cameră (cu alcool colorat)**
 
-<Img src="fizica/clasa6/capitolul4/4_1_1_Poza5_TermometruDeCamera.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul4/4_1_1_Poza5_TermometruDeCamera.jpg" />
+
+
+<br></br>
+<br></br>
 
 **- Termometru cu cristale lichide (acestea îşi schimbă culoarea când sunt încălzite). Se lipesc de piele**.
 
-<Img src="fizica/clasa6/capitolul4/4_1_1_Poza6_TermometruCuCristaleLichide.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul4/4_1_1_Poza6_TermometruCuCristaleLichide.jpg" />
 
 :::
 
@@ -149,7 +165,7 @@ Instrumentul de măsură pentru temperatură se numește termometru.
 
 Relația dintre scara Kelvin și scara Celsius:
 
-<Img src="fizica/clasa6/capitolul4/4_1_1_Poza7_FormulaKelvin_Celsius.jpg" /> 
+<Img className="img-responsive4" src="fizica/clasa6/capitolul4/4_1_1_Poza7_FormulaKelvin_Celsius.jpg" /> 
  
 :::
 
@@ -166,7 +182,7 @@ Scara Fahrenheit a fost propusă în 1724 de către fizicianul **Daniel Gabriel 
 Relația de transformare între scara Celsius t(°C) și Fahrenheit  tF (°F):
 
 
-<Img src="fizica/clasa6/capitolul4/4_1_1_Poza8_FormulaGradeFahrenheit.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul4/4_1_1_Poza8_FormulaGradeFahrenheit.jpg" />
 
 
 
@@ -178,7 +194,7 @@ Relația de transformare între scara Celsius t(°C) și Fahrenheit  tF (°F):
 
 **1.** Transformă o temperatură de 40°C în Kelvin și grade Fahrenheit.
 
-<Img src="fizica/clasa6/capitolul4/4_1_1_Poza9_ProblemaModel1.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul4/4_1_1_Poza9_ProblemaModel1.jpg" />
 
 :::
 
@@ -198,7 +214,7 @@ T = 560 – 273,15 = 286,85 °C
 
 **3.** Calculează variația ( diferența de ) temperatură din tabelul cu temperaturi minime și maxime pe o săptămână :
 
-<Img src="fizica/clasa6/capitolul4/4_1_1_Poza12_Tabel_ProblemaModel3.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul4/4_1_1_Poza12_Tabel_ProblemaModel3.jpg" />
 
 :::
 
@@ -247,11 +263,11 @@ T = 560 – 273,15 = 286,85 °C
 - Pune borcanul mic cu apa rece în borcanul mai mare cu apa caldă și în fiecare pune câte un termometru. Pornește cronometrul.
 - Urmăreşte indicaţiile termometrului până când acesta rămâne la aceeaşi temperatură, pe care o notezi cu T<sub>e</sub> = ......... °C. Trece temperaturile celor două ape în următorul tabel:
 
-<Img src="fizica/clasa6/capitolul4/4_1_1_Poza10_Experiment2_Tabel.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul4/4_1_2_Poza1_Experiment2_Tabel.jpg" />
 
 - Realizează graficul dependenței temperaturilor apei reci, respectiv calde în funcție de timp.
 
-<Img src="fizica/clasa6/capitolul4/4_1_1_Poza11_Experiment2_Grafic.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul4/4_1_2_Poza2_Experiment2_Grafic.jpg" />
 
 
 
@@ -385,7 +401,7 @@ La aceeași variație de temperatură, unele corpuri se dilată mai mult, altele
 
 Variația relativă a lungimii unei bare, 
 
-<Img className="img-responsive2" src="fizica/clasa6/capitolul4/4_2_1_1_Poza1_VariatiaReatiaALungimiiUneiBare_vers3.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul4/4_2_1_1_Poza1_VariatiaReatiaALungimiiUneiBare.jpg" />
 
 este direct proporțională cu variația temperaturii, Δt.
 
@@ -393,7 +409,7 @@ este direct proporțională cu variația temperaturii, Δt.
 Constanta de proporționalitate dintre cele două variații este chiar coeficientul de dilatare termică liniară .
 
 
-<Img className="img-responsive2" src="fizica/clasa6/capitolul4/4_2_1_1_Poza2_ConstantaDeProportionalitate_vers3.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul4/4_2_1_1_Poza2_ConstantaDeProportionalitate.jpg" />
 
 
 **l = l<sub>0</sub> ( 1 + α ∙ Δt )**
@@ -407,7 +423,7 @@ l<sub>0</sub> = lungimea barei înainte de încălzire
 Δt = variația temperaturii barei
 
 
-<Img className="img-responsive2" src="fizica/clasa6/capitolul4/4_2_1_1_Poza3_DesenConstantaDeProportionalitate_vers5.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul4/4_2_1_1_Poza3_DesenConstantaDeProportionalitate.jpg" />
 
 
 În cazul dilatării volumice, se poate defini un coeficientul de dilatare termică volumică, γ ≈ 3α.
@@ -556,8 +572,11 @@ Atenție când lucrezi cu surse de foc! Atenţie să nu te arzi! Fă experimentu
 - Ce observi ?
 
 
-<Img src="fizica/clasa6/capitolul4/4_2_1_2_Poza1_Experiment5.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul4/4_2_1_2_Poza1_Experiment5.jpg" />
 
+
+<br></br>
+<br></br>
 
 
 :::note Observaţie
@@ -606,9 +625,10 @@ Lichidele prin încălzire își măresc volumul, unele mai puțin ( apa ), alte
 - Ce observi ?
 
 
-<Img src="fizica/clasa6/capitolul4/4_2_1_2_Poza2_Experiment6.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul4/4_2_1_2_Poza2_Experiment6.jpg" />
 
-
+<br></br>
+<br></br>
 
 :::note Observaţie
 
@@ -628,11 +648,16 @@ Gazele, prin încălzire, îşi măresc volumul, adică se dilată . Aerul din f
 Lichidele prin încălzire își măresc volumul, unele mai puțin ( apa ), altele mai mult ( alcoolul ) .
 
 
-<Img src="fizica/clasa6/capitolul4/4_2_1_2_Poza3_DesenDilatareLichide.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul4/4_2_1_2_Poza3_DesenDilatareLichide.jpg" />
+
+
+<br></br>
+<br></br>
+
 
 Gazele, prin încălzire, îşi măresc volumul, adică se dilată .
 
-<Img src="fizica/clasa6/capitolul4/4_2_1_2_Poza4_DesenDilatareAer.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul4/4_2_1_2_Poza4_DesenDilatareAer.jpg" />
 
 :::
 
@@ -654,35 +679,48 @@ Dilataţia la solide este de sute ori mai mică decât la lichide, iar dilataţi
 
 1) Termometrul cu lichid ( alcool, mercur ) funcționează pe baza dilatării lichidului, care la încălzire urcă în tubul capilar proporțional cu variația temperaturii lui.
 
-<Img src="fizica/clasa6/capitolul4/4_2_1_2_Poza5_DesenTermometruCuLichid.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul4/4_2_1_2_Poza5_DesenTermometruCuLichid.jpg" />
 
-<Img src="fizica/clasa6/capitolul4/4_2_1_2_Poza5_DesenTermometruCuLichid_PozaReala.jpg" />
+
+<br></br>
+<br></br>
+
 
 2) Podurile metalice au numai un capăt fixat în beton armat, iar celălalt capăt este pus pe niște role care permit deplasarea capătului liber, atunci când vara se dilată sau când se contractă iarna.
 
-<Img src="fizica/clasa6/capitolul4/4_2_1_2_Poza6_DesenPodMetalic.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul4/4_2_1_2_Poza6_DesenPodMetalic.jpg" />
 
-<Img src="fizica/clasa6/capitolul4/4_2_1_2_Poza6_PodMetalic_PozaReala.jpg" />
+
+
+<br></br>
+<br></br>
+
   
 3) La montarea șinelor de cale ferată se lasă un interval ( o anumită distanță) între capatele acestora, numit rostul șinei, pentru a nu se deforma, vara când se dilată.
 
-<Img src="fizica/clasa6/capitolul4/4_2_1_2_Poza7_RostDilatieCaleFerata.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul4/4_2_1_2_Poza7_RostDilatieCaleFerata.jpg" />
 
-<Img src="fizica/clasa6/capitolul4/4_2_1_2_Poza7_RostDilatieCaleFerata_PozaReala.jpg" />
+
+<br></br>
+<br></br>
+
 
 
 4) Cablurile electrice aeriene sunt astfel dimensionate încât lungimea lor ( l ) dintre doi stâlpi, să fie mai mare decât distanța dintre cei doi stâlpi, pentru a nu se rupe iarna când se contractă.
 
-<Img src="fizica/clasa6/capitolul4/4_2_1_2_Poza8_CabluElectric.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul4/4_2_1_2_Poza8_CabluElectric.jpg" />
 
-<Img src="fizica/clasa6/capitolul4/4_2_1_2_Poza8_CabluElectric_PozaReala.jpg" />
+
+<br></br>
+<br></br>
+
  
 5) Conductele de apă caldă / gaze sunt prevăzute, din loc în loc, cu niște coturi ( bucle ) pentru a preveni deformarea acestora la variații mari de temperatură.
 
 
-<Img src="fizica/clasa6/capitolul4/4_2_1_2_Poza9_ConductaDeGaze.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul4/4_2_1_2_Poza9_ConductaDeGaze.jpg" />
 
-<Img src="fizica/clasa6/capitolul4/4_2_1_2_Poza9_ConductaDeGaze_PozaReala.jpg" />
+
 
 
 :::
@@ -1260,7 +1298,7 @@ Sub acţiunea radiaţiei Soarelui, aceste ape se evaporă în aerul atmosferic.
 
 Când condensarea vaporilor de apă are loc la suprafața pământului se formează **ceaţa.**
 
-<Img src="fizica/clasa6/capitolul4/4_2_2_3_Poza1_Ceata.jpg" />
+<Img className="img-responsive4"  src="fizica/clasa6/capitolul4/4_2_2_3_Poza1_Ceata.jpg" />
 
 
 :::
@@ -1274,7 +1312,7 @@ Când condensarea vaporilor de apă are loc la suprafața pământului se formea
 
 Când condensarea vaporilor are loc la înălţimi mai mari în atmosferă se formează **norii.**
 
-<Img src="fizica/clasa6/capitolul4/4_2_2_3_Poza2_Nori.jpg" />
+<Img className="img-responsive4"  src="fizica/clasa6/capitolul4/4_2_2_3_Poza2_Nori.jpg" />
 
 :::
 
@@ -1283,7 +1321,7 @@ Când condensarea vaporilor are loc la înălţimi mai mari în atmosferă se fo
 
 Când picăturile mici de apă din care sunt formaţi norii se unesc, fiind mai mari și mai grele nu mai pot pluti în atmosferă şi cad pe pământ sub formă de **ploaie.**
 
-<Img src="fizica/clasa6/capitolul4/4_2_2_3_Poza3_Ploaie.jpg" />
+<Img className="img-responsive4"  src="fizica/clasa6/capitolul4/4_2_2_3_Poza3_Ploaie.jpg" />
 
 :::
 
@@ -1294,7 +1332,7 @@ Când picăturile mici de apă din care sunt formaţi norii se unesc, fiind mai 
 
 Iarna, când temperatura aerului scade sub 0°C, picăturile de apă din nori îngheaţă ( se solidifică ) sub forma unor ace, care prin unire formează cristale mai mari, numite **fulgi de zăpadă.**
 
-<Img src="fizica/clasa6/capitolul4/4_2_2_3_Poza4_Ninsoare.jpg" />
+<Img className="img-responsive4"  src="fizica/clasa6/capitolul4/4_2_2_3_Poza4_Ninsoare.jpg" />
 
 :::
 
@@ -1305,7 +1343,7 @@ Iarna, când temperatura aerului scade sub 0°C, picăturile de apă din nori î
 
 În dimineţile care urmează după nopţile senine de vară apare **roua** prin condensarea vaporilor de apă din aer la contactul cu suprafaţa Pământului ( iarbă, flori, etc).
 
-<Img src="fizica/clasa6/capitolul4/4_2_2_3_Poza5_Roua.jpg" />
+<Img className="img-responsive4"  src="fizica/clasa6/capitolul4/4_2_2_3_Poza5_Roua.jpg" />
 
 :::
 
@@ -1314,7 +1352,7 @@ Iarna, când temperatura aerului scade sub 0°C, picăturile de apă din nori î
 
 Primăvara şi toamna, când vaporii de apă  din aer vin în contact  cu obiecte de pe Pământ cu temperatura sub 0°C se formează **bruma** prin desublimarea vaporilor de apă din aer.
 
-<Img src="fizica/clasa6/capitolul4/4_2_2_3_Poza6_Bruma.jpg" />
+<Img className="img-responsive4"  src="fizica/clasa6/capitolul4/4_2_2_3_Poza6_Bruma.jpg" />
 
 :::
 
