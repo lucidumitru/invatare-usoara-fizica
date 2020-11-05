@@ -3259,9 +3259,9 @@ q = puterea calorică a combustibilului (J/kg).
 
 2)	Caracterizează starea solidă/lichidă/gazoasă.-1p
 
-3)	Definește fenomenele care au loc cu schimbarea stării de agregare.-1p
+3)	Definește fenomenele care au loc cu schimbarea stării de agregare.-1,5p
 
-4)	Enunță legile topirii / fierberii și observațiile acestora.-2p
+4)	Enunță legile topirii / fierberii și observațiile acestora.-1,5p
 
 5)	Se dă un grafic al variației temperaturii unei substanțe în funcție de timp și se cere interpretarea fenomenelor suferite de acea substanță pe diferite porțiuni ale graficului / Aplicațiile evaporării.-1p
 
