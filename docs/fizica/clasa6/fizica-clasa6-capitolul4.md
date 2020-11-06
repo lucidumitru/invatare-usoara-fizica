@@ -949,7 +949,7 @@ La **gaze** forțele de atracție dintre particule sunt foarte mici (neglijabile
 
 În următoarea schemă sunt definite toate cele șase fenomene care au loc cu schimbarea stării de agregare:
 
-<Img src="fizica/clasa6/capitolul4/4_2_2_2_Poza1_SchemaSchimbareStariDeAgregare.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul4/4_2_2_2_Poza1_SchemaSchimbareStariDeAgregare.jpg" />
 
 
 Fenomenele care au loc cu schimbarea stării de agregare se studiază pe perechi, fiecare pereche având două fenomene opuse.
@@ -1120,7 +1120,7 @@ Atenţie când lucrezi cu surse de foc!  Fă experimentul numai în prezenţa un
 
 
 
-<Img src="fizica/clasa6/capitolul4/4_2_2_2_2_Poza1_Experimentul13_Tabel.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul4/4_2_2_2_2_Poza1_Experimentul13_Tabel.jpg" />
 
 
 - Ce observi ?
@@ -1134,7 +1134,7 @@ _Apa începe să fiarbă la 100°C. Pe parcursul fierberii, temperatura apei ră
 - Reprezintă graficul dependenței temperaturii în funcție de timp.
 
 
-<Img src="fizica/clasa6/capitolul4/4_2_2_2_2_Poza2_Experimentul13_Grafic.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul4/4_2_2_2_2_Poza2_Experimentul13_Grafic.jpg" />
 
 - Fenomenele corespunzătoare fiecărui segment sunt :
 
@@ -1160,7 +1160,7 @@ _Apa începe să fiarbă la 100°C. Pe parcursul fierberii, temperatura apei ră
 #### Tabel cu constante fizice (de material).
 
 
-<Img src="fizica/clasa6/capitolul4/4_2_2_2_2_Poza3_TabelCuConstanteDeMaterial.jpg" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul4/4_2_2_2_2_Poza3_TabelCuConstanteDeMaterial.jpg" />
 
 
 
