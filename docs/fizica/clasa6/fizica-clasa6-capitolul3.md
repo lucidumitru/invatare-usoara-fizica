@@ -1024,7 +1024,8 @@ Mișcarea rectilinie uniformă este posibilă în viața de zi cu zi, numai pe p
 
 :::note Observaţie
 
-Cel mai cunoscut exemplu de **mișcarea rectilinie uniform accelerată** este căderea liberă a corpurilor pe Pământ. **Toate corpurile cad spre Pământ cu o accelerație constantă, numită accelerație gravitațională, g = 9,81 m/s<sup>2</sup>.**
+Cel mai cunoscut exemplu de **mișcarea rectilinie uniform accelerată** este căderea liberă a corpurilor pe Pământ. **Toate corpurile cad spre Pământ cu o accelerație constantă, numită accelerație gravitațională, g = 9,81 m/s<sup>2</sup>.** **Când corpul cade liber, viteza inițială a acestuia este v<sub>0</sub> = 0 m/s.**
+
 
 :::
 
@@ -1073,6 +1074,14 @@ Observăm că în intervale de timp egale (de 4s), fata parcurge distanțe din c
 
 :::
 
+
+
+
+:::caution Temă
+
+Un corp este lăsat să cadă liber de la o anumită înălțime cu o accelerație egală cu 10 m/s<sup>2</sup>. După cât timp corpul ajunge la o viteză de 4 m/s ?
+
+:::
 
 
 <br></br>
@@ -1299,6 +1308,39 @@ e) x<sub>M1</sub> = x<sub>0</sub> + v(t – t<sub>0</sub>) = 0 + 6 ∙ t = 6t
 
 
 
+**Observație:**
+ 
+Cel mai cunoscut exemplu de mișcarea rectilinie uniform accelerată este căderea liberă a corpurilor pe Pământ. **Toate corpurile cad spre Pământ cu o accelerație constantă, numită accelerație gravitațională, g = 9,81 m/s<sup>2</sup>** . **Când corpul cade liber, viteza inițială a acestuia este v<sub>0</sub> = 0 m/s.**
+
+
+
+:::
+
+
+
+
+:::caution Model Test Mișcare și repaus
+
+1)	În ce stare mecanică este un anumit corp față de un reper dat.-1p
+
+2)	Clasificarea mișcării unui corp după traiectorie și viteză.-1p
+
+3)	În tabel sunt trecute datele mișcării mobilului 1.
+
+  - a)	Determină pozițiile mobilului 2 pentru timpii trecuți în tabel , folosind legea de mișcare a acestuia.-1p
+  
+  - b)	Realizează graficele celor două mobile.-1,5
+  
+  - c)	Determină poziția/timpul celor două mobile pentru un anumit timp/poziție, pe graficele celor două mobile.-0,5
+  
+  - d)	Determină viteza medie a celor două mobile în SI.-1,5
+   
+  - e)	Determină legea de mișcare a mobilului 1.-0,5
+
+4)	Problemă cu formula accelerației.-1p
+
+Oficiu -2p
+
 
 
 
@@ -1357,7 +1399,7 @@ Când tragi de carton, schimbi  starea de repaus în care se afla moneda. Moneda
 
 :::important Definiţie
  
-**Inerția** este proprietatea corpurilor de a se opune schimbării stării de repaus sau de mișcare rectilinie uniformă în care se aflau.
+**Inerția** este proprietatea corpurilor **de a se opune schimbării stării** de repaus sau de mișcare rectilinie uniformă în care se aflau.
  
 :::
 
@@ -2407,6 +2449,7 @@ _Piesa principală a dinamometrului este un resort ce se deformează elastic. Ma
 
 :::
 
+
 <Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_3_2_PozaConstructiaDinamometru.jpg" />
 
 
@@ -2916,5 +2959,454 @@ Forța elastică (F<sub>e</sub>) o desenăm un segment cu săgeată orientat în
 
 
 <Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_3_3_3_Poza8_fortaDeformatoareSiFortaElastica.jpg" />
+
+:::
+
+
+
+
+<br></br>
+<br></br>
+
+
+
+## III.4. Sinteză recapitulativă - Inerție. Masă. Densitate. Tipuri de forțe.
+
+
+:::important
+
+
+**Inerția** este proprietatea corpurilor **de a se opune schimbării stării** de repaus sau de mișcare rectilinie uniformă în care se aflau.
+
+
+
+
+Inerția unui corp se manifestă doar când asupra lui acționează un alt corp, adică când corpul are o mișcare variată:
+
+- Accelerează (la pornire)
+
+- Frânează (la oprire)
+
+- Schimbarea traiectoriei.
+
+**Dacă asupra corpului nu acționează un alt corp, el își va păstra starea de repaus sau de mișcare rectilinie uniformă.**
+
+
+<br></br>
+<br></br>
+
+ 
+**Masa unui corp** este o mărime fizică care măsoară inerţia corpului. 
+ 
+
+
+
+
+#### Caracterizarea masei unui corp ca mărime fizică:
+
+#### •	Simbol: m
+#### •	Nu are formulă de calcul
+#### •	Unitatea de măsură în Sistemul Internațional: [m]<sub>SI</sub> = kg (kilogramul)
+#### •	Instrumente de măsură: cântar sau balanță.
+
+
+**Observaţie:**
+
+Masa unui corp arată și cantitatea de materie conținută de corp. Atenție! În limbajul de zi cu zi, oamenii confundă masa cu greutatea. Deci, nu este corect când spunem că prin cântărire determinăm greutatea corpului. Corect este, prin cântărire determinăm masa corpului.
+
+**Inerția unui corp depinde atât de masa corpului, cât și de viteza lui.**
+
+
+
+Masa unui corp se determină prin cântărire:
+
+- cu ajutorul balanţei
+
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_2_3_Poza1_PozaBalanta.jpg" />
+
+  
+- sau cu ajutorul cântarului.
+
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_2_3_Poza2_PozaCantar.jpg" />
+
+
+
+
+<br></br>
+<br></br>
+
+
+ 
+**Densitatea (notată cu litera grecească ρ– „ro”)** este mărimea fizică egală cu raportul dintre masa unui corp (m) și volumul său (V). 
+ 
+
+#### Caracterizarea densității unui corp ca mărime fizică:
+
+#### •	Simbol: ρ
+#### •	Formulă de calcul:
+
+
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_2_4_Poza2_FormulaDeCalculADensitatii.jpg" />
+
+
+#### •	Unitatea de măsură în Sistemul Internațional: 
+
+
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_2_4_Poza3_UnitateaDeMasuraADensitatii.jpg" />
+
+
+#### •	Instrumente de măsură: densimetru (numai pentru lichide).
+
+
+
+**Observaţie:**
+
+**Densitatea este o caracteristică a substanței din care este făcut corpul, fiind  o constantă de material.** Valorile densităților diferitelor substanțe se citesc din tabele de densități, măsurate la 20°C.
+
+#### De exemplu:
+
+- Aerul are densitatea de 1,29 kg/m<sup>3</sup>.
+
+- Apa are densitatea de 1.000 kg/m<sup>3</sup>.
+	
+- Aluminiu are densitatea de 2.700 kg/m<sup>3</sup>.
+
+- Mercurul (singurul metal lichid) are densitatea de 13.550 kg/m<sup>3</sup>.
+
+- Platina are densitatea de 21.460 kg/m<sup>3</sup>.
+
+- Osmiu are cea mai mare densitate de 22.610 kg/m<sup>3</sup>.
+
+
+<br></br>
+<br></br>
+
+ 
+**Interacțiunea** este acțiunea reciprocă dintre două  corpuri. 
+ 
+
+
+**Observaţie:**
+
+#### Interacțiunea este o proprietate generală a corpurilor și se poate realiza:
+
+- prin contactul direct dintre corpuri;
+
+- de la distanță, prin intermediul câmpurilor (gravitațional, magnetic, electric).
+
+
+
+
+ 
+Fenomenele care apar în urma interacțiunii corpurilor se numesc  **efecte ale interacțiunii.** 
+ 
+
+
+
+
+
+
+
+ 
+
+Efectele interacțiunii sunt de două feluri:
+
+#### A)	Efecte dinamice în care se schimbă  viteza  corpurilor. Exemple:
+
+- Pornirea unui corp, când viteza lui crește de la zero.
+- Oprirea unui corp, când viteza lui scade până la zero.
+- Accelerarea unui corp, când viteza lui crește .
+- Frânarea unui corp, când viteza lui scade.
+- Schimbarea direcției de mișcare (traiectoriei).
+
+
+#### B)	Efecte statice care constau în deformarea corpurilor (schimbarea formei).
+
+#### Deformarea poate fi:
+
+- **Deformare elastică,**  când corpul revine la forma iniţială, după încetarea interacţiunii. Exemple:
+  - Alungirea unui arc (resort)  când îi mărim lungimea (implicit și forma).
+  
+  - Comprimarea unui resort când îi micșorăm lungimea.
+  
+  - Răsucirea unui burete când îi schimbăm forma.
+  
+  - Turtirea unui balon când îi schimbăm forma.
+  
+- **Deformare plastică,**  când corpul nu mai revine la forma iniţială, după încetarea interacţiunii. Exemple:
+
+  - Tăierea corpurilor.
+  
+  - Ruperea corpurilor.
+  
+  - Spargerea corpurilor, etc.
+ 
+
+
+<br></br>
+<br></br>
+
+
+
+** Forţa, măsură a interacţiunii. Unitate de măsură pentru forță.Dinamometrul.**
+
+
+
+
+ 
+**Forța (notată cu F)** este o mărime fizică care măsoară interacțiunea corpurilor. 
+ 
+
+
+
+
+
+
+#### Caracterizarea forței ca mărime fizică:
+
+#### •	Simbol: în general F
+#### •	Formulă de calcul: fiecare tip de forță are o formulă de calcul.
+#### •	Unitatea de măsură în Sistemul Internațional: [F]<sub>SI</sub> = N (Newton)
+#### •	Instrumente de măsură: dinamometru.
+
+
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_3_2_PozaConstructiaDinamometru.jpg" />
+
+
+
+
+**Forța este o mărime fizică** care se caracterizează prin **mărime, direcție, sens și punct de aplicație.** Ea se reprezintă printr-un segment de dreaptă mărginit de un punct și o săgeată.
+
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_3_2_Poza2_PozaForta.jpg" />
+
+
+
+
+<br></br>
+<br></br>
+
+
+
+#### Exemple de forţe (greutatea, forţa de frecare, forţa elastică).
+
+#### 1. Greutatea ( G )
+
+ 
+**Forța de greutate (pe scurt greutate, forță gravitațională, gravitație)** este forța cu care Pământul atrage un corp. 
+ 
+
+Forța de greutate (notată cu G) acționează întotdeauna pe direcție verticală direcția firului cu plumb), cu sensul în jos.
+
+
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_3_2_Poza2bis_ReprezentareGraficaGreutate.jpg" />
+
+
+
+
+
+#### Importanța forței de greutate
+
+
+a) Ţine corpurile pe Pământ
+
+b) Ţine atmosfera în jurul Pământului
+
+c) Căderea corpurilor pe Pământ
+
+d) Curgerea apelor la vale
+
+e) Când urcăm o pantă, greutatea ne frânează
+
+f) Când coborâm o pantă, greutatea ne accelerează
+
+g) Rotirea planetelor în jurul Soarelui
+
+h)  Rotirea Lunii în jurul Pământului.
+
+
+
+
+<br></br>
+
+
+Raportul dintre greutatea unui corp și masa lui se numește **accelerație gravitațională (notată cu g).** 
+ 
+ 
+
+#### La suprafața Pământului, g = 9,8 N/kg ≅ 10 N /kg.
+ 
+
+#### Caracterizarea forței de greutate ca mărime fizică:
+
+#### •	Simbol: G
+#### •	Formulă de calcul: 
+
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_3_1_Poza2bis_FormulaGreutatii.jpg" />
+
+unde m = masa corpului(în kg) și 
+
+g = accelerația gravitațională a Pământului de 9,8 N/kg.
+
+
+<br></br>
+
+#### •	Unitatea de măsură în Sistemul Internațional: 
+
+
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_3_1_Poza2bis2_UnitateaDeMasuraAGreutatii.jpg" />
+
+<br></br>
+<br></br>
+
+
+#### •	Instrumente de măsură: 
+
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_3_1_Poza2bis3_InstrumentDeMasuraAGreutatii.jpg" />
+
+
+
+
+<br></br>
+<br></br>
+
+
+#### 2. Forța de frecare (Ff)
+
+
+ 
+**Forța de frecare (Ff)** este forța care apare la suprafața de contact dintre două corpuri și se opune mișcării unui corp față de celălalt. 
+ 
+
+
+
+
+#### Importanța forței de greutate
+
+a) Mersul, pornirea și oprirea corpurilor pe diferite suprafețe
+
+b) Scrisul
+
+c) Ținerea obiectelor în mână
+
+d) Legarea șireturilor și realizarea nodurilor
+
+e) Fixarea cuielor în perete
+
+f) Întorsul paginilor unei cărţi
+
+g) Aprinderea chibritului
+
+h) Cusutul
+ 
+i) Ajută parașutistul să aterizeze ușor datorită forței de frecare cu aerul atmosferic (forța de rezistență a aerului)
+
+
+
+
+Observaţie:
+
+A)	Forța de frecare apare din cauza asperităților suprafețelor aflate în contact. Ea depinde de natura suprafețelor aflate în contact și este cu atât mai mare cu cât apăsarea exercitată de corp pe suprafață este mai mare.
+
+_Are direcția_ suprafeței de contact dintre cele două corpuri și _sensul_ opus vitezei corpului.
+
+B)	Când un corp se deplasează pe o suprafață, cu viteză constantă ( mișcare rectilinie și uniformă), forța de tracțiune F (care deplasează corpul) este egală, dar de sens opus cu forța de frecare F<sub>f</sub> .
+
+
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_3_3_2_Poza1_PozaFortaFrecare.jpg" />
+
+
+
+<br></br>
+<br></br>
+
+
+
+
+#### 3. Forța elastică (Fe)
+
+Un resort alungit sau comprimat este deformat elastic, cu o anumită forță, numită **forță deformatoare (F)**. Când încetează acțiunea asupra lui, resortul revine la forma inițială. Înseamnă că, asupra resortului acționează o altă forță, egală, dar de sens opus , numită forță elastică, întrucât apare numai în deformarea elastică. 
+
+
+ 
+**Forța elastică (notată Fe)** este forța care apare în interiorul unui corp deformat elastic și readuce corpul la forma inițială, fiind egală, dar de sens opus cu forța deformatoare (F). 
+ 
+
+
+
+
+#### Importanța forței elastice care apare în corpurile elastice :
+
+a)	Aerul are proprietăți elastice, fiind folosit la pneurile roților pentru amortizarea șocurilor sau la diferite obiecte pneumatice (saltele, mingii, baloane, etc.)
+
+b)	Arcurile (resorturile)  sunt folosite pentru  pentru amortizarea șocurilor și vibrațiilor (suspensii de autovehicole , pentru acumulare de energie (arcuri de ceas, rulouri, arcuri de supape), exercitarea unei forţe elastice permanente (cuplaje de siguranţă , reglarea sau limitarea forţelor sau a debitelor (prese, cuplaje de siguranţă, robinete de reglare etc.).
+
+
+#### Resorturile se găsesc în construcția multor obiecte :
+
+- Dinamometre și cântare
+
+- Pulverizatoare
+
+- Pixuri
+
+- Vagoane de tren
+
+- Ceasuri
+ 
+- Suspensia vehiculului
+ 
+- Saltea de pat
+
+- Clip de păr
+ 
+- Clanță și broască de ușă
+
+- Arcuri pentru dulapuri
+
+- Extensor si flexor fitness
+ 
+- Şaua bicicletei sau motocicletei este aşezată pe arcuri, pentru atenuarea zdruncinărilor în timpul mersului
+
+
+c)	Arc cu săgeți sau arbaletă pentru vânătoare.
+
+
+d)	Coardă elastică în bungee jumping
+
+
+
+<br></br>
+<br></br>
+
+
+
+ 
+**Legea deformării elastice:** 
+
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_3_3_3_Poza5bis_LegeaDeformariiElastice.jpg" />
+
+ 
+
+**Legea deformării elastice ne arată că forța deformatoare (F) este egală în modul cu forța elastică (F<sub>e</sub>), fiind direct proporțională cu deformarea resortului (ΔL). ** 
+
+
+
+
+
+
+
+
+
+ 
+**Constanta elastică a unui resort (k)** este egală cu raportul dintre forța elastică (F<sub>e</sub>)  și deformarea resortului (ΔL). Fiecare resort are o anumită constantă elastică (k), care se determină experimental.
+
+[k]<sub>SI</sub> = N/m 
+ 
+ 
+
+
+
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_3_3_3_Poza8_fortaDeformatoareSiFortaElastica.jpg" />
+
 
 :::

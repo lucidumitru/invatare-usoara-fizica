@@ -2862,7 +2862,7 @@ Tensiunea în fir (T) este forța cu care firul acționează asupra corpului sus
 
 **d) Un corp și un resort de care este suspendat**
 
-Forța de apăsare a corpului (F) este forța cu care corpul acționează asupra resortului (ea este egală cu greutatea corpului).
+Forța deformatoare (F) este forța cu care corpul acționează asupra resortului (ea este egală cu greutatea corpului).
 
 Forța elastică(Fe) este forța cu care resortul acționează asupra corpului suspendat pe el.
 
