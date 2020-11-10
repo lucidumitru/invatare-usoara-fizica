@@ -641,12 +641,12 @@ Colectorul se află pe o bandă de cauciuc trecută peste două role și pusă �
 
 <br></br>
 
-**Materiale necesare:** generatorul electrostatic Van De Graaff, pendul electrostatic 
+**Materiale necesare:** generatorul electrostatic Van de Graaff, pendul electrostatic 
 
 
 :::warning  Atenție
 
-Atenție când lucrezi cu mașina Van De Gaaff ! Pericol de electrocutare !
+Atenție când lucrezi cu mașina Van de Graaff ! Pericol de electrocutare !
 
 :::
 
@@ -681,7 +681,7 @@ Pendulul  este puternic respins de colector, având un unghi mare.
 
 :::note Observaţie (Partea2)
 
-Cu cât crește distanța dintre cele două corpuri electrizate , unghiul de deviere al firului scade .
+Cu cât crește distanța dintre cele două corpuri electrizate, unghiul de deviere al firului scade .
 
 :::
 
@@ -696,7 +696,7 @@ Forța de respingerea electrostatică este invers proporțională cu distanța d
 
 **Descrierea experimentului (Partea3):** 
 
-- Repetă experimentul pentru distanța mică ( câțiva centimetri), dintre pendul și colector, dar cu generatorul încărcat electric mai mult. 
+- Repetă experimentul pentru distanța mică (câțiva centimetri), dintre pendul și colector, dar cu generatorul încărcat electric mai mult. 
 
 - Ce observi ?
 
