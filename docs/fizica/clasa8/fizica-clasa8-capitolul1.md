@@ -3250,20 +3250,27 @@ q = puterea calorică a combustibilului (J/kg).
 <br></br>
 <br></br>
 
+
+
+
+## I.12. Model test - Fenomene termice
+
+
+
 :::caution SUBIECTE TEST II - FENOMENE TERMICE
 
 **TEST la clasa a VIII a - PARTEA a 2 a – Varianta I / II**
 
 
-1)	Clasificarea combustibililor după proveniență / stare de agregare -1p
+1)	Clasificarea combustibililor după **proveniență** / **stare de agregare** -1p
 
-2)	Caracterizează starea solidă/lichidă/gazoasă.-1p
+2)	Caracterizează starea **solidă/lichidă/gazoasă**.-1p
 
 3)	Definește fenomenele care au loc cu schimbarea stării de agregare.-1,5p
 
-4)	Enunță legile topirii / fierberii și observațiile acestora.-1,5p
+4)	Enunță legile **topirii** / **fierberii** și observațiile acestora.-1,5p
 
-5)	Se dă un grafic al variației temperaturii unei substanțe în funcție de timp și se cere interpretarea fenomenelor suferite de acea substanță pe diferite porțiuni ale graficului / Aplicațiile evaporării.-1p
+5)	**Interpretarea unui grafic** al variației temperaturii substanței în funcție de timp / **Aplicațiile evaporării.** -1p
 
 6)	Problemă cu călduri latente - 2p
 
@@ -3287,7 +3294,7 @@ Din oficiu- 2p
 
 
 
-## I.12. Tabel cu constante fizice (de material).
+## I.13. Tabel cu constante fizice (de material).
 
 
 
