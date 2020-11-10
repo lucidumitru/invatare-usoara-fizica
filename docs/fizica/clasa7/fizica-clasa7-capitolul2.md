@@ -1950,9 +1950,13 @@ Cu cât greutatea corpului suspendat crește, cu atât crește și alungirea res
 
 :::important
  
-**Legea deformării elastice : |F| = |F<sub>e</sub> | = k ∙ ΔL** 
+**Legea deformării elastice :** 
 
-**Legea deformării elastice ne arată că forța deformatoare (F) este egală în modul cu forța elastică (F<sub>e</sub>), fiind direct proporțională cu deformarea resortului (ΔL).  Fiecare resort are o anumită constantă elastică (k), care se determină experimental.**
+
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_5_Poza5a_LegeaDeformariiElastice.jpg" />
+
+
+**Legea deformării elastice ne arată că forța deformatoare (F) este egală în modul cu forța elastică (F<sub>e</sub>), fiind direct proporțională cu deformarea resortului (Δl).  Fiecare resort are o anumită constantă elastică (k), care se determină experimental.**
 
 
 :::
@@ -1965,7 +1969,7 @@ Cu cât greutatea corpului suspendat crește, cu atât crește și alungirea res
 
 1)	Un resort are lungimea inițială de 8 cm, iar deformat are lungimea de 3 cm. Știind forța elastică de 400 N, se cere :
 
-a)	Constanta eleastică a resortului.
+a)	Constanta elastică a resortului.
 
 b)	Tipul deformării.
 
@@ -2159,7 +2163,7 @@ Constanta elastică este direct proporțională cu secțiunea transversală a co
 <Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_5_Poza9_EcuatiaLegiiLuiHooke.jpg" />
 
 
-- constanta de elasticitate k variază invers proporțional cu lungimea elasticului în stare nedeformată l<sub>0</sub> .
+- constanta de elasticitate k variază invers proporțional cu lungimea resortului în stare nedeformată l<sub>0</sub> .
 
 - constanta de elasticitate k variază direct proporțional cu aria secțiunii transversale a resortului S .
 
@@ -2699,7 +2703,7 @@ Ecuatorul față de poli, este mai departe de centrul Pământului și scade acc
 În concluzie, **cel mai bun loc pentru lansarea unei rachete este la ecuator, pe vârful unui munte cât mai înalt.**
 
 
-**Tensiunea din fir ( T )** reprezintă forța de reacțiune  a firului inextensibil (care nu se alungește) la forță de întindere exercitată asupra lui.
+**Tensiunea din fir ( T )** reprezintă forța de reacțiune  a firului inextensibil (care nu se alungește) la forță exercitată asupra lui.
 
 
 
@@ -2767,9 +2771,14 @@ Modulul forței de frecare la alunecare este direct proporțional cu modulul for
 
 
  
-**Legea deformării elastice : |F| = |F<sub>e</sub> | = k ∙ ΔL** 
+**Legea deformării elastice:**
+ 
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_5_Poza5a_LegeaDeformariiElastice.jpg" />
+ 
 
-**Legea deformării elastice ne arată că forța deformatoare (F) este egală în modul cu forța elastică (F<sub>e</sub>), fiind direct proporțională cu deformarea resortului (ΔL).  Fiecare resort are o anumită constantă elastică (k), care se determină experimental.**
+
+
+**Legea deformării elastice ne arată că forța deformatoare (F) este egală în modul cu forța elastică (F<sub>e</sub>), fiind direct proporțională cu deformarea resortului (Δl).  Fiecare resort are o anumită constantă elastică (k), care se determină experimental.**
 
 
 
@@ -2935,6 +2944,35 @@ Dacă forța de frecare la alunecare se poate neglija, se poate observa că for�
 
 
  
+:::caution MODEL TEST Interacțiuni mecanice
+
+
+1)	Enunță principiul inerției / fundamental al mecanicii / acțiunii și reacțiunii.-1p
+
+2)	Problemă cu formula forței de greutate.-1p
+
+3)	Problemă cu legea deformării elastice.-1,5p
+
+4)	Definiție forță de greutate /forță de freacare / forță elastică.-1p
+
+5)	Factorii de care depinde variația accelerației gravitaționale pe Pământ.-1p
+
+6)	Exemplifică principiul acțiunii și reacțiunii pentru :-1p
+
+- Un corp și Pământ
+
+- Un corp suspendat de un fir inextensibil și fir
+
+- Un corp suspendat de un resort și resort
+
+- Un corp sprijinit pe o suprafață și suprafața respectivă.
+
+7)	Desenează forțele ce acționează asupra unui corp care coboară liber pe un plan înclinat./ Desenează forțele ce acționează asupra unui corp care urcă pe un plan înclinat.- 1,5p
+Oficiu 2p
+
+:::
+
+
 
 
 
