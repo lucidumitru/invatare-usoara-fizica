@@ -3387,7 +3387,7 @@ d)	Coardă elastică în bungee jumping
 
  
 
-**Legea deformării elastice ne arată că forța deformatoare (F) este egală în modul cu forța elastică (F<sub>e</sub>), fiind direct proporțională cu deformarea resortului (ΔL). ** 
+**Legea deformării elastice ne arată că forța deformatoare (F) este egală în modul cu forța elastică (F<sub>e</sub>), fiind direct proporțională cu deformarea resortului (Δl). ** 
 
 
 
@@ -3398,7 +3398,7 @@ d)	Coardă elastică în bungee jumping
 
 
  
-**Constanta elastică a unui resort (k)** este egală cu raportul dintre forța elastică (F<sub>e</sub>)  și deformarea resortului (ΔL). Fiecare resort are o anumită constantă elastică (k), care se determină experimental.
+**Constanta elastică a unui resort (k)** este egală cu raportul dintre forța elastică (F<sub>e</sub>)  și deformarea resortului (Δl). Fiecare resort are o anumită constantă elastică (k), care se determină experimental.
 
 [k]<sub>SI</sub> = N/m 
  
