@@ -2561,7 +2561,7 @@ conform teoremei lui Pitagora aplicată în triunghiul dreptunghic format de cel
 
 :::important Definiţie
  
-**Corpul lăsat liber pe planul înclinat coboară uniform atunci când G<sub>t</sub> = F<sub>f</sub> .** 
+**Corpul lăsat liber pe planul înclinat coboară uniform atunci când |G<sub>t</sub>| = |F<sub>f</sub>| .** 
  
 :::
 
@@ -2619,7 +2619,7 @@ conform teoremei lui Pitagora aplicată în triunghiul dreptunghic format de cel
 
 :::important Definiţie
  
-**Corpul urcă uniform pe planul înclinat atunci când F = G<sub>t</sub> + F<sub>f</sub>**. 
+**Corpul urcă uniform pe planul înclinat atunci când |F| = |G<sub>t</sub> + F<sub>f</sub>|**. 
  
 :::
 
