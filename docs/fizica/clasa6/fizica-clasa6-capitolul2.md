@@ -1369,3 +1369,269 @@ Calculează valoarea reală a perioadei pendulului din experimentul lui Mihai.
 
 :::
 
+
+
+<br></br>
+<br></br>
+
+
+### II.2.7. Sinteză recapitulativă - Mărimi fizice
+
+
+
+
+:::important
+
+
+
+
+| **Rezultatul măsurătorii unei mărimi fizice se dă sub următoarea formă:**|
+| ------------------------------------------------------------------------ |
+|**MĂRIME FIZICĂ (SIMBOL) = VALOARE NUMERICĂ ∙ UNITATE DE MĂSURĂ(SIMBOL)** |
+
+
+
+<br></br>
+
+
+
+
+
+**Multiplii unităților de măsură** - sunt mai mari decât unitatea respectivă de câte ori arată valoarea lor:
+
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_11_90_1_MultipliiUnitatilorMasura.jpg" />
+
+
+<br></br>
+<br></br>
+
+
+**Submultiplii unităților de măsură** - sunt mai mici decât unitatea respectivă de câte ori arată valoarea lor:
+
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_11_90_2_SubmultipliiUnitatilorMasura.jpg" />
+
+
+<br></br>
+<br></br>
+
+
+**Un fenomen fizic** (proces fizic) se produce atunci când cel puțin una dintre proprietățile fizice ce caracterizează un corp se modifică în timp.
+
+
+
+**Observaţie:**
+În urma unui fenomen fizic, corpul nu își schimbă substanța. 
+
+
+
+**Exemple de fenomene fizice:**
+- **Fierberea** apei (apa își schimbă starea de agregare, din lichidă în gazoasă);
+
+- **Mișcarea** corpurilor (schimbarea poziției unui corp față de altul);
+
+- **Topirea** gheții (apa trece din starea solidă în starea lichidă);
+
+- **Îndulcirea** apei prin amestecarea cu zahăr (apa își schimbă gustul);
+
+
+- **Aprinderea** becului (filamentul se încălzește);
+
+- **Întinderea** unui arc, etc.
+
+
+
+
+<br></br>
+<br></br>
+
+
+
+#### Caracterizarea lungimii ca mărime fizică:
+
+#### •	Simbol: l
+#### •	Nu are formulă de calcul
+#### •	Unitatea de măsură în Sistemul Internațional: [ l ]<sub>SI</sub> = m (metrul)
+#### •	Instrumente de măsură: riglă, ruletă, șubler, centimetrul de croitorie, metrul de tâmplărie, etc.
+
+
+<br></br>
+<br></br>
+
+
+
+
+
+**Orice măsurătoare are o precizie limitată** și prin urmare apare noțiunea de **eroare de măsură**. 
+
+
+
+
+**Sursele de erori** pot fi:
+- **lipsa de precizie** a instrumentului de măsură;
+- **citirea incorectă** a indicațiilor instrumentului;
+- **lipsa de atenție** sau de îndemânare a celui care face măsurătorile;
+- **condiții de mediu nefavorabile** (iluminare necorespunzătoare, prea cald sau prea frig, stare de disconfort, etc. ).
+
+Dacă efectuăm măsurători de lungime cu o riglă, precizia măsurătorii nu poate depăși cea mai mică gradație a riglei - respectiv 1mm. 
+
+
+Deci, **eroarea de măsură datorată instrumentului folosit** este egală cu **cea mai mică diviziune a instrumentului**.
+
+
+Existența unor erori de măsură în cazul determinărilor experimentale este normală, și pentru a se obține un rezultat cât mai apropiat de **valoarea adevărată a mărimii măsurate**, se repetă măsurătorile de mai multe ori.
+
+
+
+
+**Rezultatul determinării = valoarea medie ± eroarea medie absolută**
+
+**l = l medie ± Δl medie**
+
+
+
+
+
+
+
+
+
+:::
+
+
+:::caution Problemă model
+
+**1.** Florin dorește să determine valoarea reală a lungimii mesei din bucătărie. 
+
+În urma măsurătorilor a găsit următoarele valori : 1,5m; 1,46m; 1,6m ; 1,2m; 1,56m.  Cum a procedat el?
+
+
+#### Rezolvare:
+
+- A calculat lm = lungimea medie, adică media aritmetică a celor patru lungimi măsurate. Valoarea 1,2m este mult diferită,  se taie și nu se ia în calculul lungimii medie, fiind o eroare grosolană.
+
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_210_6_ProblemaModel1.jpg" />
+ 
+
+- A calculat pentru fiecare măsurătoare Δ l = eroarea absolută, care se calculează prin diferența lungimii măsurate și lungimea medie (cea mare minus cea mai mică); Δ l = l1 – lm sau Δ l = lm – l1.
+
+  - Δl1 = 1,53-1,5 = 0,03m
+
+  - Δl2 = 1,53-1,46 = 0,07m
+ 
+  - Δl3 = 1,6-1,53 = 0,07m
+
+  - Δl4 = 1,56-1,53 = 0,03m
+
+
+- A calculat Δlm = eroarea medie absolută, care se calculează făcând media aritmetică a celor patru erori absolute.
+
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_210_7_ProblemaModel1.jpg" />
+
+- Florin a scris rezultatul determinării, folosind același număr de zecimale pentru toate numerele (valorile cu două zecimale, prin rotunjire).
+
+  - #### Rezultatul determinării = valoarea medie ± eroarea medie absolută
+
+  - #### l = lmedie ± Δlmedie  = 1,53 m ± 0,05 m.
+
+
+
+
+:::
+
+
+
+:::important
+
+
+
+
+**Aria unei suprafețe** arată cât de întinsă este acea suprafață.
+
+
+#### Caracterizarea ariei ca mărime fizică:
+
+#### •	Simbol: S sau A
+#### •	Are formulă de calcul pentru fiecare suprafață regulată. Pentru un dreptunghi formula ariei este: S = L ∙ l
+#### •	Unitatea de măsură în Sistemul Internațional: [ S ]<sub>SI</sub> = m<sup>2</sup> (metrul pătrat=m.p.)  
+#### •	Instrumente de măsură: hârtia milimetrică.
+
+
+
+
+#### Exemple de transformări din multiplii și submultiplii m<sup>2</sup> în m<sup>2</sup>:
+
+
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_220_1_ExempleTransformariArie.jpg" />
+
+
+
+<br></br>
+<br></br>
+
+
+**Volumul unui corp** reprezintă locul ocupat de un corp în spațiu.
+
+
+#### Caracterizarea volumului ca mărime fizică:
+
+#### •	Simbol:  V
+#### •	Are formulă de calcul pentru fiecare corp geometric. Pentru un paralelipiped V =  L ∙ l ∙ h
+#### •	Unitatea de măsură în Sistemul Internațional: [ V ]<sub>SI</sub> = m<sup>3</sup> (metrul cub=m.c.).  
+#### •	Instrumente de măsură: cilindrul gradat (mensura).
+
+
+
+#### O  altă unitate de măsură pentru volum (capacitate) este litrul: 1 L = 1dm<sup>3</sup>.
+
+
+#### Exemple de transformări din multiplii și submultiplii m<sup>3</sup> sau ai litrului (L) în m<sup>3</sup>:
+
+
+<Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_240_1_ExempleTransformariVolum.jpg" />
+
+
+
+<Video src="https://www.youtube.com/embed/enNZdK5iQeM" />
+
+
+
+<br></br>
+<br></br>
+
+
+
+Măsurarea directă a intervalului de timp.
+
+
+
+**Intervalul de timp** reprezintă durata unui eveniment.
+
+
+
+
+
+#### Caracterizarea timpului (durata unui eveniment) ca mărime fizică:
+
+#### •	Simbol:  t
+#### •	Nu  are formulă de calcul 
+#### •	Unitatea de măsură în Sistemul Internațional: [ t ]<sub>SI</sub> = s (secunda)
+#### •	Instrumente de măsură: ceasul, cronometrul, clepsidra, etc.
+
+
+
+
+
+
+#### Alte unități de măsură pentru timp sunt:
+- Minutul = 1 min = 60 s
+- Ora = 1 h = 60 min = 60 ∙ 60s = 3.600 s
+- Ziua = 24 h = 24 ∙ 3600 s = 86.400 s
+- Săptămâna = 7 zile = 7 ∙ 86400 s = 604.800 s
+- Luna = 30 zile = 30  ∙ 86400 s = 2.592.200 s
+- Anul = 365 zile = 365  ∙ 86400 s = 31.536.000 s
+
+
+
+
+
+:::
