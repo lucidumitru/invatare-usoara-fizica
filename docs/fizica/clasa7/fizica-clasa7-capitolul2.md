@@ -2404,7 +2404,7 @@ Un corp se poate mișca uniform, chiar dacă asupra sa acționează mai multe fo
 
 **Pe direcția orizontală ( O<sub>x</sub> ) : |F<sub>x</sub> | = |F<sub>f</sub>| 	=>	R<sub>x</sub> = F<sub>x</sub> - F<sub>f</sub> = 0**
 
-**Pe direcția verticală ( O<sub>y</sub> ) : |G| = |F<sub>y</sub> + N|  =>	R<sub>y</sub> = G – F<sub>y</sub> – N = 0**
+**Pe direcția verticală ( O<sub>y</sub> ) : |G| = |F<sub>y</sub> + N|  =>	R<sub>y</sub> = F<sub>y</sub> + N - G = 0**
 
 <Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_9_Poza1_ReprezentareGrafica.jpg" />
 
@@ -2476,7 +2476,7 @@ Cu cât înălțimea planului înclinat, implicit și unghiul acestuia, este mai
 
 :::important Definiţie
  
-**Planul înclinat** este un plan ce formează cu planul orizontal un unghi ascuțit și folosit pentru urcarea mai ușoară a corpurilor la o anumită înălțime . 
+**Planul înclinat** este o suprafață ce formează cu planul orizontal un unghi ascuțit fiind folosit pentru urcarea mai ușoară a corpurilor la o anumită înălțime. 
  
 :::
 
