@@ -2435,7 +2435,7 @@ Un corp se poate mișca uniform, chiar dacă asupra sa acționează mai multe fo
 
 <br></br>
 
-**Materiale necesare:**: corp cu cârlig, pla înclinat, dinamometru.
+**Materiale necesare:**: corp cu cârlig, plan înclinat, dinamometru.
 
 
 

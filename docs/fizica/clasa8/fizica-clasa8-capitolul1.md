@@ -1869,7 +1869,7 @@ _Gheața începe să se topească la 0°C. Pe parcursul topirii (de la apariția
 
 La unele substanțe (apa, fonta, bismutul), _temperatura de topire scade la creșterea presiunii_. _Așa explicăm alunecarea frumoasă a patinatorilor pe gheață._
 
-Presiunea mare exercitată de lamele ascuțite ale patinelor și pe care se distribuie greutatea patinatorilor, face ca gheața să se topească. Apa de sub lame facilitează alunecarea patinelor. 
+Presiunea mare exercitată de lamele ascuțite ale patinelor și pe care se distribuie greutatea patinatorilor, face ca gheața să se topească la o temperatură mai mică de 0°C. De exemplu, deși gheața unui patinoar artificial are -5°C, datorită presiunii mari, aceasta se topește sub muchia patinei, unde apare o peliculă de apă, care facilitează alunecarea patinelor. 
 
 
 
