@@ -812,6 +812,10 @@ Dacă oglinda nu este netedă (nu este bine șlefuită) are loc o reflexie difuz
 
 Oglinzile se obțin prin depunerea unui strat subțire de metal (argint sau aluminiu) pe o suprafață de sticlă ( obișnuită sau de cristal).
 
+
+<Video src="https://www.youtube.com/embed/FdNkgp3I4Lk" />
+
+
 :::
 
 
