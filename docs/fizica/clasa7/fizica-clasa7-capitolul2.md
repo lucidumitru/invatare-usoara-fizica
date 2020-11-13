@@ -766,7 +766,7 @@ De ce când lași liber un corp și nu mai este susținut de mâna ta, de o mas�
 
 8)  Rotirea Lunii în jurul Pământului.
 
-9) Rotirea sateliților artificiali în jurul Pământului (există peste 1100 satelițice orbitează în jurul Pământului , având ca scopcomunicațiile la distanță-telefonie, emisiuni radio-TV, prognoza meteo, etc.)
+9) Rotirea sateliților artificiali în jurul Pământului (există peste 4000 sateliți ce orbitează în jurul Pământului, având ca scop comunicațiile la distanță-telefonie, emisiuni radio-TV, prognoza meteo, etc.)
 
 
 
@@ -1505,7 +1505,7 @@ iar N este forța de apăsare normală.
 
 :::tip Experiment
 
-**15.** Rezistenţa aerului 
+**15.** Rezistenţa aerului
 
 :::
 
@@ -1515,7 +1515,7 @@ iar N este forța de apăsare normală.
 
 <br></br>
 
-**Materiale necesare:**  două coli de hârtie identice
+**Materiale necesare:**  două coli de hârtie identice/
 
 
 
@@ -1535,7 +1535,7 @@ iar N este forța de apăsare normală.
 
 :::note Observaţie
 
-Ghemotocul de hârtie ajunge mai repede la  sol, căzând pe verticală. Coală întinsă  pluteşte şi are o direcţie de cădere dezordonată
+Ghemotocul de hârtie ajunge mai repede la  sol, căzând pe verticală. Coală întinsă  pluteşte şi are o direcţie de cădere dezordonată.
 
 :::
 
@@ -1554,7 +1554,7 @@ Cu cât suprafaţa corpului este mai mare, cu atât el are o viteză de cădere 
 
 În spaţiul cosmic nu există aer şi prin urmare nici frecare care să încetinească mişcarea. _Navele spaţiale_ îşi folosesc numai din când în când motoarele, pentru a schimba direcţia.
 
-Când meteoriţii pătrund în atmosfera Terrei cu o viteză foarte mare, ei capătă o culoare roşie datorită frecării mari dintre ei şi aer și așa seamănă cu niște _stele căzătoare_.
+Când meteoriţii pătrund în atmosfera Terrei cu o viteză foarte mare, ei capătă o culoare roşie datorită frecării mari dintre ei şi aer și se aprind, semănând cu niște _stele căzătoare_.
 
 :::
 
@@ -1749,7 +1749,7 @@ Tensiunea în fir (T) este forța cu care firul acționează asupra corpului sus
  
 - Dacă firul are masă, atunci tensiunea în fir are valori diferite în puncte diferite.
  
-- Tensiunea într un fir sau într o bară se transmite din aproape în aproape, de a lungul întregului fir sau de a lungul întregii bare.
+- Tensiunea într-un fir sau într-o bară se transmite din aproape în aproape, de-a lungul întregului fir sau de-a lungul întregii bare.
 
 - Forțele de tensiune apar atât în firele și tijele întinse, cât și în tijele comprimate. 
 
@@ -1996,13 +1996,13 @@ a)	Scriem legea deformării elastice, calculăm deformarea Δl și scoatem necun
 
 <Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_5_Poza5bis_RezolvareProblemaModel1.jpg" />
 
-b) Tipul deformării: alungire, deoarece l<sub>2</sub> < l<sub>1</sub>.
+b) Tipul deformării: comprimare, deoarece l<sub>2</sub> < l<sub>1</sub>.
 
 
 
 c)	1 cm = 200 N
 
-400 : 200 = 2cm au segmentele cele două forțe, egale în modul dar de sens opus.
+400 : 200 = 2cm au segmentele celor două forțe, egale în modul dar de sens opus.
 
 <Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_5_Poza5bis2_DesenForteProblemaModel1.jpg" />
 
@@ -2188,7 +2188,7 @@ De exemplu, cauciucul are E = 0,1 GN/m2, iar aluminiul are E = 70 GN/m2 .
 **Pentru adunarea a doi vectori necoliniari concurenți (care au același punct de aplicație)** se folosește **_regula paralelogramului_**, parcurgând patru etape: 
 
 
-- Se desenează ce doi vectori astfel încât să aibă același punct de aplicație.
+- Se desenează cei doi vectori astfel încât să aibă același punct de aplicație.
 - Cu segmentele celor 2 vectori, se formează un paralelogram (patrulater cu laturile opuse paralele și egale).
 - Se trasează diagonala paralelogramului care are punct comun cu cei doi vectori. Acest segment reprezintă vectorul rezultant , care se notează și i se pune săgeată în capăt.
 - Cu rigla măsurăm segmentul vectorului rezultant și cu regula de trei simplă, aflăm valoarea lui numerică.
@@ -2288,6 +2288,7 @@ Fy = 4∙100 = 400N
 
 
 500<sup>2</sup> =300<sup>2</sup> + 400<sup>2</sup>
+
 250000 = 90000 +160000
 
 
@@ -2531,9 +2532,9 @@ Cu cât înălțimea planului înclinat, implicit și unghiul acestuia, este mai
 
 - Descompunem greutatea după aceste două axe, astfel încât greutatea corpului se poate înlocui cu perechea de forțe G<sub>t</sub> și G<sub>n</sub>.
 
-  - Forța G<sub>t</sub>  se numește componenta tangențială a greutății și acționează pe direcția mișcării O<sub>x</sub> (paralelă cu planul înclinat),
+  - Forța G<sub>t</sub> se numește componenta tangențială a greutății și acționează pe direcția mișcării O<sub>x</sub> (paralelă cu planul înclinat),
    
-  - Forța G<sub>n</sub> se numește componenta normală a greutății și acționează perpendicular pe direcția mișcării O<sub>y</sub> (perpendiculară pe planul înclinat).
+  - Forța G<sub>n</sub> se numește componenta normală a greutății și acționează perpendicular pe direcția mișcării O<sub>x</sub> (perpendiculară pe planul înclinat).
   
 - Trasăm reacțiunea normală, N, de la baza corpului, un segment orientat pe direcția O<sub>y</sub> și egal cu G<sub>n</sub> .
 
@@ -2590,7 +2591,7 @@ conform teoremei lui Pitagora aplicată în triunghiul dreptunghic format de cel
 
   - Forța G<sub>t</sub>  se numește componenta tangențială a greutății și acționează pe direcția mișcării O<sub>x</sub> (paralelă cu planul înclinat),
    
-  - Forța G<sub>n</sub> se numește componenta normală a greutății și acționează perpendicular pe direcția mișcării O<sub>y</sub> (perpendiculară pe planul înclinat).
+  - Forța G<sub>n</sub> se numește componenta normală a greutății și acționează perpendicular pe direcția mișcării O<sub>x</sub> (perpendiculară pe planul înclinat).
   
 - Trasăm reacțiunea normală, N, de la baza corpului, un segment orientat pe direcția O<sub>y</sub> și egal cu G<sub>n</sub> .
 
@@ -2882,7 +2883,7 @@ Forța elastică(Fe) este forța cu care resortul acționează asupra corpului s
 <br></br>
 
 
-**MIȘCAREA UNUI CORP SUB ACȚIUNE UNEI FORȚE OBLICE :**
+**MIȘCAREA UNIFORMĂ A UNUI CORP SUB ACȚIUNE UNEI FORȚE OBLICE :**
 
 
 **Pe direcția orizontală ( O<sub>x</sub> ) : |F<sub>x</sub> | = |F<sub>f</sub>| 	=>	R<sub>x</sub> = F<sub>x</sub> - F<sub>f</sub> = 0**
@@ -2916,7 +2917,7 @@ Corpul lăsat liber pe planul înclinat coboară uniform atunci când
 <br></br>
 
 
-**URCAREA UNIFORMĂ A UNUI CORP PE UN PLAN ÎNCLINAT :**
+**URCAREA UNIFORMĂ A UNUI CORP PE UN PLAN ÎNCLINAT:**
 
 Planul înclinat este reprezentat printr un triunghi dreptunghic care este asemenea cu triunghiul dreptunghic format de greutate și componentele sale. Din asemănarea triunghiurilor precizate se găsesc relațiile: 
 
@@ -2941,6 +2942,204 @@ Dacă forța de frecare la alunecare se poate neglija, se poate observa că for�
 
 
 :::
+
+
+
+
+<br></br>
+<br></br>
+
+
+
+
+
+## II.12. Exerciții recapitulative - Interacțiuni mecanice
+
+
+
+:::caution Exerciții recapitulative - Interacțiuni mecanice
+
+**1) Completează următoarele afirmații:**
+
+  - a)	Forța de greutate este forța cu care Pământul …………… un corp .
+  
+  - b)	Tensiunea din fir (T) reprezintă forța cu care……………………acționează asupra corpului suspendat de el.
+  
+  - c)	Forța de frecare (Ff)  este forța care apare la suprafața de ………………. dintre două corpuri ce alunecă unul peste celălalt și se ……………… mișcării unui corp față de celălalt.
+  
+  - d)	Forța elastică  (Fe ) este forța care apare într-o deformare ……………… și readuce corpul la forma inițială, fiind egală în modul, dar de sens opus cu forța …………………..
+  
+  - e)	Forța de apăsare normală (N') este forța cu care un corp acționează asupra unei ………………… cu care este în contact.
+  
+  - f)	Reacțiunea normală (N) este forța cu care …………….. acționează asupra corpului aflat pe ea .
+  
+  - g)	Principiul inerției: „Orice corp își păstrează starea de repaus sau de mișcare uniformă rectilinie în care se află, cu condiția ca nicio forță să ……………... asupra corpului “ .
+  
+  - h)	Principiul fundamental al mecanicii clasice: „ Dacă asupra unui corp de masă m acționează o forță F, atunci corpul se va deplasa cu o ……………… care are direcția și sensul forței “.
+
+  - i)	Principiul acțiunii și reacțiunii: „ Dacă un corp acționează asupra altui corp cu o forță numită ………………….. atunci și cel de-al doilea corp va acționa asupra primului corp cu o altă forță numită …………………… care are același modul și aceeași direcție cu ……………………, dar sens opus “ .
+
+
+<br></br>
+
+
+
+**2) Completează pe desen denumirea forțelor ce acționează asupra corpului :**
+
+**a)**	
+
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_2_Poza1_FortaDeApasareNormala.jpg" />
+
+<br></br>
+<br></br>
+
+
+**b)**	
+
+
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_11_Poza3_CorpulSuspendatDeUnResort.jpg" />
+
+
+<br></br>
+<br></br>
+
+
+**c)**	
+
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_11_Poza1_CorpulAtrasDePamant.jpg" />
+
+
+
+<br></br>
+<br></br>
+
+
+**d)**	
+
+
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_11_Poza2_CorpulSuspendatDeUnFir.jpg" />
+
+
+
+<br></br>
+<br></br>
+
+
+
+**e)**	
+
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_3_Poza1_PozaFortaFrecare.jpg" />
+
+
+<br></br>
+<br></br>
+
+
+**f)**	
+
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_12_Poza1_Exercitiul2LiteraE.jpg" />
+
+<br></br>
+<br></br>
+
+
+
+**3) Răspunde cu adevărat (A) sau fals (F) la următoarele afirmații.**
+
+  - a)	Cel mai bun loc pentru lansarea unei rachete este la polul nord.
+  
+  - b)	Cel mai bun loc pentru lansarea unei rachete este la ecuator, pe vârful unui munte.
+  
+  - c)	Forța cu care Pământul atrage un corp este mai mare decât forța cu care corpul atrage Pământul.
+
+  - d)	Când un corp este suspendat de un fir inextensibil, avem pereche de forțe acțiune-reacțiune, greutatea corpului și tensiunea în fir.
+  
+  - e)	Apăsarea normală a unui corp pe suprafața de sprijin este egală cu greutatea corpului, doar atunci când corpul este în repaus sau se mișcă pe o suprafață orizontală.
+ 
+  - f)	Când rezultanta tuturor forțelor ce acționează asupra unui corp este diferită de zero, corpul se va deplasa accelerat, cu o accelerație care are direcția și sensul forței rezultante.
+  
+  - g)	Când un corp se mișcă frânat pe o suprafață, forța de tracțiune este egală în modul cu forța de frecare.
+
+
+<br></br>
+<br></br>
+
+
+**4) Un corp cântărește 800 g.** 
+
+  - a)	Ce greutate are corpul ?
+
+  - b)	Știind că accelerația gravitațională a planetei Jupiter este 25 N/kg, calculează greutatea corpului pe Jupiter ?
+
+
+<br></br>
+<br></br>
+
+
+**5) Un resort are lungimea inițială de 100 mm, iar deformat are lungimea de 500 mm. Știind forța deformatoare de 3 N, se cere :**
+
+  - a) Constanta elastică a resortului.
+  
+  - b) Tipul deformării.
+
+  - c) Reprezentarea forței deformatoare și a forței elastice folosind ca etalon 1cm = 1 N. 
+
+
+<br></br>
+<br></br>
+
+
+**6) Un resort este deformat cu 0,004 dam de o forță de 20 N.**
+ 
+  - a) Cât este forța care deformează același resort cu 90 mm ?
+
+  - b) Reprezintă graficul deformării în funcție de forța deformatoare, folosind ca etaloane: pentru axa forței 1cm = 5 N și pentru axa deformării 1cm = 0,01 m. 
+
+
+<br></br>
+<br></br>
+
+
+**7) Desenează forțele ce acționează asupra unui corp cu greutatea de 500 N care**
+ 
+  - a)	coboară uniform pe un plan înclinat cu lungimea de 10 cm și înălțimea de 6 cm.
+  
+  - b)	urcă uniform pe un plan înclinat cu lungimea de 20 cm și înălțimea de 12 cm.
+  
+Pentru reprezentarea forțelor alege ca etalon : 1 cm = 100 N.
+
+<br></br>
+<br></br>
+
+
+**8) Un copil trage uniform cu o forță de 20 N o sanie cu greutatea de 30 N printr-un fir ce face un unghi de 30° cu drumul orizontal. Reprezintă forțele ce acționează asupra saniei .** 
+
+Etalon pentru reprezentarea forțelor : 1 cm = 2 N. 
+
+Se dau sin 30° = 0,5 și cos 30° = 0,86.
+
+
+
+
+:::
+
+
+
+
+
+
+
+
+
+
+<br></br>
+<br></br>
+
+
+
+
+## II.13. Model Test - Interacțiuni mecanice
+
 
 
  
@@ -2968,6 +3167,7 @@ Dacă forța de frecare la alunecare se poate neglija, se poate observa că for�
 - Un corp sprijinit pe o suprafață și suprafața respectivă.
 
 7)	Desenează forțele ce acționează asupra unui corp care coboară liber pe un plan înclinat./ Desenează forțele ce acționează asupra unui corp care urcă pe un plan înclinat.- 1,5p
+
 Oficiu 2p
 
 :::
