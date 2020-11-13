@@ -2988,7 +2988,7 @@ Dacă forța de frecare la alunecare se poate neglija, se poate observa că for�
 
 **a)**	
 
-<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_2_Poza1_FortaDeApasareNormala.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_12_Poza1_Exercitiul2LiteraA.jpg" />
 
 <br></br>
 <br></br>
@@ -2997,7 +2997,7 @@ Dacă forța de frecare la alunecare se poate neglija, se poate observa că for�
 **b)**	
 
 
-<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_11_Poza3_CorpulSuspendatDeUnResort.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_12_Poza2_Exercitiul2LiteraB.jpg" />
 
 
 <br></br>
@@ -3006,7 +3006,7 @@ Dacă forța de frecare la alunecare se poate neglija, se poate observa că for�
 
 **c)**	
 
-<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_11_Poza1_CorpulAtrasDePamant.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_12_Poza3_Exercitiul2LiteraC.jpg" />
 
 
 
@@ -3017,7 +3017,7 @@ Dacă forța de frecare la alunecare se poate neglija, se poate observa că for�
 **d)**	
 
 
-<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_11_Poza2_CorpulSuspendatDeUnFir.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_12_Poza4_Exercitiul2LiteraD.jpg" />
 
 
 
@@ -3028,7 +3028,7 @@ Dacă forța de frecare la alunecare se poate neglija, se poate observa că for�
 
 **e)**	
 
-<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_4_3_Poza1_PozaFortaFrecare.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_12_Poza5_Exercitiul2LiteraE.jpg" />
 
 
 <br></br>
@@ -3037,7 +3037,7 @@ Dacă forța de frecare la alunecare se poate neglija, se poate observa că for�
 
 **f)**	
 
-<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_12_Poza1_Exercitiul2LiteraE.jpg" />
+<Img className="img-responsive4" src="fizica/clasa7/capitolul2/2_12_Poza6_Exercitiul2LiteraF.jpg" />
 
 <br></br>
 <br></br>
