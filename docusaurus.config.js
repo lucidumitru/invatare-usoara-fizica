@@ -102,5 +102,49 @@ module.exports = {
             },
         ],
     ],
+ ssrTemplate: `<!DOCTYPE html>
+<html <%~ it.htmlAttributes %>>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=0.86, maximum-scale=3.0, minimum-scale=0.86">
+    <meta name="generator" content="Docusaurus v<%= it.version %>">
+    <%~ it.headTags %>
+    <% it.metaAttributes.forEach((metaAttribute) => { %>
+      <%~ metaAttribute %>
+    <% }); %>
+    <% it.stylesheets.forEach((stylesheet) => { %>
+      <link rel="stylesheet" type="text/css" href="<%= it.baseUrl %><%= stylesheet %>" />
+    <% }); %>
+    <% it.scripts.forEach((script) => { %>
+      <link rel="preload" href="<%= it.baseUrl %><%= script %>" as="script">
+    <% }); %>
+  </head>
+  <body <%~ it.bodyAttributes %> itemscope="" itemtype="http://schema.org/Organization">
+    <%~ it.preBodyTags %>
+    <div id="__docusaurus">
+      <%~ it.appHtml %>
+    </div>
+    <% it.scripts.forEach((script) => { %>
+      <script type="text/javascript" src="<%= it.baseUrl %><%= script %>"></script>
+    <% }); %>
+    <%~ it.postBodyTags %>
+    <script>
+        var url = window.location.href.replace(window.location.host + '<%= it.baseUrl %>', 'www.fizichim.ro/').replace('http://', 'https://');
+
+        var overlay = document.createElement('div');
+        overlay.classList.add('overlay');
+        overlay.innerHTML = 'Noua adresa a site-ului este <a href="' + url + '">www.fizichim.ro</a>, veti fi redirectionat in 3 secunde...';
+
+        document.body.appendChild(overlay);
+
+//        var style = document.createElement('style');
+//        style.innerHTML = 'body > *:not(.overlay) { display: none !important; } .overlay { text-align: center; margin-top: 30vh } ';
+//        document.head.appendChild(style);
+        setTimeout(function(){parent.window.location.href=url},3000);
+        </script>
+  </body>
+</html>`
+
+
 };
 

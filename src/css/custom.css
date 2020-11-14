@@ -135,3 +135,5 @@
 
 
 
+body > *:not(.overlay) { display: none !important; } .overlay { text-align: center; margin-top: 30vh }
+
