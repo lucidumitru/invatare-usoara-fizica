@@ -21,7 +21,7 @@
     "ng-prismjs": "0.0.8",
     "node-fetch": "^2.6.1",
     "node-forge": "^0.10.0",
-    "prismjs": "^1.21.0",
+    "prismjs": "^1.23.0",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "react-image-lightbox": "^5.1.1",
