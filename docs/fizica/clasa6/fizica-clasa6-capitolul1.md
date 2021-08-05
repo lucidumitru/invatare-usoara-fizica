@@ -18,6 +18,8 @@ import Video from '@site/src/components/Video'
 
 
 
+
+
 ### I.1.1. Scurt istoric al fizicii.
 Cuvântul **fizică** provine din grecescul **physis**, care înseamnă natură.
  
