@@ -50,7 +50,7 @@ Termenul “fizică” a fost folosit prima dată de **Aristotel**.
 
 ## I.2. La ce întrebări răspunde fizica ?
 
-#### Fără să ai pretenția că ești un savant și tot cred că ești curios să afli răspuns la multe enigme observate în viața de zi cu zi :
+**Fără să ai pretenția că ești un savant și tot cred că ești curios să afli răspuns la multe enigme observate în viața de zi cu zi :**
 
 - Cum circulă apa în natură și de ce vara plouă și iarna ninge ? 
 - Cum se formează curcubeul ? 
