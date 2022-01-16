@@ -33,7 +33,7 @@
     "node-forge": "^1.2.1",
     "normalize-url": "^7.0.2",
     "nth-check": "^2.0.1",
-    "postcss": "^8.2.15",
+    "postcss": "^8.2.13",
     "prismjs": "^1.24.1",
     "react": "^16.8.4",
     "react-dev-utils": "^11.0.4",
