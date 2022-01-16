@@ -20,12 +20,14 @@ import Video from '@site/src/components/Video'
 
 
 
+
+
 ### I.1.1. Scurt istoric al fizicii.
 Cuvântul **fizică** provine din grecescul **physis**, care înseamnă natură.
  
 Fizica se înrudește cu biologia și chimia, întrucât toate sunt științe ale naturii.
 
-Fizica folosește ca limbaj universal matematica. 
+Fizica folosește ca limbaj universal matematica! 
 
 Cunoașterea fizicii ne permite să înțelegem legile naturii, să descifrăm tainele Universului și viitorul nostru ca civilizație.
 
