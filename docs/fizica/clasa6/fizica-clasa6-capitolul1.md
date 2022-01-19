@@ -12,7 +12,7 @@ import Video from '@site/src/components/Video'
 ## I.1. Ce este fizica ?
 
 :::important Definiţie
-**Fizica** este o ştiinţă care studiază proprietăţile fizice ale corpurilor şi fenomenele fizice din natură!
+**Fizica** este o ştiinţă care studiază proprietăţile fizice ale corpurilor şi fenomenele fizice din natură.
 
 :::
 
